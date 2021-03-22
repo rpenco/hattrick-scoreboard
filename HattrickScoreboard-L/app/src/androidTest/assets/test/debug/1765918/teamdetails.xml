@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>teamdetails.xml</FileName>
+    <Version>3.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:58:39</FetchedDate>
+    <User>
+        <UserID>0</UserID>
+        <SupporterTier>none</SupporterTier>
+        <Loginname></Loginname>
+        <Name>HIDDEN</Name>
+        <ICQ></ICQ>
+        <SignupDate>0001-01-01 00:00:00</SignupDate>
+        <ActivationDate>2013-08-28 13:04:00</ActivationDate>
+        <LastLoginDate>0001-01-01 00:00:00</LastLoginDate>
+        <NationalTeamCoach />
+    </User>
+    <Teams>
+        <Team>
+            <TeamID>1765918</TeamID>
+            <TeamName>Limerick's Brothers</TeamName>
+            <ShortTeamName>Limericks</ShortTeamName>
+            <IsPrimaryClub>False</IsPrimaryClub>
+            <FoundedDate>2013-08-28 13:04:00</FoundedDate>
+            <Arena>
+                <ArenaID>1762480</ArenaID>
+                <ArenaName>Limerick's Brothers Arena</ArenaName>
+            </Arena>
+            <League>
+                <LeagueID>5</LeagueID>
+                <LeagueName>France</LeagueName>
+            </League>
+            <Region>
+                <RegionID>150</RegionID>
+                <RegionName>Rhône-Alpes</RegionName>
+            </Region>
+            <Trainer>
+                <PlayerID>385916553</PlayerID>
+            </Trainer>
+            <HomePage></HomePage>
+            <DressURI>http://res.hattrick.org/kits/1/1/1/1/matchKitSmall.png</DressURI>
+            <DressAlternateURI>http://res.hattrick.org/kits/1/1/1/1/matchKitSmall.png</DressAlternateURI>
+            <LeagueLevelUnit>
+                <LeagueLevelUnitID>119804</LeagueLevelUnitID>
+                <LeagueLevelUnitName>VIII.85</LeagueLevelUnitName>
+                <LeagueLevel>8</LeagueLevel>
+            </LeagueLevelUnit>
+            <BotStatus>
+                <IsBot>True</IsBot>
+                <BotSince>2013-09-03 12:03:40</BotSince>
+            </BotStatus>
+            <Cup>
+                <StillInCup>False</StillInCup>
+            </Cup>
+            <FriendlyTeamID>0</FriendlyTeamID>
+            <NumberOfVictories>0</NumberOfVictories>
+            <NumberOfUndefeated>0</NumberOfUndefeated>
+            <TeamRank>0</TeamRank>
+            <Fanclub>
+                <FanclubID>573139</FanclubID>
+                <FanclubName>Le 12ieme Homme</FanclubName>
+                <FanclubSize>941</FanclubSize>
+            </Fanclub>
+            <LogoURL></LogoURL>
+            <YouthTeamID>2314436</YouthTeamID>
+            <YouthTeamName></YouthTeamName>
+            <NumberOfVisits>0</NumberOfVisits>
+            <TrophyList />
+        </Team>
+    </Teams>
+</HattrickData>

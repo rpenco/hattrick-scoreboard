@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="70dp"
+    android:background="@drawable/button_listview"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:background="@color/background_row_1">
+
+        <ImageView
+            android:id="@+id/ivLive"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:layout_alignBottom="@+id/ivMatchType"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@null" />
+
+        <TextView
+            android:id="@+id/tvMatchDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/ivMatchType"
+            android:layout_toLeftOf="@+id/ivLive"
+            android:layout_toRightOf="@+id/ivMatchType"
+            android:text="@string/label_unavailable" />
+
+        <ImageView
+            android:id="@+id/ivMatchType"
+            android:layout_width="wrap_content"
+            android:layout_height="18dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_weight="1"
+            android:src="@drawable/ic_match_series" />
+
+        <LinearLayout
+            android:id="@+id/llOngoing"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:background="@color/match_ongoing"
+            android:orientation="vertical"></LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <TextView
+            android:id="@+id/tvHomeTeam"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/tvGoals"
+            android:layout_weight="1"
+            android:gravity="center_vertical|right"
+            android:lines="2"
+            android:maxLines="2"
+            android:text="Olympique de Mémed" />
+
+        <Button
+            android:id="@+id/btOverflow"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/button_overflow"
+            android:minHeight="0dp"
+            android:minWidth="20dp" />
+
+        <TextView
+            android:id="@+id/tvGoals"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="-:-"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/tvAwayTeam"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/tvGoals"
+            android:layout_weight="1"
+            android:gravity="center_vertical|left"
+            android:lines="2"
+            android:maxLines="2"
+            android:text="@string/label_unavailable" />
+
+    </RelativeLayout>
+
+</LinearLayout>

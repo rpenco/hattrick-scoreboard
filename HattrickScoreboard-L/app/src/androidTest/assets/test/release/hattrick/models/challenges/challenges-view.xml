@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>challenges.xml</FileName>
+    <Version>1.4</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:02:19</FetchedDate>
+    <Team>
+        <TeamID>177327</TeamID>
+        <TeamName>Buros FC</TeamName>
+        <ChallengesByMe>
+            <Challenge>
+                <TrainingMatchID>23979265</TrainingMatchID>
+                <MatchID>498293210</MatchID>
+                <MatchTime>2014-11-05 19:15:00</MatchTime>
+                <FriendlyType>0</FriendlyType>
+                <Opponent>
+                    <TeamID>1695555</TeamID>
+                    <TeamName>DXGrasso</TeamName>
+                    <LogoURL>http://res.hattrick.org/teamlogo/17/170/1696/1695555/1695555.png</LogoURL>
+                </Opponent>
+                <Arena>
+                    <ArenaID>1692117</ArenaID>
+                    <ArenaName>Olimpic Stadium</ArenaName>
+                </Arena>
+                <League>
+                    <LeagueID>4</LeagueID>
+                    <LeagueName>Italie</LeagueName>
+                </League>
+                <IsAgreed>True</IsAgreed>
+            </Challenge>
+        </ChallengesByMe>
+        <OffersByOthers>
+            <Offer>
+                <TrainingMatchID>23627369</TrainingMatchID>
+                <MatchID>498163125</MatchID>
+                <MatchTime>2014-10-30 15:05:00</MatchTime>
+                <FriendlyType>0</FriendlyType>
+                <Opponent>
+                    <TeamID>1753073</TeamID>
+                    <TeamName>LesPtisLamas</TeamName>
+                    <LogoURL></LogoURL>
+                </Opponent>
+                <Arena>
+                    <ArenaID>1749635</ArenaID>
+                    <ArenaName>Lamatopia</ArenaName>
+                </Arena>
+                <League>
+                    <LeagueID>5</LeagueID>
+                    <LeagueName>France</LeagueName>
+                </League>
+                <IsAgreed>True</IsAgreed>
+            </Offer>
+        </OffersByOthers>
+    </Team>
+</HattrickData>

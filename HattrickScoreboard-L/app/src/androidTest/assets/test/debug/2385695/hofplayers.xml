@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>hofplayers.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:29:16</FetchedDate>
+    <PlayerList>
+        <Player>
+            <PlayerId>56307937</PlayerId>
+            <FirstName>Søren</FirstName>
+            <NickName></NickName>
+            <LastName>Lundgren</LastName>
+            <Age>59</Age>
+            <NextBirthday>2014-11-12 22:10:00</NextBirthday>
+            <CountryID>0</CountryID>
+            <ArrivalDate>2007-11-20 16:14:00</ArrivalDate>
+            <ExpertType>15</ExpertType>
+            <HofDate>2009-01-06 20:52:00</HofDate>
+            <HofAge>40</HofAge>
+        </Player>
+        <Player>
+            <PlayerId>58703246</PlayerId>
+            <FirstName>Almantas</FirstName>
+            <NickName></NickName>
+            <LastName>Mašalaitis</LastName>
+            <Age>50</Age>
+            <NextBirthday>2015-01-19 22:17:00</NextBirthday>
+            <CountryID>0</CountryID>
+            <ArrivalDate>2009-03-22 18:13:00</ArrivalDate>
+            <ExpertType>9</ExpertType>
+            <HofDate>2010-03-29 11:06:00</HofDate>
+            <HofAge>35</HofAge>
+        </Player>
+        <Player>
+            <PlayerId>184608805</PlayerId>
+            <FirstName>Đăng Dung</FirstName>
+            <NickName></NickName>
+            <LastName>Phùng</LastName>
+            <Age>46</Age>
+            <NextBirthday>2014-11-18 02:52:00</NextBirthday>
+            <CountryID>0</CountryID>
+            <ArrivalDate>2011-07-11 16:36:00</ArrivalDate>
+            <ExpertType>3</ExpertType>
+            <HofDate>2013-12-25 10:52:00</HofDate>
+            <HofAge>44</HofAge>
+        </Player>
+    </PlayerList>
+</HattrickData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>club.xml</FileName>
+    <Version>1.4</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:03:01</FetchedDate>
+    <Team>
+        <TeamID>177327</TeamID>
+        <TeamName>Buros FC</TeamName>
+        <Staff>
+            <AssistantTrainerLevels>3</AssistantTrainerLevels>
+            <FinancialDirectorLevels>0</FinancialDirectorLevels>
+            <FormCoachLevels>2</FormCoachLevels>
+            <MedicLevels>5</MedicLevels>
+            <SpokespersonLevels>5</SpokespersonLevels>
+            <SportPsychologistLevels>3</SportPsychologistLevels>
+        </Staff>
+        <YouthSquad>
+            <Investment>200000</Investment>
+            <HasPromoted>True</HasPromoted>
+            <YouthLevel>8</YouthLevel>
+        </YouthSquad>
+    </Team>
+</HattrickData>

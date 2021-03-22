@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            style="@style/contentLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvTitleApp"
+                style="@style/title"
+                android:layout_width="match_parent"
+                android:layout_height="27dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:text="@string/label_unavailable" />
+
+            <Button
+                android:id="@+id/btnLanguage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/button_listview"
+                android:gravity="left|center_vertical"
+                android:text="@string/settings_label_language"
+                android:textSize="@dimen/text_size" />
+
+            <Button
+                android:id="@+id/btnColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/button_listview"
+                android:gravity="left|center_vertical"
+                android:text="@string/settings_label_color"
+                android:textSize="@dimen/text_size" />
+
+            <Button
+                android:id="@+id/btnWorld"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/button_listview"
+                android:gravity="left|center_vertical"
+                android:text="@string/settings_label_country"
+                android:textSize="@dimen/text_size" />
+
+            <TextView
+                android:id="@+id/TextView08"
+                style="@style/title"
+                android:layout_width="match_parent"
+                android:layout_height="27dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:text="EQUIPE NATIONALE"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/Button09"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/backcontent"
+                android:gravity="left|center_vertical"
+                android:text="Equipe de France"
+                android:textSize="@dimen/text_size"
+                android:visibility="gone" />
+
+         <!--   <Button
+                android:id="@+id/btnTZ"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/button_listview"
+                android:gravity="left|center_vertical"
+                android:text="@string/settings_label_timezone"
+                android:textSize="@dimen/text_size" />-->
+
+            <TextView
+                android:id="@+id/tvTitleApp2"
+                style="@style/title"
+                android:layout_width="match_parent"
+                android:layout_height="27dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:text="@string/label_unavailable" />
+
+            <Button
+                android:id="@+id/btnWhatNews"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/backcontent"
+                android:gravity="left|center_vertical"
+                android:text="@string/settings_label_news"
+                android:textSize="@dimen/text_size"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnLicenses"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/backcontent"
+                android:gravity="left|center_vertical"
+                android:text="@string/settings_label_licenses"
+                android:textSize="@dimen/text_size" />
+
+            <TextView
+                android:id="@+id/tvTitleApp3"
+                style="@style/title"
+                android:layout_width="match_parent"
+                android:layout_height="27dp"
+                android:layout_marginBottom="5dp"
+                android:layout_weight="1"
+                android:text="@string/label_unavailable"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnClear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/backcontent"
+                android:gravity="left|center_vertical"
+                android:text="@string/settings_label_data_clear"
+                android:textSize="@dimen/text_size"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/btnUpdate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/backcontent"
+                android:gravity="left|center_vertical"
+                android:text="@string/settings_label_data_update"
+                android:textSize="@dimen/text_size"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

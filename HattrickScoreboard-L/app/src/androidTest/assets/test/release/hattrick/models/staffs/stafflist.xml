@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>stafflist.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:23:51</FetchedDate>
+    <StaffList>
+        <StaffMembers>
+            <Staff>
+                <Name>Ludovic Gachet</Name>
+                <StaffId>209701</StaffId>
+                <StaffType>1</StaffType>
+                <StaffLevel>3</StaffLevel>
+                <HiredDate>2014-04-07 00:00:00</HiredDate>
+                <Cost>60000</Cost>
+            </Staff>
+            <Staff>
+                <Name>Geoffrey Bouet</Name>
+                <StaffId>635652</StaffId>
+                <StaffType>3</StaffType>
+                <StaffLevel>5</StaffLevel>
+                <HiredDate>2014-04-07 00:00:00</HiredDate>
+                <Cost>240000</Cost>
+            </Staff>
+            <Staff>
+                <Name>Jérémy Renaud</Name>
+                <StaffId>672652</StaffId>
+                <StaffType>4</StaffType>
+                <StaffLevel>3</StaffLevel>
+                <HiredDate>2014-04-07 00:00:00</HiredDate>
+                <Cost>60000</Cost>
+            </Staff>
+            <Staff>
+                <Name>Michel Gonzalez</Name>
+                <StaffId>924908</StaffId>
+                <StaffType>5</StaffType>
+                <StaffLevel>2</StaffLevel>
+                <HiredDate>2014-04-07 00:00:00</HiredDate>
+                <Cost>30000</Cost>
+            </Staff>
+            <Staff>
+                <Name>Michel Demonchy</Name>
+                <StaffId>1254090</StaffId>
+                <StaffType>2</StaffType>
+                <StaffLevel>5</StaffLevel>
+                <HiredDate>2014-05-06 11:01:00</HiredDate>
+                <Cost>240000</Cost>
+            </Staff>
+        </StaffMembers>
+        <TotalStaffMembers>5</TotalStaffMembers>
+        <TotalCost>630000</TotalCost>
+    </StaffList>
+</HattrickData>

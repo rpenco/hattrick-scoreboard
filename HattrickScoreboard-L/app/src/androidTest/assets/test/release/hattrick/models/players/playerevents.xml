@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>playerevents.xml</FileName>
+    <Version>1.3</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:17:30</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <Player>
+        <PlayerID>322536294</PlayerID>
+        <PlayerEvents Available="True">
+            <PlayerEvent>
+                <EventDate>2013-08-03 18:30:00</EventDate>
+                <PlayerEventTypeID>17</PlayerEventTypeID>
+                <EventText>A inscrit un Hattrick dans ce &lt;a href="/Club/Matches/Match.aspx?matchID=429831778&amp;amp;SourceSystem=Hattrick"&gt;match&lt;/a&gt; !</EventText>
+            </PlayerEvent>
+            <PlayerEvent>
+                <EventDate>2011-05-23 22:15:00</EventDate>
+                <PlayerEventTypeID>20</PlayerEventTypeID>
+                <EventText>A été promu de l’Académie des jeunes de &lt;a href="/Club/?TeamID=522356" title="FC Karbr&amp;#252;ggen"&gt;FC Karbrüggen&lt;/a&gt; à l’âge de 17 ans.</EventText>
+            </PlayerEvent>
+            <PlayerEvent>
+                <EventDate>2010-11-29 09:13:00</EventDate>
+                <PlayerEventTypeID>21</PlayerEventTypeID>
+                <EventText>A été repéré et recruté par Hansjochen Wagenplatz pour &lt;a href="/Club/Youth/?YouthTeamID=50596"&gt;Sülzer Hinterhof-Kicker&lt;/a&gt;.</EventText>
+            </PlayerEvent>
+        </PlayerEvents>
+    </Player>
+</HattrickData>

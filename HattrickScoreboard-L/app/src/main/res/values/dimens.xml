@@ -1,0 +1,71 @@
+<!--
+  ~ Copyright (C) 2014 Antonio Leiva Gordillo.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="spacing_large">16dp</dimen>
+
+
+    <!-- ===================== -->
+    <!-- Hattrick Scoreboard L -->
+
+    <!-- Drawer -->
+    <dimen name="drawer_logo_size">60dp</dimen>
+    <dimen name="drawer_item_padding_left">16dp</dimen>
+    <dimen name="drawer_item_texte_size">14dp</dimen>
+    <dimen name="drawer_item_imageview_size">48dp</dimen>
+    <dimen name="drawer_item_imageview_inside_padding">12dp</dimen>
+
+
+    <!-- Android Design guidelines -->
+    <dimen name="paddingItem">16dp</dimen>
+    <dimen name="paddingLeftItem">24dp</dimen>
+
+    <!-- Action bar -->
+    <dimen name="indicatorHeight">3dp</dimen>
+
+    <!-- Text -->
+    <dimen name="button_text">17sp</dimen>
+    <dimen name="textview">17sp</dimen>
+    <dimen name="textviewHigh">17sp</dimen>
+
+    <!-- Image -->
+    <dimen name="hattrickHeightLogo">70dp</dimen>
+    <dimen name="hattrickMarginVertical">50dp</dimen>
+    <dimen name="chppWidthLogo">100dp</dimen>
+    <dimen name="drawerIcon">48dp</dimen>
+    <dimen name="playerAvatarWidth">80dp</dimen>
+    <dimen name="iconStars">15dp</dimen>
+
+    <!-- Layout -->
+    <dimen name="contentWidth">-1dp</dimen>
+    <dimen name="contentPadding">10dp</dimen>
+    <dimen name="contentPaddingSmall">5dp</dimen>
+
+    <!-- Drawer -->
+    <dimen name="drawerTitle">14dp</dimen>
+
+    <!-- Club -->
+    <dimen name="teamLogoHeight">100dp</dimen>
+    <dimen name="matchCerclePadding">5dp</dimen>
+    <dimen name="dressHeight">150dp</dimen>
+    <dimen name="trophyHeight">70dp</dimen>
+    <dimen name="flagHeight">40dp</dimen>
+    <dimen name="circleDimen">40dp</dimen>
+    <dimen name="textCircleSize">7dp</dimen>
+
+</resources>

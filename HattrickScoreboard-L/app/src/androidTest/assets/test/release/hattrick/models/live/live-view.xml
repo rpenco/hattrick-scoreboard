@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>live.xml</FileName>
+    <Version>1.8</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:07:06</FetchedDate>
+    <MatchList>
+        <Match>
+            <SourceSystem>Hattrick</SourceSystem>
+            <MatchID>498010855</MatchID>
+            <MatchDate>2014-10-15 15:05:00</MatchDate>
+            <HomeTeam>
+                <HomeTeamID>297915</HomeTeamID>
+                <HomeTeamName>SoMar</HomeTeamName>
+                <HomeTeamShortName>SoMar</HomeTeamShortName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>177327</AwayTeamID>
+                <AwayTeamName>Buros FC</AwayTeamName>
+                <AwayTeamShortName>Buros</AwayTeamShortName>
+            </AwayTeam>
+            <EventList>
+                <Event Index="0">
+                    <Minute>0</Minute>
+                    <SubjectPlayerID>297915</SubjectPlayerID>
+                    <SubjectTeamID>0</SubjectTeamID>
+                    <ObjectPlayerID>892</ObjectPlayerID>
+                    <EventKey>32_1</EventKey>
+                    <EventText>Un temps idéal pour jouer au football avait attiré 892 personnes au &lt;a href="/Club/Arena/?ArenaID=297915"&gt;L'herbe à Bonheur&lt;/a&gt;. &lt;a href="/Club/HallOfFame/Player.aspx?playerId=160281850"&gt;Bastian Vesterskov&lt;/a&gt; fut l'arbitre retenu pour le match, assisté par &lt;a href="/Club/HallOfFame/Player.aspx?playerId=229572336"&gt;Sverre Klemmensen&lt;/a&gt; et &lt;a href="/Club/HallOfFame/Player.aspx?playerId=46242077"&gt;Jens Wüthrich&lt;/a&gt;. </EventText>
+                </Event>
+                <Event Index="5">
+                    <Minute>1</Minute>
+                    <SubjectPlayerID>49</SubjectPlayerID>
+                    <SubjectTeamID>177327</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>331_3</EventKey>
+                    <EventText>Il était évident que &lt;span class="awayteam"&gt;Buros&lt;/span&gt; voulait empêcher la circulation du ballon en pressant les joueurs adverses.</EventText>
+                </Event>
+                <Event Index="6">
+                    <Minute>2</Minute>
+                    <SubjectPlayerID>49</SubjectPlayerID>
+                    <SubjectTeamID>177327</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>68_5</EventKey>
+                    <EventText>Le pressing de &lt;span class="awayteam"&gt;Buros&lt;/span&gt; s'avérait particulièrement efficace.</EventText>
+                </Event>
+                <Event Index="7">
+                    <Minute>3</Minute>
+                    <SubjectPlayerID>395417903</SubjectPlayerID>
+                    <SubjectTeamID>297915</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>121_3</EventKey>
+                    <EventText>&lt;span class="hometeam"&gt;SoMar&lt;/span&gt; prit la tête au bout de 3 minutes de jeu par 1 à 0, à la suite d’une belle action au centre du terrain, qui se termina par une passe en profondeur que &lt;a href="/Club/Players/Player.aspx?playerId=395417903" title="Stewie Hindmarch" class="homeplayer"&gt;Stewie Hindmarch&lt;/a&gt; réussit à reprendre du bout du pied.</EventText>
+                </Event>
+                <Event Index="8">
+                    <Minute>4</Minute>
+                    <SubjectPlayerID>274869015</SubjectPlayerID>
+                    <SubjectTeamID>297915</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>232_1</EventKey>
+                    <EventText>Alors que le match se jouait depuis 4 minutes, un superbe arrêt de &lt;a href="/Club/Players/Player.aspx?playerId=392106207" title="Etienne Fusco" class="awayplayer"&gt;Etienne Fusco&lt;/a&gt; empêcha &lt;a href="/Club/Players/Player.aspx?playerId=274869015" title="Ra&amp;#250;l Guebide" class="homeplayer"&gt;Raúl Guebide&lt;/a&gt; d’augmenter encore l’avance de son équipe sur ce boulet de canon tiré depuis l’aile gauche.</EventText>
+                </Event>
+                <Event Index="9">
+                    <Minute>14</Minute>
+                    <SubjectPlayerID>274869015</SubjectPlayerID>
+                    <SubjectTeamID>297915</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>131_2</EventKey>
+                    <EventText>Après 14 minutes de jeu, la défense centrale fut prise de vitesse par &lt;a href="/Club/Players/Player.aspx?playerId=274869015" title="Ra&amp;#250;l Guebide" class="homeplayer"&gt;Raúl Guebide&lt;/a&gt;, qui put ensuite lober le gardien. Le score était maintenant de 2 - 0 pour &lt;span class="hometeam"&gt;SoMar&lt;/span&gt;.</EventText>
+                </Event>
+                <Event Index="10">
+                    <Minute>20</Minute>
+                    <SubjectPlayerID>273100862</SubjectPlayerID>
+                    <SubjectTeamID>297915</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>230_5</EventKey>
+                    <EventText>&lt;span class="hometeam"&gt;SoMar&lt;/span&gt; aurait pu accentuer son avance sur un coup franc bien brossé de &lt;a href="/Club/Players/Player.aspx?playerId=273100862" title="Thurman Kerns" class="homeplayer"&gt;Thurman Kerns&lt;/a&gt; : le ballon survola le mur puis plongea vers les buts mais le gardien parvint au dernier moment à le détourner en corner.</EventText>
+                </Event>
+                <Event Index="11">
+                    <Minute>45</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>0</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>45_3</EventKey>
+                    <EventText>2 - 0 à la mi-temps.</EventText>
+                </Event>
+                <Event Index="13">
+                    <Minute>47</Minute>
+                    <SubjectPlayerID>274869015</SubjectPlayerID>
+                    <SubjectTeamID>297915</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>132_1</EventKey>
+                    <EventText>&lt;span class="hometeam"&gt;SoMar&lt;/span&gt; marqua une nouvelle fois grâce à &lt;a href="/Club/Players/Player.aspx?playerId=274869015" title="Ra&amp;#250;l Guebide" class="homeplayer"&gt;Raúl Guebide&lt;/a&gt; à la suite d’une attaque menée sur le flanc gauche. 3 - 0.</EventText>
+                </Event>
+                <Event Index="14">
+                    <Minute>48</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>297915</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>62_5</EventKey>
+                    <EventText>Les joueurs de &lt;span class="hometeam"&gt;SoMar&lt;/span&gt; semblèrent penser que leur travail était terminé et axèrent davantage leur jeu sur la défense, dans l’attente du coup de sifflet final.</EventText>
+                </Event>
+                <Event Index="15">
+                    <Minute>52</Minute>
+                    <SubjectPlayerID>285206265</SubjectPlayerID>
+                    <SubjectTeamID>297915</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>133_3</EventKey>
+                    <EventText>Après 52 minutes, &lt;a href="/Club/Players/Player.aspx?playerId=285206265" title="Akis Amfilochias" class="homeplayer"&gt;Akis Amfilochias&lt;/a&gt; donna un but de plus à &lt;span class="hometeam"&gt;SoMar&lt;/span&gt;, en reprenant de la tête un bon centre venant de la droite. 4 - 0.</EventText>
+                </Event>
+                <Event Index="16">
+                    <Minute>53</Minute>
+                    <SubjectPlayerID>265227043</SubjectPlayerID>
+                    <SubjectTeamID>297915</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>133_4</EventKey>
+                    <EventText>Après 53 minutes de match, &lt;a href="/Club/Players/Player.aspx?playerId=265227043" title="Nurullah Engin" class="homeplayer"&gt;Nurullah Engin&lt;/a&gt; donna une raison supplémentaire de se réjouir aux supporters de &lt;span class="hometeam"&gt;SoMar&lt;/span&gt; en marquant le but du 5 - 0. C'est un bon échange de passes sur le côté droit que l'équipe visiteuse ne put intercepter qui lui permit d'augmenter l'avance de son équipe.</EventText>
+                </Event>
+                <Event Index="17">
+                    <Minute>90</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>297915</SubjectTeamID>
+                    <ObjectPlayerID>74</ObjectPlayerID>
+                    <EventKey>40_2</EventKey>
+                    <EventText>&lt;span class="hometeam"&gt;SoMar&lt;/span&gt; monopolisait le ballon, avec 74 % de possession.&lt;br /&gt;&lt;br /&gt;</EventText>
+                </Event>
+                <Event Index="24">
+                    <Minute>90</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>0</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>599_2</EventKey>
+                    <EventText>Le match se termina sur le score de 5 - 0.</EventText>
+                </Event>
+            </EventList>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <LastShownEventIndex>24</LastShownEventIndex>
+        </Match>
+        <Match>
+            <SourceSystem>Hattrick</SourceSystem>
+            <MatchID>498129346</MatchID>
+            <MatchDate>2014-10-22 08:45:00</MatchDate>
+            <HomeTeam>
+                <HomeTeamID>886889</HomeTeamID>
+                <HomeTeamName>Nk Kaštel</HomeTeamName>
+                <HomeTeamShortName>Kaštel</HomeTeamShortName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>177327</AwayTeamID>
+                <AwayTeamName>Buros FC</AwayTeamName>
+                <AwayTeamShortName>Buros</AwayTeamShortName>
+            </AwayTeam>
+            <EventList>
+                <Event Index="0">
+                    <Minute>0</Minute>
+                    <SubjectPlayerID>883451</SubjectPlayerID>
+                    <SubjectTeamID>0</SubjectTeamID>
+                    <ObjectPlayerID>3085</ObjectPlayerID>
+                    <EventKey>32_2</EventKey>
+                    <EventText>3085 spectateurs étaient présents au &lt;a href="/Club/Arena/?ArenaID=883451"&gt;Nk Kaštel Stadion&lt;/a&gt;, où les conditions météo étaient assez favorables à la pratique du football. &lt;a href="/Club/HallOfFame/Player.aspx?playerId=89512619"&gt;Maxim de Greef&lt;/a&gt; fut l'arbitre retenu pour le match, assisté par &lt;a href="/Club/HallOfFame/Player.aspx?playerId=217188124"&gt;Felix Jansson&lt;/a&gt; et &lt;a href="/Club/HallOfFame/Player.aspx?playerId=8405599"&gt;Jaume Ortega&lt;/a&gt;. </EventText>
+                </Event>
+                <Event Index="5">
+                    <Minute>25</Minute>
+                    <SubjectPlayerID>396911304</SubjectPlayerID>
+                    <SubjectTeamID>177327</SubjectTeamID>
+                    <ObjectPlayerID>348759818</ObjectPlayerID>
+                    <EventKey>272_1</EventKey>
+                    <EventText>Après 25 minutes, une erreur de l’équipe locale faillit profiter aux visiteurs, mais &lt;a href="/Club/Players/Player.aspx?playerId=396911304" title="Thoralf Freudenthaler" class="awayplayer"&gt;Thoralf Freudenthaler&lt;/a&gt;, en se précipitant vers le but depuis la gauche, perdit ses moyens devant le gardien et envoya le ballon nettement au-dessus du but.</EventText>
+                </Event>
+                <Event Index="6">
+                    <Minute>36</Minute>
+                    <SubjectPlayerID>396911304</SubjectPlayerID>
+                    <SubjectTeamID>177327</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>514_4</EventKey>
+                    <EventText>36 minutes avaient été jouées lorsque &lt;a href="/Club/Players/Player.aspx?playerId=396911304" title="Thoralf Freudenthaler" class="awayplayer"&gt;Thoralf Freudenthaler&lt;/a&gt; de &lt;span class="awayteam"&gt;Buros&lt;/span&gt; bouscula brutalement un joueur adverse par derrière alors qu’ils tentaient tous les deux de récupérer un ballon perdu. Il fut alors expulsé sur carton rouge.</EventText>
+                </Event>
+                <Event Index="7">
+                    <Minute>37</Minute>
+                    <SubjectPlayerID>400161170</SubjectPlayerID>
+                    <SubjectTeamID>886889</SubjectTeamID>
+                    <ObjectPlayerID>356591484</ObjectPlayerID>
+                    <EventKey>95_3</EventKey>
+                    <EventText>Le joueur de &lt;span class="hometeam"&gt;Kaštel&lt;/span&gt; blessé dans cette action était &lt;a href="/Club/Players/Player.aspx?playerId=400161170" title="Sisto Caricasulo" class="homeplayer"&gt;Sisto Caricasulo&lt;/a&gt; ; il se fit aider pour sortir du terrain car il ne pouvait plus jouer dans cet état. &lt;a href="/Club/Players/Player.aspx?playerId=356591484" title="Jan-Philipp Umfahrer" class="homeplayer"&gt;Jan-Philipp Umfahrer&lt;/a&gt; le remplaça.</EventText>
+                </Event>
+                <Event Index="8">
+                    <Minute>45</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>0</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>45_2</EventKey>
+                    <EventText>Les deux équipes rentrèrent aux vestiaires sur le score de 0 - 0.</EventText>
+                </Event>
+                <Event Index="10">
+                    <Minute>47</Minute>
+                    <SubjectPlayerID>356925021</SubjectPlayerID>
+                    <SubjectTeamID>886889</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>121_3</EventKey>
+                    <EventText>&lt;span class="hometeam"&gt;Kaštel&lt;/span&gt; prit la tête au bout de 47 minutes de jeu par 1 à 0, à la suite d’une belle action au centre du terrain, qui se termina par une passe en profondeur que &lt;a href="/Club/Players/Player.aspx?playerId=356925021" title="Carlo Cipollini" class="homeplayer"&gt;Carlo Cipollini&lt;/a&gt; réussit à reprendre du bout du pied.</EventText>
+                </Event>
+                <Event Index="11">
+                    <Minute>75</Minute>
+                    <SubjectPlayerID>356925021</SubjectPlayerID>
+                    <SubjectTeamID>886889</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>132_1</EventKey>
+                    <EventText>&lt;span class="hometeam"&gt;Kaštel&lt;/span&gt; marqua une nouvelle fois grâce à &lt;a href="/Club/Players/Player.aspx?playerId=356925021" title="Carlo Cipollini" class="homeplayer"&gt;Carlo Cipollini&lt;/a&gt; à la suite d’une attaque menée sur le flanc gauche. 2 - 0.</EventText>
+                </Event>
+                <Event Index="12">
+                    <Minute>81</Minute>
+                    <SubjectPlayerID>381089003</SubjectPlayerID>
+                    <SubjectTeamID>177327</SubjectTeamID>
+                    <ObjectPlayerID>348759818</ObjectPlayerID>
+                    <EventKey>252_1</EventKey>
+                    <EventText>&lt;span class="awayteam"&gt;Buros&lt;/span&gt; eut une bonne opportunité de revenir après 81 minutes, suite à une action bien menée sur le flanc gauche, mais &lt;a href="/Club/Players/Player.aspx?playerId=381089003" title="Emmanuel Mayaud" class="awayplayer"&gt;Emmanuel Mayaud&lt;/a&gt; eut du mal à suivre l’action et fut incapable de conclure.</EventText>
+                </Event>
+                <Event Index="13">
+                    <Minute>82</Minute>
+                    <SubjectPlayerID>356925021</SubjectPlayerID>
+                    <SubjectTeamID>886889</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>133_5</EventKey>
+                    <EventText>Après 82 minutes de jeu, &lt;a href="/Club/Players/Player.aspx?playerId=356925021" title="Carlo Cipollini" class="homeplayer"&gt;Carlo Cipollini&lt;/a&gt; de &lt;span class="hometeam"&gt;Kaštel&lt;/span&gt; éclata de joie lorsque, après une belle attaque sur le flanc droit, il vit son ballon passer entre les jambes du gardien et finir au fond des filets, portant ainsi le score à 3 - 0.</EventText>
+                </Event>
+                <Event Index="15">
+                    <Minute>84</Minute>
+                    <SubjectPlayerID>356883089</SubjectPlayerID>
+                    <SubjectTeamID>886889</SubjectTeamID>
+                    <ObjectPlayerID>392106207</ObjectPlayerID>
+                    <EventKey>232_3</EventKey>
+                    <EventText>Après 84 minutes, &lt;a href="/Club/Players/Player.aspx?playerId=356883089" title="Avia Hadad" class="homeplayer"&gt;Avia Hadad&lt;/a&gt; aurait pu enfoncer le clou pour &lt;span class="hometeam"&gt;Kaštel&lt;/span&gt; sur ce centre-tir depuis l’aile gauche mais la balle passa juste au-dessus de la barre.</EventText>
+                </Event>
+                <Event Index="16">
+                    <Minute>85</Minute>
+                    <SubjectPlayerID>356883089</SubjectPlayerID>
+                    <SubjectTeamID>886889</SubjectTeamID>
+                    <ObjectPlayerID>395966361</ObjectPlayerID>
+                    <EventKey>236_5</EventKey>
+                    <EventText>Le manque d’expérience de &lt;a href="/Club/Players/Player.aspx?playerId=395966361" title="Gaby Lore" class="awayplayer"&gt;Gaby Lore&lt;/a&gt; fut à l’origine d’une perte de balle qui permit presque à &lt;span class="hometeam"&gt;Kaštel&lt;/span&gt; de marquer après 85 minutes mais le ballon fut facilement capté par le gardien.</EventText>
+                </Event>
+                <Event Index="17">
+                    <Minute>86</Minute>
+                    <SubjectPlayerID>399983441</SubjectPlayerID>
+                    <SubjectTeamID>886889</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>511_1</EventKey>
+                    <EventText>Après plusieurs tirages de maillot évidents, &lt;a href="/Club/Players/Player.aspx?playerId=399983441" title="Jeen Wansing" class="homeplayer"&gt;Jeen Wansing&lt;/a&gt; de &lt;span class="hometeam"&gt;Kaštel&lt;/span&gt; reçut un avertissement.</EventText>
+                </Event>
+                <Event Index="18">
+                    <Minute>90</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>886889</SubjectTeamID>
+                    <ObjectPlayerID>63</ObjectPlayerID>
+                    <EventKey>40_1</EventKey>
+                    <EventText>Les 45 minutes furent dominées par &lt;span class="hometeam"&gt;Kaštel&lt;/span&gt;, avec  63 % de possession de balle.&lt;br /&gt;&lt;br /&gt;</EventText>
+                </Event>
+                <Event Index="25">
+                    <Minute>90</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>0</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>599_4</EventKey>
+                    <EventText>Le match se termina sur le score de 3 - 0.</EventText>
+                </Event>
+            </EventList>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <LastShownEventIndex>25</LastShownEventIndex>
+        </Match>
+        <Match>
+            <SourceSystem>Hattrick</SourceSystem>
+            <MatchID>489830852</MatchID>
+            <MatchDate>2014-10-25 21:10:00</MatchDate>
+            <HomeTeam>
+                <HomeTeamID>291167</HomeTeamID>
+                <HomeTeamName>Olympique de Mémed</HomeTeamName>
+                <HomeTeamShortName>Olympique</HomeTeamShortName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>177327</AwayTeamID>
+                <AwayTeamName>Buros FC</AwayTeamName>
+                <AwayTeamShortName>Buros</AwayTeamShortName>
+            </AwayTeam>
+            <EventList>
+                <Event Index="0">
+                    <Minute>0</Minute>
+                    <SubjectPlayerID>291167</SubjectPlayerID>
+                    <SubjectTeamID>0</SubjectTeamID>
+                    <ObjectPlayerID>31376</ObjectPlayerID>
+                    <EventKey>31_3</EventKey>
+                    <EventText>Au &lt;a href="/Club/Arena/?ArenaID=291167"&gt;Stade guerrier&lt;/a&gt;, 31376 spectateurs assistèrent au match et, malgré la présence de nuages très menaçants, la pluie ne fit pas son apparition. &lt;a href="/Club/HallOfFame/Player.aspx?playerId=173350271"&gt;Grégoire Godeau&lt;/a&gt; fut l'arbitre retenu pour le match, assisté par &lt;a href="/Club/HallOfFame/Player.aspx?playerId=98382592"&gt;Gil Wagener&lt;/a&gt; et &lt;a href="/Club/HallOfFame/Player.aspx?playerId=258255434"&gt;Justin Gardner&lt;/a&gt;. </EventText>
+                </Event>
+                <Event Index="5">
+                    <Minute>1</Minute>
+                    <SubjectPlayerID>223</SubjectPlayerID>
+                    <SubjectTeamID>291167</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>334_2</EventKey>
+                    <EventText>&lt;span class="hometeam"&gt;Olympique&lt;/span&gt; avait décidé d'attaquer sur les ailes, c'est pourquoi la plupart de leurs passes se dirigeaient vers les côtés du terrain.</EventText>
+                </Event>
+                <Event Index="7">
+                    <Minute>2</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>291167</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>344_2</EventKey>
+                    <EventText>Les joueurs de &lt;span class="hometeam"&gt;Olympique&lt;/span&gt; entendirent les mots de leur entraineur résonner dans leur tête et décidèrent donc de diriger leurs attaques au centre vers les ailes, comme il le leur avait recommandé.</EventText>
+                </Event>
+                <Event Index="9">
+                    <Minute>3</Minute>
+                    <SubjectPlayerID>365812643</SubjectPlayerID>
+                    <SubjectTeamID>177327</SubjectTeamID>
+                    <ObjectPlayerID>284497449</ObjectPlayerID>
+                    <EventKey>241_5</EventKey>
+                    <EventText>La défense de &lt;span class="awayteam"&gt;Buros&lt;/span&gt; fournit un long ballon au centre du terrain permettant une belle contre-attaque après 3 minutes mais la frappe de &lt;a href="/Club/Players/Player.aspx?playerId=365812643" title="Harald Reisch" class="awayplayer"&gt;Harald Reisch&lt;/a&gt; fut facilement captée par le gardien adverse.</EventText>
+                </Event>
+                <Event Index="10">
+                    <Minute>12</Minute>
+                    <SubjectPlayerID>370346966</SubjectPlayerID>
+                    <SubjectTeamID>177327</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>510_3</EventKey>
+                    <EventText>&lt;a href="/Club/Players/Player.aspx?playerId=370346966" title="Max Rakkolainen" class="awayplayer"&gt;Max Rakkolainen&lt;/a&gt; de &lt;span class="awayteam"&gt;Buros&lt;/span&gt; reçut un carton jaune pour jeu dangereux après 12 minutes.</EventText>
+                </Event>
+                <Event Index="11">
+                    <Minute>15</Minute>
+                    <SubjectPlayerID>293302929</SubjectPlayerID>
+                    <SubjectTeamID>291167</SubjectTeamID>
+                    <ObjectPlayerID>395571617</ObjectPlayerID>
+                    <EventKey>121_2</EventKey>
+                    <EventText>&lt;a href="/Club/Players/Player.aspx?playerId=293302929" title="Thomas Ferrand" class="homeplayer"&gt;Thomas Ferrand&lt;/a&gt; donna l’avantage à &lt;span class="hometeam"&gt;Olympique&lt;/span&gt; et porta le score à 1 - 0 après avoir trouvé une faille dans la défense centrale adverse, ce qui lui permit ensuite d’ajuster tranquillement son tir pour tromper le gardien.</EventText>
+                </Event>
+                <Event Index="12">
+                    <Minute>35</Minute>
+                    <SubjectPlayerID>357982485</SubjectPlayerID>
+                    <SubjectTeamID>291167</SubjectTeamID>
+                    <ObjectPlayerID>395571617</ObjectPlayerID>
+                    <EventKey>233_4</EventKey>
+                    <EventText>&lt;span class="hometeam"&gt;Olympique&lt;/span&gt; plaçait de belles attaques sur le côté droit. Après 35 minutes de jeu, l’une d’elles permit presque à &lt;a href="/Club/Players/Player.aspx?playerId=357982485" title="Arnaud Dumont" class="homeplayer"&gt;Arnaud Dumont&lt;/a&gt; de marquer mais sa reprise passa nettement au-dessus de la barre.</EventText>
+                </Event>
+                <Event Index="13">
+                    <Minute>37</Minute>
+                    <SubjectPlayerID>380823454</SubjectPlayerID>
+                    <SubjectTeamID>177327</SubjectTeamID>
+                    <ObjectPlayerID>284497449</ObjectPlayerID>
+                    <EventKey>242_3</EventKey>
+                    <EventText>Les joueurs de &lt;span class="awayteam"&gt;Buros&lt;/span&gt; furent déçus après 37 minutes... En effet, à la suite d’un contre remarquable sur la gauche, &lt;a href="/Club/Players/Player.aspx?playerId=380823454" title="Ynon Ben-Yossef" class="awayplayer"&gt;Ynon Ben-Yossef&lt;/a&gt; vit son tir détourné par le gardien.</EventText>
+                </Event>
+                <Event Index="14">
+                    <Minute>45</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>0</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>45_3</EventKey>
+                    <EventText>1 - 0 à la mi-temps.</EventText>
+                </Event>
+                <Event Index="16">
+                    <Minute>54</Minute>
+                    <SubjectPlayerID>359514599</SubjectPlayerID>
+                    <SubjectTeamID>177327</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>511_2</EventKey>
+                    <EventText>&lt;a href="/Club/Players/Player.aspx?playerId=359514599" title="Jihad Jemmali" class="awayplayer"&gt;Jihad Jemmali&lt;/a&gt; de &lt;span class="awayteam"&gt;Buros&lt;/span&gt; reçut un carton jaune après 54 minutes de jeu pour comportement anti-sportif.</EventText>
+                </Event>
+                <Event Index="17">
+                    <Minute>69</Minute>
+                    <SubjectPlayerID>380879127</SubjectPlayerID>
+                    <SubjectTeamID>177327</SubjectTeamID>
+                    <ObjectPlayerID>398352978</ObjectPlayerID>
+                    <EventKey>350_1</EventKey>
+                    <EventText>Après 69 minutes, l’entraineur de &lt;span class="awayteam"&gt;Buros&lt;/span&gt; estima qu’un remplacement pouvait renforcer le jeu de son équipe. &lt;a href="/Club/Players/Player.aspx?playerId=398352978" title="Abdelkrim Amraoui" class="awayplayer"&gt;Abdelkrim Amraoui&lt;/a&gt; fit son entrée ; &lt;a href="/Club/Players/Player.aspx?playerId=380879127" title="Lazar Gjoreski" class="awayplayer"&gt;Lazar Gjoreski&lt;/a&gt; quitta le terrain.</EventText>
+                </Event>
+                <Event Index="19">
+                    <Minute>77</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>291167</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>344_1</EventKey>
+                    <EventText>&lt;span class="hometeam"&gt;Olympique&lt;/span&gt; était déterminé à attaquer sur les ailes ; ses tentatives qui passaient par le centre du terrain étaient systématiquement envoyées vers les côtés du terrain.</EventText>
+                </Event>
+                <Event Index="21">
+                    <Minute>83</Minute>
+                    <SubjectPlayerID>312738078</SubjectPlayerID>
+                    <SubjectTeamID>291167</SubjectTeamID>
+                    <ObjectPlayerID>395571617</ObjectPlayerID>
+                    <EventKey>232_5</EventKey>
+                    <EventText>83 minutes s’étaient écoulées ; &lt;a href="/Club/Players/Player.aspx?playerId=312738078" title="Mike Dequidt" class="homeplayer"&gt;Mike Dequidt&lt;/a&gt; aurait pu accentuer l’avance de &lt;span class="hometeam"&gt;Olympique&lt;/span&gt; au score mais son tir depuis le flanc gauche termina sa course dans le petit filet.</EventText>
+                </Event>
+                <Event Index="22">
+                    <Minute>85</Minute>
+                    <SubjectPlayerID>312738078</SubjectPlayerID>
+                    <SubjectTeamID>291167</SubjectTeamID>
+                    <ObjectPlayerID>395571617</ObjectPlayerID>
+                    <EventKey>233_3</EventKey>
+                    <EventText>Après une attaque sur le flanc droit, &lt;a href="/Club/Players/Player.aspx?playerId=312738078" title="Mike Dequidt" class="homeplayer"&gt;Mike Dequidt&lt;/a&gt; de &lt;span class="hometeam"&gt;Olympique&lt;/span&gt; eut une belle occasion de marquer alors que 85 minutes s’étaient écoulées, mais il manqua totalement sa frappe !</EventText>
+                </Event>
+                <Event Index="23">
+                    <Minute>86</Minute>
+                    <SubjectPlayerID>266798277</SubjectPlayerID>
+                    <SubjectTeamID>291167</SubjectTeamID>
+                    <ObjectPlayerID>395571617</ObjectPlayerID>
+                    <EventKey>233_1</EventKey>
+                    <EventText>&lt;a href="/Club/Players/Player.aspx?playerId=266798277" title="Yann Chauvin" class="homeplayer"&gt;Yann Chauvin&lt;/a&gt; fut tout proche d'augmenter l’avance de son équipe après 86 minutes : son tir depuis l’aile droite était parfait mais &lt;a href="/Club/Players/Player.aspx?playerId=395571617" title="Leevi Lukkari" class="awayplayer"&gt;Leevi Lukkari&lt;/a&gt; réussit à dévier le ballon du bout des doigts.</EventText>
+                </Event>
+                <Event Index="24">
+                    <Minute>87</Minute>
+                    <SubjectPlayerID>293302929</SubjectPlayerID>
+                    <SubjectTeamID>291167</SubjectTeamID>
+                    <ObjectPlayerID>395571617</ObjectPlayerID>
+                    <EventKey>133_5</EventKey>
+                    <EventText>Après 87 minutes de jeu, &lt;a href="/Club/Players/Player.aspx?playerId=293302929" title="Thomas Ferrand" class="homeplayer"&gt;Thomas Ferrand&lt;/a&gt; de &lt;span class="hometeam"&gt;Olympique&lt;/span&gt; éclata de joie lorsque, après une belle attaque sur le flanc droit, il vit son ballon passer entre les jambes du gardien et finir au fond des filets, portant ainsi le score à 2 - 0.</EventText>
+                </Event>
+                <Event Index="25">
+                    <Minute>90</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>291167</SubjectTeamID>
+                    <ObjectPlayerID>70</ObjectPlayerID>
+                    <EventKey>40_5</EventKey>
+                    <EventText>&lt;span class="hometeam"&gt;Olympique&lt;/span&gt; domina cette période, avec 70 % de possession de balle.&lt;br /&gt;&lt;br /&gt;</EventText>
+                </Event>
+                <Event Index="32">
+                    <Minute>90</Minute>
+                    <SubjectPlayerID>0</SubjectPlayerID>
+                    <SubjectTeamID>0</SubjectTeamID>
+                    <ObjectPlayerID>0</ObjectPlayerID>
+                    <EventKey>599_1</EventKey>
+                    <EventText>Le match se termina sur le score de 2 - 0.</EventText>
+                </Event>
+            </EventList>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <LastShownEventIndex>32</LastShownEventIndex>
+        </Match>
+        <Match>
+            <SourceSystem>Hattrick</SourceSystem>
+            <MatchID>489830859</MatchID>
+            <MatchDate>2014-11-01 21:10:00</MatchDate>
+            <HomeTeam>
+                <HomeTeamID>586189</HomeTeamID>
+                <HomeTeamName>BlackBird F.C.</HomeTeamName>
+                <HomeTeamShortName>BBFC</HomeTeamShortName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>177327</AwayTeamID>
+                <AwayTeamName>Buros FC</AwayTeamName>
+                <AwayTeamShortName>Buros</AwayTeamShortName>
+            </AwayTeam>
+            <EventList />
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <SourceSystem>Hattrick</SourceSystem>
+            <MatchID>498163125</MatchID>
+            <MatchDate>2014-10-29 15:05:00</MatchDate>
+            <HomeTeam>
+                <HomeTeamID>1753073</HomeTeamID>
+                <HomeTeamName>LesPtisLamas</HomeTeamName>
+                <HomeTeamShortName>LesPtisLamas</HomeTeamShortName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>177327</AwayTeamID>
+                <AwayTeamName>Buros FC</AwayTeamName>
+                <AwayTeamShortName>Buros</AwayTeamShortName>
+            </AwayTeam>
+            <EventList />
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+    </MatchList>
+</HattrickData>

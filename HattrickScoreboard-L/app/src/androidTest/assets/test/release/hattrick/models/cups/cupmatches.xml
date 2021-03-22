@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>cupmatches.xml</FileName>
+    <Version>1.4</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:03:24</FetchedDate>
+    <Cup>
+        <CupID>183</CupID>
+        <CupSeason>56</CupSeason>
+        <CupRound>8</CupRound>
+        <CupName>Hattrick Masters</CupName>
+        <MatchList />
+    </Cup>
+</HattrickData>

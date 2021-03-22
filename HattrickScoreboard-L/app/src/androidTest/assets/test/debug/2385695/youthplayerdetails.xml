@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>youthplayerdetails.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:41:27</FetchedDate>
+    <YouthPlayer>
+        <YouthPlayerID>160252827</YouthPlayerID>
+        <FirstName>Kjeld</FirstName>
+        <NickName />
+        <LastName>Degn</LastName>
+        <Age>17</Age>
+        <AgeDays>7</AgeDays>
+        <ArrivalDate>2014-07-23 10:47:00</ArrivalDate>
+        <CanBePromotedIn>11</CanBePromotedIn>
+        <PlayerNumber>1</PlayerNumber>
+        <Statement />
+        <Cards>0</Cards>
+        <InjuryLevel>-1</InjuryLevel>
+        <Specialty>0</Specialty>
+        <CareerGoals>0</CareerGoals>
+        <CareerHattricks>0</CareerHattricks>
+        <LeagueGoals>0</LeagueGoals>
+        <FriendlyGoals>0</FriendlyGoals>
+        <OwningYouthTeam>
+            <YouthTeamID>10205</YouthTeamID>
+            <YouthTeamName>Tordendragen</YouthTeamName>
+            <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+            <SeniorTeam>
+                <SeniorTeamID>198547</SeniorTeamID>
+                <SeniorTeamName>Bhutan</SeniorTeamName>
+            </SeniorTeam>
+        </OwningYouthTeam>
+        <LastMatch>
+            <YouthMatchID>84845226</YouthMatchID>
+            <Date>2014-10-30 08:00:00</Date>
+            <PositionCode>100</PositionCode>
+            <PlayedMinutes>90</PlayedMinutes>
+            <Rating>7</Rating>
+        </LastMatch>
+    </YouthPlayer>
+</HattrickData>

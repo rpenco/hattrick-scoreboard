@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>matchesArchive.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:35:25</FetchedDate>
+    <IsYouth>True</IsYouth>
+    <Team>
+        <TeamID>10205</TeamID>
+        <TeamName>Tordendragen</TeamName>
+        <MatchList>
+            <Match>
+                <MatchID>84845155</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>16274</AwayTeamID>
+                    <AwayTeamName>Charlies Angels</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-07 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845160</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1216597</HomeTeamID>
+                    <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-14 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>4</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>85706161</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>2317503</HomeTeamID>
+                    <HomeTeamName>Barbapapa-zz</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-19 13:20:00</MatchDate>
+                <MatchType>106</MatchType>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845168</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>2322318</AwayTeamID>
+                    <AwayTeamName>Dom små mullvaden</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-21 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845173</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>2142225</HomeTeamID>
+                    <HomeTeamName>Danish Homegrown</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-28 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845180</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1407814</AwayTeamID>
+                    <AwayTeamName>FK Nestflüchter</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-04 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>7</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86121152</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>2415944</AwayTeamID>
+                    <AwayTeamName>Giovani Arretti</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-09 08:15:00</MatchDate>
+                <MatchType>105</MatchType>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845188</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>194727</HomeTeamID>
+                    <HomeTeamName>WFC Youngstars</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-11 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845192</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1283114</AwayTeamID>
+                    <AwayTeamName>LT Ploppies</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-18 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845197</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1283114</HomeTeamID>
+                    <HomeTeamName>LT Ploppies</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-25 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>6</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86498714</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>496768</AwayTeamID>
+                    <AwayTeamName>Chlopcy z podwórka</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-30 07:30:00</MatchDate>
+                <MatchType>105</MatchType>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845204</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>194727</AwayTeamID>
+                    <AwayTeamName>WFC Youngstars</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-02 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845213</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1407814</HomeTeamID>
+                    <HomeTeamName>FK Nestflüchter</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-09 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>8</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845215</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>2142225</AwayTeamID>
+                    <AwayTeamName>Danish Homegrown</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-16 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>5</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845219</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>2322318</HomeTeamID>
+                    <HomeTeamName>Dom små mullvaden</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-23 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86925455</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>2063420</HomeTeamID>
+                    <HomeTeamName>Ménesi Junior</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-24 08:55:00</MatchDate>
+                <MatchType>105</MatchType>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84845226</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1216597</AwayTeamID>
+                    <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-30 08:00:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+        </MatchList>
+    </Team>
+</HattrickData>

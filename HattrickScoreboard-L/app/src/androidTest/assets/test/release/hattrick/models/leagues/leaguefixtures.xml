@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>leaguefixtures.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:06:54</FetchedDate>
+    <LeagueLevelUnitID>72900</LeagueLevelUnitID>
+    <LeagueLevelUnitName>VII.85</LeagueLevelUnitName>
+    <Season>56</Season>
+    <Match>
+        <MatchID>489830808</MatchID>
+        <MatchRound>1</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>586189</HomeTeamID>
+            <HomeTeamName>BlackBird F.C.</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>291167</AwayTeamID>
+            <AwayTeamName>Olympique de Mémed</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-09 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830809</MatchID>
+        <MatchRound>1</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1761624</HomeTeamID>
+            <HomeTeamName>reyrieux platinium</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>177327</AwayTeamID>
+            <AwayTeamName>Buros FC</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-09 21:10:00</MatchDate>
+        <HomeGoals>3</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830810</MatchID>
+        <MatchRound>1</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1764486</HomeTeamID>
+            <HomeTeamName>Lesidefixdu60</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>967393</AwayTeamID>
+            <AwayTeamName>SC Bordeaux</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-09 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830825</MatchID>
+        <MatchRound>1</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1765066</HomeTeamID>
+            <HomeTeamName>AS Carca</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1756912</AwayTeamID>
+            <AwayTeamName>olympique d'hugo</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-09 21:10:00</MatchDate>
+        <HomeGoals>2</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830811</MatchID>
+        <MatchRound>2</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>177327</HomeTeamID>
+            <HomeTeamName>Buros FC</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>586189</AwayTeamID>
+            <AwayTeamName>BlackBird F.C.</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-16 21:10:00</MatchDate>
+        <HomeGoals>2</HomeGoals>
+        <AwayGoals>2</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830812</MatchID>
+        <MatchRound>2</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>291167</HomeTeamID>
+            <HomeTeamName>Olympique de Mémed</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1765066</AwayTeamID>
+            <AwayTeamName>AS Carca</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-16 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830813</MatchID>
+        <MatchRound>2</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>967393</HomeTeamID>
+            <HomeTeamName>SC Bordeaux</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1761624</AwayTeamID>
+            <AwayTeamName>reyrieux platinium</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-16 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>5</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830817</MatchID>
+        <MatchRound>2</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1756912</HomeTeamID>
+            <HomeTeamName>olympique d'hugo</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1764486</AwayTeamID>
+            <AwayTeamName>Lesidefixdu60</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-16 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>2</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830814</MatchID>
+        <MatchRound>3</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1765066</HomeTeamID>
+            <HomeTeamName>AS Carca</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>967393</AwayTeamID>
+            <AwayTeamName>SC Bordeaux</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-23 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830815</MatchID>
+        <MatchRound>3</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>177327</HomeTeamID>
+            <HomeTeamName>Buros FC</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>291167</AwayTeamID>
+            <AwayTeamName>Olympique de Mémed</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-23 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>2</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830818</MatchID>
+        <MatchRound>3</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1761624</HomeTeamID>
+            <HomeTeamName>reyrieux platinium</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1764486</AwayTeamID>
+            <AwayTeamName>Lesidefixdu60</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-23 21:10:00</MatchDate>
+        <HomeGoals>4</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830827</MatchID>
+        <MatchRound>3</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>586189</HomeTeamID>
+            <HomeTeamName>BlackBird F.C.</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1756912</AwayTeamID>
+            <AwayTeamName>olympique d'hugo</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-23 21:10:00</MatchDate>
+        <HomeGoals>2</HomeGoals>
+        <AwayGoals>2</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830816</MatchID>
+        <MatchRound>4</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>967393</HomeTeamID>
+            <HomeTeamName>SC Bordeaux</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>586189</AwayTeamID>
+            <AwayTeamName>BlackBird F.C.</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-30 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>3</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830819</MatchID>
+        <MatchRound>4</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>291167</HomeTeamID>
+            <HomeTeamName>Olympique de Mémed</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1761624</AwayTeamID>
+            <AwayTeamName>reyrieux platinium</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-30 21:10:00</MatchDate>
+        <HomeGoals>3</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830820</MatchID>
+        <MatchRound>4</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1756912</HomeTeamID>
+            <HomeTeamName>olympique d'hugo</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>177327</AwayTeamID>
+            <AwayTeamName>Buros FC</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-30 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830821</MatchID>
+        <MatchRound>4</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1764486</HomeTeamID>
+            <HomeTeamName>Lesidefixdu60</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1765066</AwayTeamID>
+            <AwayTeamName>AS Carca</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-08-30 21:10:00</MatchDate>
+        <HomeGoals>2</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830822</MatchID>
+        <MatchRound>5</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>586189</HomeTeamID>
+            <HomeTeamName>BlackBird F.C.</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1765066</AwayTeamID>
+            <AwayTeamName>AS Carca</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-06 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830823</MatchID>
+        <MatchRound>5</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>177327</HomeTeamID>
+            <HomeTeamName>Buros FC</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1764486</AwayTeamID>
+            <AwayTeamName>Lesidefixdu60</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-06 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830824</MatchID>
+        <MatchRound>5</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>291167</HomeTeamID>
+            <HomeTeamName>Olympique de Mémed</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>967393</AwayTeamID>
+            <AwayTeamName>SC Bordeaux</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-06 21:10:00</MatchDate>
+        <HomeGoals>4</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830826</MatchID>
+        <MatchRound>5</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1761624</HomeTeamID>
+            <HomeTeamName>reyrieux platinium</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1756912</AwayTeamID>
+            <AwayTeamName>olympique d'hugo</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-06 21:10:00</MatchDate>
+        <HomeGoals>4</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830828</MatchID>
+        <MatchRound>6</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1764486</HomeTeamID>
+            <HomeTeamName>Lesidefixdu60</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>586189</AwayTeamID>
+            <AwayTeamName>BlackBird F.C.</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-13 21:10:00</MatchDate>
+        <HomeGoals>4</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830829</MatchID>
+        <MatchRound>6</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1765066</HomeTeamID>
+            <HomeTeamName>AS Carca</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1761624</AwayTeamID>
+            <AwayTeamName>reyrieux platinium</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-13 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>4</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830830</MatchID>
+        <MatchRound>6</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>967393</HomeTeamID>
+            <HomeTeamName>SC Bordeaux</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>177327</AwayTeamID>
+            <AwayTeamName>Buros FC</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-13 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>5</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830831</MatchID>
+        <MatchRound>6</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1756912</HomeTeamID>
+            <HomeTeamName>olympique d'hugo</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>291167</AwayTeamID>
+            <AwayTeamName>Olympique de Mémed</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-13 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>3</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830832</MatchID>
+        <MatchRound>7</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>586189</HomeTeamID>
+            <HomeTeamName>BlackBird F.C.</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1761624</AwayTeamID>
+            <AwayTeamName>reyrieux platinium</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-20 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>2</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830833</MatchID>
+        <MatchRound>7</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>291167</HomeTeamID>
+            <HomeTeamName>Olympique de Mémed</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1764486</AwayTeamID>
+            <AwayTeamName>Lesidefixdu60</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-20 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830834</MatchID>
+        <MatchRound>7</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>177327</HomeTeamID>
+            <HomeTeamName>Buros FC</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1765066</AwayTeamID>
+            <AwayTeamName>AS Carca</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-20 21:10:00</MatchDate>
+        <HomeGoals>2</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830837</MatchID>
+        <MatchRound>7</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>967393</HomeTeamID>
+            <HomeTeamName>SC Bordeaux</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1756912</AwayTeamID>
+            <AwayTeamName>olympique d'hugo</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-20 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830835</MatchID>
+        <MatchRound>8</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1756912</HomeTeamID>
+            <HomeTeamName>olympique d'hugo</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>967393</AwayTeamID>
+            <AwayTeamName>SC Bordeaux</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-27 21:10:00</MatchDate>
+        <HomeGoals>3</HomeGoals>
+        <AwayGoals>2</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830836</MatchID>
+        <MatchRound>8</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1765066</HomeTeamID>
+            <HomeTeamName>AS Carca</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>177327</AwayTeamID>
+            <AwayTeamName>Buros FC</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-27 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>3</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830838</MatchID>
+        <MatchRound>8</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1764486</HomeTeamID>
+            <HomeTeamName>Lesidefixdu60</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>291167</AwayTeamID>
+            <AwayTeamName>Olympique de Mémed</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-27 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830839</MatchID>
+        <MatchRound>8</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1761624</HomeTeamID>
+            <HomeTeamName>reyrieux platinium</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>586189</AwayTeamID>
+            <AwayTeamName>BlackBird F.C.</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-09-27 21:10:00</MatchDate>
+        <HomeGoals>5</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830840</MatchID>
+        <MatchRound>9</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>291167</HomeTeamID>
+            <HomeTeamName>Olympique de Mémed</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1756912</AwayTeamID>
+            <AwayTeamName>olympique d'hugo</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-04 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830841</MatchID>
+        <MatchRound>9</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>177327</HomeTeamID>
+            <HomeTeamName>Buros FC</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>967393</AwayTeamID>
+            <AwayTeamName>SC Bordeaux</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-04 21:10:00</MatchDate>
+        <HomeGoals>2</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830842</MatchID>
+        <MatchRound>9</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1761624</HomeTeamID>
+            <HomeTeamName>reyrieux platinium</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1765066</AwayTeamID>
+            <AwayTeamName>AS Carca</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-04 21:10:00</MatchDate>
+        <HomeGoals>3</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830843</MatchID>
+        <MatchRound>9</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>586189</HomeTeamID>
+            <HomeTeamName>BlackBird F.C.</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1764486</AwayTeamID>
+            <AwayTeamName>Lesidefixdu60</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-04 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830844</MatchID>
+        <MatchRound>10</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>967393</HomeTeamID>
+            <HomeTeamName>SC Bordeaux</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>291167</AwayTeamID>
+            <AwayTeamName>Olympique de Mémed</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-11 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>6</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830845</MatchID>
+        <MatchRound>10</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1756912</HomeTeamID>
+            <HomeTeamName>olympique d'hugo</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1761624</AwayTeamID>
+            <AwayTeamName>reyrieux platinium</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-11 21:10:00</MatchDate>
+        <HomeGoals>2</HomeGoals>
+        <AwayGoals>2</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830846</MatchID>
+        <MatchRound>10</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1764486</HomeTeamID>
+            <HomeTeamName>Lesidefixdu60</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>177327</AwayTeamID>
+            <AwayTeamName>Buros FC</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-11 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830847</MatchID>
+        <MatchRound>10</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1765066</HomeTeamID>
+            <HomeTeamName>AS Carca</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>586189</AwayTeamID>
+            <AwayTeamName>BlackBird F.C.</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-11 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830848</MatchID>
+        <MatchRound>11</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>177327</HomeTeamID>
+            <HomeTeamName>Buros FC</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1756912</AwayTeamID>
+            <AwayTeamName>olympique d'hugo</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-18 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830849</MatchID>
+        <MatchRound>11</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1761624</HomeTeamID>
+            <HomeTeamName>reyrieux platinium</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>291167</AwayTeamID>
+            <AwayTeamName>Olympique de Mémed</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-18 21:10:00</MatchDate>
+        <HomeGoals>3</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830850</MatchID>
+        <MatchRound>11</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1765066</HomeTeamID>
+            <HomeTeamName>AS Carca</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1764486</AwayTeamID>
+            <AwayTeamName>Lesidefixdu60</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-18 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830851</MatchID>
+        <MatchRound>11</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>586189</HomeTeamID>
+            <HomeTeamName>BlackBird F.C.</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>967393</AwayTeamID>
+            <AwayTeamName>SC Bordeaux</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-18 21:10:00</MatchDate>
+        <HomeGoals>4</HomeGoals>
+        <AwayGoals>2</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830852</MatchID>
+        <MatchRound>12</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>291167</HomeTeamID>
+            <HomeTeamName>Olympique de Mémed</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>177327</AwayTeamID>
+            <AwayTeamName>Buros FC</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-25 21:10:00</MatchDate>
+        <HomeGoals>2</HomeGoals>
+        <AwayGoals>0</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830853</MatchID>
+        <MatchRound>12</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>967393</HomeTeamID>
+            <HomeTeamName>SC Bordeaux</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1765066</AwayTeamID>
+            <AwayTeamName>AS Carca</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-25 21:10:00</MatchDate>
+        <HomeGoals>1</HomeGoals>
+        <AwayGoals>2</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830854</MatchID>
+        <MatchRound>12</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1764486</HomeTeamID>
+            <HomeTeamName>Lesidefixdu60</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1761624</AwayTeamID>
+            <AwayTeamName>reyrieux platinium</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-25 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>6</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830855</MatchID>
+        <MatchRound>12</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1756912</HomeTeamID>
+            <HomeTeamName>olympique d'hugo</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>586189</AwayTeamID>
+            <AwayTeamName>BlackBird F.C.</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-10-25 21:10:00</MatchDate>
+        <HomeGoals>0</HomeGoals>
+        <AwayGoals>1</AwayGoals>
+    </Match>
+    <Match>
+        <MatchID>489830856</MatchID>
+        <MatchRound>13</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1764486</HomeTeamID>
+            <HomeTeamName>Lesidefixdu60</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1756912</AwayTeamID>
+            <AwayTeamName>olympique d'hugo</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-11-01 21:10:00</MatchDate>
+    </Match>
+    <Match>
+        <MatchID>489830857</MatchID>
+        <MatchRound>13</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1761624</HomeTeamID>
+            <HomeTeamName>reyrieux platinium</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>967393</AwayTeamID>
+            <AwayTeamName>SC Bordeaux</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-11-01 21:10:00</MatchDate>
+    </Match>
+    <Match>
+        <MatchID>489830858</MatchID>
+        <MatchRound>13</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1765066</HomeTeamID>
+            <HomeTeamName>AS Carca</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>291167</AwayTeamID>
+            <AwayTeamName>Olympique de Mémed</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-11-01 21:10:00</MatchDate>
+    </Match>
+    <Match>
+        <MatchID>489830859</MatchID>
+        <MatchRound>13</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>586189</HomeTeamID>
+            <HomeTeamName>BlackBird F.C.</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>177327</AwayTeamID>
+            <AwayTeamName>Buros FC</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-11-01 21:10:00</MatchDate>
+    </Match>
+    <Match>
+        <MatchID>489830860</MatchID>
+        <MatchRound>14</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>1756912</HomeTeamID>
+            <HomeTeamName>olympique d'hugo</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1765066</AwayTeamID>
+            <AwayTeamName>AS Carca</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-11-08 21:10:00</MatchDate>
+    </Match>
+    <Match>
+        <MatchID>489830861</MatchID>
+        <MatchRound>14</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>967393</HomeTeamID>
+            <HomeTeamName>SC Bordeaux</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1764486</AwayTeamID>
+            <AwayTeamName>Lesidefixdu60</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-11-08 21:10:00</MatchDate>
+    </Match>
+    <Match>
+        <MatchID>489830862</MatchID>
+        <MatchRound>14</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>177327</HomeTeamID>
+            <HomeTeamName>Buros FC</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>1761624</AwayTeamID>
+            <AwayTeamName>reyrieux platinium</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-11-08 21:10:00</MatchDate>
+    </Match>
+    <Match>
+        <MatchID>489830863</MatchID>
+        <MatchRound>14</MatchRound>
+        <HomeTeam>
+            <HomeTeamID>291167</HomeTeamID>
+            <HomeTeamName>Olympique de Mémed</HomeTeamName>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>586189</AwayTeamID>
+            <AwayTeamName>BlackBird F.C.</AwayTeamName>
+        </AwayTeam>
+        <MatchDate>2014-11-08 21:10:00</MatchDate>
+    </Match>
+</HattrickData>

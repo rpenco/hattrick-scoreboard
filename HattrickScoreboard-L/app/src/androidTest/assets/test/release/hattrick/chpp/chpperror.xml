@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>chpperror.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-02 00:56:25</FetchedDate>
+    <Error> (59) Additional Info: The supplied teamId does not refer to a team managed by the requesting user</Error>
+    <ErrorCode>59</ErrorCode>
+    <ErrorGUID>7d9fecfd-fd91-4d4c-ae95-e661e9e769e0</ErrorGUID>
+    <Server>chpp93.hattrick.org</Server>
+    <Request>/chppxml.ashx?file=training&amp;version=2.2&amp;actionType=view&amp;teamId=174353&amp;=&amp;oauth_token=ifjP3zUXGBYCEvMa&amp;oauth_nonce=88927559-c04b-41e5-a770-98d92a7f33bf&amp;oauth_consumer_key=zcLBKUMmM2D6iCJofw9hfr&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1414886185&amp;oauth_version=1.0&amp;oauth_signature=mnjY5FyJiNkC3JCfMQ8nHHB4CS0%3D</Request>
+</HattrickData>

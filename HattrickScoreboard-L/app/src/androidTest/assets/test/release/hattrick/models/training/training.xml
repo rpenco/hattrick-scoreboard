@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>training.xml</FileName>
+    <Version>2.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:29:30</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <Team>
+        <TeamID>177327</TeamID>
+        <TeamName>Buros FC</TeamName>
+        <TrainingLevel>100</TrainingLevel>
+        <NewTrainingLevel Available="False" />
+        <TrainingType>8</TrainingType>
+        <StaminaTrainingPart>10</StaminaTrainingPart>
+        <LastTrainingTrainingType>8</LastTrainingTrainingType>
+        <LastTrainingTrainingLevel>100</LastTrainingTrainingLevel>
+        <LastTrainingStaminaTrainingPart>10</LastTrainingStaminaTrainingPart>
+        <Trainer>
+            <TrainerID>238124673</TrainerID>
+            <TrainerName>Patrik Chaloupka</TrainerName>
+            <ArrivalDate>2014-03-18 15:17:00</ArrivalDate>
+        </Trainer>
+        <SpecialTraining />
+        <Morale Available="True">1</Morale>
+        <SelfConfidence Available="True">5</SelfConfidence>
+        <Experience442>10</Experience442>
+        <Experience433>3</Experience433>
+        <Experience451>3</Experience451>
+        <Experience352>7</Experience352>
+        <Experience532>3</Experience532>
+        <Experience343>9</Experience343>
+        <Experience541>3</Experience541>
+        <Experience523>3</Experience523>
+        <Experience550>3</Experience550>
+        <Experience253>6</Experience253>
+    </Team>
+</HattrickData>

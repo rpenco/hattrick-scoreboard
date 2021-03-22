@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>AllianceDetails.xml</FileName>
+    <Version>1.5</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:00:42</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <ActionType>view</ActionType>
+    <Alliance>
+        <AllianceID>111777</AllianceID>
+        <AllianceName>2nd Team Flag Exchange</AllianceName>
+        <Abbreviation>2TFE</Abbreviation>
+        <Description>Have a rare 2nd team flag, and want to use it to your advantage? Set up here in our community and advertise your 2nd team flag in order to get flags for your first team!
+
+            Inoltre, visto che c'è un sacco di utenti italiani, offro anche una versione italiana: qua troverete uno scambio di bandiere utilizzando la vostra seconda squadra (bandiera rara) per ottenere un'altra bandiera rara per la vostra prima squadra. Iscrivetevi ai forum per pubblicizzarvi!</Description>
+        <LogoURL>http://res.hattrick.org/federationlogo/2/12/112/111777/111777.jpg</LogoURL>
+        <TopRole>Founder</TopRole>
+        <TopUserID>10840734</TopUserID>
+        <TopLoginname>rossismad</TopLoginname>
+        <CreationDate>2013-06-22 11:49:32</CreationDate>
+        <HomePageURL></HomePageURL>
+        <NumberOfMembers>35</NumberOfMembers>
+        <AwaitingRequests>0</AwaitingRequests>
+        <Languages>
+            <Language>
+                <LanguageID>3</LanguageID>
+                <LanguageName>Deutsch</LanguageName>
+            </Language>
+            <Language>
+                <LanguageID>2</LanguageID>
+                <LanguageName>English (UK)</LanguageName>
+            </Language>
+            <Language>
+                <LanguageID>4</LanguageID>
+                <LanguageName>Italiano</LanguageName>
+            </Language>
+        </Languages>
+    </Alliance>
+</HattrickData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>search.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:21:53</FetchedDate>
+    <SearchParams>
+        <SearchType>3</SearchType>
+        <SearchString>Bur</SearchString>
+        <SearchString2></SearchString2>
+        <SearchID>0</SearchID>
+        <SearchLeagueID>-1</SearchLeagueID>
+    </SearchParams>
+    <PageIndex>0</PageIndex>
+    <Pages>1</Pages>
+    <SearchResults />
+</HattrickData>

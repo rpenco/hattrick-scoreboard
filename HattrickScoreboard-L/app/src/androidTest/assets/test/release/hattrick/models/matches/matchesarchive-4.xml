@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>matchesArchive.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-30 23:30:43</FetchedDate>
+    <IsYouth>True</IsYouth>
+    <Team>
+        <TeamID>50596</TeamID>
+        <TeamName>Sülzer Hinterhof-Kicker</TeamName>
+        <MatchList>
+            <Match>
+                <MatchID>84435399</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>279850</HomeTeamID>
+                    <HomeTeamName>1. FC Dellbronx U19</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>50596</AwayTeamID>
+                    <AwayTeamName>Sülzer Hinterhof-Kicker</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-07-31 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>8</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84435404</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>50596</HomeTeamID>
+                    <HomeTeamName>Sülzer Hinterhof-Kicker</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>279850</AwayTeamID>
+                    <AwayTeamName>1. FC Dellbronx U19</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-07 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84435406</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>2291659</HomeTeamID>
+                    <HomeTeamName>Stendaler Lehrlinge</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>50596</AwayTeamID>
+                    <AwayTeamName>Sülzer Hinterhof-Kicker</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-14 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84435410</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>50596</HomeTeamID>
+                    <HomeTeamName>Sülzer Hinterhof-Kicker</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>12447</AwayTeamID>
+                    <AwayTeamName>Pharmaboys</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-21 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>85840414</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>445245</HomeTeamID>
+                    <HomeTeamName>gangspojkarna</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>50596</AwayTeamID>
+                    <AwayTeamName>Sülzer Hinterhof-Kicker</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-26 09:50:00</MatchDate>
+                <MatchType>105</MatchType>
+                <HomeGoals>7</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84435413</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>413560</HomeTeamID>
+                    <HomeTeamName>Ruhrpottjungs</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>50596</AwayTeamID>
+                    <AwayTeamName>Sülzer Hinterhof-Kicker</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-28 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84435416</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>2318395</HomeTeamID>
+                    <HomeTeamName>Als Jovenils</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>50596</AwayTeamID>
+                    <AwayTeamName>Sülzer Hinterhof-Kicker</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-04 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84435424</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>50596</HomeTeamID>
+                    <HomeTeamName>Sülzer Hinterhof-Kicker</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1560436</AwayTeamID>
+                    <AwayTeamName>Super Colonia Jugend</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-11 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>84435427</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>47387</HomeTeamID>
+                    <HomeTeamName>Levi's Apprentices</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>50596</AwayTeamID>
+                    <AwayTeamName>Sülzer Hinterhof-Kicker</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-18 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>9</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86410853</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>50596</HomeTeamID>
+                    <HomeTeamName>Sülzer Hinterhof-Kicker</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1560436</AwayTeamID>
+                    <AwayTeamName>Super Colonia Jugend</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-25 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86485762</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>2282193</HomeTeamID>
+                    <HomeTeamName>Fc-gilan</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>50596</AwayTeamID>
+                    <AwayTeamName>Sülzer Hinterhof-Kicker</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-29 11:20:00</MatchDate>
+                <MatchType>105</MatchType>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>6</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86410857</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>413560</HomeTeamID>
+                    <HomeTeamName>Ruhrpottjungs</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>50596</AwayTeamID>
+                    <AwayTeamName>Sülzer Hinterhof-Kicker</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-02 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>6</HomeGoals>
+                <AwayGoals>5</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86410859</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>50596</HomeTeamID>
+                    <HomeTeamName>Sülzer Hinterhof-Kicker</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>2291659</AwayTeamID>
+                    <AwayTeamName>Stendaler Lehrlinge</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-09 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>6</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86410862</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>279850</HomeTeamID>
+                    <HomeTeamName>1. FC Dellbronx U19</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>50596</AwayTeamID>
+                    <AwayTeamName>Sülzer Hinterhof-Kicker</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-16 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86410866</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>50596</HomeTeamID>
+                    <HomeTeamName>Sülzer Hinterhof-Kicker</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>2318395</AwayTeamID>
+                    <AwayTeamName>Als Jovenils</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-23 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86925183</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>50596</HomeTeamID>
+                    <HomeTeamName>Sülzer Hinterhof-Kicker</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>53657</AwayTeamID>
+                    <AwayTeamName>The Underdogs Utd. A1</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-25 21:55:00</MatchDate>
+                <MatchType>105</MatchType>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>86410871</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>12447</HomeTeamID>
+                    <HomeTeamName>Pharmaboys</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>50596</AwayTeamID>
+                    <AwayTeamName>Sülzer Hinterhof-Kicker</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-30 18:45:00</MatchDate>
+                <MatchType>100</MatchType>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+        </MatchList>
+    </Team>
+</HattrickData>

@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hattrick Scoreboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Generic -->
+    <string name="label_informations">Informació</string>
+    <string name="label_loading">Carregant…</string>
+    <string name="label_connexion_refused">connexió rebutjada…</string>
+    <string name="label_no_connexion">no hi ha connexió…</string>
+    <string name="label_confirm">Validar</string>
+    <string name="label_close">Deixi</string>
+    <string name="label_unavailable">Unavailable</string>
+    <string name="label_summary">Reportatge</string>
+    <string name="label_total">Total</string>
+    <string name="label_statistics">Estadístiques</string>
+    <string name="label_first_loading">La recuperació d\'informació, aquesta pot ser llarga ...</string>
+    <string name="label_cancel">Cancel·lar</string>
+    <string name="label_press_again_exit">Premeu una vegada més per sortir</string>
+
+    <!-- CHPP view -->
+    <string name="chpp_text_hattrick">Hattrick Scoreboard, només està disponible per jugadors de Hattrick.</string>
+    <string name="chpp_text_allow">Permeti que Scoreboard utilitzi el seu equip! Click per més informació.</string>
+    <string name="chpp_textfield_username">Usuari Hattrick</string>
+    <string name="chpp_textfield_password">Contrasenya Hattrick</string>
+    <string name="chpp_label_authentication_progress">Autorització en procés…</string>
+    <string name="chpp_label_authentication_refused">No s\'ha pogut autenticar, torni a provar…</string>
+    <string name="chpp_label_authentication_accepted">Autorització exitosa…</string>
+    <string name="chpp_title_permission">Détail des permissions CHPP Hattrick</string>
+    <string name="chpp_permission_edito_1">El seu nom d\'usuari / contrasenya només s\'utilitza per verificar la seva identitat de Hattrick i no es guarda / utilitzat en cap lloc.</string>
+    <string name="chpp_permission_edito_2">Aquesta aplicació vol connectar al seu compte de Hattrick amb els següents permisos:</string>
+    <string name="chpp_permission_title_1">- Accés a lectura</string>
+    <string name="chpp_permission_title_2">- Gestionar torneigs (en breu)</string>
+    <string name="chpp_permission_title_3">- Gestionar juvenils (en breu)</string>
+    <string name="chpp_permission_title_4">- Fer ofertes (en breu)</string>
+    <string name="chpp_permission_title_5">- Establir partits (en breu)</string>
+    <string name="chpp_permission_title_6">- Establir entrenament (en breu)</string>
+
+    <!-- Slider/Drawer -->
+    <string name="menu_title_team">Club</string>
+    <string name="menu_overview">Presentació</string>
+    <string name="menu_arena">Estadi</string>
+    <string name="menu_staff">Especialistes</string>
+    <string name="menu_fans">Aficionats</string>
+    <string name="menu_transfers">Transferències</string>
+    <string name="menu_finances">Economia</string>
+    <string name="menu_community">Comunitat</string>
+    <string name="menu_title_senior">Equip</string>
+    <string name="menu_players">Jugadors</string>
+    <string name="menu_matches">Partits</string>
+    <string name="menu_series">Lliga</string>
+    <string name="menu_training">Entrenament</string>
+    <string name="menu_title_youth">Equip juvenil</string>
+    <string name="menu_title_national">Seleccions nacionals</string>
+    <string name="menu_national_senior">Selecció absoluta</string>
+    <string name="menu_national_youth">Selecció Sub-20</string>
+    <string name="menu_notifications">Notificacions</string>
+    <string name="menu_settings">Configuració</string>
+
+    <!-- Team view -->
+    <string name="club_title_home">Equip</string>
+    <string name="club_title_success">Premis</string>
+    <string name="club_title_match_kit">Equipament</string>
+    <string name="club_label_position"># %1$d a %2$s</string>
+    <string name="club_label_stillcup">Segueix a la %1$s</string>
+    <string name="club_label_place">Lloc:</string>
+    <string name="club_label_fanclub">Aficionats:</string>
+    <string name="club_value_fanclub">%1$s membres</string>
+    <string name="club_label_arena">Estadi:</string>
+    <string name="club_label_rank">Posició global:</string>
+    <string name="club_value_rank">%1$s</string>
+    <string name="club_label_home">Local</string>
+    <string name="club_label_away">Visitant</string>
+    <string name="club_label_undefeated">L\'equip està invicte en %1$s jocs competitius</string>
+    <string name="club_label_victories">L\'equip porta %1$s partits oficials invicte i %2$s victòries consecutives..</string>
+
+    <!-- Arena view -->
+    <string name="arena_seats">%1$s seients</string>
+    <string name="arena_label_owner">Propietat de</string>
+    <string name="arena_label_lastbuild">Última remodelació</string>
+    <string name="arena_label_basic">Seients de lateral</string>
+    <string name="arena_label_terraces">Seients de general</string>
+    <string name="arena_label_roof">Seients de tribuna</string>
+    <string name="arena_label_VIP">Seients de llotja</string>
+    <string name="arena_label_total">Capacitat total</string>
+
+    <!-- Staff view -->
+    <string name="staff_label_level">Nivell %1$d</string>
+    <string name="staff_label_cost">Cost</string>
+
+    <!-- Staff view -->
+    <string-array name="staff_type">
+        <item>-</item>
+        <item>Entrenador assistent</item>
+        <item>Doctor</item>
+        <item>Portaveus</item>
+        <item>Psicòleg esportius</item>
+        <item>Fisioterapeuta</item>
+        <item>Directeur financier</item>
+    </string-array>
+
+    <!-- Economical view -->
+    <string name="finances_title_current">Actuals</string>
+    <string name="finances_title_lastweek">Anterior</string>
+    <string name="finances_title_income">Ingressos</string>
+    <string name="finances_title_costs">Despeses</string>
+    <string name="finances_label_cash">Diners disponibles</string>
+    <string name="finances_label_expectedcash">Beneficis/pèrues esperades</string>
+    <string name="finances_label_sponsorspopularity">Patrocinadors</string>
+    <string name="finances_label_supporterspopularity">Supporter</string>
+    <string name="finances_label_incomespectators">Taquilles</string>
+    <string name="finances_label_incomesponsors">Patrocinadors</string>
+    <string name="finances_label_incomefinancial">Finances</string>
+    <string name="finances_label_incomesoldplayers">Vendes de jugadors</string>
+    <string name="finances_label_incomesoldplayerscommission">Commissions</string>
+    <string name="finances_label_incometemporary">Altres</string>
+    <string name="finances_label_incomesum">Total ingressos</string>
+    <string name="finances_label_costs_arena">Estadi</string>
+    <string name="finances_label_costs_players">Sous</string>
+    <string name="finances_label_costs_financial">Interessos</string>
+    <string name="finances_label_costs_staff">Cos tècnic</string>
+    <string name="finances_label_costs_boughtplayers">Fitxatges de jugadors</string>
+    <string name="finances_label_costs_arenabuilding">Construcció</string>
+    <string name="finances_label_costs_temporary">Altres</string>
+    <string name="finances_label_costs_youth">Planter</string>
+    <string name="finances_label_costs_sum">Total despeses</string>
+    <!-- <string name="finances_label_expectedweekstotal">Beneficis/pèrues esperades</string> -->
+
+    <!-- Community view -->
+    <!-- TRANSLATE -->
+    <string name="community_title_bookmarks">Favorits</string>
+
+    <!-- Players view -->
+    <string name="players_label_age">%1$s anys i %2$s dies, TSI = %3$s</string>
+    <string name="players_label_form">Té forma %1$s</string>
+    <string name="players_label_stats_team_total">Total (excloent l\'entrenador)</string>
+    <string name="players_label_stats_TSI">TSI</string>
+    <string name="player_label_stats_costs">Salaris</string>
+    <string name="player_label_stats_nationalities">Nacionalitats</string>
+    <string name="player_label_stats_injuries">Ferit</string>
+    <string name="player_label_stats_specialities">Especialistes</string>
+    <string name="player_label_stats_yellow_cards">Advertit</string>
+    <string name="player_label_stats_red_cards">Exclosos</string>
+    <string name="player_label_stats_team_average">Mitjana de l\'equip (excloent l\'entrenador)</string>
+    <string name="player_label_stats_age">Edat</string>
+    <string name="player_label_stats_form">Forma</string>
+    <string name="player_label_stats_endurance">Resistència</string>
+    <string name="player_label_stats_experience">Experiencia</string>
+
+    <!-- Player view -->
+    <string name="player_description_form">Té forma %1$s i resistència %2$.</string>
+    <!-- agreeability: %1$s, aggressiveness: %2$s, honesty: %3$s -->
+    <string name="player_description_agreeability_aggressiveness_honesty">Un %1$s que és %2$s i %3$s.</string>
+    <!-- experience: %1$s, chief: %2$s -->
+    <string name="player_description_experience_leadership">Té un nivell %1$s d\'experiencia and %2$s de lideratge.</string>
+    <string name="player_description_loyalty">Té un nivell de fidelitat %1$s.</string>
+    <string name="player_description_owner">Propietari :</string>
+    <string name="player_description_salaire">Sou :</string>
+    <string name="player_description_speciality">Especialitat :</string>
+    <string name="player_label_caracteristics">Habilitats actuals</string>
+    <string name="player_label_statistics">Estadístiques</string>
+    <string name="player_label_overview">Fitxa presentació</string>
+    <string name="player_label_keeper">Porteria :</string>
+    <string name="player_label_defenser">Defensa :</string>
+    <string name="player_label_playmaker">Creativitat :</string>
+    <string name="player_label_winger">Extrem :</string>
+    <string name="player_label_passing">Passades :</string>
+    <string name="player_label_scorer">Anotació :</string>
+    <string name="player_label_setpieces">Pilota aturada :</string>
+    <string name="player_title_career">Carrera</string>
+    <string name="player_title_international_career">Carrera internacional</string>
+    <string name="player_label_last_game">Últim partit</string>
+    <string name="player_label_stats_career_goals">Gols personals :</string>
+    <string name="player_label_stats_career_hattrick">Hattricks  :</string>
+    <string name="player_label_stats_league_goals">Gols lliga actual :</string>
+    <string name="player_label_stats_cup_goals">Gols Copa actual :</string>
+    <string name="player_label_stats_friendlies_goals">Gols partits amistosos :</string>
+    <string name="player_label_stats_caps_national">Partits internacional :</string>
+    <string name="player_label_stats_caps_national_u20">Partits internacional (Sub-20) :</string>
+
+    <!-- Players -->
+    <!-- TRANSLATE -->
+    <string name="players_statistics">Statistics</string>
+    <string name="players_statistics_team">Team</string>
+    <string name="players_statistics_players">Players</string>
+    <string name="players_statistics_tsi">TSI: %1$s</string>
+    <string name="players_statistics_tsi_average">average: %1$s</string>
+    <string name="players_statistics_tsi_max">Max.: %1$s (%2$s)</string>
+    <string name="players_statistics_salary">Salaire: %1$s</string>
+    <string name="players_statistics_salary_average">Moyenne: %1$s</string>
+    <string name="players_statistics_salary_max">Max.: %1$s (%2$s)</string>
+    <string name="players_statistics_age">Age:</string>
+    <string name="players_statistics_age_average">Moyenne: %1$s ans, %2$s jours</string>
+    <string name="players_statistics_stamina">Stamina: %1$s</string>
+    <string name="players_statistics_endurance">Endurance: %1$s</string>
+    <string name="players_statistics_experience">Expérience: %1$s</string>
+    <string name="players_statistics_nationalities">Nationalités: %1$s</string>
+    <string name="players_statistics_injuries">Blessés: %1$s</string>
+    <string name="players_statistics_yellow_cards">Cartons jaunes: %1$s</string>
+    <string name="players_statistics_red_cards">Cartons rouges: %1$s</string>
+
+    <!-- Matches -->
+    <string name="matches_series_week">Rounda %1$d</string>
+    <string name="matches_week">Setmana %1$d</string>
+    <string name="matches_overflow_menu_add_live">Afegir a HT-Live</string>
+    <string name="matches_overflow_menu_remove_live">Retire HT-Live</string>
+
+    <!-- Series view -->
+    <string name="series_title_classment">Classificació</string>
+    <string name="series_team">EQUIP</string>
+    <string name="series_played">PJ</string>
+    <string name="series_goals">G</string>
+    <string name="series_differences">Dif.</string>
+    <string name="series_points">Pts</string>
+    <string name="series_title_date">Rounde</string>
+    <string name="series_round_date">Rounda %1$d - %2$s</string>
+
+    <!-- Training -->
+    <string name="training_title_team">Equip</string>
+    <string name="training_label_team_spririt">Esperit d\'equip</string>
+    <string name="training_label_self_confidence">Confiança</string>
+    <string name="training_label_level">Experiència sistema tàctic</string>
+    <string name="training_label_experience_550">Experiència 5–5–0</string>
+    <string name="training_label_experience_541">Experiència 5–4–1</string>
+    <string name="training_label_experience_532">Experiència 5–3–2</string>
+    <string name="training_label_experience_523">Experiència 5–2–3</string>
+    <string name="training_label_experience_451">Experiència 4–5–1</string>
+    <string name="training_label_experience_442">Experiència 4–4–2</string>
+    <string name="training_label_experience_433">Experiència 4–3–3</string>
+    <string name="training_label_experience_352">Experiència 3–5–2</string>
+    <string name="training_label_experience_343">Experiència 3–4–3</string>
+    <string name="training_label_experience_253">Experiència 2–5–3</string>
+
+    <!-- Match detail -->
+
+    <string name="match_title_highlight">DETALLS</string>
+    <string name="match_title_summary">Reportatge</string>
+    <string name="match_title_statistics">Estadístiques</string>
+    <string name="match_title_lineup">Alineaciós</string>
+    <string name="match_title_date">Data</string>
+    <string name="match_title_arena">Estadi</string>
+    <string name="match_title_referee">Àrbitre</string>
+    <string name="match_title_spectators">Espectadors</string>
+
+    <!-- TRANSLATE -->
+    <string name="match_event_weather_rain">Temps pluvieux</string>
+    <string name="match_event_weather_cloudy">Temps nuageux</string>
+    <string name="match_event_weather_fear">Temps partiellement ensoleillé</string>
+    <string name="match_event_weather_sunny">Temps ensoleillé</string>
+    <string name="match_event_best_player">Meilleur joueur: %1$s</string>
+    <string name="match_event_worst_player">Pire joueur: %1$s</string>
+    <string name="match_event_halftime">Mi-temps</string>
+    <string name="match_event_walkover">Victoire (forfait)</string>
+    <string name="match_event_penalty_goal">Penalty %1$s</string>
+    <string name="match_event_extension">Prolongation</string>
+    <string name="match_event_penalty_contest">Tirs aux buts</string>
+    <string name="match_event_coin">Tirage au sort</string>
+    <string name="match_event_substitution">par %1$s</string>
+    <string name="match_event_yellow_card">Amonestació: %1$s</string>
+    <string name="match_event_tactical_change">Canvi de tactica</string>
+    <string name="match_event_tactical_pressing">Pressing</string>
+    <string name="match_event_tactical_counter_attack">Contre-attaque</string>
+    <string name="match_event_tactical_attack_middle">Attaque au centre</string>
+    <string name="match_event_tactical_attack_wings">Attaque sur les ailes</string>
+    <string name="match_event_tactical_attack_creativity">Créativité</string>
+    <string name="match_event_tactical_long_shot">Tirs de loin</string>
+    <string name="match_statistics_possession_half_time">Possessió 1a part</string>
+    <string name="match_statistics_possession_full_time">Possessió 2a part</string>
+    <string name="match_statistics_possession_average">Mitjana possessió</string>
+    <string name="match_statistics_def_right">Defensa dreta</string>
+    <string name="match_statistics_def_center">Defensa central </string>
+    <string name="match_statistics_def_left">Defensa esquerre</string>
+    <string name="match_statistics_middle">Mig camp</string>
+    <string name="match_statistics_forward_right">Atac dret </string>
+    <string name="match_statistics_forward_center">Atac central</string>
+    <string name="match_statistics_forward_left">Atac esquerre</string>
+    <string name="match_subsitution_keeper">Gardien</string>
+    <string name="match_subsitution_defender">Défenseur</string>
+    <string name="match_subsitution_midflied">Milieu de terrain</string>
+    <string name="match_subsitution_forward">Attaquant</string>
+    <string name="match_subsitution_winger">Ailier</string>
+    <string name="match_score_finished">Terminé</string>
+    <string name="match_hatstat_defense">Defensa:</string>
+    <string name="match_hatstat_middle">Mig camp:</string>
+    <string name="match_hatstat_forward">Atac:</string>
+
+    <!-- Notifications view -->
+    <!-- TRANSLATE -->
+    <string name="notification_title_application">Aplicació</string>
+    <string name="notification_title_my_teams">Meus equips</string>
+    <string name="notification_title_national_teams">Equips nacionals</string>
+    <string name="notification_title_other_teams">Equips seguit</string>
+
+    <string name="notification_label_economy">Actualitzacions econòmiques</string>
+    <string name="notification_label_training">Efectes entrenament</string>
+    <string name="notification_label_remember_1hour">Inici partit - Recordatori 1 hora</string>
+    <string name="notification_label_remember_15min">Inici partit - Recordatori 15 minuts</string>
+    <string name="notification_label_kickoff">Inici partit / Resultat final partit</string>
+    <string name="notification_label_halftime">Resultat Mitja part / Pròrroga</string>
+    <string name="notification_label_goals">Gols</string>
+    <string name="notification_label_cards">Targetes grogues i vermelles</string>
+    <string name="notification_label_cards_opponent">Targetes grogues i vermelles (rivals)</string>
+    <string name="notification_label_injuries">Lesions jugadors</string>
+    <string name="notification_label_injuries_opponent">Lesions jugadors (rivals)</string>
+
+    <!-- Settings -->
+    <string name="settings_title_application">Aplicació</string>
+    <!-- <string name="settings_title_data_storage">Données stockées</string> -->
+    <string name="settings_label_language">Escull idioma</string>
+    <string name="settings_label_color">Escull color</string>
+
+    <!-- TRANSLATE -->
+    <string name="settings_label_country">Changer le pays de référence</string>
+    <!--  <string name="settings_label_news">Què hi ha de nou?</string> -->
+
+    <string name="settings_label_licenses">Llicències Open Sources</string>
+
+<!--    <string name="settings_label_data_clear">Effacer les informations obsolètes</string>
+    <string name="settings_label_data_update">Mettre à jour les informations</string> -->
+
+    <!-- TRANSLATE -->
+    <string name="settings_licenses_version">Version: %1$s</string>
+
+    <!-- Color picker -->
+    <!-- TRANSLATE -->
+    <string name="colorpicker_title_preview">Prevista</string>
+    <string name="colorpicker_title_predefined">Colors predefinits</string>
+
+    <!-- Search dialog -->
+    <string name="search_title_result">%1$d resultats</string>
+
+    <!-- Menu actions -->
+    <string name="action_search">Cercar</string>
+    <string name="action_live">HT-Live</string>
+
+    <!-- Search Dialog -->
+    <string-array name="search_items">
+
+        <!-- <item>Joueur</item> -->
+        <!-- <item>Stade</item> -->
+        <!-- <item>Manager</item> -->
+        <!-- <item>Ligue</item> -->
+        <item>Equip</item>
+        <!-- <item>Région</item> -->
+        <!-- <item>Match</item> -->
+    </string-array>
+
+    <!-- Notifications event -->
+    <string name="notif_title_team_default" formatted="false">%1$s %3$s-%4$s %2$s</string>
+    <string name="notif_title_team_home" formatted="false">[%1$s] %3$s-%4$s %2$s</string>
+    <string name="notif_title_team_away" formatted="false">%1$s %3$s-%4$s [%2$s]</string>
+    <string name="notif_title_goal_home" formatted="false">%1$s [%3$s]-%4$s %2$s</string>
+    <string name="notif_title_goal_away" formatted="false">%1$s %3$s-[%4$s] %2$s</string>
+    <string name="notif_text_kickoff">Inici partit!</string>
+    <string name="notif_text_halftime">Mitja part!</string>
+    <string name="notif_text_walkover">Final partit! (Forfait).</string>
+    <string name="notif_text_goal_penalty">Gol sur pénalty.</string>
+    <string name="notif_text_goal_counter_attack">Gol sur contre-attaque.</string>
+    <string name="notif_text_goal_se">But sur exploit individuel.</string>
+    <string name="notif_text_extension">Pròrroga!</string>
+    <string name="notif_text_penalty_contest">Tirs aux buts</string>
+    <string name="notif_text_coin">Tirage au sort</string>
+    <string name="notif_text_injury">Lesió lleu</string>
+    <string name="notif_text_injury_leave">Lesió lleu (substitució)</string>
+    <string name="notif_text_badly_injury">Lesió greu</string>
+    <string name="notif_text_badly_injury_leave">Lesió greu (substitució)</string>
+    <string name="notif_text_badly_injury_no_leave">Blessure grave (sense reemplaçament)</string>
+    <string name="notif_text_goal_freekick">Gol sur coup-franc</string>
+    <string name="notif_text_goal_middle">Gol par le centre</string>
+    <string name="notif_text_goal_left">Gol par la gauche</string>
+    <string name="notif_text_goal_right">Gol par la droite</string>
+    <string name="notif_text_goal_indirect_freekick">Gol sur coup-franc indirect</string>
+    <string name="notif_text_goal_long">Gol sur un tir de loin</string>
+    <string name="notif_text_yellow_card">Targeta groga</string>
+    <string name="notif_text_yellow_red_card">Targeta vermella (2° groga)</string>
+    <string name="notif_text_red_card">Targeta vermella</string>
+    <string name="notif_text_fulltime">Final partit!</string>
+
+    <!-- ========================== -->
+    <!-- HATTRICK OFFICIAL VALUES -->
+    <!-- ========================== -->
+
+
+    <!-- Sponsor Level Array -->
+    <string-array name="hattrick_spirit">
+        <item>com a la guerra freda</item>
+        <item>mala maror</item>
+        <item>desil·lusionats</item>
+        <item>pessimistes</item>
+        <item>serens</item>
+        <item>optimistes</item>
+        <item>il·lusionats</item>
+        <item>entusiasmats</item>
+        <item>eufòrics</item>
+        <item>als núvols</item>
+        <item>paradís terrenal!</item>
+    </string-array>
+
+    <!-- Skill level array -->
+    <string-array name="hattrick_skills">
+        <item>inexistent</item>
+        <item>desastrós</item>
+        <item>horrible</item>
+        <item>pobre</item>
+        <item>dèbil</item>
+        <item>insuficient</item>
+        <item>acceptable</item>
+        <item>notable</item>
+        <item>excel·lent</item>
+        <item>formidable</item>
+        <item>destacat</item>
+        <item>brillant</item>
+        <item>magnífic</item>
+        <item>classe mundial</item>
+        <item>sobrenatural</item>
+        <item>titànic</item>
+        <item>extraterrestre</item>
+        <item>mític</item>
+        <item>màgic</item>
+        <item>utòpic</item>
+        <item>diví</item>
+    </string-array>
+
+    <!-- Match Rating Array -->
+    <string-array name="hattrick_match_rating">
+        <item>inexistent</item>
+        <item>desastrós (molt baix)</item>
+        <item>desastrós (baix)</item>
+        <item>desastrós (alt)</item>
+        <item>desastrós (molt alt)</item>
+        <item>horrible (molt baix)</item>
+        <item>horrible (baix)</item>
+        <item>horrible (alt)</item>
+        <item>horrible (molt alt)</item>
+        <item>pobre (molt baix)</item>
+        <item>pobre (baix)</item>
+        <item>pobre (alt)</item>
+        <item>pobre (molt alt)</item>
+        <item>dèbil (molt baix)</item>
+        <item>dèbil (baix)</item>
+        <item>dèbil (alt)</item>
+        <item>dèbil (molt alt)</item>
+        <item>insuficient (molt baix)</item>
+        <item>insuficient (baix)</item>
+        <item>insuficient (alt)</item>
+        <item>insuficient (molt alt)</item>
+        <item>acceptable (molt baix)</item>
+        <item>acceptable (baix)</item>
+        <item>acceptable (alt)</item>
+        <item>acceptable (molt alt)</item>
+        <item>notable (molt baix)</item>
+        <item>notable (baix)</item>
+        <item>notable (alt)</item>
+        <item>notable (molt alt)</item>
+        <item>excel·lent (molt baix)</item>
+        <item>excel·lent (baix)</item>
+        <item>excel·lent (alt)</item>
+        <item>excel·lent (molt alt)</item>
+        <item>formidable (molt baix)</item>
+        <item>formidable (baix)</item>
+        <item>formidable (alt)</item>
+        <item>formidable (molt alt)</item>
+        <item>destacat (molt baix)</item>
+        <item>destacat (baix)</item>
+        <item>destacat (alt)</item>
+        <item>destacat (molt alt)</item>
+        <item>brillant (molt baix)</item>
+        <item>brillant (baix)</item>
+        <item>brillant (alt)</item>
+        <item>brillant (molt alt)</item>
+        <item>magnífic (molt baix)</item>
+        <item>magnífic (baix)</item>
+        <item>magnífic (alt)</item>
+        <item>magnífic (molt alt)</item>
+        <item>classe mundial (molt baix)</item>
+        <item>classe mundial (baix)</item>
+        <item>classe mundial (alt)</item>
+        <item>classe mundial (molt alt)</item>
+        <item>sobrenatural (molt baix)</item>
+        <item>sobrenatural (baix)</item>
+        <item>sobrenatural (alt)</item>
+        <item>sobrenatural (molt alt)</item>
+        <item>titànic (molt baix)</item>
+        <item>titànic (baix)</item>
+        <item>titànic (alt)</item>
+        <item>titànic (molt alt)</item>
+        <item>extreterrestre (molt baix)</item>
+        <item>extreterrestre (baix)</item>
+        <item>extreterrestre (alt)</item>
+        <item>extreterrestre (molt alt)</item>
+        <item>mític (molt baix)</item>
+        <item>mític (baix)</item>
+        <item>mític (alt)</item>
+        <item>mític (molt alt)</item>
+        <item>màgic (molt baix)</item>
+        <item>màgic (baix)</item>
+        <item>màgic (alt)</item>
+        <item>màgic (molt alt)</item>
+        <item>utòpic (molt baix)</item>
+        <item>utòpic (baix)</item>
+        <item>utòpic (alt)</item>
+        <item>utòpic (molt alt)</item>
+        <item>diví (molt baix)</item>
+        <item>diví (baix)</item>
+        <item>diví (alt)</item>
+        <item>diví (molt alt)</item>
+    </string-array>
+
+    <!-- Sponsor Level Array -->
+    <string-array name="hattrick_sponsors">
+        <item>sanguinaris</item>
+        <item>furiosos</item>
+        <item>irritats</item>
+        <item>calmats</item>
+        <item>conformes</item>
+        <item>satisfets</item>
+        <item>encantats</item>
+        <item>feliços</item>
+        <item>ballant pels carrers</item>
+        <item>enviant-te poemes d\'amor</item>
+    </string-array>
+
+    <!-- Weather Array -->
+    <!-- <string-array name="hattrick_weather">
+        <item>Pluja</item>
+        <item>Ennuvolat</item>
+        <item>Núvols i clarianes</item>
+        <item>Assolellat</item>
+    </string-array> -->
+
+    <!-- Fan Exceptation Level -->
+    <string-array name="hattrick_fan_exceptation">
+        <item>Millor que no el mireu!</item>
+        <item>Ens superen clarament</item>
+        <item>Perdrem</item>
+        <item>Són els favorits</item>
+        <item>Tenen l\'avantatge</item>
+        <item>Estarà ajustat</item>
+        <item>Tenim l\'avantatge</item>
+        <item>Som els favorits</item>
+        <item>Guanyarem</item>
+        <item>Bufar i fer ampolles!</item>
+        <item>Humiliem-los</item>
+    </string-array>
+
+    <!-- Fan Mood Level -->
+    <string-array name="hattrick_fan_mood">
+        <item>sanguinaris</item>
+        <item>furiosos</item>
+        <item>emprenyats</item>
+        <item>irritats</item>
+        <item>desmoralitzats</item>
+        <item>calmats</item>
+        <item>conformes</item>
+        <item>satisfets</item>
+        <item>encantats</item>
+        <item>feliços</item>
+        <item>ballant pels carrers</item>
+        <item>enviant-te poemes d\'amor</item>
+    </string-array>
+
+    <!-- Fan Saison Exceptation Level -->
+    <string-array name="hattrick_fan_saison_exceptation">
+        <item>No som dignes d\'aquesta divisió</item>
+        <item>Cada dia en aquesta divisió és un regal</item>
+        <item>Haurem de lluitar per la permanència</item>
+        <item>Acabar a mitja taula no estaria malament</item>
+        <item>Estem entre els 4 millors</item>
+        <item>Lluitarem pel títol!</item>
+        <item>Hem de guanyar aquesta lliga</item>
+        <item>Estem per sobre d\'aquesta divisió!</item>
+    </string-array>
+
+    <!-- Player Agreeablility Level -->
+    <string-array name="hattrick_player_agreeability">
+        <item>noi malintencionat</item>
+        <item>noi plèmic</item>
+        <item>noi agradable</item>
+        <item>noi carismàtic</item>
+        <item>noi popular</item>
+        <item>apreciat company d\'equip</item>
+    </string-array>
+
+    <!-- Player Honesty -->
+    <string-array name="hattrick_player_honesty">
+        <item>infame</item>
+        <item>deshonest</item>
+        <item>honest</item>
+        <item>just</item>
+        <item>honorable</item>
+        <item>un sant</item>
+    </string-array>
+
+    <!-- Player agressivness -->
+    <string-array name="hattrick_player_agressivness">
+        <item>tranquil</item>
+        <item>calmat</item>
+        <item>estable</item>
+        <item>temperamental</item>
+        <item>iracund</item>
+        <item>rabiós</item>
+    </string-array>
+
+    <!-- Player Speciality -->
+    <string-array name="hattrick_player_speciality">
+        <item>Cap especialitat</item>
+        <item>Tècnic</item>
+        <item>Ràpid</item>
+        <item>Potent</item>
+        <item>Imprevisible</item>
+        <item>Joc aeri</item>
+        <item>Cura ràpida</item>
+    </string-array>
+
+    <!-- Player Self Confidence -->
+    <string-array name="hattrick_confidence">
+        <item>inexistent</item>
+        <item>per terra</item>
+        <item>baixa</item>
+        <item>fluixa</item>
+        <item>decent</item>
+        <item>considerable</item>
+        <item>alta</item>
+        <item>lleugerament exagerada</item>
+        <item>exagerada</item>
+        <item>completament exagerada</item>
+        <item></item>
+    </string-array>
+
+</resources>

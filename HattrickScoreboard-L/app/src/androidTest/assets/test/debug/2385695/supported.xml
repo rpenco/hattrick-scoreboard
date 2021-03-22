@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>supporters.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:38:06</FetchedDate>
+    <SupportedTeams TotalItems="1">
+        <SupportedTeam>
+            <UserId>2297205</UserId>
+            <LoginName>spindoktoren</LoginName>
+            <TeamId>404673</TeamId>
+            <TeamName>Charlie Parker United</TeamName>
+            <LeagueID>11</LeagueID>
+            <LeagueName>Danemark</LeagueName>
+            <LeagueLevelUnitID>2066</LeagueLevelUnitID>
+            <LeagueLevelUnitName>V.213</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>498233141</LastMatchId>
+                <LastMatchDate>2014-10-29 13:30:00</LastMatchDate>
+                <LastMatchHomeTeamId>318042</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>de dikkedréééés</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>0</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>404673</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Charlie Parker United</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>7</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>493354085</NextMatchId>
+                <NextMatchMatchDate>2014-11-02 16:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>576932</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Charlie Parker United</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>576932</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Hundehandleren!</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+    </SupportedTeams>
+</HattrickData>

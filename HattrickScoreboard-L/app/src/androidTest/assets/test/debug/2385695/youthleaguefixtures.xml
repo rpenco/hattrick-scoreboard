@@ -1,0 +1,2067 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>youthleaguefixtures.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:40:49</FetchedDate>
+    <YouthLeagueID>1947</YouthLeagueID>
+    <YouthLeagueName>Talenterne</YouthLeagueName>
+    <YouthLeagueType>3</YouthLeagueType>
+    <Season>19</Season>
+    <LastMatchRound>17</LastMatchRound>
+    <NrOfTeamsInLeague>12</NrOfTeamsInLeague>
+    <Matches>
+        <Match>
+            <MatchID>84845129</MatchID>
+            <MatchRound>1</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-10 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845130</MatchID>
+            <MatchRound>1</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-10 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845131</MatchID>
+            <MatchRound>1</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-10 08:00:00</MatchDate>
+            <HomeGoals>9</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845132</MatchID>
+            <MatchRound>1</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-10 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845136</MatchID>
+            <MatchRound>1</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-10 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845152</MatchID>
+            <MatchRound>1</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-10 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845133</MatchID>
+            <MatchRound>2</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-17 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845134</MatchID>
+            <MatchRound>2</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-17 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845135</MatchID>
+            <MatchRound>2</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-17 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845137</MatchID>
+            <MatchRound>2</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-17 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845138</MatchID>
+            <MatchRound>2</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-17 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845159</MatchID>
+            <MatchRound>2</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-17 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845139</MatchID>
+            <MatchRound>3</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-24 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>8</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845140</MatchID>
+            <MatchRound>3</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-24 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845141</MatchID>
+            <MatchRound>3</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-24 08:00:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845142</MatchID>
+            <MatchRound>3</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-24 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845143</MatchID>
+            <MatchRound>3</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-24 08:00:00</MatchDate>
+            <HomeGoals>6</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845151</MatchID>
+            <MatchRound>3</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-24 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845144</MatchID>
+            <MatchRound>4</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-31 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845145</MatchID>
+            <MatchRound>4</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-31 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>5</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845146</MatchID>
+            <MatchRound>4</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-31 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845147</MatchID>
+            <MatchRound>4</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-31 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845148</MatchID>
+            <MatchRound>4</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-31 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845149</MatchID>
+            <MatchRound>4</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-07-31 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845150</MatchID>
+            <MatchRound>5</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-07 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845153</MatchID>
+            <MatchRound>5</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-07 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845154</MatchID>
+            <MatchRound>5</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-07 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>5</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845155</MatchID>
+            <MatchRound>5</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-07 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845156</MatchID>
+            <MatchRound>5</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-07 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845158</MatchID>
+            <MatchRound>5</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-07 08:00:00</MatchDate>
+            <HomeGoals>6</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845157</MatchID>
+            <MatchRound>6</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-14 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845160</MatchID>
+            <MatchRound>6</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-14 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845161</MatchID>
+            <MatchRound>6</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-14 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845162</MatchID>
+            <MatchRound>6</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-14 08:00:00</MatchDate>
+            <HomeGoals>6</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845163</MatchID>
+            <MatchRound>6</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-14 08:00:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845164</MatchID>
+            <MatchRound>6</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-14 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845165</MatchID>
+            <MatchRound>7</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-21 08:00:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845166</MatchID>
+            <MatchRound>7</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-21 08:00:00</MatchDate>
+            <HomeGoals>6</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845167</MatchID>
+            <MatchRound>7</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-21 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845168</MatchID>
+            <MatchRound>7</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-21 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845171</MatchID>
+            <MatchRound>7</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-21 08:00:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845172</MatchID>
+            <MatchRound>7</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-21 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845169</MatchID>
+            <MatchRound>8</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-28 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845170</MatchID>
+            <MatchRound>8</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-28 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>6</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845173</MatchID>
+            <MatchRound>8</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-28 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845174</MatchID>
+            <MatchRound>8</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-28 08:00:00</MatchDate>
+            <HomeGoals>8</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845175</MatchID>
+            <MatchRound>8</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-28 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845183</MatchID>
+            <MatchRound>8</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-08-28 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845176</MatchID>
+            <MatchRound>9</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-04 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845177</MatchID>
+            <MatchRound>9</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-04 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845178</MatchID>
+            <MatchRound>9</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-04 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845179</MatchID>
+            <MatchRound>9</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-04 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845180</MatchID>
+            <MatchRound>9</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-04 08:00:00</MatchDate>
+            <HomeGoals>7</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845181</MatchID>
+            <MatchRound>9</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-04 08:00:00</MatchDate>
+            <HomeGoals>7</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845182</MatchID>
+            <MatchRound>10</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-11 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845184</MatchID>
+            <MatchRound>10</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-11 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845186</MatchID>
+            <MatchRound>10</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-11 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845187</MatchID>
+            <MatchRound>10</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-11 08:00:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845188</MatchID>
+            <MatchRound>10</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-11 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845191</MatchID>
+            <MatchRound>10</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-11 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845185</MatchID>
+            <MatchRound>11</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-18 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845189</MatchID>
+            <MatchRound>11</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-18 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>5</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845190</MatchID>
+            <MatchRound>11</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-18 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845192</MatchID>
+            <MatchRound>11</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-18 08:00:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845193</MatchID>
+            <MatchRound>11</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-18 08:00:00</MatchDate>
+            <HomeGoals>6</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845194</MatchID>
+            <MatchRound>11</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-18 08:00:00</MatchDate>
+            <HomeGoals>9</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845195</MatchID>
+            <MatchRound>12</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-25 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845196</MatchID>
+            <MatchRound>12</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-25 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845197</MatchID>
+            <MatchRound>12</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-25 08:00:00</MatchDate>
+            <HomeGoals>6</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845198</MatchID>
+            <MatchRound>12</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-25 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845199</MatchID>
+            <MatchRound>12</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-25 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>5</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845200</MatchID>
+            <MatchRound>12</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-25 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845201</MatchID>
+            <MatchRound>13</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-02 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845202</MatchID>
+            <MatchRound>13</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-02 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845203</MatchID>
+            <MatchRound>13</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-02 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845204</MatchID>
+            <MatchRound>13</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-02 08:00:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845205</MatchID>
+            <MatchRound>13</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-02 08:00:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845206</MatchID>
+            <MatchRound>13</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-02 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845207</MatchID>
+            <MatchRound>14</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-09 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845208</MatchID>
+            <MatchRound>14</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-09 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845209</MatchID>
+            <MatchRound>14</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-09 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845210</MatchID>
+            <MatchRound>14</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-09 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845211</MatchID>
+            <MatchRound>14</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-09 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845213</MatchID>
+            <MatchRound>14</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-09 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>8</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845212</MatchID>
+            <MatchRound>15</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-16 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845214</MatchID>
+            <MatchRound>15</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-16 08:00:00</MatchDate>
+            <HomeGoals>9</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845215</MatchID>
+            <MatchRound>15</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-16 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845216</MatchID>
+            <MatchRound>15</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-16 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>6</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845218</MatchID>
+            <MatchRound>15</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-16 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845220</MatchID>
+            <MatchRound>15</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-16 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845217</MatchID>
+            <MatchRound>16</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-23 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845219</MatchID>
+            <MatchRound>16</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-23 08:00:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845221</MatchID>
+            <MatchRound>16</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-23 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845222</MatchID>
+            <MatchRound>16</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-23 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>2</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845224</MatchID>
+            <MatchRound>16</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-23 08:00:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845225</MatchID>
+            <MatchRound>16</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-23 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845223</MatchID>
+            <MatchRound>17</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-30 08:00:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845226</MatchID>
+            <MatchRound>17</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-30 08:00:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845227</MatchID>
+            <MatchRound>17</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-30 08:00:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>5</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845228</MatchID>
+            <MatchRound>17</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-30 08:00:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845229</MatchID>
+            <MatchRound>17</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-30 08:00:00</MatchDate>
+            <HomeGoals>6</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845230</MatchID>
+            <MatchRound>17</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-30 08:00:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>84845231</MatchID>
+            <MatchRound>18</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-06 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845232</MatchID>
+            <MatchRound>18</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-06 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845233</MatchID>
+            <MatchRound>18</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-06 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845234</MatchID>
+            <MatchRound>18</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-06 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845235</MatchID>
+            <MatchRound>18</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-06 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845236</MatchID>
+            <MatchRound>18</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-06 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845237</MatchID>
+            <MatchRound>19</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-13 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845238</MatchID>
+            <MatchRound>19</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-13 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845239</MatchID>
+            <MatchRound>19</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-13 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845240</MatchID>
+            <MatchRound>19</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-13 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845241</MatchID>
+            <MatchRound>19</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-13 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845242</MatchID>
+            <MatchRound>19</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-13 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845243</MatchID>
+            <MatchRound>20</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-20 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845244</MatchID>
+            <MatchRound>20</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>2322318</HomeTeamID>
+                <HomeTeamName>Dom små mullvaden</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-20 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845245</MatchID>
+            <MatchRound>20</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-20 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845246</MatchID>
+            <MatchRound>20</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-20 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845247</MatchID>
+            <MatchRound>20</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-20 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845248</MatchID>
+            <MatchRound>20</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>10205</AwayTeamID>
+                <AwayTeamName>Tordendragen</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-20 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845249</MatchID>
+            <MatchRound>21</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>730972</HomeTeamID>
+                <HomeTeamName>GiglieB</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>11622</AwayTeamID>
+                <AwayTeamName>Primavera</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-27 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845250</MatchID>
+            <MatchRound>21</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1283114</HomeTeamID>
+                <HomeTeamName>LT Ploppies</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>996364</AwayTeamID>
+                <AwayTeamName>lille sønderjyske</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-27 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845251</MatchID>
+            <MatchRound>21</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>66389</AwayTeamID>
+                <AwayTeamName>Nuuk Roosters</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-27 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845252</MatchID>
+            <MatchRound>21</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>194727</HomeTeamID>
+                <HomeTeamName>WFC Youngstars</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>16274</AwayTeamID>
+                <AwayTeamName>Charlies Angels</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-27 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845253</MatchID>
+            <MatchRound>21</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1407814</HomeTeamID>
+                <HomeTeamName>FK Nestflüchter</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1216597</AwayTeamID>
+                <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-27 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845255</MatchID>
+            <MatchRound>21</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>2142225</HomeTeamID>
+                <HomeTeamName>Danish Homegrown</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-27 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845254</MatchID>
+            <MatchRound>22</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>996364</HomeTeamID>
+                <HomeTeamName>lille sønderjyske</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>194727</AwayTeamID>
+                <AwayTeamName>WFC Youngstars</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-04 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845256</MatchID>
+            <MatchRound>22</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>66389</HomeTeamID>
+                <HomeTeamName>Nuuk Roosters</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2322318</AwayTeamID>
+                <AwayTeamName>Dom små mullvaden</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-04 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845257</MatchID>
+            <MatchRound>22</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1216597</HomeTeamID>
+                <HomeTeamName>Ølstykke Juniors</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2142225</AwayTeamID>
+                <AwayTeamName>Danish Homegrown</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-04 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845258</MatchID>
+            <MatchRound>22</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>16274</HomeTeamID>
+                <HomeTeamName>Charlies Angels</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1407814</AwayTeamID>
+                <AwayTeamName>FK Nestflüchter</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-04 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845259</MatchID>
+            <MatchRound>22</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>11622</HomeTeamID>
+                <HomeTeamName>Primavera</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1283114</AwayTeamID>
+                <AwayTeamName>LT Ploppies</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-04 08:00:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>84845260</MatchID>
+            <MatchRound>22</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>10205</HomeTeamID>
+                <HomeTeamName>Tordendragen</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>730972</AwayTeamID>
+                <AwayTeamName>GiglieB</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-04 08:00:00</MatchDate>
+        </Match>
+    </Matches>
+</HattrickData>

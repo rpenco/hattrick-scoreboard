@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>playerdetails.xml</FileName>
+    <Version>2.6</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:17:07</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <IsPlayingMatch>False</IsPlayingMatch>
+    <Player>
+        <PlayerID>322536294</PlayerID>
+        <FirstName>Robert</FirstName>
+        <NickName></NickName>
+        <LastName>Demmig</LastName>
+        <PlayerNumber>100</PlayerNumber>
+        <Age>28</Age>
+        <AgeDays>26</AgeDays>
+        <NextBirthDay>2015-01-22 00:00:00</NextBirthDay>
+        <ArrivalDate>2014-06-02 19:44:00</ArrivalDate>
+        <PlayerForm>5</PlayerForm>
+        <Cards>0</Cards>
+        <InjuryLevel>-1</InjuryLevel>
+        <Statement></Statement>
+        <PlayerLanguage>Deutsch</PlayerLanguage>
+        <PlayerLanguageID>3</PlayerLanguageID>
+        <TrainerData />
+        <OwningTeam>
+            <TeamID>1628282</TeamID>
+            <TeamName>Felittesse</TeamName>
+            <LeagueID>61</LeagueID>
+        </OwningTeam>
+        <Salary>521040</Salary>
+        <IsAbroad>True</IsAbroad>
+        <Agreeability>2</Agreeability>
+        <Aggressiveness>2</Aggressiveness>
+        <Honesty>1</Honesty>
+        <Experience>7</Experience>
+        <Loyalty>13</Loyalty>
+        <MotherClubBonus>False</MotherClubBonus>
+        <Leadership>6</Leadership>
+        <Specialty>3</Specialty>
+        <NativeCountryID>3</NativeCountryID>
+        <NativeLeagueID>3</NativeLeagueID>
+        <NativeLeagueName>Deutschland</NativeLeagueName>
+        <TSI>150620</TSI>
+        <PlayerSkills>
+            <StaminaSkill>8</StaminaSkill>
+        </PlayerSkills>
+        <Caps>0</Caps>
+        <CapsU20>0</CapsU20>
+        <CareerGoals>24</CareerGoals>
+        <CareerHattricks>1</CareerHattricks>
+        <LeagueGoals>4</LeagueGoals>
+        <CupGoals>0</CupGoals>
+        <FriendliesGoals>0</FriendliesGoals>
+        <TransferListed>False</TransferListed>
+        <TransferDetails />
+        <LastMatch>
+            <Date>2014-10-25 21:30:00</Date>
+            <MatchId>490116507</MatchId>
+            <PositionCode>108</PositionCode>
+            <PlayedMinutes>90</PlayedMinutes>
+            <Rating>7.5</Rating>
+            <RatingEndOfGame>6.5</RatingEndOfGame>
+        </LastMatch>
+    </Player>
+</HattrickData>

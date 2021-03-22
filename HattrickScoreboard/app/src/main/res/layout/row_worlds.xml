@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/button_listview"
+    android:clickable="true"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/ivWorldFlag"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_flag" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_layout"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvWorldName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FRANCE" />
+
+        <TextView
+            android:id="@+id/tvWorldLine1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Devise: €" />
+
+        <TextView
+            android:id="@+id/tvWorldLine2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Format : DD-MM-YYYY HH:MM" />
+
+    </LinearLayout>
+
+    <CheckBox
+        android:id="@+id/cbSelected"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:enabled="false" />
+
+</LinearLayout>

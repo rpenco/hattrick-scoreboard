@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>youthplayerlist.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:42:21</FetchedDate>
+    <PlayerList>
+        <YouthPlayer>
+            <YouthPlayerID>160252827</YouthPlayerID>
+            <FirstName>Kjeld</FirstName>
+            <NickName />
+            <LastName>Degn</LastName>
+            <Age>17</Age>
+            <AgeDays>7</AgeDays>
+            <ArrivalDate>2014-07-23 10:47:00</ArrivalDate>
+            <CanBePromotedIn>11</CanBePromotedIn>
+            <PlayerNumber>1</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>0</LeagueGoals>
+            <FriendlyGoals>0</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>100</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>7</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>165507632</YouthPlayerID>
+            <FirstName>Cornelius</FirstName>
+            <NickName />
+            <LastName>Ørum</LastName>
+            <Age>15</Age>
+            <AgeDays>76</AgeDays>
+            <ArrivalDate>2014-08-24 08:55:00</ArrivalDate>
+            <CanBePromotedIn>148</CanBePromotedIn>
+            <PlayerNumber>10</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>1</LeagueGoals>
+            <FriendlyGoals>0</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>107</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>3.5</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>164997536</YouthPlayerID>
+            <FirstName>Kåre</FirstName>
+            <NickName />
+            <LastName>Freksen</LastName>
+            <Age>15</Age>
+            <AgeDays>97</AgeDays>
+            <ArrivalDate>2014-08-31 02:23:00</ArrivalDate>
+            <CanBePromotedIn>127</CanBePromotedIn>
+            <PlayerNumber>11</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>5</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>3</LeagueGoals>
+            <FriendlyGoals>0</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>108</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>5.5</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>165048627</YouthPlayerID>
+            <FirstName>Gerhard</FirstName>
+            <NickName />
+            <LastName>Brink</LastName>
+            <Age>16</Age>
+            <AgeDays>24</AgeDays>
+            <ArrivalDate>2014-09-14 07:51:00</ArrivalDate>
+            <CanBePromotedIn>88</CanBePromotedIn>
+            <PlayerNumber>12</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>5</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>1</LeagueGoals>
+            <FriendlyGoals>1</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>109</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>4.5</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>155645117</YouthPlayerID>
+            <FirstName>Kristen</FirstName>
+            <NickName />
+            <LastName>Juul</LastName>
+            <Age>18</Age>
+            <AgeDays>95</AgeDays>
+            <ArrivalDate>2014-04-01 12:44:00</ArrivalDate>
+            <CanBePromotedIn>-101</CanBePromotedIn>
+            <PlayerNumber>13</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>11</LeagueGoals>
+            <FriendlyGoals>4</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>104</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>5.5</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>153821541</YouthPlayerID>
+            <FirstName>Chris</FirstName>
+            <NickName />
+            <LastName>Ørskov</LastName>
+            <Age>18</Age>
+            <AgeDays>94</AgeDays>
+            <ArrivalDate>2013-12-25 11:37:00</ArrivalDate>
+            <CanBePromotedIn>-198</CanBePromotedIn>
+            <PlayerNumber>15</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>3</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>1</LeagueGoals>
+            <FriendlyGoals>2</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>102</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>6</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>150145677</YouthPlayerID>
+            <FirstName>Mick</FirstName>
+            <NickName />
+            <LastName>Rasch</LastName>
+            <Age>18</Age>
+            <AgeDays>95</AgeDays>
+            <ArrivalDate>2013-11-12 08:25:00</ArrivalDate>
+            <CanBePromotedIn>-207</CanBePromotedIn>
+            <PlayerNumber>20</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>15</LeagueGoals>
+            <FriendlyGoals>9</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845219</YouthMatchID>
+                <Date>2014-10-23 08:00:00</Date>
+                <PositionCode>107</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>6.5</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>155757816</YouthPlayerID>
+            <FirstName>Sebastian</FirstName>
+            <NickName />
+            <LastName>Paulsen</LastName>
+            <Age>18</Age>
+            <AgeDays>74</AgeDays>
+            <ArrivalDate>2014-02-25 08:44:00</ArrivalDate>
+            <CanBePromotedIn>-136</CanBePromotedIn>
+            <PlayerNumber>21</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>14</LeagueGoals>
+            <FriendlyGoals>3</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>86925455</YouthMatchID>
+                <Date>2014-10-24 08:55:00</Date>
+                <PositionCode>105</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>5.5</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>153970584</YouthPlayerID>
+            <FirstName>Vagn</FirstName>
+            <NickName />
+            <LastName>Barkholt</LastName>
+            <Age>17</Age>
+            <AgeDays>111</AgeDays>
+            <ArrivalDate>2014-03-25 05:41:00</ArrivalDate>
+            <CanBePromotedIn>-108</CanBePromotedIn>
+            <PlayerNumber>22</PlayerNumber>
+            <Statement />
+            <Cards>1</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>14</LeagueGoals>
+            <FriendlyGoals>2</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>86925455</YouthMatchID>
+                <Date>2014-10-24 08:55:00</Date>
+                <PositionCode>102</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>4</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>155350157</YouthPlayerID>
+            <FirstName>Asger</FirstName>
+            <NickName />
+            <LastName>Eliasen</LastName>
+            <Age>18</Age>
+            <AgeDays>29</AgeDays>
+            <ArrivalDate>2014-05-07 22:31:00</ArrivalDate>
+            <CanBePromotedIn>-64</CanBePromotedIn>
+            <PlayerNumber>23</PlayerNumber>
+            <Statement />
+            <Cards>1</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>4</LeagueGoals>
+            <FriendlyGoals>1</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>86925455</YouthMatchID>
+                <Date>2014-10-24 08:55:00</Date>
+                <PositionCode>104</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>4.5</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>153717167</YouthPlayerID>
+            <FirstName>Halfdan</FirstName>
+            <NickName />
+            <LastName>Lund</LastName>
+            <Age>18</Age>
+            <AgeDays>33</AgeDays>
+            <ArrivalDate>2014-03-18 05:15:00</ArrivalDate>
+            <CanBePromotedIn>-115</CanBePromotedIn>
+            <PlayerNumber>41</PlayerNumber>
+            <Statement />
+            <Cards>1</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>20</LeagueGoals>
+            <FriendlyGoals>3</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>111</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>8</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>156081145</YouthPlayerID>
+            <FirstName>Julian</FirstName>
+            <NickName />
+            <LastName>Reumert</LastName>
+            <Age>18</Age>
+            <AgeDays>73</AgeDays>
+            <ArrivalDate>2014-02-10 09:57:00</ArrivalDate>
+            <CanBePromotedIn>-151</CanBePromotedIn>
+            <PlayerNumber>43</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>11</LeagueGoals>
+            <FriendlyGoals>3</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>112</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>9</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>154247901</YouthPlayerID>
+            <FirstName>Thorvald</FirstName>
+            <NickName />
+            <LastName>Hermansen</LastName>
+            <Age>18</Age>
+            <AgeDays>53</AgeDays>
+            <ArrivalDate>2014-04-16 15:14:00</ArrivalDate>
+            <CanBePromotedIn>-86</CanBePromotedIn>
+            <PlayerNumber>44</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>12</LeagueGoals>
+            <FriendlyGoals>3</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>113</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>7</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>160402110</YouthPlayerID>
+            <FirstName>Hans</FirstName>
+            <NickName />
+            <LastName>Hendriksen</LastName>
+            <Age>17</Age>
+            <AgeDays>10</AgeDays>
+            <ArrivalDate>2014-06-03 08:14:00</ArrivalDate>
+            <CanBePromotedIn>-10</CanBePromotedIn>
+            <PlayerNumber>100</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>2</LeagueGoals>
+            <FriendlyGoals>0</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>110</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>5</Rating>
+            </LastMatch>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>166989693</YouthPlayerID>
+            <FirstName>Palle</FirstName>
+            <NickName />
+            <LastName>Krag</LastName>
+            <Age>16</Age>
+            <AgeDays>15</AgeDays>
+            <ArrivalDate>2014-10-12 07:58:00</ArrivalDate>
+            <CanBePromotedIn>97</CanBePromotedIn>
+            <PlayerNumber>100</PlayerNumber>
+            <Statement />
+            <Cards>0</Cards>
+            <InjuryLevel>-1</InjuryLevel>
+            <Specialty>0</Specialty>
+            <CareerGoals>0</CareerGoals>
+            <CareerHattricks>0</CareerHattricks>
+            <LeagueGoals>0</LeagueGoals>
+            <FriendlyGoals>0</FriendlyGoals>
+            <OwningYouthTeam>
+                <YouthTeamID>10205</YouthTeamID>
+                <YouthTeamName>Tordendragen</YouthTeamName>
+                <YouthTeamLeagueID>1947</YouthTeamLeagueID>
+                <SeniorTeam>
+                    <SeniorTeamID>198547</SeniorTeamID>
+                    <SeniorTeamName>Bhutan</SeniorTeamName>
+                </SeniorTeam>
+            </OwningYouthTeam>
+            <LastMatch>
+                <YouthMatchID>84845226</YouthMatchID>
+                <Date>2014-10-30 08:00:00</Date>
+                <PositionCode>106</PositionCode>
+                <PlayedMinutes>90</PlayedMinutes>
+                <Rating>4.5</Rating>
+            </LastMatch>
+        </YouthPlayer>
+    </PlayerList>
+</HattrickData>

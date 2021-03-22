@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>arenadetails.xml</FileName>
+    <Version>1.5</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:55:44</FetchedDate>
+    <Arena>
+        <ArenaID>1762480</ArenaID>
+        <ArenaName>Limerick's Brothers Arena</ArenaName>
+        <Team>
+            <TeamID>1765918</TeamID>
+            <TeamName>Limerick's Brothers</TeamName>
+        </Team>
+        <League>
+            <LeagueID>5</LeagueID>
+            <LeagueName>France</LeagueName>
+        </League>
+        <Region>
+            <RegionID>150</RegionID>
+            <RegionName>Rhône-Alpes</RegionName>
+        </Region>
+        <CurrentCapacity>
+            <RebuiltDate Available="True">2013-09-03 12:03:40</RebuiltDate>
+            <Terraces>8000</Terraces>
+            <Basic>3000</Basic>
+            <Roof>1000</Roof>
+            <VIP>0</VIP>
+            <Total>12000</Total>
+        </CurrentCapacity>
+        <ExpandedCapacity Available="False" />
+    </Arena>
+</HattrickData>

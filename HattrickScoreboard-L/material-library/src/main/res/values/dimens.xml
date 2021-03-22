@@ -1,0 +1,73 @@
+<!--
+  ~ Copyright (C) 2014 Romain Penco.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <!-- Material Design Guidelines -->
+
+    <!-- Text size -->
+    <dimen name="text_size_112">112sp</dimen> <!-- Display 4-->
+    <dimen name="text_size_56">56sp</dimen> <!-- Display 3 -->
+    <dimen name="text_size_45">45sp</dimen> <!-- Display 2 -->
+    <dimen name="text_size_34">34sp</dimen> <!-- Display 1 -->
+    <dimen name="text_size_24">24sp</dimen> <!-- Headline -->
+    <dimen name="text_size_20">20sp</dimen> <!-- Title -->
+    <dimen name="text_size_15">15sp</dimen> <!-- Subhead -->
+    <dimen name="text_size_13">13sp</dimen> <!-- body -->
+    <dimen name="text_size_12">12sp</dimen> <!-- Caption -->
+
+    <!-- Spacing between texts -->
+    <dimen name="text_spacing_40">40dp</dimen>
+    <dimen name="text_spacing_32">32dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="spacing_72">72dp</dimen>
+    <dimen name="spacing_56">56dp</dimen>
+    <dimen name="spacing_48">48dp</dimen>
+    <dimen name="spacing_24">24dp</dimen>
+    <dimen name="spacing_16">16dp</dimen>
+    <dimen name="spacing_8">8dp</dimen>
+
+    <!-- Icons -->
+    <dimen name="icon_size_48">48dp</dimen>
+
+    <!-- Buttons -->
+    <dimen name="button_text_size">14sp</dimen> <!-- Button (ALL CAPS) -->
+    <dimen name="button_height">36dp</dimen>
+    <dimen name="button_min_width">88dp</dimen>
+    <dimen name="button_radius">2dp</dimen>
+
+    <!-- Layouts -->
+    <dimen name="layout_rounded_corner">2dp</dimen>
+    <dimen name="line_1">1dp</dimen>
+
+    <!-- Navigation Drawer -->
+    <dimen name="navigation_drawer_width">192dp</dimen> <!-- should be between 240dp and 320dp -->
+    <dimen name="navigation_drawer_item_height">48dp</dimen>
+
+    <!-- Toolbars -->
+    <dimen name="navigation_bar_height">56dp</dimen>
+    <dimen name="navigation_bar_extension_hight">72dp</dimen>
+    <dimen name="tab_bar_hight">48dp</dimen>
+
+    <!-- Layout -->
+    <dimen name="layout_height">48dp</dimen>
+    <dimen name="dividers_height">1dp</dimen>
+    <dimen name="grid_padding">4dp</dimen>
+    <dimen name="snackbar_height">48dp</dimen>
+    <dimen name="snackbar_multiline_height">80dp</dimen>
+
+</resources>

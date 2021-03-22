@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>search.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:22:12</FetchedDate>
+    <SearchParams>
+        <SearchType>4</SearchType>
+        <SearchString>Bur</SearchString>
+        <SearchString2></SearchString2>
+        <SearchID>0</SearchID>
+        <SearchLeagueID>5</SearchLeagueID>
+    </SearchParams>
+    <PageIndex>0</PageIndex>
+    <Pages>63</Pages>
+    <SearchResults>
+        <Result>
+            <ResultID>496860</ResultID>
+            <ResultName>Bur United</ResultName>
+        </Result>
+        <Result>
+            <ResultID>655334</ResultID>
+            <ResultName>Bur@KSK</ResultName>
+        </Result>
+        <Result>
+            <ResultID>142122</ResultID>
+            <ResultName>Bura United</ResultName>
+        </Result>
+        <Result>
+            <ResultID>185815</ResultID>
+            <ResultName>BURAAALEX122</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1880756</ResultID>
+            <ResultName>buraca</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1425283</ResultID>
+            <ResultName>Buraca city</ResultName>
+        </Result>
+        <Result>
+            <ResultID>84680</ResultID>
+            <ResultName>buraca dream team</ResultName>
+        </Result>
+        <Result>
+            <ResultID>48445</ResultID>
+            <ResultName>Buraca F.C.</ResultName>
+        </Result>
+        <Result>
+            <ResultID>569162</ResultID>
+            <ResultName>buraca forever</ResultName>
+        </Result>
+        <Result>
+            <ResultID>83224</ResultID>
+            <ResultName>Buraca Futebol Clube</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1881397</ResultID>
+            <ResultName>Buraca Real Clube</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1866773</ResultID>
+            <ResultName>Buraca United</ResultName>
+        </Result>
+        <Result>
+            <ResultID>567412</ResultID>
+            <ResultName>BuracaFC</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1412941</ResultID>
+            <ResultName>Buraco da Egua</ResultName>
+        </Result>
+        <Result>
+            <ResultID>568612</ResultID>
+            <ResultName>Buraco F.C.</ResultName>
+        </Result>
+        <Result>
+            <ResultID>716834</ResultID>
+            <ResultName>buraco fundo fc</ResultName>
+        </Result>
+        <Result>
+            <ResultID>431662</ResultID>
+            <ResultName>buraco quente</ResultName>
+        </Result>
+        <Result>
+            <ResultID>987748</ResultID>
+            <ResultName>Buracona</ResultName>
+        </Result>
+        <Result>
+            <ResultID>566298</ResultID>
+            <ResultName>buraconegro</ResultName>
+        </Result>
+        <Result>
+            <ResultID>567175</ResultID>
+            <ResultName>buracos</ResultName>
+        </Result>
+        <Result>
+            <ResultID>477408</ResultID>
+            <ResultName>Buraczana Zaraza</ResultName>
+        </Result>
+        <Result>
+            <ResultID>866889</ResultID>
+            <ResultName>Buraczki</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1727876</ResultID>
+            <ResultName>Burago</ResultName>
+        </Result>
+        <Result>
+            <ResultID>654656</ResultID>
+            <ResultName>burak</ResultName>
+        </Result>
+        <Result>
+            <ResultID>931493</ResultID>
+            <ResultName>Burak ' Tasci</ResultName>
+        </Result>
+    </SearchResults>
+</HattrickData>

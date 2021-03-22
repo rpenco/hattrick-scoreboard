@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.hattrickscoreboardl" >
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+
+    <application
+        android:name=".HattrickApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+
+        <uses-library android:name="android.test.runner" />
+        <instrumentation android:name="android.test.InstrumentationTestRunner"
+            android:targetPackage="org.hattrickscoreboardl" android:label="Tests for My App" />
+
+        <meta-data android:name="DATABASE" android:value="hattrickscoreboard.db" />
+        <meta-data android:name="VERSION" android:value="23" />
+        <meta-data android:name="QUERY_LOG" android:value="true" />
+        <meta-data android:name="DOMAIN_PACKAGE_NAME" android:value="org.hattrickscoreboardl" />
+
+        <activity
+            android:name=".ui.SplashscreenActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ui.views.chpp.CHPPActivity"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity
+            android:name=".ui.HomeActivity"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity
+            android:name=".ui.views.demo.MaterialDemo"
+            android:label="@string/app_name">
+        </activity>
+
+        <service
+            android:name=".services.MainService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </service>
+
+        <service
+            android:name=".services.live.LiveService"
+            android:exported="false">
+        </service>
+
+        <receiver android:name=".services.receivers.HattrickLiveReceiver"></receiver>
+
+        <receiver android:name=".services.receivers.NetworkChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+</manifest>

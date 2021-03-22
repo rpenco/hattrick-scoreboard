@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>arenadetails.xml</FileName>
+    <Version>1.5</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 10:59:37</FetchedDate>
+    <Arena>
+        <ArenaID>177327</ArenaID>
+        <ArenaName>Arène de Buros</ArenaName>
+        <Team>
+            <TeamID>177327</TeamID>
+            <TeamName>Buros FC</TeamName>
+        </Team>
+        <League>
+            <LeagueID>5</LeagueID>
+            <LeagueName>France</LeagueName>
+        </League>
+        <Region>
+            <RegionID>130</RegionID>
+            <RegionName>Aquitaine</RegionName>
+        </Region>
+        <CurrentCapacity>
+            <RebuiltDate Available="True">2013-01-06 15:32:48</RebuiltDate>
+            <Terraces>23000</Terraces>
+            <Basic>10000</Basic>
+            <Roof>6000</Roof>
+            <VIP>1000</VIP>
+            <Total>40000</Total>
+        </CurrentCapacity>
+        <ExpandedCapacity Available="False" />
+    </Arena>
+</HattrickData>

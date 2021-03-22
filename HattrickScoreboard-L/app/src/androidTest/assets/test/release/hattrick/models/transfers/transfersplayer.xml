@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>transfersplayer.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:31:32</FetchedDate>
+    <Transfers>
+        <StartDate>2014-02-10 17:23:00</StartDate>
+        <EndDate>2014-02-10 17:23:00</EndDate>
+        <Player>
+            <PlayerID>392078739</PlayerID>
+            <PlayerName>Anatael Rosales</PlayerName>
+            <TeamId>1340193</TeamId>
+        </Player>
+        <Transfer>
+            <TransferID>288819201</TransferID>
+            <Deadline>2014-02-10 17:23:00</Deadline>
+            <Buyer>
+                <BuyerTeamID>1340193</BuyerTeamID>
+                <BuyerTeamName>Pociño CF</BuyerTeamName>
+            </Buyer>
+            <Seller>
+                <SellerTeamID>774453</SellerTeamID>
+                <SellerTeamName>dragonlance C.F.</SellerTeamName>
+            </Seller>
+            <Price>50000</Price>
+            <TSI>840</TSI>
+        </Transfer>
+    </Transfers>
+</HattrickData>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>worldcup.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:33:50</FetchedDate>
+    <CupID>149</CupID>
+    <Season>33</Season>
+    <MatchRound>0</MatchRound>
+    <WorldCupScores>
+        <Team>
+            <TeamID>3070</TeamID>
+            <TeamName>U-20 Polska</TeamName>
+            <Place>1</Place>
+            <CupSeriesUnitID>415</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 1</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>6</GoalsFor>
+            <GoalsAgainst>1</GoalsAgainst>
+            <Points>9</Points>
+        </Team>
+        <Team>
+            <TeamID>3098</TeamID>
+            <TeamName>U-20 Hellas</TeamName>
+            <Place>2</Place>
+            <CupSeriesUnitID>415</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 1</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>6</GoalsFor>
+            <GoalsAgainst>6</GoalsAgainst>
+            <Points>3</Points>
+        </Team>
+        <Team>
+            <TeamID>3043</TeamID>
+            <TeamName>U-20 Deutschland</TeamName>
+            <Place>3</Place>
+            <CupSeriesUnitID>415</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 1</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>4</GoalsFor>
+            <GoalsAgainst>5</GoalsAgainst>
+            <Points>3</Points>
+        </Team>
+        <Team>
+            <TeamID>3078</TeamID>
+            <TeamName>U-20 Belgium</TeamName>
+            <Place>4</Place>
+            <CupSeriesUnitID>415</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 1</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>2</GoalsFor>
+            <GoalsAgainst>6</GoalsAgainst>
+            <Points>3</Points>
+        </Team>
+        <Team>
+            <TeamID>3063</TeamID>
+            <TeamName>U-20 Danmark</TeamName>
+            <Place>1</Place>
+            <CupSeriesUnitID>416</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 2</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>9</GoalsFor>
+            <GoalsAgainst>4</GoalsAgainst>
+            <Points>9</Points>
+        </Team>
+        <Team>
+            <TeamID>3079</TeamID>
+            <TeamName>U-20 Schweiz</TeamName>
+            <Place>2</Place>
+            <CupSeriesUnitID>416</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 2</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>5</GoalsFor>
+            <GoalsAgainst>3</GoalsAgainst>
+            <Points>4</Points>
+        </Team>
+        <Team>
+            <TeamID>3055</TeamID>
+            <TeamName>U-20 Portugal</TeamName>
+            <Place>3</Place>
+            <CupSeriesUnitID>416</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 2</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>6</GoalsFor>
+            <GoalsAgainst>6</GoalsAgainst>
+            <Points>4</Points>
+        </Team>
+        <Team>
+            <TeamID>3094</TeamID>
+            <TeamName>U-20 Pilipinas</TeamName>
+            <Place>4</Place>
+            <CupSeriesUnitID>416</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 2</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>5</GoalsFor>
+            <GoalsAgainst>12</GoalsAgainst>
+            <Points>0</Points>
+        </Team>
+        <Team>
+            <TeamID>3042</TeamID>
+            <TeamName>U-20 England</TeamName>
+            <Place>1</Place>
+            <CupSeriesUnitID>417</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 3</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>4</GoalsFor>
+            <GoalsAgainst>2</GoalsAgainst>
+            <Points>7</Points>
+        </Team>
+        <Team>
+            <TeamID>3049</TeamID>
+            <TeamName>U-20 Norge</TeamName>
+            <Place>2</Place>
+            <CupSeriesUnitID>417</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 3</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>5</GoalsFor>
+            <GoalsAgainst>5</GoalsAgainst>
+            <Points>4</Points>
+        </Team>
+        <Team>
+            <TeamID>3044</TeamID>
+            <TeamName>U-20 Italia</TeamName>
+            <Place>3</Place>
+            <CupSeriesUnitID>417</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 3</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>3</GoalsFor>
+            <GoalsAgainst>3</GoalsAgainst>
+            <Points>4</Points>
+        </Team>
+        <Team>
+            <TeamID>3061</TeamID>
+            <TeamName>U-20 România</TeamName>
+            <Place>4</Place>
+            <CupSeriesUnitID>417</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 3</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>4</GoalsFor>
+            <GoalsAgainst>6</GoalsAgainst>
+            <Points>1</Points>
+        </Team>
+        <Team>
+            <TeamID>3095</TeamID>
+            <TeamName>U-20 Eesti</TeamName>
+            <Place>1</Place>
+            <CupSeriesUnitID>418</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 4</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>11</GoalsFor>
+            <GoalsAgainst>2</GoalsAgainst>
+            <Points>9</Points>
+        </Team>
+        <Team>
+            <TeamID>3099</TeamID>
+            <TeamName>U-20 Česká republika</TeamName>
+            <Place>2</Place>
+            <CupSeriesUnitID>418</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 4</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>8</GoalsFor>
+            <GoalsAgainst>11</GoalsAgainst>
+            <Points>6</Points>
+        </Team>
+        <Team>
+            <TeamID>3072</TeamID>
+            <TeamName>U-20 Uruguay</TeamName>
+            <Place>3</Place>
+            <CupSeriesUnitID>418</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 4</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>4</GoalsFor>
+            <GoalsAgainst>4</GoalsAgainst>
+            <Points>3</Points>
+        </Team>
+        <Team>
+            <TeamID>3159</TeamID>
+            <TeamName>U-20 Makedonija</TeamName>
+            <Place>4</Place>
+            <CupSeriesUnitID>418</CupSeriesUnitID>
+            <CupSeriesUnitName>Round III - Group 4</CupSeriesUnitName>
+            <MatchesPlayed>3</MatchesPlayed>
+            <GoalsFor>1</GoalsFor>
+            <GoalsAgainst>7</GoalsAgainst>
+            <Points>0</Points>
+        </Team>
+    </WorldCupScores>
+    <Rounds>
+        <Round>
+            <MatchRound>1</MatchRound>
+            <StartDate>2007-08-03 20:00:00</StartDate>
+        </Round>
+        <Round>
+            <MatchRound>15</MatchRound>
+            <StartDate>2007-12-28 20:00:00</StartDate>
+        </Round>
+        <Round>
+            <MatchRound>18</MatchRound>
+            <StartDate>2008-02-01 20:00:00</StartDate>
+        </Round>
+        <Round>
+            <MatchRound>21</MatchRound>
+            <StartDate>2008-02-11 20:00:00</StartDate>
+        </Round>
+        <Round>
+            <MatchRound>24</MatchRound>
+            <StartDate>2008-02-22 20:00:00</StartDate>
+        </Round>
+        <Round>
+            <MatchRound>25</MatchRound>
+            <StartDate>2008-02-24 20:00:00</StartDate>
+        </Round>
+    </Rounds>
+</HattrickData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>matchesArchive.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-30 23:29:25</FetchedDate>
+    <IsYouth>True</IsYouth>
+    <Team>
+        <TeamID>0</TeamID>
+        <TeamName></TeamName>
+        <MatchList />
+    </Team>
+</HattrickData>

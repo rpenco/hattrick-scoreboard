@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hattrick Scoreboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Generic -->
+    <string name="label_informations">Informations</string>
+    <string name="label_loading">Chargement…</string>
+    <string name="label_connexion_refused">Connexion refusée…</string>
+    <string name="label_no_connexion">Aucune connexion…</string>
+    <string name="label_confirm">Valider</string>
+    <string name="label_close">Fermer</string>
+    <string name="label_unavailable">Indisponible</string>
+    <string name="label_summary">Résumé</string>
+    <string name="label_total">Total</string>
+    <string name="label_statistics">Statistiques</string>
+    <string name="label_first_loading">Récupération des informations, cette opération peut être longue…</string>
+    <string name="label_cancel">Annuler</string>
+    <string name="label_press_again_exit">Appuyez encore pour quitter</string>
+
+    <!-- CHPP view -->
+    <string name="chpp_text_hattrick">Hattrick Scoreboard est accessible uniquement pour les joueurs de Hattrick.</string>
+    <string name="chpp_text_allow">Vous devez autoriser Hattrick Scoreboard à utiliser votre équipe. Appuyez ici pour consulter le détail des permissions.</string>
+    <string name="chpp_textfield_username">Nom d\'utilisateur</string>
+    <string name="chpp_textfield_password">Mot de passe</string>
+    <string name="chpp_label_authentication_progress">Autorisation en cours…</string>
+    <string name="chpp_label_authentication_refused">Autorisation refusée…</string>
+    <string name="chpp_label_authentication_accepted">Autorisation acceptée…</string>
+    <string name="chpp_title_permission">Détail des permissions CHPP Hattrick</string>
+    <string name="chpp_permission_edito_1">Votre nom d\'utilisateur et votre mot de passe sont uniquement utilisés pour valider l\'autorisation. Ils ne sont jamais enregistrés ou utilisés.</string>
+    <string name="chpp_permission_edito_2">Hattrick Scoreboard voudrait se connecter à votre compte Hattrick avec les permissions suivantes:</string>
+    <string name="chpp_permission_title_1">- Accès en lecture</string>
+    <string name="chpp_permission_title_2">- Gérer les défis (prochainement)</string>
+    <string name="chpp_permission_title_3">- Gestion des jeunes joueurs (prochainement)</string>
+    <string name="chpp_permission_title_4">- Placer une enchère (prochainement)</string>
+    <string name="chpp_permission_title_5">- Envoi des ordres de match (prochainement)</string>
+    <string name="chpp_permission_title_6">- Définir l\'entrainement (prochainement)</string>
+
+    <!-- Slider/Drawer -->
+    <string name="menu_title_team">Equipe</string>
+    <string name="menu_overview">Général</string>
+    <string name="menu_arena">Stade</string>
+    <string name="menu_staff">Employés</string>
+    <string name="menu_fans">Supporters</string>
+    <string name="menu_transfers">Transferts</string>
+    <string name="menu_finances">Finances</string>
+    <string name="menu_community">Communauté</string>
+    <string name="menu_title_senior">Equipe sénior</string>
+    <string name="menu_players">Joueur</string>
+    <string name="menu_matches">Matches</string>
+    <string name="menu_series">Division</string>
+    <string name="menu_training">Entraînement</string>
+    <string name="menu_title_youth">Equipe junior</string>
+    <string name="menu_title_national">Equipes nationales</string>
+    <string name="menu_national_senior">Equipe nationale</string>
+    <string name="menu_national_youth">Equipe nationale U20</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_settings">Préférences</string>
+
+    <!-- Team view -->
+    <string name="club_title_home">Equipe</string>
+    <string name="club_title_success">Succès</string>
+    <string name="club_title_match_kit">Tenues de match</string>
+    <string name="club_label_position">%1$d° en %2$s</string>
+    <string name="club_label_stillcup">Toujours en %1$s</string>
+    <string name="club_label_place">Lieu:</string>
+    <string name="club_label_fanclub">Fan club:</string>
+    <string name="club_value_fanclub">%1$s supporters</string>
+    <string name="club_label_arena">Stade:</string>
+    <string name="club_label_rank">Classé:</string>
+    <string name="club_value_rank">%1$s</string>
+    <string name="club_label_home">Domicile</string>
+    <string name="club_label_away">Extérieur</string>
+    <string name="club_label_undefeated">%1$d  matchs officiels invaincus</string>
+    <string name="club_label_victories">%1$d  matchs invaincus, %1$d victoires consécutives.</string>
+
+    <!-- Arena view -->
+    <string name="arena_seats">%1$s places</string>
+    <string name="arena_label_owner">Propriétaire</string>
+    <string name="arena_label_lastbuild">Dernier travaux</string>
+    <string name="arena_label_basic">Places assises</string>
+    <string name="arena_label_terraces">Places debout</string>
+    <string name="arena_label_roof">Places couvertes</string>
+    <string name="arena_label_VIP">Places en loge VIP</string>
+    <string name="arena_label_total">Capacité totale</string>
+
+    <!-- Staff view -->
+    <string name="staff_label_level">Niveau %1$d</string>
+    <string name="staff_label_cost">Coût</string>
+
+    <!-- Staff view -->
+    <string-array name="staff_type">
+        <item>-</item>
+        <item>Entraineur Adjoint</item>
+        <item>Médecin</item>
+        <item>Attaché de presse</item>
+        <item>Psychologue</item>
+        <item>Préparateur physique</item>
+        <item>Directeur financier</item>
+    </string-array>
+
+    <!-- Economical view -->
+    <string name="finances_title_current">En cours</string>
+    <string name="finances_title_lastweek">Précédente</string>
+    <string name="finances_title_income">Recettes</string>
+    <string name="finances_title_costs">Dépenses</string>
+    <string name="finances_label_cash">En caisse</string>
+    <string name="finances_label_expectedcash">Prévision recettes/dépenses</string>
+    <string name="finances_label_sponsorspopularity">Sponsors</string>
+    <string name="finances_label_supporterspopularity">Supporters</string>
+    <string name="finances_label_incomespectators">Billeterie</string>
+    <string name="finances_label_incomesponsors">Sponsors</string>
+    <string name="finances_label_incomefinancial">Finances</string>
+    <string name="finances_label_incomesoldplayers">Ventes joueurs</string>
+    <string name="finances_label_incomesoldplayerscommission">Commissions</string>
+    <string name="finances_label_incometemporary">Autres</string>
+    <string name="finances_label_incomesum">Total recettes</string>
+    <string name="finances_label_costs_arena">Stade</string>
+    <string name="finances_label_costs_players">Salaires</string>
+    <string name="finances_label_costs_financial">Intérêts</string>
+    <string name="finances_label_costs_staff">Employés</string>
+    <string name="finances_label_costs_boughtplayers">Achat de joueur</string>
+    <string name="finances_label_costs_arenabuilding">Travaux du stade</string>
+    <string name="finances_label_costs_temporary">Autres</string>
+    <string name="finances_label_costs_youth">Formation des jeunes</string>
+    <string name="finances_label_costs_sum">Total dépense</string>
+    <!-- <string name="finances_label_expectedweekstotal">Résultats prévisionnels</string> -->
+
+    <!-- Community view -->
+    <string name="community_title_bookmarks">Favoris</string>
+
+    <!-- Players view -->
+    <string name="players_label_age">%1$s ans et %2$s jours, TSI = %3$s</string>
+    <string name="players_label_form">En %1$s forme</string>
+    <string name="players_label_stats_team_total">Total (entraîneur exclu)</string>
+    <string name="players_label_stats_TSI">TSI</string>
+    <string name="player_label_stats_costs">Salaires</string>
+    <string name="player_label_stats_nationalities">Nationalités</string>
+    <string name="player_label_stats_injuries">Blessés</string>
+    <string name="player_label_stats_specialities">Spécialistes</string>
+    <string name="player_label_stats_yellow_cards">Avertis</string>
+    <string name="player_label_stats_red_cards">Exclus</string>
+    <string name="player_label_stats_team_average">Moyenne de l\'équipe (entraîneur exclu)</string>
+    <string name="player_label_stats_age">Age</string>
+    <string name="player_label_stats_form">Forme</string>
+    <string name="player_label_stats_endurance">Endurance</string>
+    <string name="player_label_stats_experience">Expérience</string>
+
+    <!-- Player view -->
+    <string name="player_description_form">En forme %1$s, endurance %2$s.</string>
+    <!-- agreeability: %1$s, aggressiveness: %2$s, honesty: %3$s -->
+    <string name="player_description_agreeability_aggressiveness_honesty">Un %1$s, %2$s et %3$s.</string>
+    <!-- experience: %1$s, chief: %2$s -->
+    <string name="player_description_experience_leadership">Possède un niveau d\'expérience %1$s et un tempérament de chef %2$s.</string>
+    <string name="player_description_loyalty">A un niveau de fidelité %1$s.</string>
+    <string name="player_description_owner">Propriétaire :</string>
+    <string name="player_description_salaire">Salaire :</string>
+    <string name="player_description_speciality">Spécialité :</string>
+    <string name="player_label_caracteristics">Caractéristiques</string>
+    <string name="player_label_statistics">Statistiques</string>
+    <string name="player_label_overview">Général</string>
+    <string name="player_label_keeper">Gardien :</string>
+    <string name="player_label_defenser">Défense :</string>
+    <string name="player_label_playmaker">Construction :</string>
+    <string name="player_label_winger">Ailier :</string>
+    <string name="player_label_passing">Passe :</string>
+    <string name="player_label_scorer">Buteur :</string>
+    <string name="player_label_setpieces">Coup franc :</string>
+    <string name="player_title_career">Carrière</string>
+    <string name="player_title_international_career">Carrière  international</string>
+    <string name="player_label_last_game">Dernier match</string>
+    <string name="player_label_stats_career_goals">Buts dans sa carrière :</string>
+    <string name="player_label_stats_career_hattrick">Hattricks  :</string>
+    <string name="player_label_stats_league_goals">Buts en poule cette saison :</string>
+    <string name="player_label_stats_cup_goals">Buts en Coupe cette saison :</string>
+    <string name="player_label_stats_friendlies_goals">Buts en amicaux cette saison :</string>
+    <string name="player_label_stats_caps_national">Sélections en équipe nationale :</string>
+    <string name="player_label_stats_caps_national_u20">Sélections en U-20:</string>
+
+    <!-- Players -->
+    <string name="players_statistics">Statistiques</string>
+    <string name="players_statistics_team">Equipe</string>
+    <string name="players_statistics_players">Joueurs</string>
+    <string name="players_statistics_tsi">TSI: %1$s</string>
+    <string name="players_statistics_tsi_average">Moyenne: %1$s</string>
+    <string name="players_statistics_tsi_max">Max.: %1$s (%2$s)</string>
+    <string name="players_statistics_salary">Salaire: %1$s</string>
+    <string name="players_statistics_salary_average">Moyenne: %1$s</string>
+    <string name="players_statistics_salary_max">Max.: %1$s (%2$s)</string>
+    <string name="players_statistics_age">Age:</string>
+    <string name="players_statistics_age_average">Moyenne: %1$s ans, %2$s jours</string>
+    <string name="players_statistics_stamina">Stamina: %1$s</string>
+    <string name="players_statistics_endurance">Endurance: %1$s</string>
+    <string name="players_statistics_experience">Expérience: %1$s</string>
+    <string name="players_statistics_nationalities">Nationalités: %1$s</string>
+    <string name="players_statistics_injuries">Blessés: %1$s</string>
+    <string name="players_statistics_yellow_cards">Cartons jaunes: %1$s</string>
+    <string name="players_statistics_red_cards">Cartons rouges: %1$s</string>
+
+    <!-- Matches -->
+    <string name="matches_series_week">Journée %1$d</string>
+    <string name="matches_week">Semaine %1$d</string>
+    <string name="matches_overflow_menu_add_live">Ajouter au HT-Live</string>
+    <string name="matches_overflow_menu_remove_live">Supprimer du HT-Live</string>
+
+    <!-- Series view -->
+    <string name="series_title_classment">Classement</string>
+    <string name="series_team">EQUIPE</string>
+    <string name="series_played">J</string>
+    <string name="series_goals">Buts</string>
+    <string name="series_differences">Diff.</string>
+    <string name="series_points">Pts</string>
+    <string name="series_title_date">Journée</string>
+    <string name="series_round_date">Journée %1$d - %2$s</string>
+
+    <!-- Training -->
+    <string name="training_title_team">Equipe</string>
+    <string name="training_label_team_spririt">Etat d\'esprit</string>
+    <string name="training_label_self_confidence">Confiences en soi</string>
+    <string name="training_label_level">Stratégies</string>
+    <string name="training_label_experience_550">Expérience 5–5–0</string>
+    <string name="training_label_experience_541">Expérience 5–4–1</string>
+    <string name="training_label_experience_532">Expérience 5–3–2</string>
+    <string name="training_label_experience_523">Expérience 5–2–3</string>
+    <string name="training_label_experience_451">Expérience 4–5–1</string>
+    <string name="training_label_experience_442">Expérience 4–4–2</string>
+    <string name="training_label_experience_433">Expérience 4–3–3</string>
+    <string name="training_label_experience_352">Expérience 3–5–2</string>
+    <string name="training_label_experience_343">Expérience 3–4–3</string>
+    <string name="training_label_experience_253">Expérience 2–5–3</string>
+
+    <!-- Match detail -->
+
+    <string name="match_title_highlight">TEMPS-FORTS</string>
+    <string name="match_title_summary">Résumé</string>
+    <string name="match_title_statistics">Statistiques</string>
+    <string name="match_title_lineup">Compositions</string>
+    <string name="match_title_date">Date</string>
+    <string name="match_title_arena">Stade</string>
+    <string name="match_title_referee">Arbitre</string>
+    <string name="match_title_spectators">Spectateurs</string>
+
+    <string name="match_event_weather_rain">Temps pluvieux</string>
+    <string name="match_event_weather_cloudy">Temps nuageux</string>
+    <string name="match_event_weather_fear">Temps partiellement ensoleillé</string>
+    <string name="match_event_weather_sunny">Temps ensoleillé</string>
+    <string name="match_event_best_player">Meilleur joueur: %1$s</string>
+    <string name="match_event_worst_player">Pire joueur: %1$s</string>
+    <string name="match_event_halftime">Mi-temps</string>
+    <string name="match_event_walkover">Victoire (forfait)</string>
+    <string name="match_event_penalty_goal">Penalty %1$s</string>
+    <string name="match_event_extension">Prolongation</string>
+    <string name="match_event_penalty_contest">Tirs aux buts</string>
+    <string name="match_event_coin">Tirage au sort</string>
+    <string name="match_event_substitution">par %1$s</string>
+    <string name="match_event_yellow_card">Avertissement: %1$s</string>
+    <string name="match_event_tactical_change">Changement tactique</string>
+    <string name="match_event_tactical_pressing">Pressing</string>
+    <string name="match_event_tactical_counter_attack">Contre-attaque</string>
+    <string name="match_event_tactical_attack_middle">Attaque au centre</string>
+    <string name="match_event_tactical_attack_wings">Attaque sur les ailes</string>
+    <string name="match_event_tactical_attack_creativity">Créativité</string>
+    <string name="match_event_tactical_long_shot">Tirs de loin</string>
+    <string name="match_statistics_possession_half_time">Possession 1ère mi-temps</string>
+    <string name="match_statistics_possession_full_time">Possession 2ème mi-temps</string>
+    <string name="match_statistics_possession_average">Possession du match</string>
+    <string name="match_statistics_def_right">Défense latérale droite</string>
+    <string name="match_statistics_def_center">Défense centrale </string>
+    <string name="match_statistics_def_left">Défense latérale gauche</string>
+    <string name="match_statistics_middle">Milieu de terrain</string>
+    <string name="match_statistics_forward_right">Attaque aile droite </string>
+    <string name="match_statistics_forward_center">Attaque centrale</string>
+    <string name="match_statistics_forward_left">Attaque aile gauche</string>
+    <string name="match_subsitution_keeper">Gardien</string>
+    <string name="match_subsitution_defender">Défenseur</string>
+    <string name="match_subsitution_midflied">Milieu de terrain</string>
+    <string name="match_subsitution_forward">Attaquant</string>
+    <string name="match_subsitution_winger">Ailier</string>
+    <string name="match_score_finished">Terminé</string>
+    <string name="match_hatstat_defense">Défense:</string>
+    <string name="match_hatstat_middle">Milieu:</string>
+    <string name="match_hatstat_forward">Attaque:</string>
+
+    <!-- Notifications view -->
+    <string name="notification_title_application">Application</string>
+    <string name="notification_title_my_teams">Mes équipes</string>
+    <string name="notification_title_national_teams">Equipes nationales</string>
+    <string name="notification_title_other_teams">Equipes suivies</string>
+    <string name="notification_label_economy">Mise à jour économique</string>
+    <string name="notification_label_training">Effets de l\'entraînement</string>
+    <string name="notification_label_remember_1hour">Rappel 1 heure avant le coup d\'envoi</string>
+    <string name="notification_label_remember_15min">Rappel 15 minutes avant le coup d\'envoi</string>
+    <string name="notification_label_kickoff">Coup d\'envoi et fin du match</string>
+    <string name="notification_label_halftime">Mi-temps et prolongations</string>
+    <string name="notification_label_goals">Buts</string>
+    <string name="notification_label_cards">Cartons jaunes et rouges</string>
+    <string name="notification_label_cards_opponent">Cartons jaunes et rouges (adversaire)</string>
+    <string name="notification_label_injuries">Blessures graves et légères</string>
+    <string name="notification_label_injuries_opponent">Blessures graves et légères (adversaire)</string>
+
+    <!-- Settings -->
+    <string name="settings_title_application">Application</string>
+    <!-- <string name="settings_title_data_storage">Données stockées</string> -->
+    <string name="settings_label_language">Changer de langue</string>
+    <string name="settings_label_color">Changer les couleurs</string>
+    <string name="settings_label_country">Changer le pays de référence</string>
+    <!-- <string name="settings_label_news">Quoi de neuf?</string> -->
+    <string name="settings_label_licenses">Licences Open Sources</string>
+
+    <!-- <string name="settings_label_data_clear">Effacer les informations obsolètes</string>
+    <string name="settings_label_data_update">Mettre à jour les informations</string> -->
+    <string name="settings_licenses_version">Version: %1$s</string>
+
+    <!-- Color picker -->
+    <string name="colorpicker_title_preview">Prévisualisation</string>
+    <string name="colorpicker_title_predefined">Couleurs prédéfinies</string>
+
+    <!-- Search dialog -->
+    <string name="search_title_result">%1$d resultats</string>
+
+    <!-- Menu actions -->
+    <string name="action_search">Rechercher</string>
+    <string name="action_live">HT-Live</string>
+
+    <!-- Search Dialog -->
+    <string-array name="search_items">
+
+        <!-- <item>Joueur</item> -->
+        <!-- <item>Stade</item> -->
+        <!-- <item>Manager</item> -->
+        <!-- <item>Ligue</item> -->
+        <item>Equipe</item>
+        <!-- <item>Région</item> -->
+        <!-- <item>Match</item> -->
+    </string-array>
+
+    <!-- Notifications event -->
+    <string name="notif_title_team_default" formatted="false">%1$s %3$s-%4$s %2$s</string>
+    <string name="notif_title_team_home" formatted="false">[%1$s] %3$s-%4$s %2$s</string>
+    <string name="notif_title_team_away" formatted="false">%1$s %3$s-%4$s [%2$s]</string>
+    <string name="notif_title_goal_home" formatted="false">%1$s [%3$s]-%4$s %2$s</string>
+    <string name="notif_title_goal_away" formatted="false">%1$s %3$s-[%4$s] %2$s</string>
+    <string name="notif_text_kickoff">Coup d\'envoi</string>
+    <string name="notif_text_halftime">Mi-temps</string>
+    <string name="notif_text_walkover">Fin du match (Forfait).</string>
+    <string name="notif_text_goal_penalty">But sur pénalty.</string>
+    <string name="notif_text_goal_counter_attack">But sur contre-attaque.</string>
+    <string name="notif_text_goal_se">But sur exploit individuel.</string>
+    <string name="notif_text_extension">Prolongation</string>
+    <string name="notif_text_penalty_contest">Tirs aux buts</string>
+    <string name="notif_text_coin">Tirage au sort</string>
+    <string name="notif_text_injury">Blessure légère</string>
+    <string name="notif_text_injury_leave">Blessure légère (remplacement)</string>
+    <string name="notif_text_badly_injury">Blessure grave</string>
+    <string name="notif_text_badly_injury_leave">Blessure grave (remplacement)</string>
+    <string name="notif_text_badly_injury_no_leave">Blessure grave (aucun remplaçant)</string>
+    <string name="notif_text_goal_freekick">But sur coup-franc</string>
+    <string name="notif_text_goal_middle">But par le centre</string>
+    <string name="notif_text_goal_left">But par la gauche</string>
+    <string name="notif_text_goal_right">But par la droite</string>
+    <string name="notif_text_goal_indirect_freekick">But sur coup-franc indirect</string>
+    <string name="notif_text_goal_long">But sur un tir de loin</string>
+    <string name="notif_text_yellow_card">Carton jaune</string>
+    <string name="notif_text_yellow_red_card">Carton rouge (2ème jaune)</string>
+    <string name="notif_text_red_card">Carton rouge</string>
+    <string name="notif_text_fulltime">Fin du match</string>
+
+    <!-- ========================== -->
+    <!-- HATTRICK OFFICIAL VALUES -->
+    <!-- ========================== -->
+
+
+    <!-- Sponsor Level Array -->
+    <string-array name="hattrick_spirit">
+        <item>la guerre froide</item>
+        <item>d\'humeur massacrante</item>
+        <item>furieux</item>
+        <item>irrité</item>
+        <item>passif</item>
+        <item>calme</item>
+        <item>content</item>
+        <item>heureux</item>
+        <item>délirant de joie</item>
+        <item>sur un nuage</item>
+        <item>Le paradis sur Terre !</item>
+    </string-array>
+
+    <!-- Skill level array -->
+    <string-array name="hattrick_skills">
+        <item>inexistant</item>
+        <item>catastrophique</item>
+        <item>mauvais</item>
+        <item>médiocre</item>
+        <item>faible</item>
+        <item>inadéquat</item>
+        <item>passable</item>
+        <item>honorable</item>
+        <item>excellent</item>
+        <item>formidable</item>
+        <item>impressionnant</item>
+        <item>brillant</item>
+        <item>inoubliable</item>
+        <item>légendaire</item>
+        <item>surnaturel</item>
+        <item>titanesque</item>
+        <item>extraterrestre</item>
+        <item>mythique</item>
+        <item>magique</item>
+        <item>utopique</item>
+        <item>divin</item>
+    </string-array>
+
+    <!-- Match Rating Array -->
+    <string-array name="hattrick_match_rating">
+        <item>inexistant</item>
+        <item>catastrophique (très bas)</item>
+        <item>catastrophique (bas)</item>
+        <item>catastrophique (haut)</item>
+        <item>catastrophique (très haut)</item>
+        <item>mauvais (très bas)</item>
+        <item>mauvais (bas)</item>
+        <item>mauvais (haut)</item>
+        <item>mauvais (très haut)</item>
+        <item>médiocre (très bas)</item>
+        <item>médiocre (bas)</item>
+        <item>médiocre (haut)</item>
+        <item>médiocre (très haut)</item>
+        <item>faible (très bas)</item>
+        <item>faible (bas)</item>
+        <item>faible (haut)</item>
+        <item>faible  (très haut)</item>
+        <item>inadéquat (très bas)</item>
+        <item>inadéquat (bas)</item>
+        <item>inadéquat (haut)</item>
+        <item>inadéquat (très haut)</item>
+        <item>passable (très bas)</item>
+        <item>passable (bas)</item>
+        <item>passable (haut)</item>
+        <item>passable (très haut)</item>
+        <item>honorable (très bas)</item>
+        <item>honorable (bas)</item>
+        <item>honorable (haut)</item>
+        <item>honorable (très haut)</item>
+        <item>excellent (très bas)</item>
+        <item>excellent (bas)</item>
+        <item>excellent (haut)</item>
+        <item>excellent (très haut)</item>
+        <item>formidable (très bas)</item>
+        <item>formidable (bas)</item>
+        <item>formidable (haut)</item>
+        <item>formidable (très haut)</item>
+        <item>impressionnant (très bas)</item>
+        <item>impressionnant (bas)</item>
+        <item>impressionnant (haut)</item>
+        <item>impressionnant (très haut)</item>
+        <item>brillant (très bas)</item>
+        <item>brillant (bas)</item>
+        <item>brillant (haut)</item>
+        <item>brillant (très haut)</item>
+        <item>inoubliable (très bas)</item>
+        <item>inoubliable (bas)</item>
+        <item>inoubliable (haut)</item>
+        <item>inoubliable (très haut)</item>
+        <item>légendaire (très bas)</item>
+        <item>légendaire (bas)</item>
+        <item>légendaire (haut)</item>
+        <item>légendaire (très haut)</item>
+        <item>surnaturel (très bas)</item>
+        <item>surnaturel (bas)</item>
+        <item>surnaturel (haut)</item>
+        <item>surnaturel (très haut)</item>
+        <item>titanesque (très bas)</item>
+        <item>titanesque (bas)</item>
+        <item>titanesque (haut)</item>
+        <item>titanesque (très haut)</item>
+        <item>extraterrestre (très bas)</item>
+        <item>extraterrestre (bas)</item>
+        <item>extraterrestre (haut)</item>
+        <item>extraterrestre (très haut)</item>
+        <item>mythique (très bas)</item>
+        <item>mythique (bas)</item>
+        <item>mythique (haut)</item>
+        <item>mythique (très haut)</item>
+        <item>magique (très bas)</item>
+        <item>magique (bas)</item>
+        <item>magique (haut)</item>
+        <item>magique (très haut)</item>
+        <item>utopique (très bas)</item>
+        <item>utopique (bas)</item>
+        <item>utopique (haut)</item>
+        <item>utopique (très haut)</item>
+        <item>divin (très bas)</item>
+        <item>divin (bas)</item>
+        <item>divin (haut)</item>
+        <item>divin (très haut)</item>
+    </string-array>
+
+    <!-- Sponsor Level Array -->
+    <string-array name="hattrick_sponsors">
+        <item>d’humeur massacrante</item>
+        <item>furieux</item>
+        <item>irrités</item>
+        <item>calmes</item>
+        <item>contents</item>
+        <item>heureux</item>
+        <item>délirants de joie</item>
+        <item>sur un nuage</item>
+        <item>au septième ciel</item>
+        <item>en admiration devant vous</item>
+    </string-array>
+
+    <!-- Fan Exceptation Level -->
+    <string-array name="hattrick_fan_exceptation">
+        <item>On ferait mieux de ne pas y aller !</item>
+        <item>On n’a pas le niveau</item>
+        <item>On va perdre</item>
+        <item>Ils partent favoris</item>
+        <item>Ils ont un léger avantage</item>
+        <item>Ça s’annonce serré</item>
+        <item>On a un léger avantage</item>
+        <item>On part favori</item>
+        <item>On va gagner</item>
+        <item>Ça va être du gâteau !</item>
+        <item>On va les écraser !</item>
+    </string-array>
+
+    <!-- Fan Mood Level -->
+    <string-array name="hattrick_fan_mood">
+        <item>d’humeur massacrante</item>
+        <item>furieux</item>
+        <item>en colère</item>
+        <item>irrités</item>
+        <item>dépités</item>
+        <item>calmes</item>
+        <item>contents</item>
+        <item>heureux</item>
+        <item>délirants de joie</item>
+        <item>sur un nuage</item>
+        <item>au septième ciel</item>
+        <item>en admiration devant vous</item>
+    </string-array>
+
+    <!-- Fan Saison Exceptation Level -->
+    <string-array name="hattrick_fan_saison_exceptation">
+        <item>On n’a pas le niveau dans cette division.</item>
+        <item>Chaque point grappillé dans cette division sera un exploit</item>
+        <item>Il va falloir se battre pour survivre.</item>
+        <item>Ce serait bien d’accrocher le milieu de tableau.</item>
+        <item>On fera partie des 4 premiers</item>
+        <item>On peut jouer le titre !</item>
+        <item>On doit gagner cette saison</item>
+        <item>On est de loin la meilleure équipe de cette division !</item>
+    </string-array>
+
+    <!-- Player Agreeablility Level -->
+    <string-array name="hattrick_player_agreeability">
+        <item>type désagréable</item>
+        <item>personnage controversé</item>
+        <item>gars aimable</item>
+        <item>gars sympathique</item>
+        <item>gars populaire</item>
+        <item>type adulé par ses coéquipiers</item>
+    </string-array>
+
+    <!-- Player Honesty -->
+    <string-array name="hattrick_player_honesty">
+        <item>fourbe</item>
+        <item>malhonnête</item>
+        <item>honnête</item>
+        <item>sincère</item>
+        <item>intègre</item>
+        <item>vertueux</item>
+    </string-array>
+
+    <!-- Player agressivness -->
+    <string-array name="hattrick_player_agressivness">
+        <item>tranquille</item>
+        <item>calme</item>
+        <item>équilibré</item>
+        <item>caractériel</item>
+        <item>impulsif</item>
+        <item>instable</item>
+    </string-array>
+
+    <!-- Player Speciality -->
+    <string-array name="hattrick_player_speciality">
+        <item>Aucune</item>
+        <item>Technique</item>
+        <item>Rapide</item>
+        <item>Costaud</item>
+        <item>Imprévisible</item>
+        <item>Joueur de tête</item>
+        <item>Guérison accélérée</item>
+    </string-array>
+
+    <!-- Player Self Confidence -->
+    <string-array name="hattrick_confidence">
+        <item>inexistante</item>
+        <item>catastrophique</item>
+        <item>mauvaise</item>
+        <item>faible</item>
+        <item>convenable</item>
+        <item>forte</item>
+        <item>inébranlable</item>
+        <item>légèrement exagérée</item>
+        <item>exagérée</item>
+        <item>complètement exagérée</item>
+    </string-array>
+
+</resources>

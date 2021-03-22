@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>players.xml</FileName>
+    <Version>2.3</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:16:06</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <IsYouth>False</IsYouth>
+    <ActionType>viewoldcoaches</ActionType>
+    <IsPlayingMatch>False</IsPlayingMatch>
+    <Team>
+        <TeamID>1127942</TeamID>
+        <TeamName>Real Americano</TeamName>
+        <PlayerList>
+            <Player>
+                <PlayerID>315418831</PlayerID>
+                <FirstName>Lars</FirstName>
+                <NickName></NickName>
+                <LastName>Ericsson</LastName>
+                <PlayerNumber>100</PlayerNumber>
+                <Age>51</Age>
+                <AgeDays>0</AgeDays>
+                <TSI>0</TSI>
+                <PlayerForm>4</PlayerForm>
+                <Statement></Statement>
+                <Experience>6</Experience>
+                <Loyalty>20</Loyalty>
+                <MotherClubBonus>True</MotherClubBonus>
+                <Leadership>5</Leadership>
+                <Salary>3000</Salary>
+                <IsAbroad>1</IsAbroad>
+                <Agreeability>0</Agreeability>
+                <Aggressiveness>2</Aggressiveness>
+                <Honesty>1</Honesty>
+                <LeagueGoals>0</LeagueGoals>
+                <CupGoals>0</CupGoals>
+                <FriendliesGoals>0</FriendliesGoals>
+                <CareerGoals>0</CareerGoals>
+                <CareerHattricks>0</CareerHattricks>
+                <Specialty>0</Specialty>
+                <TransferListed>0</TransferListed>
+                <NationalTeamID>0</NationalTeamID>
+                <CountryID>1</CountryID>
+                <Caps>0</Caps>
+                <CapsU20>0</CapsU20>
+                <Cards>0</Cards>
+                <InjuryLevel>-1</InjuryLevel>
+                <TrainerData>
+                    <TrainerType>1</TrainerType>
+                    <TrainerSkill>4</TrainerSkill>
+                </TrainerData>
+            </Player>
+        </PlayerList>
+    </Team>
+</HattrickData>

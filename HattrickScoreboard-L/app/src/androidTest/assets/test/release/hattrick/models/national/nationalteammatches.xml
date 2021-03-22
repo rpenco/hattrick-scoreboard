@@ -1,0 +1,2763 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>nationalteammatches.xml</FileName>
+    <Version>1.3</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:14:44</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <LeagueOfficeTypeID>2</LeagueOfficeTypeID>
+    <Matches>
+        <Match>
+            <MatchID>496510997</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Moldova</HomeTeamName>
+            <AwayTeamName>Chile</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>4</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511001</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Kazakhstan</HomeTeamName>
+            <AwayTeamName>Al Iraq</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511002</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Azərbaycan</HomeTeamName>
+            <AwayTeamName>Nicaragua</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>6</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511003</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Jamaica</HomeTeamName>
+            <AwayTeamName>United Arab Emirates</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511055</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bahrain</HomeTeamName>
+            <AwayTeamName>Schweiz</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>4</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511056</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hellas</HomeTeamName>
+            <AwayTeamName>El Salvador</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511059</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Portugal</HomeTeamName>
+            <AwayTeamName>Cabo Verde</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511060</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hong Kong</HomeTeamName>
+            <AwayTeamName>Mongol Uls</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>6</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511111</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Moçambique</HomeTeamName>
+            <AwayTeamName>Danmark</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511112</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Costa Rica</HomeTeamName>
+            <AwayTeamName>O'zbekiston</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511113</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hayastan</HomeTeamName>
+            <AwayTeamName>Makedonija</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511126</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Indonesia</HomeTeamName>
+            <AwayTeamName>Iran</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511166</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Eesti</HomeTeamName>
+            <AwayTeamName>Prateh Kampuchea</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>6</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511168</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Österreich</HomeTeamName>
+            <AwayTeamName>Al Yaman</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>9</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511169</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Crna Gora</HomeTeamName>
+            <AwayTeamName>Oman</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511172</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Dhivehi Raajje</HomeTeamName>
+            <AwayTeamName>España</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511223</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Paraguay</HomeTeamName>
+            <AwayTeamName>Cameroon</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511224</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Nigeria</HomeTeamName>
+            <AwayTeamName>Bulgaria</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511225</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Singapore</HomeTeamName>
+            <AwayTeamName>Liechtenstein</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511228</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Andorra</HomeTeamName>
+            <AwayTeamName>Angola</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>5</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511280</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Shqiperia</HomeTeamName>
+            <AwayTeamName>Polska</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511281</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Latvija</HomeTeamName>
+            <AwayTeamName>Pakistan</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511282</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Rossiya</HomeTeamName>
+            <AwayTeamName>Al Maghrib </AwayTeamName>
+            <MatchResult>
+                <HomeGoals>5</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511285</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bosna i Hercegovina</HomeTeamName>
+            <AwayTeamName>Malta</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511335</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Lietuva</HomeTeamName>
+            <AwayTeamName>Nederland</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511336</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>England</HomeTeamName>
+            <AwayTeamName>Dawlat Qatar</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511340</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Prathet Thai</HomeTeamName>
+            <AwayTeamName>Føroyar</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511341</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Slovenija</HomeTeamName>
+            <AwayTeamName>Suriyah</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511392</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Argentina</HomeTeamName>
+            <AwayTeamName>Nippon</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511393</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Trinidad &amp; Tobago</HomeTeamName>
+            <AwayTeamName>România</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511394</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Suriname</HomeTeamName>
+            <AwayTeamName>Palestine</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511396</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Uruguay</HomeTeamName>
+            <AwayTeamName>Kyrgyzstan</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511448</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ecuador</HomeTeamName>
+            <AwayTeamName>Česká republika</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>4</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511449</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Belarus</HomeTeamName>
+            <AwayTeamName>Malaysia</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511450</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Urdun</HomeTeamName>
+            <AwayTeamName>Venezuela</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>9</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511460</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>México</HomeTeamName>
+            <AwayTeamName>Northern Ireland</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>4</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511502</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Côte d'Ivoire</HomeTeamName>
+            <AwayTeamName>Belgium</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511504</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Brunei</HomeTeamName>
+            <AwayTeamName>Magyarország</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511505</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Honduras</HomeTeamName>
+            <AwayTeamName>Cuba</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>5</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511507</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Guatemala</HomeTeamName>
+            <AwayTeamName>Sakartvelo</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511559</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Scotland</HomeTeamName>
+            <AwayTeamName>Srbija</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511560</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ukraina</HomeTeamName>
+            <AwayTeamName>Hrvatska</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511561</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Slovensko</HomeTeamName>
+            <AwayTeamName>Panama</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511562</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Brasil</HomeTeamName>
+            <AwayTeamName>Misr</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>6</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511616</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Türkiye</HomeTeamName>
+            <AwayTeamName>Sverige</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511617</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Saudi Arabia</HomeTeamName>
+            <AwayTeamName>Ireland</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>5</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511618</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cyprus</HomeTeamName>
+            <AwayTeamName>South Africa</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>5</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511619</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Canada</HomeTeamName>
+            <AwayTeamName>India</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>5</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511670</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Uganda</HomeTeamName>
+            <AwayTeamName>Italia</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>10</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511672</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Perú</HomeTeamName>
+            <AwayTeamName>USA</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511674</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Oceania</HomeTeamName>
+            <AwayTeamName>Kenya</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511675</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cymru</HomeTeamName>
+            <AwayTeamName>Barbados</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>5</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511728</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hanguk</HomeTeamName>
+            <AwayTeamName>Israel</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511729</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Chinese Taipei</HomeTeamName>
+            <AwayTeamName>Algérie</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511730</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Norge</HomeTeamName>
+            <AwayTeamName>Ghana</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>5</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511733</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Lubnan</HomeTeamName>
+            <AwayTeamName>Bangladesh</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511782</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>China</HomeTeamName>
+            <AwayTeamName>Suomi</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511785</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>France</HomeTeamName>
+            <AwayTeamName>Pilipinas</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511786</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Deutschland</HomeTeamName>
+            <AwayTeamName>República Dominicana</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>6</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511788</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bolivia</HomeTeamName>
+            <AwayTeamName>Senegal</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511839</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Tounes</HomeTeamName>
+            <AwayTeamName>Lëtzebuerg</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511841</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bénin</HomeTeamName>
+            <AwayTeamName>Việt Nam</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511842</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Colombia</HomeTeamName>
+            <AwayTeamName>Al Kuwayt</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511844</MatchID>
+            <MatchDate>2014-10-24 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Tanzania</HomeTeamName>
+            <AwayTeamName>Ísland</AwayTeamName>
+            <MatchResult>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </MatchResult>
+        </Match>
+        <Match>
+            <MatchID>496511004</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Chile</HomeTeamName>
+            <AwayTeamName>Jamaica</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511005</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>United Arab Emirates</HomeTeamName>
+            <AwayTeamName>Kazakhstan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511006</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Nicaragua</HomeTeamName>
+            <AwayTeamName>Moldova</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511007</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Iraq</HomeTeamName>
+            <AwayTeamName>Azərbaycan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511058</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Schweiz</HomeTeamName>
+            <AwayTeamName>Hong Kong</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511061</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Mongol Uls</HomeTeamName>
+            <AwayTeamName>Hellas</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511062</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cabo Verde</HomeTeamName>
+            <AwayTeamName>Bahrain</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511063</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>El Salvador</HomeTeamName>
+            <AwayTeamName>Portugal</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511115</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>O'zbekiston</HomeTeamName>
+            <AwayTeamName>Moçambique</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511118</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Danmark</HomeTeamName>
+            <AwayTeamName>Indonesia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511119</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Iran</HomeTeamName>
+            <AwayTeamName>Hayastan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511127</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Makedonija</HomeTeamName>
+            <AwayTeamName>Costa Rica</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511171</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Oman</HomeTeamName>
+            <AwayTeamName>Eesti</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511173</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Yaman</HomeTeamName>
+            <AwayTeamName>Dhivehi Raajje</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511174</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Prateh Kampuchea</HomeTeamName>
+            <AwayTeamName>Österreich</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511177</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>España</HomeTeamName>
+            <AwayTeamName>Crna Gora</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511227</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bulgaria</HomeTeamName>
+            <AwayTeamName>Andorra</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511229</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Liechtenstein</HomeTeamName>
+            <AwayTeamName>Nigeria</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511230</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Angola</HomeTeamName>
+            <AwayTeamName>Paraguay</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511231</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cameroon</HomeTeamName>
+            <AwayTeamName>Singapore</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511283</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Polska</HomeTeamName>
+            <AwayTeamName>Bosna i Hercegovina</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511284</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Maghrib </HomeTeamName>
+            <AwayTeamName>Shqiperia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511286</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Malta</HomeTeamName>
+            <AwayTeamName>Latvija</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511288</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Pakistan</HomeTeamName>
+            <AwayTeamName>Rossiya</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511338</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Nederland</HomeTeamName>
+            <AwayTeamName>Prathet Thai</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511339</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Føroyar</HomeTeamName>
+            <AwayTeamName>England</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511342</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Suriyah</HomeTeamName>
+            <AwayTeamName>Lietuva</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511346</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Dawlat Qatar</HomeTeamName>
+            <AwayTeamName>Slovenija</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511395</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>România</HomeTeamName>
+            <AwayTeamName>Uruguay</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511397</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Kyrgyzstan</HomeTeamName>
+            <AwayTeamName>Argentina</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511398</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Nippon</HomeTeamName>
+            <AwayTeamName>Suriname</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511399</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Palestine</HomeTeamName>
+            <AwayTeamName>Trinidad &amp; Tobago</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511451</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Česká republika</HomeTeamName>
+            <AwayTeamName>México</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511452</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Northern Ireland</HomeTeamName>
+            <AwayTeamName>Belarus</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511454</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Malaysia</HomeTeamName>
+            <AwayTeamName>Al Urdun</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511462</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Venezuela</HomeTeamName>
+            <AwayTeamName>Ecuador</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511506</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Belgium</HomeTeamName>
+            <AwayTeamName>Guatemala</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511509</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Sakartvelo</HomeTeamName>
+            <AwayTeamName>Brunei</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511510</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cuba</HomeTeamName>
+            <AwayTeamName>Côte d'Ivoire</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511511</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Magyarország</HomeTeamName>
+            <AwayTeamName>Honduras</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511564</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Misr</HomeTeamName>
+            <AwayTeamName>Ukraina</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511565</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Srbija</HomeTeamName>
+            <AwayTeamName>Brasil</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511566</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Panama</HomeTeamName>
+            <AwayTeamName>Scotland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511569</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hrvatska</HomeTeamName>
+            <AwayTeamName>Slovensko</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511620</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ireland</HomeTeamName>
+            <AwayTeamName>Canada</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511621</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>India</HomeTeamName>
+            <AwayTeamName>Türkiye</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511622</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>South Africa</HomeTeamName>
+            <AwayTeamName>Saudi Arabia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511623</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Sverige</HomeTeamName>
+            <AwayTeamName>Cyprus</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511676</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Italia</HomeTeamName>
+            <AwayTeamName>Oceania</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511677</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Kenya</HomeTeamName>
+            <AwayTeamName>Perú</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511678</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Barbados</HomeTeamName>
+            <AwayTeamName>Uganda</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511680</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>USA</HomeTeamName>
+            <AwayTeamName>Cymru</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511731</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Israel</HomeTeamName>
+            <AwayTeamName>Lubnan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511732</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ghana</HomeTeamName>
+            <AwayTeamName>Hanguk</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511735</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Algérie</HomeTeamName>
+            <AwayTeamName>Norge</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511737</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bangladesh</HomeTeamName>
+            <AwayTeamName>Chinese Taipei</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511787</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Senegal</HomeTeamName>
+            <AwayTeamName>France</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511789</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Suomi</HomeTeamName>
+            <AwayTeamName>Bolivia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511790</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>República Dominicana</HomeTeamName>
+            <AwayTeamName>China</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511791</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Pilipinas</HomeTeamName>
+            <AwayTeamName>Deutschland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511843</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Lëtzebuerg</HomeTeamName>
+            <AwayTeamName>Tanzania</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511845</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ísland</HomeTeamName>
+            <AwayTeamName>Colombia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511846</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Việt Nam</HomeTeamName>
+            <AwayTeamName>Tounes</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511847</MatchID>
+            <MatchDate>2014-10-31 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Kuwayt</HomeTeamName>
+            <AwayTeamName>Bénin</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511008</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Nicaragua</HomeTeamName>
+            <AwayTeamName>Chile</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511009</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Jamaica</HomeTeamName>
+            <AwayTeamName>Kazakhstan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511010</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Azərbaycan</HomeTeamName>
+            <AwayTeamName>Moldova</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511011</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>United Arab Emirates</HomeTeamName>
+            <AwayTeamName>Al Iraq</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511064</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cabo Verde</HomeTeamName>
+            <AwayTeamName>Schweiz</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511065</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Mongol Uls</HomeTeamName>
+            <AwayTeamName>El Salvador</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511069</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hong Kong</HomeTeamName>
+            <AwayTeamName>Hellas</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511072</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Portugal</HomeTeamName>
+            <AwayTeamName>Bahrain</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511116</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Indonesia</HomeTeamName>
+            <AwayTeamName>Hayastan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511117</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Costa Rica</HomeTeamName>
+            <AwayTeamName>Moçambique</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511120</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Iran</HomeTeamName>
+            <AwayTeamName>Makedonija</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511121</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>O'zbekiston</HomeTeamName>
+            <AwayTeamName>Danmark</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511175</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Crna Gora</HomeTeamName>
+            <AwayTeamName>Eesti</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511176</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Österreich</HomeTeamName>
+            <AwayTeamName>Dhivehi Raajje</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511178</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Yaman</HomeTeamName>
+            <AwayTeamName>España</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511179</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Oman</HomeTeamName>
+            <AwayTeamName>Prateh Kampuchea</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511232</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Liechtenstein</HomeTeamName>
+            <AwayTeamName>Bulgaria</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511233</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Angola</HomeTeamName>
+            <AwayTeamName>Cameroon</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511236</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Andorra</HomeTeamName>
+            <AwayTeamName>Paraguay</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511239</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Singapore</HomeTeamName>
+            <AwayTeamName>Nigeria</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511287</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Rossiya</HomeTeamName>
+            <AwayTeamName>Shqiperia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511289</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bosna i Hercegovina</HomeTeamName>
+            <AwayTeamName>Latvija</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511290</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Maghrib </HomeTeamName>
+            <AwayTeamName>Polska</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511293</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Malta</HomeTeamName>
+            <AwayTeamName>Pakistan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511343</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Slovenija</HomeTeamName>
+            <AwayTeamName>Lietuva</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511344</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Suriyah</HomeTeamName>
+            <AwayTeamName>Nederland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511345</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Prathet Thai</HomeTeamName>
+            <AwayTeamName>England</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511347</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Føroyar</HomeTeamName>
+            <AwayTeamName>Dawlat Qatar</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511400</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Palestine</HomeTeamName>
+            <AwayTeamName>România</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511401</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Uruguay</HomeTeamName>
+            <AwayTeamName>Argentina</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511402</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Suriname</HomeTeamName>
+            <AwayTeamName>Trinidad &amp; Tobago</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511403</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Kyrgyzstan</HomeTeamName>
+            <AwayTeamName>Nippon</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511453</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Venezuela</HomeTeamName>
+            <AwayTeamName>Česká republika</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511455</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>México</HomeTeamName>
+            <AwayTeamName>Belarus</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511456</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Urdun</HomeTeamName>
+            <AwayTeamName>Ecuador</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511458</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Northern Ireland</HomeTeamName>
+            <AwayTeamName>Malaysia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511512</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cuba</HomeTeamName>
+            <AwayTeamName>Belgium</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511513</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Guatemala</HomeTeamName>
+            <AwayTeamName>Brunei</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511514</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Honduras</HomeTeamName>
+            <AwayTeamName>Côte d'Ivoire</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511515</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Sakartvelo</HomeTeamName>
+            <AwayTeamName>Magyarország</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511567</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Panama</HomeTeamName>
+            <AwayTeamName>Srbija</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511568</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Slovensko</HomeTeamName>
+            <AwayTeamName>Scotland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511570</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Misr</HomeTeamName>
+            <AwayTeamName>Hrvatska</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511572</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Brasil</HomeTeamName>
+            <AwayTeamName>Ukraina</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511624</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>South Africa</HomeTeamName>
+            <AwayTeamName>Ireland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511625</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>India</HomeTeamName>
+            <AwayTeamName>Sverige</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511734</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Lubnan</HomeTeamName>
+            <AwayTeamName>Chinese Taipei</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511736</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ghana</HomeTeamName>
+            <AwayTeamName>Israel</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511738</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Norge</HomeTeamName>
+            <AwayTeamName>Hanguk</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511792</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>República Dominicana</HomeTeamName>
+            <AwayTeamName>Suomi</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511793</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bolivia</HomeTeamName>
+            <AwayTeamName>France</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511794</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Deutschland</HomeTeamName>
+            <AwayTeamName>China</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511795</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Senegal</HomeTeamName>
+            <AwayTeamName>Pilipinas</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511848</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Việt Nam</HomeTeamName>
+            <AwayTeamName>Lëtzebuerg</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511849</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Tanzania</HomeTeamName>
+            <AwayTeamName>Colombia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511850</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bénin</HomeTeamName>
+            <AwayTeamName>Tounes</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511851</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ísland</HomeTeamName>
+            <AwayTeamName>Al Kuwayt</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511750</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bangladesh</HomeTeamName>
+            <AwayTeamName>Algérie</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511632</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Canada</HomeTeamName>
+            <AwayTeamName>Türkiye</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511634</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cyprus</HomeTeamName>
+            <AwayTeamName>Saudi Arabia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511679</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Barbados</HomeTeamName>
+            <AwayTeamName>Italia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511681</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Oceania</HomeTeamName>
+            <AwayTeamName>Perú</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511682</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cymru</HomeTeamName>
+            <AwayTeamName>Uganda</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511683</MatchID>
+            <MatchDate>2014-11-07 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Kenya</HomeTeamName>
+            <AwayTeamName>USA</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511684</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Italia</HomeTeamName>
+            <AwayTeamName>Cymru</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511685</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>USA</HomeTeamName>
+            <AwayTeamName>Oceania</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511686</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Perú</HomeTeamName>
+            <AwayTeamName>Barbados</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511696</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Uganda</HomeTeamName>
+            <AwayTeamName>Kenya</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511571</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Srbija</HomeTeamName>
+            <AwayTeamName>Slovensko</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511573</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ukraina</HomeTeamName>
+            <AwayTeamName>Panama</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511574</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hrvatska</HomeTeamName>
+            <AwayTeamName>Brasil</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511575</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Scotland</HomeTeamName>
+            <AwayTeamName>Misr</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511626</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Türkiye</HomeTeamName>
+            <AwayTeamName>South Africa</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511627</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ireland</HomeTeamName>
+            <AwayTeamName>Cyprus</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511628</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Sverige</HomeTeamName>
+            <AwayTeamName>Canada</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511629</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Saudi Arabia</HomeTeamName>
+            <AwayTeamName>India</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511296</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Shqiperia</HomeTeamName>
+            <AwayTeamName>Malta</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511404</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>România</HomeTeamName>
+            <AwayTeamName>Suriname</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511405</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Trinidad &amp; Tobago</HomeTeamName>
+            <AwayTeamName>Kyrgyzstan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511406</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Nippon</HomeTeamName>
+            <AwayTeamName>Uruguay</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511414</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Argentina</HomeTeamName>
+            <AwayTeamName>Palestine</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511457</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Česká republika</HomeTeamName>
+            <AwayTeamName>Al Urdun</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511459</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Belarus</HomeTeamName>
+            <AwayTeamName>Venezuela</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511461</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Malaysia</HomeTeamName>
+            <AwayTeamName>México</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511463</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ecuador</HomeTeamName>
+            <AwayTeamName>Northern Ireland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511751</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Israel</HomeTeamName>
+            <AwayTeamName>Norge</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511017</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Moldova</HomeTeamName>
+            <AwayTeamName>United Arab Emirates</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511852</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Lëtzebuerg</HomeTeamName>
+            <AwayTeamName>Bénin</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511853</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Kuwayt</HomeTeamName>
+            <AwayTeamName>Tanzania</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511854</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Colombia</HomeTeamName>
+            <AwayTeamName>Việt Nam</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511858</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Tounes</HomeTeamName>
+            <AwayTeamName>Ísland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511796</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>France</HomeTeamName>
+            <AwayTeamName>República Dominicana</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511798</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Pilipinas</HomeTeamName>
+            <AwayTeamName>Bolivia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511800</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>China</HomeTeamName>
+            <AwayTeamName>Senegal</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511806</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Suomi</HomeTeamName>
+            <AwayTeamName>Deutschland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511739</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Chinese Taipei</HomeTeamName>
+            <AwayTeamName>Ghana</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511740</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Algérie</HomeTeamName>
+            <AwayTeamName>Lubnan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511741</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hanguk</HomeTeamName>
+            <AwayTeamName>Bangladesh</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511516</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Belgium</HomeTeamName>
+            <AwayTeamName>Honduras</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511517</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Magyarország</HomeTeamName>
+            <AwayTeamName>Guatemala</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511518</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Brunei</HomeTeamName>
+            <AwayTeamName>Cuba</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511519</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Côte d'Ivoire</HomeTeamName>
+            <AwayTeamName>Sakartvelo</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511012</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Kazakhstan</HomeTeamName>
+            <AwayTeamName>Nicaragua</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511013</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Chile</HomeTeamName>
+            <AwayTeamName>Azərbaycan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511014</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Iraq</HomeTeamName>
+            <AwayTeamName>Jamaica</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511066</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Schweiz</HomeTeamName>
+            <AwayTeamName>Portugal</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511067</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hellas</HomeTeamName>
+            <AwayTeamName>Cabo Verde</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511068</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>El Salvador</HomeTeamName>
+            <AwayTeamName>Hong Kong</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511070</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bahrain</HomeTeamName>
+            <AwayTeamName>Mongol Uls</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511122</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Danmark</HomeTeamName>
+            <AwayTeamName>Costa Rica</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511123</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Moçambique</HomeTeamName>
+            <AwayTeamName>Iran</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511124</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hayastan</HomeTeamName>
+            <AwayTeamName>O'zbekiston</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511125</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Makedonija</HomeTeamName>
+            <AwayTeamName>Indonesia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511180</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Eesti</HomeTeamName>
+            <AwayTeamName>Al Yaman</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511181</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>España</HomeTeamName>
+            <AwayTeamName>Österreich</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511182</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Prateh Kampuchea</HomeTeamName>
+            <AwayTeamName>Crna Gora</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511234</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bulgaria</HomeTeamName>
+            <AwayTeamName>Singapore</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511235</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Paraguay</HomeTeamName>
+            <AwayTeamName>Liechtenstein</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511237</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cameroon</HomeTeamName>
+            <AwayTeamName>Andorra</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511238</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Nigeria</HomeTeamName>
+            <AwayTeamName>Angola</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511184</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Dhivehi Raajje</HomeTeamName>
+            <AwayTeamName>Oman</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511291</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Polska</HomeTeamName>
+            <AwayTeamName>Rossiya</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511292</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Latvija</HomeTeamName>
+            <AwayTeamName>Al Maghrib </AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511294</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Pakistan</HomeTeamName>
+            <AwayTeamName>Bosna i Hercegovina</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511348</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>England</HomeTeamName>
+            <AwayTeamName>Suriyah</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511349</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Nederland</HomeTeamName>
+            <AwayTeamName>Slovenija</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511350</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Dawlat Qatar</HomeTeamName>
+            <AwayTeamName>Prathet Thai</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511351</MatchID>
+            <MatchDate>2014-11-14 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Lietuva</HomeTeamName>
+            <AwayTeamName>Føroyar</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511352</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>England</HomeTeamName>
+            <AwayTeamName>Nederland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511353</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Prathet Thai</HomeTeamName>
+            <AwayTeamName>Slovenija</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511354</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Dawlat Qatar</HomeTeamName>
+            <AwayTeamName>Lietuva</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511355</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Føroyar</HomeTeamName>
+            <AwayTeamName>Suriyah</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511295</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Latvija</HomeTeamName>
+            <AwayTeamName>Polska</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511185</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Crna Gora</HomeTeamName>
+            <AwayTeamName>Österreich</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511186</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Prateh Kampuchea</HomeTeamName>
+            <AwayTeamName>Dhivehi Raajje</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511187</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Oman</HomeTeamName>
+            <AwayTeamName>Al Yaman</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511240</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Paraguay</HomeTeamName>
+            <AwayTeamName>Bulgaria</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511241</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Cameroon</HomeTeamName>
+            <AwayTeamName>Nigeria</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511242</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Andorra</HomeTeamName>
+            <AwayTeamName>Singapore</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511243</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Angola</HomeTeamName>
+            <AwayTeamName>Liechtenstein</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511183</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Eesti</HomeTeamName>
+            <AwayTeamName>España</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511128</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Makedonija</HomeTeamName>
+            <AwayTeamName>Moçambique</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511129</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Iran</HomeTeamName>
+            <AwayTeamName>O'zbekiston</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511132</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hayastan</HomeTeamName>
+            <AwayTeamName>Danmark</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511133</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Indonesia</HomeTeamName>
+            <AwayTeamName>Costa Rica</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511071</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hellas</HomeTeamName>
+            <AwayTeamName>Schweiz</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511074</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hong Kong</HomeTeamName>
+            <AwayTeamName>Portugal</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511075</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>El Salvador</HomeTeamName>
+            <AwayTeamName>Bahrain</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511080</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Mongol Uls</HomeTeamName>
+            <AwayTeamName>Cabo Verde</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511015</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Kazakhstan</HomeTeamName>
+            <AwayTeamName>Chile</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511016</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Jamaica</HomeTeamName>
+            <AwayTeamName>Azərbaycan</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511520</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Brunei</HomeTeamName>
+            <AwayTeamName>Belgium</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511521</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Guatemala</HomeTeamName>
+            <AwayTeamName>Honduras</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511019</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Iraq</HomeTeamName>
+            <AwayTeamName>Moldova</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511021</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>United Arab Emirates</HomeTeamName>
+            <AwayTeamName>Nicaragua</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511464</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Belarus</HomeTeamName>
+            <AwayTeamName>Česká republika</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511465</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>México</HomeTeamName>
+            <AwayTeamName>Al Urdun</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511466</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Malaysia</HomeTeamName>
+            <AwayTeamName>Ecuador</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511467</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Northern Ireland</HomeTeamName>
+            <AwayTeamName>Venezuela</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511407</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Argentina</HomeTeamName>
+            <AwayTeamName>România</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511408</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Uruguay</HomeTeamName>
+            <AwayTeamName>Suriname</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511409</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Nippon</HomeTeamName>
+            <AwayTeamName>Trinidad &amp; Tobago</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511410</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Kyrgyzstan</HomeTeamName>
+            <AwayTeamName>Palestine</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511297</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Pakistan</HomeTeamName>
+            <AwayTeamName>Shqiperia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511298</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Malta</HomeTeamName>
+            <AwayTeamName>Al Maghrib </AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511303</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bosna i Hercegovina</HomeTeamName>
+            <AwayTeamName>Rossiya</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511522</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Sakartvelo</HomeTeamName>
+            <AwayTeamName>Cuba</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511527</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Magyarország</HomeTeamName>
+            <AwayTeamName>Côte d'Ivoire</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511576</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ukraina</HomeTeamName>
+            <AwayTeamName>Srbija</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511577</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Brasil</HomeTeamName>
+            <AwayTeamName>Slovensko</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511578</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Hrvatska</HomeTeamName>
+            <AwayTeamName>Scotland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511579</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Misr</HomeTeamName>
+            <AwayTeamName>Panama</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511630</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Türkiye</HomeTeamName>
+            <AwayTeamName>Ireland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511631</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Canada</HomeTeamName>
+            <AwayTeamName>Cyprus</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511633</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Sverige</HomeTeamName>
+            <AwayTeamName>Saudi Arabia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511637</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>India</HomeTeamName>
+            <AwayTeamName>South Africa</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511687</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Perú</HomeTeamName>
+            <AwayTeamName>Italia</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511688</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>USA</HomeTeamName>
+            <AwayTeamName>Uganda</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511690</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Oceania</HomeTeamName>
+            <AwayTeamName>Cymru</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511691</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Kenya</HomeTeamName>
+            <AwayTeamName>Barbados</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511742</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Algérie</HomeTeamName>
+            <AwayTeamName>Hanguk</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511743</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Chinese Taipei</HomeTeamName>
+            <AwayTeamName>Israel</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511744</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Lubnan</HomeTeamName>
+            <AwayTeamName>Norge</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511746</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bangladesh</HomeTeamName>
+            <AwayTeamName>Ghana</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511797</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Pilipinas</HomeTeamName>
+            <AwayTeamName>China</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511799</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Bolivia</HomeTeamName>
+            <AwayTeamName>Deutschland</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511801</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>France</HomeTeamName>
+            <AwayTeamName>Suomi</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511802</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Senegal</HomeTeamName>
+            <AwayTeamName>República Dominicana</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511855</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Tanzania</HomeTeamName>
+            <AwayTeamName>Bénin</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511856</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Colombia</HomeTeamName>
+            <AwayTeamName>Lëtzebuerg</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511857</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Al Kuwayt</HomeTeamName>
+            <AwayTeamName>Tounes</AwayTeamName>
+            <MatchResult />
+        </Match>
+        <Match>
+            <MatchID>496511859</MatchID>
+            <MatchDate>2014-11-21 20:00:00</MatchDate>
+            <MatchType>10</MatchType>
+            <HomeTeamName>Ísland</HomeTeamName>
+            <AwayTeamName>Việt Nam</AwayTeamName>
+            <MatchResult />
+        </Match>
+    </Matches>
+</HattrickData>

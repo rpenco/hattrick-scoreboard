@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>search.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:19:01</FetchedDate>
+    <SearchParams>
+        <SearchType>1</SearchType>
+        <SearchString>Bob</SearchString>
+        <SearchString2></SearchString2>
+        <SearchID>0</SearchID>
+        <SearchLeagueID>5</SearchLeagueID>
+    </SearchParams>
+    <PageIndex>0</PageIndex>
+    <Pages>30</Pages>
+    <SearchResults>
+        <Result>
+            <ResultID>1982682</ResultID>
+            <ResultName>Bob Marley Stadium</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1982645</ResultID>
+            <ResultName>bob marley's prodigy Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>2024962</ResultID>
+            <ResultName>BoB MarLy Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1990488</ResultID>
+            <ResultName>Boba SE aréna</ResultName>
+        </Result>
+        <Result>
+            <ResultID>2009805</ResultID>
+            <ResultName>Bobber 2013 Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1940968</ResultID>
+            <ResultName>BobbiBrown Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>2016223</ResultID>
+            <ResultName>bobdellafiestaavolte Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1993856</ResultID>
+            <ResultName>bobek ben Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1955518</ResultID>
+            <ResultName>BOBER</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1974699</ResultID>
+            <ResultName>BoBeRtOn Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1960049</ResultID>
+            <ResultName>Bobisspor Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>2009786</ResultID>
+            <ResultName>Bobo Eagles Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1986688</ResultID>
+            <ResultName>BoBoiConRua</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1984501</ResultID>
+            <ResultName>BOBONERA Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1955095</ResultID>
+            <ResultName>BOBOVNYA STADIUM</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1974346</ResultID>
+            <ResultName>Bobr Dobr  Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>2038229</ResultID>
+            <ResultName>Bobre Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1956144</ResultID>
+            <ResultName>Bobrova Hatka</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1975573</ResultID>
+            <ResultName>Bobrovica Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1956606</ResultID>
+            <ResultName>BOBRUISK Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1955986</ResultID>
+            <ResultName>Bobruisk Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1955494</ResultID>
+            <ResultName>bobruisk Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1955702</ResultID>
+            <ResultName>Bobruisk- Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1955844</ResultID>
+            <ResultName>Bobruisk-International Arena</ResultName>
+        </Result>
+        <Result>
+            <ResultID>1982707</ResultID>
+            <ResultName>Bobs Soccerboys Arena</ResultName>
+        </Result>
+    </SearchResults>
+</HattrickData>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>youthteam.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:43:02</FetchedDate>
+    <YouthTeam>
+        <YouthTeamID>10205</YouthTeamID>
+        <YouthTeamName>Tordendragen</YouthTeamName>
+        <ShortTeamName>Dragen</ShortTeamName>
+        <CreatedDate>2007-03-26 09:24:00</CreatedDate>
+        <Country>
+            <CountryID>10</CountryID>
+            <CountryName>Danmark</CountryName>
+        </Country>
+        <Region>
+            <RegionID>301</RegionID>
+            <RegionName>Nordsjælland</RegionName>
+        </Region>
+        <YouthArena>
+            <YouthArenaID>10177</YouthArenaID>
+            <YouthArenaName>Drageland</YouthArenaName>
+        </YouthArena>
+        <YouthLeague>
+            <YouthLeagueID>1947</YouthLeagueID>
+            <YouthLeagueName></YouthLeagueName>
+            <YouthLeagueStatus>3</YouthLeagueStatus>
+        </YouthLeague>
+        <OwningTeam>
+            <MotherTeamID>198547</MotherTeamID>
+            <MotherTeamName>Bhutan</MotherTeamName>
+        </OwningTeam>
+        <YouthTrainer>
+            <YouthPlayerID>6899991</YouthPlayerID>
+        </YouthTrainer>
+        <NextTrainingMatchDate>2014-11-10 08:55:00</NextTrainingMatchDate>
+        <ScoutList>
+            <Scout>
+                <YouthScoutID>1473110</YouthScoutID>
+                <ScoutName>Tor Hentze</ScoutName>
+                <Age>57</Age>
+                <Country>
+                    <CountryID>10</CountryID>
+                    <CountryName>Danmark</CountryName>
+                </Country>
+                <Region>
+                    <RegionID>295</RegionID>
+                    <RegionName>København</RegionName>
+                </Region>
+                <InCountry>
+                    <CountryID>10</CountryID>
+                    <CountryName>Danmark</CountryName>
+                </InCountry>
+                <InRegion>
+                    <RegionID>295</RegionID>
+                    <RegionName>København</RegionName>
+                </InRegion>
+                <HiredDate>2007-03-27 14:04:44</HiredDate>
+                <LastCalled>2014-10-26 07:08:31</LastCalled>
+                <PlayerTypeSearch>4</PlayerTypeSearch>
+                <Travel />
+            </Scout>
+            <Scout>
+                <YouthScoutID>1477396</YouthScoutID>
+                <ScoutName>Asbjørn Marvits</ScoutName>
+                <Age>80</Age>
+                <Country>
+                    <CountryID>10</CountryID>
+                    <CountryName>Danmark</CountryName>
+                </Country>
+                <Region>
+                    <RegionID>295</RegionID>
+                    <RegionName>København</RegionName>
+                </Region>
+                <InCountry>
+                    <CountryID>10</CountryID>
+                    <CountryName>Danmark</CountryName>
+                </InCountry>
+                <InRegion>
+                    <RegionID>301</RegionID>
+                    <RegionName>Nordsjælland</RegionName>
+                </InRegion>
+                <HiredDate>2007-04-15 09:42:22</HiredDate>
+                <LastCalled>2014-10-26 07:08:46</LastCalled>
+                <PlayerTypeSearch>4</PlayerTypeSearch>
+                <Travel />
+            </Scout>
+            <Scout>
+                <YouthScoutID>1477421</YouthScoutID>
+                <ScoutName>Morten Garde</ScoutName>
+                <Age>66</Age>
+                <Country>
+                    <CountryID>10</CountryID>
+                    <CountryName>Danmark</CountryName>
+                </Country>
+                <Region>
+                    <RegionID>295</RegionID>
+                    <RegionName>København</RegionName>
+                </Region>
+                <InCountry>
+                    <CountryID>10</CountryID>
+                    <CountryName>Danmark</CountryName>
+                </InCountry>
+                <InRegion>
+                    <RegionID>1708</RegionID>
+                    <RegionName>Frederiksberg</RegionName>
+                </InRegion>
+                <HiredDate>2007-04-15 09:43:10</HiredDate>
+                <LastCalled>2014-10-26 07:08:51</LastCalled>
+                <PlayerTypeSearch>4</PlayerTypeSearch>
+                <Travel />
+            </Scout>
+        </ScoutList>
+    </YouthTeam>
+</HattrickData>

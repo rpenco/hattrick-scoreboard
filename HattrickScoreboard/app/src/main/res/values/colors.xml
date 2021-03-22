@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Menu Drawer -->
+    <color name="background_drawer">#222</color>
+    <color name="background_drawer_divider">#333</color>
+    <color name="background_drawer_header">#2C2B29</color>
+
+    <!-- for all app -->
+    <color name="text_default">#333333</color>
+    <color name="text_light">#FFFFFF</color>
+    <color name="text_gray">#888</color>
+    <color name="default_red">#AE2A2A</color>
+    <color name="default_green">#46824c</color>
+
+    <!-- Progressbar -->
+    <color name="progress_bar">#AAA</color>
+
+    <!-- others -->
+    <color name="match_ongoing">#ff9901</color>
+
+    <!-- Table row -->
+    <color name="background_row_1">#EEE</color>
+    <color name="background_row_2">#F1F1F1</color>
+    <color name="background_scoreboard">#333</color>
+    <color name="color_scoreboard">#F2F2F2</color>
+
+    <!-- Color team -->
+    <color name="home_team">#CCC</color>
+    <color name="away_team">#888</color>
+
+    <!-- Inner notifications -->
+    <color name="notify_background_network">#b5b5b5</color>
+
+</resources>

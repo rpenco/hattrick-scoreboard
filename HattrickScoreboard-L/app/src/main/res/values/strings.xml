@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2014 Antonio Leiva Gordillo.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my">Details</string>
+
+    <!-- Hattrick Scoreboard L -->
+    <string name="app_name">Hattrick Scoreboard L</string>
+
+
+    <!-- CHPP -->
+    <string name="chpp_hattrick_text">Hattrick Scoreboard est accessible uniquement pour les joueurs de Hattrick.</string>
+    <string name="chpp_hattrick_button">Découvrir Hattrick</string>
+    <string name="chpp_chpp_text">En vous connectant, vous autorisez l\'application à accéder aux  informations de votre équipe.</string>
+    <string name="chpp_permission_text">Détail des permissions</string>
+    <string name="chpp_login_text">Nom d\'utilisateur</string>
+    <string name="chpp_password_text">Mot de passe</string>
+    <string name="chpp_alternative_connexion_text">Connexion alternative</string>
+    <string name="chpp_connexion_text">Connexion</string>
+
+
+    <!-- Menu Drawer -->
+    <!-- Slider/Drawer -->
+    <string name="menu_header_club">Le club</string>
+    <string name="menu_header_team">Equipe</string>
+    <string name="menu_overview">Général</string>
+    <string name="menu_arena">Stade</string>
+    <string name="menu_staff">Employés</string>
+    <string name="menu_fans">Supporters</string>
+    <string name="menu_transfers">Transferts</string>
+    <string name="menu_finances">Finances</string>
+
+    <string name="menu_community">Communauté</string>
+    <string name="menu_alliances">Fédérations</string>
+    <string name="menu_ladders">Ladders</string>
+    <string name="menu_tournaments">Tournois</string>
+
+    <string name="menu_header_senior">Equipe sénior</string>
+    <string name="menu_players">Joueurs</string>
+    <string name="menu_matches">Matches</string>
+    <string name="menu_series">Division</string>
+    <string name="menu_training">Entraînement</string>
+
+    <string name="menu_header_youth">Equipe junior</string>
+
+    <string name="menu_header_national">Equipes nationales</string>
+    <string name="menu_national_senior">Equipe nationale</string>
+    <string name="menu_national_youth">Equipe nationale U20</string>
+    <string name="menu_worldcup">Coupe du Monde</string>
+
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_settings">Préférences</string>
+
+    <!-- Notification popup -->
+
+    <string name="notif_teams_home_away" formatted="false">%1$s - %2$s</string>
+    <string name="notif_teams_scores_home_away" formatted="false">%1$s %3$s:%4$s %2$s</string>
+
+    <string name="notif_expended_to_show">Dépliez pour consulter les derniers évènements.</string>
+
+    <string name="notif_kickoff_reminder_minutes">Coup d\'envoi dans %1$s minutes.</string>
+    <string name="notif_kickoff_reminder_hour">Coup d\'envoi dans 1 heure.</string>
+
+    <string name="notif_kickoff">Coup d\'envoi.</string>
+    <string name="notif_fulltime">Fin du match.</string>
+    <string name="notif_halftime">Mi-temps.</string>
+    <string name="notif_walkover">Fin du match (Forfait).</string>
+    <string name="notif_extension">Prolongations.</string>
+    <string name="notif_penalty_contest">Tirs aux buts.</string>
+    <string name="notif_coin">Tirage au sort.</string>
+
+    <string name="notif_goal_penalty">%1$s\' But de %2$s sur pénalty.</string>
+    <string name="notif_goal_counter_attack">%1$s\' But de %2$s sur contre-attaque.</string>
+    <string name="notif_goal_se">%1$s\' But de %2$s sur un exploit individuel.</string>
+    <string name="notif_goal_freekick">%1$s\' But de %2$s sur coup-franc.</string>
+    <string name="notif_goal_middle">%1$s\' But de %2$s par le centre.</string>
+    <string name="notif_goal_left">%1$s\' But de %2$s par la gauche.</string>
+    <string name="notif_goal_right">%1$s\' But de %2$s par la droite.</string>
+    <string name="notif_goal_indirect_freekick">%1$s\' But de %2$s sur coup-franc indirect.</string>
+    <string name="notif_goal_long">%1$s\' But de %2$s sur un tir de loin.</string>
+
+    <string name="notif_injury">%1$s\' Blessure légère de %2$s.</string>
+    <string name="notif_injury_leave">%1$s\' Blessure légère de %2$s.</string>
+    <string name="notif_badly_injury">%1$s\' Blessure grave de %2$s.</string>
+    <string name="notif_badly_injury_leave">%1$s\' Blessure grave de %2$s.</string>
+    <string name="notif_badly_injury_no_leave">%1$s\' Blessure grave de %2$s.</string>
+
+    <string name="notif_yellow_card">%1$s\' Carton jaune pour %2$s.</string>
+    <string name="notif_yellow_red_card">%1$s\' Carton rouge (2ème jaune) pour %2$s.</string>
+    <string name="notif_red_card">%1$s\' Carton rouge pour %2$s.</string>
+
+    <!-- Common -->
+    <string name="unavailable">Indisponible</string>
+    <string name="statistiques">Statistiques</string>
+    <string name="total">Total</string>
+    <string name="team_home">Domicile</string>
+    <string name="team_away">Extérieur</string>
+    <string name="match_ongoing">En cours</string>
+
+    <!-- Club -->
+    <string name="tab_club">Club</string>
+    <string name="tab_prize_list">Palmarès</string>
+
+    <string name="club_victories_undefeated">%1$s victoires consécutives, %2$s matchs invaincus.</string>
+    <string name="club_undefeated">%1$s matchs invaincus.</string>
+    <string name="club_team_position">%1$s° en %2$s</string>
+    <string name="club_team_still_in_cup">Toujours en %1$s (%2$s/%3$s)</string>
+    <string name="club_team_since">Depuis le %1$s</string>
+    <string name="club_team_country_region">%1$s, %2$s</string>
+    <string name="club_team_arena">%1$s (%2$s places)</string>
+    <string name="club_team_fans">%1$s (%2$s fans)</string>
+    <string name="club_team_rank">Classé %1$s°</string>
+    <string name="club_trophies_country_received">%1$s pays accueillis</string>
+    <string name="club_trophies_country_visited">%1$s pays visités</string>
+
+
+    <!-- Arena -->
+    <string name="arena_after_building">Prochainement: %1$s places</string>
+    <string name="arena_building_in_progress">Travaux en cours</string>
+    <string name="arena_seats">%1$s places</string>
+    <string name="arena_last_build">Derniers travaux:</string>
+    <string name="arena_basics">Debout</string>
+    <string name="arena_terraces">Assises</string>
+    <string name="arena_roof">Couvertes</string>
+    <string name="arena_vip">Loge VIP</string>
+    <string name="arena_end_date">Fin des travaux:</string>
+    <string name="arena_basics_expected">Debout attendues</string>
+    <string name="arena_terraces_expected">Assises attendues</string>
+    <string name="arena_roof_expected">Couvertes attendues</string>
+    <string name="arena_vip_expected">Loge VIP attendues</string>
+    <string name="arena_min_average_max">min. - moy. - max.</string>
+
+
+    <!-- Economy -->
+    <string name="tab_economy_current">Semaine en cours</string>
+    <string name="tab_economy_last">Semaine dernière</string>
+
+    <!-- Series -->
+    <string name="series_played">J</string>
+    <string name="series_goals">Bp:Bc</string>
+    <string name="series_points">Pts</string>
+
+    <!-- Players -->
+    <string name="players_age_ageday">%1$s ans et %2$s jours, TSI %3$s</string>
+    <string name="players_form">En %1$s forme</string>
+
+    <!-- Players Statistiques -->
+
+
+
+    <!-- From Hattrick -->
+    <!-- Skill level array -->
+    <string-array name="hattrick_skills">
+        <item>inexistant</item>
+        <item>catastrophique</item>
+        <item>mauvais</item>
+        <item>médiocre</item>
+        <item>faible</item>
+        <item>inadéquat</item>
+        <item>passable</item>
+        <item>honorable</item>
+        <item>excellent</item>
+        <item>formidable</item>
+        <item>impressionnant</item>
+        <item>brillant</item>
+        <item>inoubliable</item>
+        <item>légendaire</item>
+        <item>surnaturel</item>
+        <item>titanesque</item>
+        <item>extraterrestre</item>
+        <item>mythique</item>
+        <item>magique</item>
+        <item>utopique</item>
+        <item>divin</item>
+    </string-array>
+
+</resources>

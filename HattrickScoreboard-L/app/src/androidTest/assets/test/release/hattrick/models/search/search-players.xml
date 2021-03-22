@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>search.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:18:09</FetchedDate>
+    <SearchParams>
+        <SearchType>0</SearchType>
+        <SearchString>Bob</SearchString>
+        <SearchString2>Kar</SearchString2>
+        <SearchID>0</SearchID>
+        <SearchLeagueID>-1</SearchLeagueID>
+    </SearchParams>
+    <PageIndex>0</PageIndex>
+    <Pages>3</Pages>
+    <SearchResults>
+        <Result>
+            <ResultID>344397561</ResultID>
+            <ResultName>Bob Karban</ResultName>
+        </Result>
+        <Result>
+            <ResultID>397889348</ResultID>
+            <ResultName>Bob Karch</ResultName>
+        </Result>
+        <Result>
+            <ResultID>200690104</ResultID>
+            <ResultName>Bob Karer</ResultName>
+        </Result>
+        <Result>
+            <ResultID>379551927</ResultID>
+            <ResultName>Bob 'Bob The Builder' Kargbo</ResultName>
+        </Result>
+        <Result>
+            <ResultID>374151749</ResultID>
+            <ResultName>Bob Karkov</ResultName>
+        </Result>
+        <Result>
+            <ResultID>292985677</ResultID>
+            <ResultName>Bob Karkov</ResultName>
+        </Result>
+        <Result>
+            <ResultID>276945948</ResultID>
+            <ResultName>Bob Karkov</ResultName>
+        </Result>
+        <Result>
+            <ResultID>226091490</ResultID>
+            <ResultName>Bob Karkov</ResultName>
+        </Result>
+        <Result>
+            <ResultID>381693482</ResultID>
+            <ResultName>Bob Karl</ResultName>
+        </Result>
+        <Result>
+            <ResultID>368738896</ResultID>
+            <ResultName>Bob Karlen</ResultName>
+        </Result>
+        <Result>
+            <ResultID>139475527</ResultID>
+            <ResultName>Bob Karlsen</ResultName>
+        </Result>
+        <Result>
+            <ResultID>295907163</ResultID>
+            <ResultName>Bob Karlsen</ResultName>
+        </Result>
+        <Result>
+            <ResultID>222229099</ResultID>
+            <ResultName>Bob Karlsen</ResultName>
+        </Result>
+        <Result>
+            <ResultID>192607432</ResultID>
+            <ResultName>Bob Karlsen</ResultName>
+        </Result>
+        <Result>
+            <ResultID>341318212</ResultID>
+            <ResultName>Bob Karlslund</ResultName>
+        </Result>
+        <Result>
+            <ResultID>153422348</ResultID>
+            <ResultName>Bob Karlslund</ResultName>
+        </Result>
+        <Result>
+            <ResultID>47159716</ResultID>
+            <ResultName>Bob Karlslund</ResultName>
+        </Result>
+        <Result>
+            <ResultID>106939049</ResultID>
+            <ResultName>Bob Karotsch</ResultName>
+        </Result>
+        <Result>
+            <ResultID>108093347</ResultID>
+            <ResultName>Bob Karotsch</ResultName>
+        </Result>
+        <Result>
+            <ResultID>130773507</ResultID>
+            <ResultName>Bob Karr</ResultName>
+        </Result>
+        <Result>
+            <ResultID>88346221</ResultID>
+            <ResultName>Bob Karreman</ResultName>
+        </Result>
+        <Result>
+            <ResultID>44468799</ResultID>
+            <ResultName>Bob Karrer</ResultName>
+        </Result>
+        <Result>
+            <ResultID>197190538</ResultID>
+            <ResultName>Bob Kartus</ResultName>
+        </Result>
+        <Result>
+            <ResultID>375322352</ResultID>
+            <ResultName>Bob Kartus</ResultName>
+        </Result>
+        <Result>
+            <ResultID>190617297</ResultID>
+            <ResultName>Boban Karađorđević</ResultName>
+        </Result>
+    </SearchResults>
+</HattrickData>

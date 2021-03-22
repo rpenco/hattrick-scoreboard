@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>trainingevents.xml</FileName>
+    <Version>1.3</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 17:46:04</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <Player>
+        <PlayerID>395571617</PlayerID>
+        <TrainingEvents Available="True">
+            <TrainingEvent Index="0">
+                <EventDate>2014-09-19 05:23:00</EventDate>
+                <SkillID>3</SkillID>
+                <OldLevel>4</OldLevel>
+                <NewLevel>5</NewLevel>
+                <Season>56</Season>
+                <MatchRound>7</MatchRound>
+                <DayNumber>5</DayNumber>
+            </TrainingEvent>
+            <TrainingEvent Index="1">
+                <EventDate>2014-08-15 05:24:00</EventDate>
+                <SkillID>5</SkillID>
+                <OldLevel>2</OldLevel>
+                <NewLevel>3</NewLevel>
+                <Season>56</Season>
+                <MatchRound>2</MatchRound>
+                <DayNumber>5</DayNumber>
+            </TrainingEvent>
+            <TrainingEvent Index="2">
+                <EventDate>2014-07-18 05:23:00</EventDate>
+                <SkillID>3</SkillID>
+                <OldLevel>3</OldLevel>
+                <NewLevel>4</NewLevel>
+                <Season>55</Season>
+                <MatchRound>14</MatchRound>
+                <DayNumber>5</DayNumber>
+            </TrainingEvent>
+            <TrainingEvent Index="3">
+                <EventDate>2014-05-16 05:25:00</EventDate>
+                <SkillID>2</SkillID>
+                <OldLevel>5</OldLevel>
+                <NewLevel>6</NewLevel>
+                <Season>55</Season>
+                <MatchRound>5</MatchRound>
+                <DayNumber>5</DayNumber>
+            </TrainingEvent>
+        </TrainingEvents>
+    </Player>
+</HattrickData>

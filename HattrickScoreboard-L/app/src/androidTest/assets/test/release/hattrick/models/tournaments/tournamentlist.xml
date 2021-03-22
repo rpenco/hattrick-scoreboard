@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>tournamentlist.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 17:38:59</FetchedDate>
+    <Tournaments>
+        <Tournament>
+            <TournamentId>1849420</TournamentId>
+            <Name>Crème De La Crème Vierde Klasse</Name>
+            <TournamentType>3</TournamentType>
+            <Season>1</Season>
+            <LogoUrl>//res.hattrick.org/tournamentlogo/19/185/1850/1849420/1849420.jpg</LogoUrl>
+            <TrophyType>1</TrophyType>
+            <NumberOfTeams>16</NumberOfTeams>
+            <NumberOfGroups>4</NumberOfGroups>
+            <LastMatchRound>5</LastMatchRound>
+            <FirstMatchRoundDate>2014-09-29 19:41:00</FirstMatchRoundDate>
+            <NextMatchRoundDate>2014-11-03 19:41:00</NextMatchRoundDate>
+            <IsMatchesOngoing>0</IsMatchesOngoing>
+            <Creator>
+                <UserId>10237198</UserId>
+                <Loginname>leujo01</Loginname>
+            </Creator>
+        </Tournament>
+        <Tournament>
+            <TournamentId>1865350</TournamentId>
+            <Name>[BNFC]Tornooi CL</Name>
+            <TournamentType>3</TournamentType>
+            <Season>1</Season>
+            <LogoUrl>//res.hattrick.org/tournamentlogo/19/187/1866/1865350/1865350.png</LogoUrl>
+            <TrophyType>1</TrophyType>
+            <NumberOfTeams>16</NumberOfTeams>
+            <NumberOfGroups>4</NumberOfGroups>
+            <LastMatchRound>1</LastMatchRound>
+            <FirstMatchRoundDate>2014-10-27 19:37:00</FirstMatchRoundDate>
+            <NextMatchRoundDate>2014-11-03 19:37:00</NextMatchRoundDate>
+            <IsMatchesOngoing>0</IsMatchesOngoing>
+            <Creator>
+                <UserId>314661</UserId>
+                <Loginname>Il_Faraone_92</Loginname>
+            </Creator>
+        </Tournament>
+    </Tournaments>
+</HattrickData>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>ladderdetails.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:30:21</FetchedDate>
+    <Ladder>
+        <LadderId>1255256</LadderId>
+        <Name>Toutes les ligues</Name>
+        <NumOfTeams>24483</NumOfTeams>
+        <PageSize>25</PageSize>
+        <PageIndex>979</PageIndex>
+        <KingTeamId>198547</KingTeamId>
+        <KingTeamName>Bhutan</KingTeamName>
+        <KingSince>2014-10-19 10:03:00</KingSince>
+        <Team>
+            <TeamId>4784457</TeamId>
+            <TeamName>freeeestyle</TeamName>
+            <Position>24475</Position>
+            <Wins>0</Wins>
+            <Lost>0</Lost>
+            <WinsInARow>0</WinsInARow>
+            <LostInARow>0</LostInARow>
+        </Team>
+        <Team>
+            <TeamId>4784621</TeamId>
+            <TeamName>LaamChem</TeamName>
+            <Position>24476</Position>
+            <Wins>0</Wins>
+            <Lost>0</Lost>
+            <WinsInARow>0</WinsInARow>
+            <LostInARow>0</LostInARow>
+        </Team>
+        <Team>
+            <TeamId>4784665</TeamId>
+            <TeamName>MFC-94</TeamName>
+            <Position>24477</Position>
+            <Wins>0</Wins>
+            <Lost>0</Lost>
+            <WinsInARow>0</WinsInARow>
+            <LostInARow>0</LostInARow>
+        </Team>
+        <Team>
+            <TeamId>4784738</TeamId>
+            <TeamName>M.A.Lviv</TeamName>
+            <Position>24478</Position>
+            <Wins>0</Wins>
+            <Lost>0</Lost>
+            <WinsInARow>0</WinsInARow>
+            <LostInARow>0</LostInARow>
+        </Team>
+        <Team>
+            <TeamId>4784791</TeamId>
+            <TeamName>Swinger's</TeamName>
+            <Position>24479</Position>
+            <Wins>0</Wins>
+            <Lost>0</Lost>
+            <WinsInARow>0</WinsInARow>
+            <LostInARow>0</LostInARow>
+        </Team>
+        <Team>
+            <TeamId>4784940</TeamId>
+            <TeamName>ayhan.aktas@ntv.com.tr</TeamName>
+            <Position>24480</Position>
+            <Wins>0</Wins>
+            <Lost>0</Lost>
+            <WinsInARow>0</WinsInARow>
+            <LostInARow>0</LostInARow>
+        </Team>
+        <Team>
+            <TeamId>4784948</TeamId>
+            <TeamName>FC Antani</TeamName>
+            <Position>24481</Position>
+            <Wins>0</Wins>
+            <Lost>0</Lost>
+            <WinsInARow>0</WinsInARow>
+            <LostInARow>0</LostInARow>
+        </Team>
+        <Team>
+            <TeamId>4785120</TeamId>
+            <TeamName>Die Hotzenplotzes</TeamName>
+            <Position>24482</Position>
+            <Wins>0</Wins>
+            <Lost>0</Lost>
+            <WinsInARow>0</WinsInARow>
+            <LostInARow>0</LostInARow>
+        </Team>
+        <Team>
+            <TeamId>4785179</TeamId>
+            <TeamName>F.C. Clarksville</TeamName>
+            <Position>24483</Position>
+            <Wins>0</Wins>
+            <Lost>0</Lost>
+            <WinsInARow>0</WinsInARow>
+            <LostInARow>0</LostInARow>
+        </Team>
+    </Ladder>
+</HattrickData>

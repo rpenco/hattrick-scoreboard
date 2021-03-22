@@ -1,0 +1,4367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>cupmatches.xml</FileName>
+    <Version>1.4</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-30 18:05:02</FetchedDate>
+    <Cup>
+        <CupID>1</CupID>
+        <CupSeason>28</CupSeason>
+        <CupRound>1</CupRound>
+        <CupName>Sverigecupen</CupName>
+        <MatchList>
+            <Match>
+                <MatchID>59347920</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>454802</TeamId>
+                    <TeamName>johans juventus</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1397</TeamId>
+                    <TeamName>Inter Sthlm</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347921</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>755685</TeamId>
+                    <TeamName>Kiddarna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13457</TeamId>
+                    <TeamName>team_ekos</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>2</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347922</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>455039</TeamId>
+                    <TeamName>Gotland United</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>712</TeamId>
+                    <TeamName>EM Tigers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347923</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>99999</TeamId>
+                    <TeamName>Jormas FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10265</TeamId>
+                    <TeamName>Cirkus Brazil Jack</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347924</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759501</TeamId>
+                    <TeamName>F.C BallesterS</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1294</TeamId>
+                    <TeamName>Åshöjdens BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347925</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>755642</TeamId>
+                    <TeamName>B-sjön</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1803</TeamId>
+                    <TeamName>Gäddträsket</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347926</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>758366</TeamId>
+                    <TeamName>Team Bro</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9952</TeamId>
+                    <TeamName>Lokomotiv Lund</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347927</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>101678</TeamId>
+                    <TeamName>Ohtanajärvi Bulldozers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>373</TeamId>
+                    <TeamName>IFK Livergården</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>4</HomeGoals>
+                    <AwayGoals>0</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347928</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>44465</TeamId>
+                    <TeamName>benskyddsomskaver</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>38794</TeamId>
+                    <TeamName>fumpen</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347929</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762139</TeamId>
+                    <TeamName>Säve Sk</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>39059</TeamId>
+                    <TeamName>Jihad nu</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>12</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347930</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>758667</TeamId>
+                    <TeamName>VIK Soccer</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>40523</TeamId>
+                    <TeamName>Skansholms SK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>11</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347931</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>757380</TeamId>
+                    <TeamName>FC Medlik</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>102638</TeamId>
+                    <TeamName>LA Hookers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>11</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347932</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>46247</TeamId>
+                    <TeamName>Piteå Kings</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>605</TeamId>
+                    <TeamName>PG GoalGetters</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347933</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>98008</TeamId>
+                    <TeamName>FC Merida</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>94</TeamId>
+                    <TeamName>Råssbyn United</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347934</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>456904</TeamId>
+                    <TeamName>Tuna FK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>985</TeamId>
+                    <TeamName>Alpha Lipoic AC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>3</HomeGoals>
+                    <AwayGoals>0</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347935</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>46492</TeamId>
+                    <TeamName>FC Sockervadd/Kolarämmar BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>17325</TeamId>
+                    <TeamName>New Psycho Cowboys</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>11</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347936</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>455947</TeamId>
+                    <TeamName>Bufflarna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2170</TeamId>
+                    <TeamName>Matte Ducks</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347937</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>453112</TeamId>
+                    <TeamName>Älfvdebäck BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>345</TeamId>
+                    <TeamName>Mjällbyn</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347938</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>9691</TeamId>
+                    <TeamName>Culan FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2370</TeamId>
+                    <TeamName>DrPepper FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347939</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759424</TeamId>
+                    <TeamName>Måsanars feta förening</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1016</TeamId>
+                    <TeamName>Starwars</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347940</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759205</TeamId>
+                    <TeamName>Jag vet inte</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>41157</TeamId>
+                    <TeamName>Murklan FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347941</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>99370</TeamId>
+                    <TeamName>BK Haninge</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10636</TeamId>
+                    <TeamName>Conbarris</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347942</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>763425</TeamId>
+                    <TeamName>Team Rirre</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14588</TeamId>
+                    <TeamName>Morgoths horder</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347943</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759299</TeamId>
+                    <TeamName>forshaga if</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>160</TeamId>
+                    <TeamName>Forest Rovers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347944</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>1603</TeamId>
+                    <TeamName>Spenatgrabbarna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1964</TeamId>
+                    <TeamName>Sublime BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347945</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>457367</TeamId>
+                    <TeamName>Taberg FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5148</TeamId>
+                    <TeamName>Storhagen United</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347946</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762044</TeamId>
+                    <TeamName>kalmar_ff</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>510</TeamId>
+                    <TeamName>Stream Team</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347947</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>44826</TeamId>
+                    <TeamName>IFK Björksätra</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14147</TeamId>
+                    <TeamName>Olsfors FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347948</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>13341</TeamId>
+                    <TeamName>ManchesterUnited 91</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2165</TeamId>
+                    <TeamName>Black Ivory</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>2</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347949</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>455969</TeamId>
+                    <TeamName>Pompey-FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>102081</TeamId>
+                    <TeamName>Titleist Pro</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347950</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>758474</TeamId>
+                    <TeamName>Hampus Hares BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5394</TeamId>
+                    <TeamName>Falkenbergs FF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347951</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>453740</TeamId>
+                    <TeamName>The_Munsters</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11357</TeamId>
+                    <TeamName>IFK Mörlanda</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347952</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>96957</TeamId>
+                    <TeamName>FC Barcho</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15320</TeamId>
+                    <TeamName>Falken Red Wings</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347953</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759020</TeamId>
+                    <TeamName>Östermalms BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2631</TeamId>
+                    <TeamName>BK Marx</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347954</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>99133</TeamId>
+                    <TeamName>GAISarnas</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>412</TeamId>
+                    <TeamName>Åsehöjden</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347955</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>453138</TeamId>
+                    <TeamName>Undersåkers team ohh yeey</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14791</TeamId>
+                    <TeamName>Goomers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347956</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>12661</TeamId>
+                    <TeamName>Sjöstadens FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5399</TeamId>
+                    <TeamName>FK Glow</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347957</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>103658</TeamId>
+                    <TeamName>Kullavägens FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>909</TeamId>
+                    <TeamName>Flykälens BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347958</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>15080</TeamId>
+                    <TeamName>JBRE</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11724</TeamId>
+                    <TeamName>Fjukers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347959</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>16656</TeamId>
+                    <TeamName>frölunda</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2552</TeamId>
+                    <TeamName>Krillstar</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>3</HomeGoals>
+                    <AwayGoals>1</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347960</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>12956</TeamId>
+                    <TeamName>BK Kungen</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1491</TeamId>
+                    <TeamName>Ljungby IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347961</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762185</TeamId>
+                    <TeamName>Himnor</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1673</TeamId>
+                    <TeamName>Djurgårdens IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347962</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>104387</TeamId>
+                    <TeamName>FC Pavarsia</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>664</TeamId>
+                    <TeamName>Förort Allstars</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347963</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>98255</TeamId>
+                    <TeamName>Heffaklumparna2005</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14750</TeamId>
+                    <TeamName>IK Frisco</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347964</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762651</TeamId>
+                    <TeamName>simpornas FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>40529</TeamId>
+                    <TeamName>Kungshamra tåfjutters</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347965</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>14108</TeamId>
+                    <TeamName>A.E.M Elite</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1684</TeamId>
+                    <TeamName>Sluga BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347966</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>756439</TeamId>
+                    <TeamName>fujitsu if</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>45547</TeamId>
+                    <TeamName>Håbol IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347967</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>455310</TeamId>
+                    <TeamName>Drevhund</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>39527</TeamId>
+                    <TeamName>Neonic FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347968</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>756347</TeamId>
+                    <TeamName>jeddiriddarna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12548</TeamId>
+                    <TeamName>Ondpors BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347969</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759349</TeamId>
+                    <TeamName>Gufe FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16771</TeamId>
+                    <TeamName>Bolltrollarnas AIS, BAIS</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347970</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>457085</TeamId>
+                    <TeamName>DynamoAsmundtorp</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1487</TeamId>
+                    <TeamName>Megadawe FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347971</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>1359</TeamId>
+                    <TeamName>Lindes FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>69</TeamId>
+                    <TeamName>Boca Seniors</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347972</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>451634</TeamId>
+                    <TeamName>rud army</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11418</TeamId>
+                    <TeamName>Naughty Trolls</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347973</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>453062</TeamId>
+                    <TeamName>edwin_pirripirri</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14051</TeamId>
+                    <TeamName>A.I.F.</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347974</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>40907</TeamId>
+                    <TeamName>Zazzoz</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>40913</TeamId>
+                    <TeamName>Real Fikus</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347975</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>760541</TeamId>
+                    <TeamName>bajen eagles</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11325</TeamId>
+                    <TeamName>Barbas Barbarer FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347976</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>457760</TeamId>
+                    <TeamName>hammer bk</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14733</TeamId>
+                    <TeamName>Fight Klubb</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347977</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>456662</TeamId>
+                    <TeamName>Dynamitgubbarna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>17361</TeamId>
+                    <TeamName>AC Södermalm</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347978</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>450384</TeamId>
+                    <TeamName>SJ-Dominanterna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>397</TeamId>
+                    <TeamName>Kingdom Raiders</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347980</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>5818</TeamId>
+                    <TeamName>2-0_i_räva</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1951</TeamId>
+                    <TeamName>FC Keegan</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347981</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>11866</TeamId>
+                    <TeamName>FC Sashalicious</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>44079</TeamId>
+                    <TeamName>Hjärnarp GIF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347982</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>756099</TeamId>
+                    <TeamName>BK Caddy</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1799</TeamId>
+                    <TeamName>Team Falcon Export</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347983</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>456578</TeamId>
+                    <TeamName>Svedja hightz</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5311</TeamId>
+                    <TeamName>BK Lambohov</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347984</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>43762</TeamId>
+                    <TeamName>Helixs FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12012</TeamId>
+                    <TeamName>Hawkwing FF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347985</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>454844</TeamId>
+                    <TeamName>Honks IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1029</TeamId>
+                    <TeamName>Tyresö Drifters</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347986</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>452499</TeamId>
+                    <TeamName>Smeckers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>42816</TeamId>
+                    <TeamName>Oriole United</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347987</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762652</TeamId>
+                    <TeamName>Bankeryd United</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>733</TeamId>
+                    <TeamName>Chocolate Synthesizers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347988</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>99826</TeamId>
+                    <TeamName>IFK Barkåkra</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13245</TeamId>
+                    <TeamName>Team Valla Fotboll</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347990</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>451638</TeamId>
+                    <TeamName>Joels_FC_Barcelona</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>199</TeamId>
+                    <TeamName>Spurs FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347991</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>103860</TeamId>
+                    <TeamName>FC Grunden</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5817</TeamId>
+                    <TeamName>FC Poker Players</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347992</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>46631</TeamId>
+                    <TeamName>IFK GuldKrona</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1533</TeamId>
+                    <TeamName>Nosaby IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347993</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>101824</TeamId>
+                    <TeamName>bk ymor</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16633</TeamId>
+                    <TeamName>Biggen United</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347994</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>456394</TeamId>
+                    <TeamName>Jonstorp BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16891</TeamId>
+                    <TeamName>Gladiators</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347995</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>452670</TeamId>
+                    <TeamName>IFK Indians</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1779</TeamId>
+                    <TeamName>Långsamt FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347996</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>104025</TeamId>
+                    <TeamName>FC GREYSTONE</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2177</TeamId>
+                    <TeamName>Scoring Xtreme</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347997</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>103037</TeamId>
+                    <TeamName>Shogun IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16214</TeamId>
+                    <TeamName>KOMA</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347998</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>758407</TeamId>
+                    <TeamName>broma pojkarna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>68</TeamId>
+                    <TeamName>Menlösa IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59347999</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>101297</TeamId>
+                    <TeamName>Hälsena BKG</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>982</TeamId>
+                    <TeamName>Bärsans SK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348000</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>39086</TeamId>
+                    <TeamName>Amaritas FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>329</TeamId>
+                    <TeamName>Sunne IK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>11</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348001</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>97431</TeamId>
+                    <TeamName>Willes Kanoner</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5781</TeamId>
+                    <TeamName>Pharmen Tigers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348002</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>757389</TeamId>
+                    <TeamName>Ceag Hyle</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16939</TeamId>
+                    <TeamName>Vainclip Rovers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348003</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>43776</TeamId>
+                    <TeamName>Giant Fergusons</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5184</TeamId>
+                    <TeamName>IFK SPOKET</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348004</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>104261</TeamId>
+                    <TeamName>Bojn FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10132</TeamId>
+                    <TeamName>Bajen HIF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348005</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>101549</TeamId>
+                    <TeamName>Trollängens FK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>39641</TeamId>
+                    <TeamName>Angels of Gothenburg</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348006</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>11493</TeamId>
+                    <TeamName>FC biljetten</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1563</TeamId>
+                    <TeamName>Stockan</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348007</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>102063</TeamId>
+                    <TeamName>Länghem surfers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15898</TeamId>
+                    <TeamName>LAKERS</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348008</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>100429</TeamId>
+                    <TeamName>IFK Sudret</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1212</TeamId>
+                    <TeamName>UrTolkien</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348009</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>44619</TeamId>
+                    <TeamName>The Ulps F.C</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1950</TeamId>
+                    <TeamName>The Soccer of Our Lives</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348010</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>452826</TeamId>
+                    <TeamName>FC CityForrest</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15245</TeamId>
+                    <TeamName>Genua AB</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348011</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759100</TeamId>
+                    <TeamName>Harbo Ballflames United</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5448</TeamId>
+                    <TeamName>Follorna FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348012</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>758037</TeamId>
+                    <TeamName>Cliffs FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>41902</TeamId>
+                    <TeamName>NIKEN FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348013</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>636</TeamId>
+                    <TeamName>Djurgårn Stars</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1084</TeamId>
+                    <TeamName>Quatro Staggione AC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348014</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>457737</TeamId>
+                    <TeamName>Queenstreet Sportverein</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2445</TeamId>
+                    <TeamName>Sundby BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348015</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>99099</TeamId>
+                    <TeamName>Why Not</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1032</TeamId>
+                    <TeamName>Prieststreet FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348016</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>12404</TeamId>
+                    <TeamName>Tårta IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2664</TeamId>
+                    <TeamName>Pecka´s Boys</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348017</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>40466</TeamId>
+                    <TeamName>Kronbloms FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1713</TeamId>
+                    <TeamName>Tjecko-85</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348018</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>758182</TeamId>
+                    <TeamName>buskskott</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1473</TeamId>
+                    <TeamName>Tjalve</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348019</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>755722</TeamId>
+                    <TeamName>Clajjans Stjärnor</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5116</TeamId>
+                    <TeamName>Reelers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348020</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>103491</TeamId>
+                    <TeamName>Tåpaj BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>463</TeamId>
+                    <TeamName>Briegels Bestar</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348021</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>12165</TeamId>
+                    <TeamName>Dynamo Hagfors</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14015</TeamId>
+                    <TeamName>Folkunga IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348022</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>454208</TeamId>
+                    <TeamName>SToFFE</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>39709</TeamId>
+                    <TeamName>Aplared FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348023</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>455861</TeamId>
+                    <TeamName>Ville Juniors</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>566</TeamId>
+                    <TeamName>Arvidsjaur BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348024</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>451550</TeamId>
+                    <TeamName>Schommarna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>40739</TeamId>
+                    <TeamName>Kransens BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348025</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>14699</TeamId>
+                    <TeamName>T.H.B.</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>468</TeamId>
+                    <TeamName>Camarillo Pro SC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348026</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>757723</TeamId>
+                    <TeamName>BK VÄST</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>17364</TeamId>
+                    <TeamName>Los butcheros</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348027</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>15014</TeamId>
+                    <TeamName>Labinac SK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11850</TeamId>
+                    <TeamName>Coconut Crusaders</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348028</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759765</TeamId>
+                    <TeamName>Ockle</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1791</TeamId>
+                    <TeamName>Karlsta´lirarna</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348029</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>452525</TeamId>
+                    <TeamName>stjärnans if</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13589</TeamId>
+                    <TeamName>Rotselleri FK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348030</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>454767</TeamId>
+                    <TeamName>DVDA BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5397</TeamId>
+                    <TeamName>Team Posa</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348031</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>97083</TeamId>
+                    <TeamName>BK Norrköping</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12637</TeamId>
+                    <TeamName>Umeå Stars</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348032</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>11575</TeamId>
+                    <TeamName>joyn the team</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12687</TeamId>
+                    <TeamName>dubbarna först</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348033</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>454415</TeamId>
+                    <TeamName>Aston Villa</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11133</TeamId>
+                    <TeamName>Forsens FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348034</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>43913</TeamId>
+                    <TeamName>Real Hag</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2233</TeamId>
+                    <TeamName>The Elven Lords</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>11</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348035</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>453501</TeamId>
+                    <TeamName>Adde</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11920</TeamId>
+                    <TeamName>Gefle IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348036</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762196</TeamId>
+                    <TeamName>Etoile Sportif de Sahel</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13509</TeamId>
+                    <TeamName>GEIF Söndsvall</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348037</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>760687</TeamId>
+                    <TeamName>Jojjes Pågar</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>923</TeamId>
+                    <TeamName>Röda Mössan</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348038</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>761433</TeamId>
+                    <TeamName>Team Tigers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16971</TeamId>
+                    <TeamName>club Belmondo</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348039</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>453834</TeamId>
+                    <TeamName>PANZERS BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15280</TeamId>
+                    <TeamName>Fula Fisken FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348040</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>46404</TeamId>
+                    <TeamName>DrinkMoreMilk</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14766</TeamId>
+                    <TeamName>Berglundens BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348041</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759107</TeamId>
+                    <TeamName>BK Bergborg</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9896</TeamId>
+                    <TeamName>Newcastle Utd</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348042</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759261</TeamId>
+                    <TeamName>Hököpinge BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15733</TeamId>
+                    <TeamName>UTK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348043</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>458019</TeamId>
+                    <TeamName>Kibbes Boys</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10720</TeamId>
+                    <TeamName>Dosa Sanusa</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>12</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348044</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>102832</TeamId>
+                    <TeamName>Djurgårdens HT Klubb</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12577</TeamId>
+                    <TeamName>beikoku ongaku</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348045</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>46346</TeamId>
+                    <TeamName>Greenkoping FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1258</TeamId>
+                    <TeamName>NK Hajduk</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348046</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>100313</TeamId>
+                    <TeamName>gladys knight</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15100</TeamId>
+                    <TeamName>Svearikes Finaste</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348047</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>761902</TeamId>
+                    <TeamName>OwnTeam</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9939</TeamId>
+                    <TeamName>Sundsvall Meanmachines</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348048</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>756499</TeamId>
+                    <TeamName>FC Steil</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16388</TeamId>
+                    <TeamName>FC Roddelona</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348049</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>757376</TeamId>
+                    <TeamName>luBBarn FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10953</TeamId>
+                    <TeamName>Jerry Jahn FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348050</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>450462</TeamId>
+                    <TeamName>KALMAR SÖDRA IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14035</TeamId>
+                    <TeamName>Sovjet A Go-Go</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348051</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>453842</TeamId>
+                    <TeamName>Old Boys IK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>765</TeamId>
+                    <TeamName>Topeka Gators</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348052</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>97027</TeamId>
+                    <TeamName>Koviken penguins</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10639</TeamId>
+                    <TeamName>Faustion 1986</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348053</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>5141</TeamId>
+                    <TeamName>FC Quicke</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5614</TeamId>
+                    <TeamName>Sandviken FF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348054</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>455067</TeamId>
+                    <TeamName>Hertsö United</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14149</TeamId>
+                    <TeamName>Söder IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348055</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>457971</TeamId>
+                    <TeamName>sinus bk</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5705</TeamId>
+                    <TeamName>Team tabcab</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348056</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759877</TeamId>
+                    <TeamName>Barbara FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12739</TeamId>
+                    <TeamName>BK Blake</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348057</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>763409</TeamId>
+                    <TeamName>Bajen9</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9992</TeamId>
+                    <TeamName>Alvaro Bois</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348058</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>755749</TeamId>
+                    <TeamName>Fluff IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>43650</TeamId>
+                    <TeamName>IFK Lyx</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348059</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>763097</TeamId>
+                    <TeamName>Whitelions</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5053</TeamId>
+                    <TeamName>FC Bjäxt</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348060</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762399</TeamId>
+                    <TeamName>Kalvsvik Cowboys</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13853</TeamId>
+                    <TeamName>Team Carlstad </TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348061</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>452064</TeamId>
+                    <TeamName>Forza 2005 FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1134</TeamId>
+                    <TeamName>IFK Askhult</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348062</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>757266</TeamId>
+                    <TeamName>Sniffs FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1549</TeamId>
+                    <TeamName>F.C. Osbyholm</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348063</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>452778</TeamId>
+                    <TeamName>  $ Real Meti Arena $</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>17327</TeamId>
+                    <TeamName>Gälbo united</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348064</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>1448</TeamId>
+                    <TeamName>Batjock</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>42959</TeamId>
+                    <TeamName>Torpa Warriors</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348065</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>761007</TeamId>
+                    <TeamName>Ragnars Herrsällskap</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15923</TeamId>
+                    <TeamName>Kaiser FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348066</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762303</TeamId>
+                    <TeamName>Warpants FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>45095</TeamId>
+                    <TeamName>Weezer</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348067</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762613</TeamId>
+                    <TeamName>BK Gripen</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2341</TeamId>
+                    <TeamName>Malmö Angels FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348068</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>450912</TeamId>
+                    <TeamName>llok</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1501</TeamId>
+                    <TeamName>Hebbes vänner</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>0</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348069</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>11147</TeamId>
+                    <TeamName>FC Piglet79</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12133</TeamId>
+                    <TeamName>Rastorps BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348070</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>457576</TeamId>
+                    <TeamName>Pistje Tigers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16279</TeamId>
+                    <TeamName>aragorn warriors</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348071</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>450977</TeamId>
+                    <TeamName>mattes_lirare</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9619</TeamId>
+                    <TeamName>Adagio SK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348072</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>10965</TeamId>
+                    <TeamName>Delfinen IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5098</TeamId>
+                    <TeamName>Linkeboda</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348073</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>42708</TeamId>
+                    <TeamName>Timon &amp; Pumbas BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2097</TeamId>
+                    <TeamName>Krilles Kometer</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>5</HomeGoals>
+                    <AwayGoals>0</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348074</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>450901</TeamId>
+                    <TeamName>UB99</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1129</TeamId>
+                    <TeamName>Bajsgupparna</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348075</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>12712</TeamId>
+                    <TeamName>J0ntes BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2282</TeamId>
+                    <TeamName>Salomon Islands</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348076</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>453374</TeamId>
+                    <TeamName>bluesbrothers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13015</TeamId>
+                    <TeamName>Malme Junajted</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348077</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>756669</TeamId>
+                    <TeamName>IFK Sthlm</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9997</TeamId>
+                    <TeamName>Woodoo FF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348078</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>98382</TeamId>
+                    <TeamName>Graipool</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5479</TeamId>
+                    <TeamName>Rudi Völler SV</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348079</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>44654</TeamId>
+                    <TeamName>Ro Ma IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>208</TeamId>
+                    <TeamName>BK Glenn</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348080</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>17284</TeamId>
+                    <TeamName>IFK Tibia</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5796</TeamId>
+                    <TeamName>FC Antona</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348081</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>455606</TeamId>
+                    <TeamName>cmsbästa</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2210</TeamId>
+                    <TeamName>Wermdö Trappers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348082</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>11852</TeamId>
+                    <TeamName>söderköpings FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1317</TeamId>
+                    <TeamName>Elbow Rangers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348083</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>42729</TeamId>
+                    <TeamName>Lorder</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1440</TeamId>
+                    <TeamName>Starfire FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>3</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348084</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>39758</TeamId>
+                    <TeamName>Blue Whale </TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11366</TeamId>
+                    <TeamName>Real pellasgården</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348085</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759112</TeamId>
+                    <TeamName>Real Kågeröd</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10402</TeamId>
+                    <TeamName>Orrefors IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348086</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762811</TeamId>
+                    <TeamName>F.C Kungsängen</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>41973</TeamId>
+                    <TeamName>Lumba FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348087</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>454858</TeamId>
+                    <TeamName>Assyriska_Rocker</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2035</TeamId>
+                    <TeamName>Cuba B.K</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>5</HomeGoals>
+                    <AwayGoals>0</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348088</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>761759</TeamId>
+                    <TeamName>Akad IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>45959</TeamId>
+                    <TeamName>Piraternas FF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>5</HomeGoals>
+                    <AwayGoals>0</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348089</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>99698</TeamId>
+                    <TeamName>ÅIK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9555</TeamId>
+                    <TeamName>Tuppresor</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>5</HomeGoals>
+                    <AwayGoals>0</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348090</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>17152</TeamId>
+                    <TeamName>hästagens ff</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>291</TeamId>
+                    <TeamName>Svin-Arne BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348091</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>97953</TeamId>
+                    <TeamName>Lindalens FF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12940</TeamId>
+                    <TeamName>All Slackers United</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348092</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>456641</TeamId>
+                    <TeamName>Budgie Tigers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5618</TeamId>
+                    <TeamName>IFK Dalle</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348093</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>757616</TeamId>
+                    <TeamName>bebida</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5535</TeamId>
+                    <TeamName>Ingareds FF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348094</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>12630</TeamId>
+                    <TeamName>kanonernas kanoner</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9471</TeamId>
+                    <TeamName>BK LOTUS</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348095</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>103483</TeamId>
+                    <TeamName>Den Häftiga Eriks Lag</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16500</TeamId>
+                    <TeamName>Olsbacka bois</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348096</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>761093</TeamId>
+                    <TeamName>sopporna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16072</TeamId>
+                    <TeamName>Babylon Boys</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348097</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>454805</TeamId>
+                    <TeamName>Lapponia Knick</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10163</TeamId>
+                    <TeamName>Annelunds IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348098</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759494</TeamId>
+                    <TeamName>Bohusläns bättre begagnade</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9262</TeamId>
+                    <TeamName>Bornholm IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348099</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>41269</TeamId>
+                    <TeamName>Campus IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13502</TeamId>
+                    <TeamName>FIK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348100</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>760383</TeamId>
+                    <TeamName>AC Baresi</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5247</TeamId>
+                    <TeamName>Swedish bubbles</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348101</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>104210</TeamId>
+                    <TeamName>Lazy Ladies</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15434</TeamId>
+                    <TeamName>Snider BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348102</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>454769</TeamId>
+                    <TeamName>Kullåkra United</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>46430</TeamId>
+                    <TeamName>Majsan Boys</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348103</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>43727</TeamId>
+                    <TeamName>Sporting Skoskav</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13748</TeamId>
+                    <TeamName>FC Zoalqill</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348104</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>98071</TeamId>
+                    <TeamName>Fjolltricksarna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5777</TeamId>
+                    <TeamName>Bender ICNxDBD</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348106</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762168</TeamId>
+                    <TeamName>Västen DB</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14371</TeamId>
+                    <TeamName>FC AZZAX</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348107</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>761389</TeamId>
+                    <TeamName>FC ZÎ</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>43935</TeamId>
+                    <TeamName>Xpander</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348108</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>758165</TeamId>
+                    <TeamName>By IK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1183</TeamId>
+                    <TeamName>Kullavik Bluefingers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348109</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>757902</TeamId>
+                    <TeamName>SG Muencheberg</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10496</TeamId>
+                    <TeamName>tagestass</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348110</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>758311</TeamId>
+                    <TeamName>Granås FBK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2104</TeamId>
+                    <TeamName>Guided Stars FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348111</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>454086</TeamId>
+                    <TeamName>Hisingens Stolthet BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12623</TeamId>
+                    <TeamName>Östersund FK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348112</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>453129</TeamId>
+                    <TeamName>Velourmännen FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15796</TeamId>
+                    <TeamName>Coffin Nibblers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348113</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>103008</TeamId>
+                    <TeamName>Lelles pöjkar</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11063</TeamId>
+                    <TeamName>Hammarby IS</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348114</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>450068</TeamId>
+                    <TeamName>GODMANCHESTER</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10230</TeamId>
+                    <TeamName>Hubba Bubba Boys</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348115</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>451679</TeamId>
+                    <TeamName>Bergsjöligan</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>43105</TeamId>
+                    <TeamName>Sandro Haverbusch</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348116</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>38715</TeamId>
+                    <TeamName>madmac´s</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>38762</TeamId>
+                    <TeamName>BK Torpet</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348117</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>757372</TeamId>
+                    <TeamName>Beer Drinking Team</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15942</TeamId>
+                    <TeamName>Uppsala IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348118</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>97936</TeamId>
+                    <TeamName>Larssons Gudar</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>900</TeamId>
+                    <TeamName>AC Champions</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348119</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>46674</TeamId>
+                    <TeamName>Wining Eleven</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9836</TeamId>
+                    <TeamName>Bad Brains FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348120</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>39335</TeamId>
+                    <TeamName>D.I.F.F.E.N</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13155</TeamId>
+                    <TeamName>Lineheds BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348121</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>11415</TeamId>
+                    <TeamName>Nydal If</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11721</TeamId>
+                    <TeamName>BK Sparta</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348122</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>758170</TeamId>
+                    <TeamName>Runar &amp; COs BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11081</TeamId>
+                    <TeamName>Buddhas Bulvaner</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348123</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>455631</TeamId>
+                    <TeamName>FC Tiamat</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16941</TeamId>
+                    <TeamName>Klorran Devils</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348124</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>11334</TeamId>
+                    <TeamName>IF Sukhumvit</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1360</TeamId>
+                    <TeamName>Handsome Devils</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348125</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>452700</TeamId>
+                    <TeamName>tun</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13391</TeamId>
+                    <TeamName>The Wall FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348126</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>9314</TeamId>
+                    <TeamName>Östtegs FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10262</TeamId>
+                    <TeamName>Örgryte United</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348127</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>96763</TeamId>
+                    <TeamName>AC Sacre Bleu</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>242</TeamId>
+                    <TeamName>Ass-Kickers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348128</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>757091</TeamId>
+                    <TeamName>blotra if</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>44677</TeamId>
+                    <TeamName>Hunnarumpens BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348130</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>11443</TeamId>
+                    <TeamName>Milla Rovers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9975</TeamId>
+                    <TeamName>Exorcisterna</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348131</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>44977</TeamId>
+                    <TeamName>IFK Norberg</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>42578</TeamId>
+                    <TeamName>Kardoz Boys</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348132</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>451132</TeamId>
+                    <TeamName>Hundberget IP</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>39260</TeamId>
+                    <TeamName>red wing</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348133</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>38749</TeamId>
+                    <TeamName>Orrefors Breakers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16963</TeamId>
+                    <TeamName>Garbage FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348134</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759932</TeamId>
+                    <TeamName>Salming AIF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12815</TeamId>
+                    <TeamName>FC Grodan</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348135</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>761883</TeamId>
+                    <TeamName>Swordlake FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>44335</TeamId>
+                    <TeamName>SuperMan United</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348136</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759656</TeamId>
+                    <TeamName>marsvinen</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16342</TeamId>
+                    <TeamName>Torsviks BOIS</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348137</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>756368</TeamId>
+                    <TeamName>Di Himmelsblåe</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>44649</TeamId>
+                    <TeamName>Rottne Rovers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>2</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348138</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>456105</TeamId>
+                    <TeamName>brynäs ty</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>41667</TeamId>
+                    <TeamName>Rena Gräddens IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348139</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>10567</TeamId>
+                    <TeamName>Tre Lejon BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10771</TeamId>
+                    <TeamName>FC Headhunters</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348140</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>453121</TeamId>
+                    <TeamName>K Nordin FC</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>2536</TeamId>
+                    <TeamName>FC Strong Bears</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348141</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>98675</TeamId>
+                    <TeamName>FC Villum</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15400</TeamId>
+                    <TeamName>Örgryte Champions</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348142</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>455829</TeamId>
+                    <TeamName>FC Spökstad</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>101231</TeamId>
+                    <TeamName>William Tigers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348143</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>97124</TeamId>
+                    <TeamName>vellinge if</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>9851</TeamId>
+                    <TeamName>Björkstadens Bollklubb</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348144</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>43199</TeamId>
+                    <TeamName>Slöinge GOIF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13426</TeamId>
+                    <TeamName>Sallskapet FF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348145</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>14316</TeamId>
+                    <TeamName>Mean Green soccerplaying machine</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1104</TeamId>
+                    <TeamName>Ipswich</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348146</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>759419</TeamId>
+                    <TeamName>Bockabjärs IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14339</TeamId>
+                    <TeamName>Forza Leijonhielm</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348147</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>101858</TeamId>
+                    <TeamName>Båtflyktingarna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13817</TeamId>
+                    <TeamName>Stockberg United</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348148</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>455404</TeamId>
+                    <TeamName>Halmstad Panthers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>45439</TeamId>
+                    <TeamName>Steves Strikers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348149</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>757641</TeamId>
+                    <TeamName>Seetan boys</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5778</TeamId>
+                    <TeamName>Cska Zappa</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348150</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>758104</TeamId>
+                    <TeamName>Spånga79</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11295</TeamId>
+                    <TeamName>World Domination IF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348151</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>5801</TeamId>
+                    <TeamName>malins bois</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11959</TeamId>
+                    <TeamName>Team MoDo</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348152</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>761707</TeamId>
+                    <TeamName>real-G</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15980</TeamId>
+                    <TeamName>BK Draget</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348153</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>44167</TeamId>
+                    <TeamName>Lianerna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14600</TeamId>
+                    <TeamName>Dalstorp Black Devils</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348154</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>450823</TeamId>
+                    <TeamName>Morfin's Kickers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>204</TeamId>
+                    <TeamName>Skogens FF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348155</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>762799</TeamId>
+                    <TeamName>Örnarnas bk</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>52</TeamId>
+                    <TeamName>Dynamo Patricia</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348156</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>451745</TeamId>
+                    <TeamName>conny</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>40512</TeamId>
+                    <TeamName>Corinthians </TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348157</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>452660</TeamId>
+                    <TeamName>Järna Killers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11182</TeamId>
+                    <TeamName>Gudö</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348158</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>11375</TeamId>
+                    <TeamName>Azalea BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15834</TeamId>
+                    <TeamName>Walsall United</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348159</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>98780</TeamId>
+                    <TeamName>Carevo</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5076</TeamId>
+                    <TeamName>Gunners FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348160</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>451776</TeamId>
+                    <TeamName>08tornas if</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13767</TeamId>
+                    <TeamName>Tuta och Kör!!</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>11</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348161</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>98856</TeamId>
+                    <TeamName>Brandhol-Boyz</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16355</TeamId>
+                    <TeamName>Hampe BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>5</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348162</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>15023</TeamId>
+                    <TeamName>I.K STACKEN</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16452</TeamId>
+                    <TeamName>Samlaget GIF</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348163</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>761616</TeamId>
+                    <TeamName>Petzoons I.F</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16029</TeamId>
+                    <TeamName>ÖSK Ungdom</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348164</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>100758</TeamId>
+                    <TeamName>Fidd Stars</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14589</TeamId>
+                    <TeamName>Landskrona BOIS</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348165</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>39360</TeamId>
+                    <TeamName>Garvarna</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>11374</TeamId>
+                    <TeamName>Lee Lakers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348166</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>104315</TeamId>
+                    <TeamName>Dumidatan BK</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>5787</TeamId>
+                    <TeamName>Zeus</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348167</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>103508</TeamId>
+                    <TeamName>mrp346</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>45881</TeamId>
+                    <TeamName>Pulu PP</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348168</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>17167</TeamId>
+                    <TeamName>Anfall Stenhårt If</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>13406</TeamId>
+                    <TeamName>Kvarnåsen SK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348169</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>39860</TeamId>
+                    <TeamName>Olivers bästa</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>100086</TeamId>
+                    <TeamName>Berga 66</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348170</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>763602</TeamId>
+                    <TeamName>Bones F.C.</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15317</TeamId>
+                    <TeamName>Viggan Power AB</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348171</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>451587</TeamId>
+                    <TeamName>Baby Blues</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1412</TeamId>
+                    <TeamName>Kungens hjältar</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>1</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348172</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>567</TeamId>
+                    <TeamName>peking lions</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>447</TeamId>
+                    <TeamName>Team Rebecca</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>4</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348173</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>449999</TeamId>
+                    <TeamName>Fredriksbergs Bk</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>1037</TeamId>
+                    <TeamName>FC Macaronis</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348174</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>14185</TeamId>
+                    <TeamName>Kvarntorp IF</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10113</TeamId>
+                    <TeamName>Shishkebab BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>9</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348175</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>40247</TeamId>
+                    <TeamName>SpVgg Etzelskirchen</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15519</TeamId>
+                    <TeamName>MacGyver</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>2</HomeGoals>
+                    <AwayGoals>3</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348176</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>41735</TeamId>
+                    <TeamName>-Galatasaray-</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>10325</TeamId>
+                    <TeamName>Attac FC</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348177</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>761024</TeamId>
+                    <TeamName>Holmarn</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>16766</TeamId>
+                    <TeamName>Skärgårdstad</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>8</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348178</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>41886</TeamId>
+                    <TeamName>De dödas arme</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>15291</TeamId>
+                    <TeamName>Skinnaremo</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>10</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>59348179</MatchID>
+                <MatchDate>2006-01-04 19:45:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>457928</TeamId>
+                    <TeamName>Vilja</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>12226</TeamId>
+                    <TeamName>Färjestads BK</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>7</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+        </MatchList>
+    </Cup>
+</HattrickData>

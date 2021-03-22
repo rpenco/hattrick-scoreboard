@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>managercompendium.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-30 23:12:09</FetchedDate>
+    <Manager>
+        <UserId>6714957</UserId>
+        <Loginname>Tibbs</Loginname>
+        <SupporterTier>platinum</SupporterTier>
+        <Language>
+            <LanguageId>5</LanguageId>
+            <LanguageName>Français</LanguageName>
+        </Language>
+        <Country>
+            <CountryId>5</CountryId>
+            <CountryName>France</CountryName>
+        </Country>
+        <Teams>
+            <Team>
+                <TeamId>1163822</TeamId>
+                <TeamName>RC Tibbs</TeamName>
+                <Arena>
+                    <ArenaId>1160384</ArenaId>
+                    <ArenaName>Tibbs Staduim</ArenaName>
+                </Arena>
+                <League>
+                    <LeagueId>5</LeagueId>
+                    <LeagueName>France</LeagueName>
+                </League>
+                <LeagueLevelUnit>
+                    <LeagueLevelUnitId>707</LeagueLevelUnitId>
+                    <LeagueLevelUnitName>II.4</LeagueLevelUnitName>
+                </LeagueLevelUnit>
+                <Region>
+                    <RegionId>145</RegionId>
+                    <RegionName>Nord-Pas-de-Calais</RegionName>
+                </Region>
+                <YouthTeam>
+                    <YouthTeamId>672990</YouthTeamId>
+                    <YouthTeamName>RC Tibbs junior</YouthTeamName>
+                    <YouthLeague>
+                        <YouthLeagueId>178946</YouthLeagueId>
+                        <YouthLeagueName>ligue jeune de la FFEA</YouthLeagueName>
+                    </YouthLeague>
+                </YouthTeam>
+            </Team>
+            <Team>
+                <TeamId>924417</TeamId>
+                <TeamName>ES Mamer Olympic</TeamName>
+                <Arena>
+                    <ArenaId>920979</ArenaId>
+                    <ArenaName>ES Mamer Olympic Arena</ArenaName>
+                </Arena>
+                <League>
+                    <LeagueId>84</LeagueId>
+                    <LeagueName>Luxembourg</LeagueName>
+                </League>
+                <LeagueLevelUnit>
+                    <LeagueLevelUnitId>115317</LeagueLevelUnitId>
+                    <LeagueLevelUnitName>IV.14</LeagueLevelUnitName>
+                </LeagueLevelUnit>
+                <Region>
+                    <RegionId>1705</RegionId>
+                    <RegionName>Kapellen</RegionName>
+                </Region>
+                <YouthTeam>
+                    <YouthTeamId>2318740</YouthTeamId>
+                    <YouthTeamName>ES Mamer Junior</YouthTeamName>
+                    <YouthLeague>
+                        <YouthLeagueId>526111</YouthLeagueId>
+                        <YouthLeagueName>Los expertiños</YouthLeagueName>
+                    </YouthLeague>
+                </YouthTeam>
+            </Team>
+        </Teams>
+        <NationalTeamCoach>
+            <NationalTeam>
+                <NationalTeamId>3004</NationalTeamId>
+                <NationalTeamName>France</NationalTeamName>
+            </NationalTeam>
+        </NationalTeamCoach>
+    </Manager>
+</HattrickData>

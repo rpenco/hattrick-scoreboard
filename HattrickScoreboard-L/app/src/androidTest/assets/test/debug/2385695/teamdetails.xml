@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>teamdetails.xml</FileName>
+    <Version>3.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:39:56</FetchedDate>
+    <User>
+        <UserID>2385695</UserID>
+        <Language>
+            <LanguageID>8</LanguageID>
+            <LanguageName>Dansk</LanguageName>
+        </Language>
+        <SupporterTier>diamond</SupporterTier>
+        <Loginname>Thimphu</Loginname>
+        <Name>HIDDEN</Name>
+        <ICQ></ICQ>
+        <SignupDate>2005-02-14 15:23:17</SignupDate>
+        <ActivationDate>2005-02-22 03:35:00</ActivationDate>
+        <LastLoginDate>2014-11-01 18:56:07</LastLoginDate>
+        <NationalTeamCoach />
+    </User>
+    <Teams>
+        <Team>
+            <TeamID>198547</TeamID>
+            <TeamName>Bhutan</TeamName>
+            <ShortTeamName>Bhutan</ShortTeamName>
+            <IsPrimaryClub>True</IsPrimaryClub>
+            <FoundedDate>2005-02-22 03:35:00</FoundedDate>
+            <Arena>
+                <ArenaID>198547</ArenaID>
+                <ArenaName>Druk Yul - the Land of the Thunder Dragon</ArenaName>
+            </Arena>
+            <League>
+                <LeagueID>11</LeagueID>
+                <LeagueName>Danemark</LeagueName>
+            </League>
+            <Region>
+                <RegionID>301</RegionID>
+                <RegionName>Nordsjælland</RegionName>
+            </Region>
+            <Trainer>
+                <PlayerID>208592545</PlayerID>
+            </Trainer>
+            <HomePage></HomePage>
+            <DressURI>http://res.hattrick.org/kits/2/15/147/146228/matchKitSmall.png</DressURI>
+            <DressAlternateURI>http://res.hattrick.org/kits/1/3/29/28095/matchKitSmall.png</DressAlternateURI>
+            <LeagueLevelUnit>
+                <LeagueLevelUnitID>1769</LeagueLevelUnitID>
+                <LeagueLevelUnitName>Superligaen</LeagueLevelUnitName>
+                <LeagueLevel>1</LeagueLevel>
+            </LeagueLevelUnit>
+            <BotStatus>
+                <IsBot>False</IsBot>
+            </BotStatus>
+            <Cup>
+                <StillInCup>False</StillInCup>
+            </Cup>
+            <FriendlyTeamID>571347</FriendlyTeamID>
+            <NumberOfVictories>0</NumberOfVictories>
+            <NumberOfUndefeated>0</NumberOfUndefeated>
+            <TeamRank>3</TeamRank>
+            <Fanclub>
+                <FanclubID>170161</FanclubID>
+                <FanclubName>Torden-Dragens Land</FanclubName>
+                <FanclubSize>3670</FanclubSize>
+            </Fanclub>
+            <LogoURL>//res.hattrick.org/teamlogo/2/20/199/198547/198547.gif</LogoURL>
+            <Guestbook>
+                <NumberOfGuestbookItems>806</NumberOfGuestbookItems>
+            </Guestbook>
+            <PressAnnouncement>
+                <Subject>All men dream</Subject>
+                <Body>"All men dream: but not equally.
+                    Those who dream by night
+                    in the dusty recesses of their minds
+                    wake up in the day to find it was vanity,
+                    but the dreamers of the day
+                    are dangerous men,
+                    for they may act their dreams
+                    with open eyes, to make it possible."
+
+
+                    Bhutan
+
+                </Body>
+                <SendDate>2013-01-13 19:42:00</SendDate>
+            </PressAnnouncement>
+            <TeamColors />
+            <YouthTeamID>10205</YouthTeamID>
+            <YouthTeamName>Tordendragen</YouthTeamName>
+            <NumberOfVisits>56</NumberOfVisits>
+            <TrophyList>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>55</TrophySeason>
+                    <LeagueLevel>2</LeagueLevel>
+                    <LeagueLevelUnitName>II.2</LeagueLevelUnitName>
+                    <GainedDate>2014-07-27 01:29:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/ii.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>103</TrophyTypeId>
+                    <TrophySeason>9</TrophySeason>
+                    <LeagueLevel>1</LeagueLevel>
+                    <LeagueLevelUnitName>Danske Mesterskaber</LeagueLevelUnitName>
+                    <GainedDate>2014-06-23 13:45:00</GainedDate>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>54</TrophySeason>
+                    <LeagueLevel>2</LeagueLevel>
+                    <LeagueLevelUnitName>II.2</LeagueLevelUnitName>
+                    <GainedDate>2014-04-06 01:29:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/ii.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>103</TrophyTypeId>
+                    <TrophySeason>8</TrophySeason>
+                    <LeagueLevel>1</LeagueLevel>
+                    <LeagueLevelUnitName>Danske Mesterskaber</LeagueLevelUnitName>
+                    <GainedDate>2014-03-10 13:45:00</GainedDate>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>103</TrophyTypeId>
+                    <TrophySeason>7</TrophySeason>
+                    <LeagueLevel>1</LeagueLevel>
+                    <LeagueLevelUnitName>Danske Mesterskaber</LeagueLevelUnitName>
+                    <GainedDate>2014-01-20 13:45:00</GainedDate>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>53</TrophySeason>
+                    <LeagueLevel>3</LeagueLevel>
+                    <LeagueLevelUnitName>III.10</LeagueLevelUnitName>
+                    <GainedDate>2013-12-15 01:31:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/iii.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>52</TrophySeason>
+                    <LeagueLevel>4</LeagueLevel>
+                    <LeagueLevelUnitName>IV.6</LeagueLevelUnitName>
+                    <GainedDate>2013-08-25 01:29:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/iv.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>16</TrophyTypeId>
+                    <TrophySeason>52</TrophySeason>
+                    <LeagueLevel>1</LeagueLevel>
+                    <LeagueLevelUnitName></LeagueLevelUnitName>
+                    <GainedDate>2013-08-14 18:15:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/leaguecup_1.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>103</TrophyTypeId>
+                    <TrophySeason>4</TrophySeason>
+                    <LeagueLevel>1</LeagueLevel>
+                    <LeagueLevelUnitName>Danske Mesterskaber</LeagueLevelUnitName>
+                    <GainedDate>2013-07-29 13:45:00</GainedDate>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>103</TrophyTypeId>
+                    <TrophySeason>3</TrophySeason>
+                    <LeagueLevel>1</LeagueLevel>
+                    <LeagueLevelUnitName>Danske Mesterskaber</LeagueLevelUnitName>
+                    <GainedDate>2013-05-27 13:45:00</GainedDate>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>51</TrophySeason>
+                    <LeagueLevel>5</LeagueLevel>
+                    <LeagueLevelUnitName>V.60</LeagueLevelUnitName>
+                    <GainedDate>2013-05-05 01:31:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/v.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>50</TrophySeason>
+                    <LeagueLevel>6</LeagueLevel>
+                    <LeagueLevelUnitName>VI.969</LeagueLevelUnitName>
+                    <GainedDate>2013-01-13 01:30:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/vi.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>103</TrophyTypeId>
+                    <TrophySeason>5</TrophySeason>
+                    <LeagueLevel>2</LeagueLevel>
+                    <LeagueLevelUnitName>Attack of the Killer Orange's</LeagueLevelUnitName>
+                    <GainedDate>2012-12-31 21:45:00</GainedDate>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>103</TrophyTypeId>
+                    <TrophySeason>3</TrophySeason>
+                    <LeagueLevel>3</LeagueLevel>
+                    <LeagueLevelUnitName>Eagles Cup</LeagueLevelUnitName>
+                    <GainedDate>2012-11-19 19:45:00</GainedDate>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>103</TrophyTypeId>
+                    <TrophySeason>1</TrophySeason>
+                    <LeagueLevel>2</LeagueLevel>
+                    <LeagueLevelUnitName>Torneio Irmão</LeagueLevelUnitName>
+                    <GainedDate>2012-10-15 19:21:00</GainedDate>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>49</TrophySeason>
+                    <LeagueLevel>6</LeagueLevel>
+                    <LeagueLevelUnitName>VI.969</LeagueLevelUnitName>
+                    <GainedDate>2012-09-23 01:29:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/vi.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>103</TrophyTypeId>
+                    <TrophySeason>1</TrophySeason>
+                    <LeagueLevel>1</LeagueLevel>
+                    <LeagueLevelUnitName>Nightstar Senior Trophy</LeagueLevelUnitName>
+                    <GainedDate>2012-07-23 11:19:00</GainedDate>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>42</TrophySeason>
+                    <LeagueLevel>2</LeagueLevel>
+                    <LeagueLevelUnitName>II.4</LeagueLevelUnitName>
+                    <GainedDate>2010-08-01 01:55:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/ii.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>16</TrophyTypeId>
+                    <TrophySeason>39</TrophySeason>
+                    <LeagueLevel>1</LeagueLevel>
+                    <LeagueLevelUnitName></LeagueLevelUnitName>
+                    <GainedDate>2009-08-26 18:15:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/leaguecup_1.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>38</TrophySeason>
+                    <LeagueLevel>3</LeagueLevel>
+                    <LeagueLevelUnitName>III.15</LeagueLevelUnitName>
+                    <GainedDate>2009-05-10 01:37:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/iii.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>37</TrophySeason>
+                    <LeagueLevel>4</LeagueLevel>
+                    <LeagueLevelUnitName>IV.39</LeagueLevelUnitName>
+                    <GainedDate>2009-01-18 01:40:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/iv.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>36</TrophySeason>
+                    <LeagueLevel>5</LeagueLevel>
+                    <LeagueLevelUnitName>V.151</LeagueLevelUnitName>
+                    <GainedDate>2008-09-28 01:40:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/v.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>35</TrophySeason>
+                    <LeagueLevel>6</LeagueLevel>
+                    <LeagueLevelUnitName>VI.495</LeagueLevelUnitName>
+                    <GainedDate>2008-06-08 04:23:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/vi.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>34</TrophySeason>
+                    <LeagueLevel>6</LeagueLevel>
+                    <LeagueLevelUnitName>VI.495</LeagueLevelUnitName>
+                    <GainedDate>2008-02-17 04:20:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/vi.png</ImageUrl>
+                </Trophy>
+                <Trophy>
+                    <TrophyTypeId>17</TrophyTypeId>
+                    <TrophySeason>27</TrophySeason>
+                    <LeagueLevel>7</LeagueLevel>
+                    <LeagueLevelUnitName>VII.881</LeagueLevelUnitName>
+                    <GainedDate>2005-12-25 01:34:00</GainedDate>
+                    <ImageUrl>/App_Themes/Standard/Images/Trophies/vii.png</ImageUrl>
+                </Trophy>
+            </TrophyList>
+        </Team>
+        <Team>
+            <TeamID>574458</TeamID>
+            <TeamName>Tibet </TeamName>
+            <ShortTeamName>Tibet</ShortTeamName>
+            <IsPrimaryClub>False</IsPrimaryClub>
+            <FoundedDate>2013-05-06 18:18:00</FoundedDate>
+            <Arena>
+                <ArenaID>574458</ArenaID>
+                <ArenaName>Potala</ArenaName>
+            </Arena>
+            <League>
+                <LeagueID>11</LeagueID>
+                <LeagueName>Danemark</LeagueName>
+            </League>
+            <Region>
+                <RegionID>301</RegionID>
+                <RegionName>Nordsjælland</RegionName>
+            </Region>
+            <Trainer>
+                <PlayerID>55623694</PlayerID>
+            </Trainer>
+            <HomePage></HomePage>
+            <DressURI>http://res.hattrick.org/kits/19/182/1815/1814963/matchKitSmall.png</DressURI>
+            <DressAlternateURI>http://res.hattrick.org/kits/19/182/1815/1814966/matchKitSmall.png</DressAlternateURI>
+            <LeagueLevelUnit>
+                <LeagueLevelUnitID>24498</LeagueLevelUnitID>
+                <LeagueLevelUnitName>VI.490</LeagueLevelUnitName>
+                <LeagueLevel>6</LeagueLevel>
+            </LeagueLevelUnit>
+            <BotStatus>
+                <IsBot>False</IsBot>
+            </BotStatus>
+            <Cup>
+                <StillInCup>False</StillInCup>
+            </Cup>
+            <FriendlyTeamID>0</FriendlyTeamID>
+            <NumberOfVictories>0</NumberOfVictories>
+            <NumberOfUndefeated>0</NumberOfUndefeated>
+            <TeamRank>5471</TeamRank>
+            <Fanclub>
+                <FanclubID>159437</FanclubID>
+                <FanclubName>Tibet </FanclubName>
+                <FanclubSize>1513</FanclubSize>
+            </Fanclub>
+            <LogoURL>//res.hattrick.org/federationlogo/1/8/77/76684/76684.gif</LogoURL>
+            <Guestbook>
+                <NumberOfGuestbookItems>5</NumberOfGuestbookItems>
+            </Guestbook>
+            <PressAnnouncement>
+                <Subject>All men dream</Subject>
+                <Body>"All men dream: but not equally. Those who dream by night in the dusty recesses of their minds wake up in the day to find it was vanity, but the dreamers of the day are dangerous men, for they may act their dreams with open eyes, to make it possible."
+
+                    In order to gain some extra achievement points I created a Federation.
+
+                    You can help me get achievement points by joining my federation. If you have some free federation slots, please join Bhutan Achievements [federationid=100739]
+
+                    Bhutan</Body>
+                <SendDate>2013-05-06 22:25:00</SendDate>
+            </PressAnnouncement>
+            <TeamColors />
+            <YouthTeamID>2319595</YouthTeamID>
+            <YouthTeamName>The Forbidden Team</YouthTeamName>
+            <NumberOfVisits>1</NumberOfVisits>
+            <TrophyList />
+        </Team>
+    </Teams>
+</HattrickData>

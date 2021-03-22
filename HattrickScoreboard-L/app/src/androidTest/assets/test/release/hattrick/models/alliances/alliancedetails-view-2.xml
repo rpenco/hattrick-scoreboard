@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>AllianceDetails.xml</FileName>
+    <Version>1.5</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-02 13:53:23</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <ActionType>view</ActionType>
+    <Alliance>
+        <AllianceID>113375</AllianceID>
+        <AllianceName>TOTAL UNITED FLAG</AllianceName>
+        <Abbreviation>TUF</Abbreviation>
+        <Description>HERE IS EVERYTHING ALLOWED !
+            You are also tired to hearing say in most flag fed's 'this is not allowed'?
+            Well here you can: Ask or BEG for flags, sell flags for bucks or for supporter packages, offer hosts, donate flags, win flags and many many more...
+
+            **To win BARBADOS flag (tradeable)**</Description>
+        <LogoURL>http://res.hattrick.org/federationlogo/2/12/114/113375/113375.jpg</LogoURL>
+        <TopRole>TUF</TopRole>
+        <TopUserID>8595309</TopUserID>
+        <TopLoginname>Metro-zz</TopLoginname>
+        <CreationDate>2014-03-01 23:44:02</CreationDate>
+        <HomePageURL></HomePageURL>
+        <NumberOfMembers>41</NumberOfMembers>
+        <AwaitingRequests>0</AwaitingRequests>
+        <Languages>
+            <Language>
+                <LanguageID>3</LanguageID>
+                <LanguageName>Deutsch</LanguageName>
+            </Language>
+            <Language>
+                <LanguageID>2</LanguageID>
+                <LanguageName>English (UK)</LanguageName>
+            </Language>
+            <Language>
+                <LanguageID>6</LanguageID>
+                <LanguageName>Español, España</LanguageName>
+            </Language>
+            <Language>
+                <LanguageID>5</LanguageID>
+                <LanguageName>Français</LanguageName>
+            </Language>
+            <Language>
+                <LanguageID>4</LanguageID>
+                <LanguageName>Italiano</LanguageName>
+            </Language>
+            <Language>
+                <LanguageID>10</LanguageID>
+                <LanguageName>Nederlands</LanguageName>
+            </Language>
+            <Language>
+                <LanguageID>13</LanguageID>
+                <LanguageName>Polski</LanguageName>
+            </Language>
+            <Language>
+                <LanguageID>11</LanguageID>
+                <LanguageName>Português</LanguageName>
+            </Language>
+            <Language>
+                <LanguageID>19</LanguageID>
+                <LanguageName>Türkçe</LanguageName>
+            </Language>
+        </Languages>
+    </Alliance>
+</HattrickData>

@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>supporters.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:24:54</FetchedDate>
+    <SupportedTeams TotalItems="118">
+        <SupportedTeam>
+            <UserId>2141100</UserId>
+            <LoginName>B-A-S</LoginName>
+                <TeamId>766092</TeamId>
+            <TeamName>LA Utd.</TeamName>
+            <LeagueID>14</LeagueID>
+            <LeagueName>Pays-Bas</LeagueName>
+            <LeagueLevelUnitID>25992</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VII.704</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>494253568</LastMatchId>
+                <LastMatchDate>2014-10-26 21:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>766092</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>LA Utd.</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>5</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>365599</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>FC Beekos</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>494253576</NextMatchId>
+                <NextMatchMatchDate>2014-11-02 21:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>765302</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>LA Utd.</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>765302</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>FC de Zwaluw</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>102034</UserId>
+            <LoginName>Ariel_De_Zeemeermin</LoginName>
+            <TeamId>80895</TeamId>
+            <TeamName>Canadian Waffles</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>23310</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VI.326</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492425584</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>320387</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>AC Italiani</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>8</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>80895</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Canadian Waffles</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>1</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>492425589</NextMatchId>
+                <NextMatchMatchDate>2014-11-02 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>80895</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>malheurken</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>80895</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Canadian Waffles</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>5729461</UserId>
+            <LoginName>Geunis</LoginName>
+            <TeamId>319804</TeamId>
+            <TeamName>Houthakkers</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>9740</LeagueLevelUnitID>
+            <LeagueLevelUnitName>IV.38</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492391539</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>836130</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Purple White Edegem</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>1</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>319804</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Houthakkers</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>2</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498163840</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>742543</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Houthakkers</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>742543</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>The G'z</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-27 21:41:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>grote kans op verlengd verblijf in IV</PressAnnouncementSubject>
+                <PressAnnouncementBody>Na een zwakke 7 op 21 stond het team op een zeer lastige voorlaatste plaats.
+
+                    We hebben altijd verkondigd dat het team in opbouw was en dat de punten in de terugronde genomen zouden worden.
+
+                    Na een 9 op 15 in de terugronde is het gevaar voor rechtstreekse degradatie ontweken en doen we zowaar nog mee voor rechtstreeks behoud.
+
+                    Het doel was plaats 5-6 dus dat is al gerealiseerd. Er gaan dus ook geen rare dingen meer gebeuren om eventueel die 4de plaats nog te pakken.
+                    Dus we bereiden ons momenteel al voor op onze qualifier.
+
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>445355</UserId>
+            <LoginName>Jeankie</LoginName>
+            <TeamId>105033</TeamId>
+            <TeamName>De Meeten</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8718</LeagueLevelUnitID>
+            <LeagueLevelUnitName>II.4</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492388508</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>842525</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Willebronx</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>5</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>105033</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>De Meeten</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>492388516</NextMatchId>
+                <NextMatchMatchDate>2014-11-02 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>194128</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>De Meeten</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>194128</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>kfc Patatje</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>1526580</UserId>
+            <LoginName>Patrickske</LoginName>
+            <TeamId>194128</TeamId>
+            <TeamName>kfc Patatje</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8718</LeagueLevelUnitID>
+            <LeagueLevelUnitName>II.4</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492388509</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>194128</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>kfc Patatje</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>1</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>317796</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>De vélokes</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>1</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498140085</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>193715</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>kfc Patatje</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>193715</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Toppie!!!</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-22 17:55:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>1/2 finale beker</PressAnnouncementSubject>
+                <PressAnnouncementBody>Vandaag zorgden de patatten voor een grote verrassing door de runner up van eerste klasse de joekes met ruime 5-1 cijfers te verslaan.
+                    Een onterechte overwinning maar we onthouden toch ook vooral het stevige ratings waarmee we zelf uitpakten. Hier mogen we toch ook best fier op zijn.
+
+                    Na deze galamatch volgt er volgende week wederom een ware clash tegen toppie. Spelen tegen de allerbeste ploeg van België is een hele eer, en we hopen dan ook dat onze patatjes nogmaals hun beste beentje neerzetten.</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3542943</UserId>
+            <LoginName>Jestar</LoginName>
+            <TeamId>513519</TeamId>
+            <TeamName>Hammer!</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8727</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.9</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492389012</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>513519</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Hammer!</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>4</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>838379</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>RSCA Rixensart Utd</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>4</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498165173</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1832995</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Hammer!</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1832995</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Barra Gold</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2013-12-08 15:03:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Titel in stijl</PressAnnouncementSubject>
+                <PressAnnouncementBody>Vandaag kunnen we voor het eerst sinds lang nog eens de champagne bovenhalen om een titel te vieren. Om de titel te pakken hadden we nog 1 punt nodig in de derby tegen de tweede in de stand. Onze jongens domineerden net als heel het seizoen op het middenveld en konden uiteindelijk in stijl de titel pakken met een 1 - 3 overwinning.
+
+                    Hammer speelt volgend seizoen dus opnieuw in IVde, waar het een stuk lastiger zal zijn. Het bestuur beraadt zich nog over mogelijke versterking: speler-coach Dubey gaf al eerder aan dat hij te oud begint te worden om nog zelf mee te spelen.
+
+                    Go Hammer!</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>1733565</UserId>
+            <LoginName>marc-den-back</LoginName>
+            <TeamId>516436</TeamId>
+            <TeamName>f.C. niels</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>9706</LeagueLevelUnitID>
+            <LeagueLevelUnitName>IV.4</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492389641</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>742622</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>de NOnames</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>1</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>516436</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>f.C. niels</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>2</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498213029</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1032260</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>f.C. niels</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1032260</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Royabril</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-04-07 12:36:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>f.c. niels plaatst een positief voetstuk</PressAnnouncementSubject>
+                <PressAnnouncementBody>Na een ware thriller waren de supporters door het dolle heen ! toen predonav eindelijk de bevrijdende treffer scoorde. Waarom het elftal de suspens tot de allerlaatste seconden opdreef was voor de analisten, scouts , supporters en heel de entourage van de ploeg een waar vraagteken. Met de koffiepauze stonden we 2 goals in het krijt na een ruime dosis balbezit idem dito kansen. Uiteindelijk werd de logica toch gerespecteerd en kon iedereen de modus  "decompressie" inschakelen met te feesten zoals gekken of wie het rustiger wilde gezellig na te babbelen over het voorbije seizoen en de knaller van een barragematch. Natuurlijk kwamen er ook enkele reacties van de ploeg. Kapitein titov : " we hebben gedaan wat we moesten doen !" , manager Marcus Bacchus : " er zat niet meer in dit seizoen, de doelstelling werd bereikt". Trainer Merle : " hoogst opmerkelijk dat de spelers heel het seizoen een zwakke vorm etaleerden want vorm is veranderlijk, maar nu feesten !" riep hij en dook de menigte in </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>1296990</UserId>
+            <LoginName>karlit0</LoginName>
+            <TeamId>512360</TeamId>
+            <TeamName>priboi</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8733</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.15</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492389349</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>188200</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>SK Merksem</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>0</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>512360</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>priboi</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>1</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498174796</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>512360</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>wit zwart</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>512360</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>priboi</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-08-13 21:53:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>rode duivel</PressAnnouncementSubject>
+                <PressAnnouncementBody>Jean-Damien Canipel, het voorlopig grootste talent van ons team, heeft mede dankzij de perfect uitgekiende en doorgedreven trainingen, zijn 1ste selectie voor ons nationaal team op zak. We wensen hem heel veel succes met de start van zijn internationale carrière en we hopen dat zijn kwaliteiten tot ver buiten onze landsgrenzen te zien zullen zijn. En hopelijk inspireert dit ook zijn teamgenoten om nog harder te werken, opdat ook zij ooit een oproeping mogen vinden in de brievenbus. </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>8886365</UserId>
+            <LoginName>Zerozor</LoginName>
+            <TeamId>1541177</TeamId>
+            <TeamName>Martenshoeve</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8719</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.1</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492388567</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>191690</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>FC Stavimi</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>0</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1541177</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Martenshoeve</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>7</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498140095</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1541177</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>VC de kampioenen</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1541177</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Martenshoeve</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-07-20 12:34:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Supporters op post!</PressAnnouncementSubject>
+                <PressAnnouncementBody>Vanmiddag kan Martenshoeve voor het eerst in zijn clubgeschiedenis kampioen spelen in III. Met drie achtervolgens op slechts enkele punten achterstand in het klassement moet er vandaag gewonnen worden tegen De Machtige Meeuwen om de titel veilig te stellen.
+
+                    [i]"Het is een lang en bewogen seizoen geweest, waarin we de nodige meeval hadden"[/i], liet manager Zerozor weten. [i]"Het zou mooi zijn om vandaag, met de steun van onze thuissupporters, ons 8e seizoen in III.1 af te sluiten met een eerste titel in deze reeks."[/i]
+
+                    Met het prachtige zomerweer loopt het stadion Theatre of dreams stilaan vol. Het Martenshoeve management en de spelers hopen op een grote supportersopkomst om het team te steunen en hopelijk om daarna met zijn allen de titel te vieren!
+
+                    Alle supporters op post, en [b]go MARTENSHOEVE[/b]!</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>911825</UserId>
+            <LoginName>regia5</LoginName>
+            <TeamId>235798</TeamId>
+            <TeamName>Saints Regia</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>729</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.1</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485558216</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>235798</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Saints Regia</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>1</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1731267</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>LeConserveDellaNonna</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>2</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498139534</NextMatchId>
+                <NextMatchMatchDate>2014-10-28 19:10:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>235798</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>SQUARTA PRAGA</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>235798</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Saints Regia</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-20 23:17:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>17y for sale!</PressAnnouncementSubject>
+                <PressAnnouncementBody>These players are coming from my youth academy! Don't lose your chance to own a future U20/NT star!
+
+                    Manuele 'Schizzo' Schivalocchi [playerid=401196098]
+                    [u]17 years and 2 days[/u]
+
+                    Playmaking: [b]inadequate (5)[/b] Passing: weak (4)
+                    Winger: wretched (2) Defending: [b]solid (7)[/b]
+                    Scoring: weak (4) Set pieces: weak (4)
+
+                    [hr]
+                    Ramadan 'National' Osman [playerid=401088103]
+                    [u]17 years and 14 days[/u]
+
+                    Nationality: [b]Al Iraq[/b]
+
+                    Speciality: [b]Powerful[/b]
+
+                    Playmaking: [b]excellent (8)[/b] Passing: weak (4)
+                    Winger: [b]inadequate (5) [/b]Defending:[b] inadequate (5)[/b]
+                    Scoring: poor (3) Set pieces: [b]passable (6)[/b]
+                    [hr]
+                    Amer 'Amor' Tarek [playerid=400798819]
+                    [u]17 years and 19 days[/u]
+
+                    Nationality:[b] Al Iraq[/b]
+
+                    Playmaking: [b]passable (6)[/b] Passing: [b]inadequate (5)[/b]
+                    Winger: [b]inadequate (5)[/b] Defending: [b]inadequate (5)[/b]
+                    Scoring: weak (4) Set pieces: [b]inadequate (5)[/b]
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3865407</UserId>
+            <LoginName>oscarsq</LoginName>
+            <TeamId>678863</TeamId>
+            <TeamName>FK Zāles pļāvēji</TeamName>
+            <LeagueID>53</LeagueID>
+            <LeagueName>Lettonie</LeagueName>
+            <LeagueLevelUnitID>11450</LeagueLevelUnitID>
+            <LeagueLevelUnitName>Virsliga</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485481497</LastMatchId>
+                <LastMatchDate>2014-10-25 11:45:00</LastMatchDate>
+                <LastMatchHomeTeamId>231216</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Varenie tīģeri</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>2</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>678863</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>FK Zāles pļāvēji</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>4</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498152553</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 18:55:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>678863</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Les lions du Cameroun</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>678863</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>FK Zāles pļāvēji</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-09-18 20:07:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Great game :D</PressAnnouncementSubject>
+                <PressAnnouncementBody>[matchid=497396590]</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>2125885</UserId>
+            <LoginName>Pettachi</LoginName>
+            <TeamId>516292</TeamId>
+            <TeamName>FC Holcim</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>9766</LeagueLevelUnitID>
+            <LeagueLevelUnitName>IV.64</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492392993</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>739810</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Acide Formique</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>10</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>516292</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>FC Holcim</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>492392996</NextMatchId>
+                <NextMatchMatchDate>2014-11-02 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>193947</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>FC Holcim</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>193947</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>purple_army</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2012-03-14 08:41:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Koopjes / Sales</PressAnnouncementSubject>
+                <PressAnnouncementBody>.
+                    Lots of talented players for sale !
+
+                    ------------------------------------------------------------------------------------------------
+                    Alles moet buiten ! Voor elk wat wils..
+                    -------------------------------------------------------------------------------------------------
+
+                    Venez jeter un œil à nos joueurs en vente !
+                    .
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>6428216</UserId>
+            <LoginName>blaerie78</LoginName>
+            <TeamId>840141</TeamId>
+            <TeamName>Real Gentbrugge</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>23972</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VI.988</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492462653</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>840141</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Real Gentbrugge</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>5</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>513725</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Simca Racing Team</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498140086</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:15:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>838506</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Real Gentbrugge</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>838506</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>GungHo System</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2012-08-02 22:17:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Masters Final - The Outcome</PressAnnouncementSubject>
+                <PressAnnouncementBody>Despite all effort, we have drawn the shortest straw...
+
+                    But we leave this competition HEADS UP! It was a wonderfull adventure, the only thing that tastes rather strange is the outcome of the final, but hey, we were glad to be able to play it!
+
+                    When the weeks passed, we started to believe in something.
+                    It might be possible to go really far in this competition, if the stars ended up right.
+                    In the end it was just not enough to convince the ME to make the coin fall  to our side, altough I do not feel to have made any line-up-mistake.
+
+                    This adventure would never have reached this far if it wasn't for the help of some really nice people: Patrickske, Xmann, alpha-ray, niels2k, Balerion... All of them really played 'their' part in all this! BUT... there's ONE guy that has been really a lot more then a help... He has been my RIGHT HAND, my TACTICS-BROTHER, my ROCK 2 LEAN ON!!! There IS NO better assistant!
+
+                    Chippen17[userid=1531275]
+
+                    Thanx mate! Sorry, for not making it happen...</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3888748</UserId>
+            <LoginName>Strobbe</LoginName>
+            <TeamId>1021671</TeamId>
+            <TeamName>De Zwarte Draken</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>23513</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VI.529</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492436951</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>321300</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>fc ake</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>5</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1021671</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>De Zwarte Draken</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498224311</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 17:55:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1021671</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>The Duuudes</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1021671</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>De Zwarte Draken</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-04-16 15:10:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Slecht begin</PressAnnouncementSubject>
+                <PressAnnouncementBody>Manager Strobbe wilde na de bekermatch heuglijk nieuws over het voorbije seizoen brengen, maar uiteindelijk werd het een persconferentie in mineur. De goede financiële cijfers van vorig seizoen kunnen de teleurstelling van vandaag niet verzachten. Er volgen geen thuismatchen in de beker om onze bankrekening verder te spijzen en daarop hadden we wel gerekend.
+
+                    Het is uiteraard schandalig dat de All Blacks al in de eerste ronde van de beker uitgeschakeld worden, maar vooral de manier waarop doet pijn. We verliezen niet enkel Enrico al vroeg door een domme rode kaart, maar we zagen ook captain Vasil uitvallen met een zware blessure. Desondanks hadden we nog steeds de beste kaarten om de wedstrijd te winnen, maar de kansen werden niet afgemaakt.
+
+                    Manager Strobbe was het eens met de teleurgestelde fans en kondigde prompt aan dat een aantal spelers het team met onmiddellijke ingang mag verlaten als er een goede prijs komt.
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3922049</UserId>
+            <LoginName>zagortenay</LoginName>
+            <TeamId>1043287</TeamId>
+            <TeamName>Orda Balorda Urbino</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>726</LeagueLevelUnitID>
+            <LeagueLevelUnitName>II.2</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485558050</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1037100</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Cecentus</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>5</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1043287</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Orda Balorda Urbino</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498151915</NextMatchId>
+                <NextMatchMatchDate>2014-10-28 19:20:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>2013296</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Orda Balorda Urbino</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>2013296</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Magic Ayrton</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-18 12:52:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Ehi Hattrick.....</PressAnnouncementSubject>
+                <PressAnnouncementBody>....ma che ti ho fatto???????
+                    Continua il mese nero!!
+                    Dopo due sudatissime vittorie in campionato(che dovevano essere due passeggiate o quasi), ed una fantascientifica eliminazione di coppa, si profila all'orizzonte un'altra beffa!
+                    La partita odierna contro Palazzolo(un altro che ce l'ha con me, dato che di riffa o di raffa mi fa sempre secco XD) prosegue su questa linea...63% di possesso e mi becco contro SE tec vs cdt e SE cdt!
+
+                    Vediamo se il famigerato cs piangina funziona:-)
+                    Rimontiamooooooooooooooooooooooooooooooo
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3369587</UserId>
+            <LoginName>AyaUeto</LoginName>
+            <TeamId>741309</TeamId>
+            <TeamName>UetoAngels</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>39638</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VII.578</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492497038</LastMatchId>
+                <LastMatchDate>2014-10-26 13:30:00</LastMatchDate>
+                <LastMatchHomeTeamId>741309</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>UetoAngels</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>10</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1022970</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Union Camahueto</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>492497043</NextMatchId>
+                <NextMatchMatchDate>2014-11-02 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>741309</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>RSC Nilis</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>741309</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>UetoAngels</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>5009724</UserId>
+            <LoginName>elleke</LoginName>
+            <TeamId>513590</TeamId>
+            <TeamName>Team LOOK</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>12863</LeagueLevelUnitID>
+            <LeagueLevelUnitName>V.156</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492401725</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>317824</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>catabikesteam</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>0</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>513590</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Team LOOK</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>2</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498144582</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>513590</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>boerekampioenen</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>513590</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Team LOOK</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-09-10 17:39:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Einde verhaal</PressAnnouncementSubject>
+                <PressAnnouncementBody>Vandaag opnieuw een ronde verder in de beker, maar hier zal het verhaal eindigen. Het is mooi geweest.
+                    Mogen eindigen tegen een eersteklasser is niet aan iedereen gegeven.
+                    Maar het kampioenschap zal uiteraard voorrang krijgen met nu komende zondag de match van het seizoen. Zou deze graag winnend afsluiten, zodat de weg naar promotie openligt.</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>2856434</UserId>
+            <LoginName>Nightwish</LoginName>
+            <TeamId>836778</TeamId>
+            <TeamName>Nightwish</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>23182</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VI.198</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492418413</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>836778</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Nightwish</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>9</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>517635</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Standard Wange</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>492418417</NextMatchId>
+                <NextMatchMatchDate>2014-11-02 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>842472</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Nightwish</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>842472</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>klungels 007</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-13 22:30:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>friendly</PressAnnouncementSubject>
+                <PressAnnouncementBody>Seriously?
+                    Against the same team as last week? :P
+                    Oh well. :D</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>7423139</UserId>
+            <LoginName>ai-uncoke</LoginName>
+            <TeamId>1042801</TeamId>
+            <TeamName>Hardurus</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>5779</LeagueLevelUnitID>
+            <LeagueLevelUnitName>IV.8</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485559510</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1174994</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Atletico Alba</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>2</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1042801</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Hardurus</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>1</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498243200</NextMatchId>
+                <NextMatchMatchDate>2014-10-28 19:05:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1042801</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>GUINNESS1756</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1042801</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Hardurus</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>7656062</UserId>
+            <LoginName>13Giacomo13</LoginName>
+            <TeamId>1736898</TeamId>
+            <TeamName>A.S. Kursaal</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>726</LeagueLevelUnitID>
+            <LeagueLevelUnitName>II.2</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485558051</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1915916</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Falconara</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>12</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1736898</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>A.S. Kursaal</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498147006</NextMatchId>
+                <NextMatchMatchDate>2014-10-28 19:10:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1736898</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Stella Rossa Torpignattara</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1736898</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>A.S. Kursaal</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-04-06 11:49:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Express Ciuffo è nella storia!</PressAnnouncementSubject>
+                <PressAnnouncementBody>Eh già...ora può davvero dirlo, ora ha finalmente raggiunto un risultato sensazionale.
+
+                    I suoi record strampalati vengono in soli 90 minuti cancellati da una partita indelebile. Non c'è più nulla di fasullo, è tutto vero ragazzi. Ora pure io sono costretto a dargliene atto.
+
+                    Ieri Ciuffo è entrato negli annali di hattrick!
+
+                    Quando sarete in cerca della miglior prestazione italiana di sempre ricordatevi di cliccare su:
+
+                    Kursaal 5 - 3 Express
+
+                    [matchid=469401965]
+
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>7434499</UserId>
+            <LoginName>Blond-snoetje</LoginName>
+            <TeamId>743184</TeamId>
+            <TeamName>RFC Leffe</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8723</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.5</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492388791</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>743184</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>RFC Leffe</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>0</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>323845</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Nieuwe Koerswijk Negers</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>11</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498153464</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1448326</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>RFC Leffe</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1448326</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>FC Büttenhardt</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-09-23 16:16:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Supertalent  !!!</PressAnnouncementSubject>
+                <PressAnnouncementBody>[b]Wespezjan Gościniak [playerid=400002299][/b]
+
+                    [u]17 jaar en 6 dagen[/u]
+
+                    Is redelijk in vorm, zijn conditie is zwak.
+                    Hij is sympathiek, kalm en oprecht.
+                    Zijn ervaring is waardeloos en zijn leiderschap zwak.
+                    Zijn clubliefde is goddelijk.
+
+                    Club: RFC Leffe
+                    Total Skill Index (TSI):[b] 3 220[/b]
+                    Loon: 570 €/week ---   9 120 €/ seizoen
+                    Gezondheid: Blessurevrij
+                    Specialiteit: [b]Krachtig[/b]
+
+                    [table]
+                    [tr][th]Conditie[/th][td]zwak (4)[/td][th]Keepen[/th][td]rampzalig (1)[/td][/tr]
+                    [tr][th]Spelmaken[/th][td]zwak (4)[/td][th]Passen[/th][td][b]uitstekend (8)[/b][/td][/tr]
+                    [tr][th]Vleugelspel[/th][td]slecht (3)[/td][th]Verdedigen[/th][td]zwak (4)[/td][/tr]
+                    [tr][th]Scoren[/th][td][b]uitstekend (8)[/b][/td][th]Spelhervatten[/th][td]zwak (4)[/td][/tr]
+                    [/table]
+
+                    Een rasechte superspits met een grote toekomst zal RFC Leffe verlaten voor een bedrag dat zeker rond de 2M zal liggen. De vroege interesse uit Turkije en USA zijn daar het mooie bewijs van!
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>604536</UserId>
+            <LoginName>Caranza</LoginName>
+            <TeamId>188418</TeamId>
+            <TeamName>Racing Pelt</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>12729</LeagueLevelUnitID>
+            <LeagueLevelUnitName>V.22</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492394224</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>743892</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>F.C. Djem</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>8</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>188418</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Racing Pelt</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498233289</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>2019434</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Racing Pelt</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>2019434</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Caranza's Dilmun</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-07-21 12:58:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Free Flags week 15</PressAnnouncementSubject>
+                <PressAnnouncementBody>Still free for this [b]week 15[/b] ---&gt;  [b]Caranza's Flags For Friends   ([federationid=111325])[/b].
+
+                    [b][/b]
+                    Just send me HT-message !!
+
+
+                    [u]Already won for free in speed lottery :[/u]
+
+                    * Syria --&gt; won by --&gt; [b]Vallis Aurea[/b] ([teamid=883697])</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>5332150</UserId>
+            <LoginName>Sir_QQ</LoginName>
+            <TeamId>1045130</TeamId>
+            <TeamName>Quadrifoglio Team</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>5886</LeagueLevelUnitID>
+            <LeagueLevelUnitName>V.51</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485567499</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1039883</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Isee</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>8</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1045130</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Quadrifoglio Team</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498163183</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 09:45:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1045130</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>NinGaiden</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1045130</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Quadrifoglio Team</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3107511</UserId>
+            <LoginName>ZF23-kripottel</LoginName>
+            <TeamId>516020</TeamId>
+            <TeamName>R Standard Pottel</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8727</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.9</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492389013</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>187319</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>VIRAGE team</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>0</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>516020</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>R Standard Pottel</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>4</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498235810</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 12:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>516020</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Prosikitos C.F.</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>516020</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>R Standard Pottel</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3875756</UserId>
+            <LoginName>Samson</LoginName>
+            <TeamId>1021353</TeamId>
+            <TeamName>An Overdose Of AweSamsoness</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>9763</LeagueLevelUnitID>
+            <LeagueLevelUnitName>IV.61</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492392823</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>191773</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Berchem Goals</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>3</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1021353</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>An Overdose Of AweSamsoness</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498207402</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>266860</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>An Overdose Of AweSamsoness</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>266860</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>TS Wapieniczanka</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-04 14:43:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>What to do</PressAnnouncementSubject>
+                <PressAnnouncementBody>Scratch startover?</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>11147581</UserId>
+            <LoginName>ciuffo-divino-fisc</LoginName>
+            <TeamId>1919424</TeamId>
+            <TeamName>Express Road</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>741</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.13</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485558898</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>50585</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Lapedona</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>5</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1919424</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Express Road</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>1</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498135544</NextMatchId>
+                <NextMatchMatchDate>2014-10-28 19:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>549632</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Express Road</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>549632</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Real Palaron</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-25 12:43:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Hattrick imbarazzante</PressAnnouncementSubject>
+                <PressAnnouncementBody>Altra settimana becchiamo overconfidence e una squadra senza fiducia ci massacra nel primo tempo.Mi viene da ridere e proprio nella settimana della semi finale di Coppa.
+                    Bah.</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>7136974</UserId>
+            <LoginName>Il_Trapattoni</LoginName>
+            <TeamId>743945</TeamId>
+            <TeamName>cruz azul cement</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8715</LeagueLevelUnitID>
+            <LeagueLevelUnitName>II.1</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492388344</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>743945</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>cruz azul cement</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>5</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>316025</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Waasmunster Mustangs</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>1</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498170047</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 05:15:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>743945</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Saigon Stars</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>743945</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>cruz azul cement</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-01-15 15:05:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Ik zit echt gebeiteld</PressAnnouncementSubject>
+                <PressAnnouncementBody>Van de komende 99 gelijkaardige matchen zal ik er maximum 2 verliezen.
+
+                    [matchid=467693436]</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3892547</UserId>
+            <LoginName>Kevin81</LoginName>
+            <TeamId>1042522</TeamId>
+            <TeamName>Psv Maindove</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>5804</LeagueLevelUnitID>
+            <LeagueLevelUnitName>IV.33</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485560904</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1687910</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Atletico Roste</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>2</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1042522</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Psv Maindove</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>6</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498160701</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 09:15:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1042522</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Shahter</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1042522</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Psv Maindove</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-09-21 00:17:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Abitudine al ripiegamento</PressAnnouncementSubject>
+                <PressAnnouncementBody>Preziosissima quanto fortunata vittoria del Psv, che torna a casa con tre punti che valgono oro.
+                    Il presidete ha detto la sua a fine gara.
+
+                    "Abbiamo vinto un match combattuto" ha esordito il patron "Sapevamo che era una partita da 1X2 e siamo stati bravi e fortunati a portarla a casa. Il ripiegamento? Durante la settimana il nostro allenatore l'aveva già previsto. Per questo mi ha chiesto di procurargli 11 trans brasiliani, i più grossi che c'erano, per abituare i nostri ad un eventuale ripiegamento. Infatti, senza battere ciglio, i calciatori hanno subito il ripiegamento, sono stati infilati due volte dai loro avversari e hanno saputo aspettare il momento giusto per metterglielo a loro volta in quel posto. Gli abbiamo reso pen..ehm volevo dire pan per focaccia!"</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3321273</UserId>
+            <LoginName>furiga</LoginName>
+            <TeamId>855954</TeamId>
+            <TeamName>Leoni d'africa</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>733</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.5</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485558436</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1918060</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Ortefossi United</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>6</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>855954</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Leoni d'africa</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498220921</NextMatchId>
+                <NextMatchMatchDate>2014-10-28 19:10:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1037910</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Leoni d'africa</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1037910</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>farfapuffo sporting club</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-20 10:17:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Siamo quasi in IV</PressAnnouncementSubject>
+                <PressAnnouncementBody>Ma non molliamo finchè non saremo condannati!
+
+                    Purtroppo sabato dovevamo giocare come contro il piccolo ggufatore ed invece abbiamo battezzato un CA che non c'è stato!
+
+                    Ora da ortefossi ci sarà da divertirci, ci sono da riprendere i 3 punti che ci ha portato via all'andata :P</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>6925238</UserId>
+            <LoginName>ggangus</LoginName>
+            <TeamId>1528391</TeamId>
+            <TeamName>ac savoia 1908</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>733</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.5</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485558441</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>551543</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Vomano FC</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>3</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1528391</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>ac savoia 1908</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>3</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498159685</NextMatchId>
+                <NextMatchMatchDate>2014-10-28 20:45:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1528391</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>DINAMIT BERAT</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1528391</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>ac savoia 1908</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-09-23 23:21:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>I coLoRi dEl MOndDo</PressAnnouncementSubject>
+                <PressAnnouncementBody>[b]LIBERTA' FREEDOM LIBERTE' FREIHEIT LIBERTAD LIBERDADE СВОБОДА ΕΛΕΥΘΕΡΙΑ VRIJHEID 자유 自由 རང་དབང་ for TIBET[/b]
+
+                    Amo la geografia...
+                    Adoro le bandiere...
+                    Amo viaggiare... e quando dico viaggiare intendo VIAGGIARE! Conoscere nuove persone, sentire nuovi profumi, assaggiare nuovi sapori, ascoltare nuove lingue e nuove storie... quasi sempre a casa di conoscenti o sconosciuti, dove anche solo osservare come fan colazione, cosa vedono in TV o di che colore è il pigiama è una esperienza nuova.
+
+                    Non potevo quindi non fare la collezione di bandiere qui su HT, ed oggi ho completato quelle "home"
+
+                    Peccato solo non avere quella più ambita: [link=https://www.google.it/search?q=bandiera+del+tibet&amp;biw=1440&amp;bih=766&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;sa=X&amp;ei=BuIhVKeWFsrmyQO8n4HYCw&amp;ved=0CCcQsAQ]
+
+                    Da martedi prossimo continueremo quelle away...
+
+                    [b]jamm bell ja... mai fermarsi, nè col corpo, ma sopratutto con lo spirito e la fantasia... mai! sempre e solo... forza savoia e forza viaggiare![/b]</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>6942093</UserId>
+            <LoginName>marvanta</LoginName>
+            <TeamId>236874</TeamId>
+            <TeamName>uniao farina</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>6076</LeagueLevelUnitID>
+            <LeagueLevelUnitName>V.241</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485589134</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1721664</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Torpedo Ghiaie</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>4</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>236874</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>uniao farina</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498190451</NextMatchId>
+                <NextMatchMatchDate>2014-10-30 03:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>236874</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Mare Salato</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>236874</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>uniao farina</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-08-23 17:49:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Tuttapposto</PressAnnouncementSubject>
+                <PressAnnouncementBody>A ferragosto!</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>5380945</UserId>
+            <LoginName>niels2k</LoginName>
+            <TeamId>1466890</TeamId>
+            <TeamName>Clover avenua</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>9722</LeagueLevelUnitID>
+            <LeagueLevelUnitName>IV.20</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492390528</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>739576</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Tayoteam</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>9</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1466890</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Clover avenua</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>1</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498144975</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>851000</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Clover avenua</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>851000</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>F.C Maestro</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>6349338</UserId>
+            <LoginName>potstamperken</LoginName>
+            <TeamId>187359</TeamId>
+            <TeamName>potje stamp</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>39373</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VII.313</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492482198</LastMatchId>
+                <LastMatchDate>2014-10-26 13:30:00</LastMatchDate>
+                <LastMatchHomeTeamId>842378</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>quickman</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>5</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>187359</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>potje stamp</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>1</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498211440</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>282583</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>potje stamp</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>282583</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>FC Chokoladescones</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2013-04-10 10:47:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>New start</PressAnnouncementSubject>
+                <PressAnnouncementBody>On monday the manager was lucky enough to claim a 2nd team in Angola! We are very happy and hope to see some friends there! It will be a new start for us there, we will see if we can achieve something also ;)
+                    The mainteam in Belgium is still on a hold and will be for some more seasons. Hopefully in some time we will have money enough!</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>1113574</UserId>
+            <LoginName>spiroe</LoginName>
+            <TeamId>189107</TeamId>
+            <TeamName>spiroezie</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8714</LeagueLevelUnitID>
+            <LeagueLevelUnitName>Eerste Klasse</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492388287</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1027498</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Mauves Army Boys</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>10</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>189107</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>spiroezie</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498188106</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>928923</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>spiroezie</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>928923</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Dortmunderz</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-14 09:53:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Spiroe opnieuw met noorderzon vertrokken?!</PressAnnouncementSubject>
+                <PressAnnouncementBody>Er doen geruchten de ronde dat spiroe er opnieuw de brui aan gegeven heeft.
+
+                    In het verleden was dit al eens het geval (15-tal seizoenen geleden) en nu lijkt het er opnieuw iets van weg te hebben.
+
+                    Bij thuiskomst (seizoen 33) had spiroe de vorige keer een grote zak geld (slordige 100 miljoen euro) meegebracht van "een buitenlandse risico-investering", althans zo noemde hij het, die goed uitgepakt had.
+
+                    Deze keer zijn we minder zeker dat er in de toekomst een grote geldinjectie in de club komt. Wel kocht hij nog in 7 haasten een paar talentjes die, zo citeren we onze flamboyante manager," in de toekomst de club nieuwe glorie zouden gaan brengen".
+
+                    Geruchten gaan namelijk de ronde dat spiroe in Irak een zaakje zou gedaan hebben en kapitalen overheeft om daar de top te bereiken...
+
+                    Benieuwd wat de toekomst zal brengen, alles spelers zijn zowaar verkocht en het is raden waar hij met het geld naartoe is?!!</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>2936024</UserId>
+            <LoginName>FFF-Kaeskie</LoginName>
+            <TeamId>838713</TeamId>
+            <TeamName>ZVC DMV</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>12734</LeagueLevelUnitID>
+            <LeagueLevelUnitName>V.27</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492394504</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>80996</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>De Queens</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>2</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>838713</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>ZVC DMV</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>3</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498208978</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>416394</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>ZVC DMV</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>416394</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>FC ICBM</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-08-12 20:24:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>A historical transfer: an "old" player for a "new" team!!!</PressAnnouncementSubject>
+                <PressAnnouncementBody>Manager Kaeskie was delighted with his newest teammember. Club icon of "Excelsior Rollegem" [b]Alfanus Farhan [playerid=216314389][/b] has signed a contract till death where he has grown to the absolute star of the Surinamese football.
+                    With his 129 NT-caps &amp; 31 U20-caps he's surely the Surinamese player with the nicest palmares.
+
+                    After his U20-period he was bought by manager Kaeskie. He played there 12 seasons and became the key-player of Excelsior &amp; NT Suriname. He helped Excelsior from division VI till division II.
+                    At the end of his career he signed a lucrative contract in the Netherlands.
+                    After a few weeks, he was tired playing in a lower division and signed a contract with NK Posavc where he gained the championship in league II.
+                    He was delighted to get the chance, he was then allready 33yo, to play in the Premier league of Slovenia.
+                    And now he wants to end his career along with the manager who always believed in him from the start.
+
+                    Farhan &amp; Kaeskie, two hands on a belly!</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>1824733</UserId>
+            <LoginName>_Peo_</LoginName>
+            <TeamId>551844</TeamId>
+            <TeamName>Mar Mousa</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>728</LeagueLevelUnitID>
+            <LeagueLevelUnitName>II.4</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485558165</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>545208</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Zemand Land</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>2</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>551844</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Mar Mousa</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>3</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498165083</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 16:50:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>551844</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Ďumbier 2043</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>551844</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Mar Mousa</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-18 20:07:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Las Vegas</PressAnnouncementSubject>
+                <PressAnnouncementBody>Il gioco d'azzardo è così.
+                    Se punti tutto e la ruota gira sullo spartito dei tuoi desideri, allora sei un genio.
+                    Altrimenti, ti trovi con l'eco nelle tasche e il mutuo da pagare.
+
+                    Mediamente il rischio non paga e alla lunga il banco vince.
+                    Oggi sono stato soddisfatto del mio gioco piccolo-borghese (magari domani non sarà così)</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>2639162</UserId>
+            <LoginName>-Domi-</LoginName>
+            <TeamId>315739</TeamId>
+            <TeamName>RSC Tifosi</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8717</LeagueLevelUnitID>
+            <LeagueLevelUnitName>II.3</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492388454</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>743222</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>yacristelkiral!</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>1</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>315739</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>RSC Tifosi</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>4</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498173849</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>2044465</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>RSC Tifosi</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>2044465</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>- Reservoir Dogs -</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-02-16 14:50:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>ON-GE-LO-FE-LIJK</PressAnnouncementSubject>
+                <PressAnnouncementBody>Na deze random (op speeldag 2): [matchid=463447699]
+
+                    En deze (op speeldag 5): [matchid=463447708]
+
+                    Krijgen we nu deze (op speeldag 8): [matchid=463447720]
+
+                    Echt onbegrijpelijk</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>1757844</UserId>
+            <LoginName>kakker4-ever</LoginName>
+            <TeamId>516241</TeamId>
+            <TeamName>KaVéMechelen</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>12837</LeagueLevelUnitID>
+            <LeagueLevelUnitName>V.130</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492400270</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>517851</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Les saftis</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>5</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>516241</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>KaVéMechelen</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498182196</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>516241</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Comines-Plage</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>516241</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>KaVéMechelen</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>9753344</UserId>
+            <LoginName>Da_Ubermensch</LoginName>
+            <TeamId>514222</TeamId>
+            <TeamName>RFC Quellwasser</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>12752</LeagueLevelUnitID>
+            <LeagueLevelUnitName>V.45</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492395509</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>514222</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>RFC Quellwasser</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>3</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1025957</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Dees FC</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498152284</NextMatchId>
+                <NextMatchMatchDate>2014-10-30 03:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>514222</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Sabalero Por Siempre</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>514222</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>RFC Quellwasser</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2011-02-21 10:38:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Bekertje</PressAnnouncementSubject>
+                <PressAnnouncementBody>Na de nieuwe nederlaag afgelopen weekend werden sommige spelers / supporters ongerust over de toekomst van RFC Quellwasser.
+                    De manager liet echter weten dat de doelstelling nog steeds is om het bekertje van 8ste te gaan halen, en heeft prompt de geldbuidel open getrokken om voor woensdag nog 6 nieuwe spelers binnen te trekken, 7 andere spelers kregen te horen dat ze de club mogen verlaten.
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>7176117</UserId>
+            <LoginName>-Goge-</LoginName>
+            <TeamId>1023368</TeamId>
+            <TeamName>Goge</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8725</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.7</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492388904</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>192809</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Charlatans</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>2</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1023368</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Goge</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>2</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498202894</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>920433</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Goge</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>920433</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>delphi001</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-02-03 18:01:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>The Hat Is On The Peg</PressAnnouncementSubject>
+                <PressAnnouncementBody>As of today the manager is no longer a GameMaster for the HFA anymore.
+                    After 2 years of volunteering my time has come to end it. I had a lot of fun doing my tasks, but after those past years the drive was slowly fading, and thus it was the better decision to quit now and look back to a good period. After all slacking is only a downwards spiral for the other crewmembers.
+                    Thanks to all of them for the fine time. Special thanks to GM-kakker4-ever for the education and speechboard for difficult decisions. And another special thanks to GM-CableGuy for the guidance into the bigger world outside Belgium.
+
+                    I wish all of you the best and good luck in catching the cheaters ;)
+
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>7458454</UserId>
+            <LoginName>GM-LordFel</LoginName>
+            <TeamId>238358</TeamId>
+            <TeamName>Scrat the Squirrel FC</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>6048</LeagueLevelUnitID>
+            <LeagueLevelUnitName>V.213</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485585569</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1914905</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Maxthemax</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>6</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>238358</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Scrat the Squirrel FC</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498250022</NextMatchId>
+                <NextMatchMatchDate>2014-10-28 19:20:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>306818</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Scrat the Squirrel FC</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>306818</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>FC Weins</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-04-05 13:28:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Congedo dalla III serie</PressAnnouncementSubject>
+                <PressAnnouncementBody>3 stagioni in III serie le abbiamo passate, possiamo ritenerci soddisfatti :)
+
+                    del resto il forte avversario, e l'età avanzata dei nostri giocatori, ci hanno imposto di non provarci aldilà del semplice mots.
+
+                    Inizierà un nuovo ciclo scoiattolesco,  tutti in vendita e si ripartirà con una età media migliore e più longeva.....e dalla V serie!!!
+
+                    aloha!</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>560102</UserId>
+            <LoginName>Quiet-Storm</LoginName>
+            <TeamId>191126</TeamId>
+            <TeamName>Quiet-Storm</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>39197</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VII.137</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492472344</LastMatchId>
+                <LastMatchDate>2014-10-26 13:30:00</LastMatchDate>
+                <LastMatchHomeTeamId>743061</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>F.C. Merret City</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>0</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>191126</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Quiet-Storm</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>11</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498174595</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 11:45:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>191126</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>FC Damaturu</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>191126</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Quiet-Storm</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2012-04-18 22:46:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Nieuwste aanwinst !!</PressAnnouncementSubject>
+                <PressAnnouncementBody>Als trotse papa stel ik jullie mijn 2de dochtertje voor.
+
+                    Cleo - 17-04-2012 - 49cm - 3,170kg
+
+
+
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3341505</UserId>
+            <LoginName>-Tipsy-</LoginName>
+            <TeamId>743056</TeamId>
+            <TeamName>BVB CITY 09</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>39097</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VII.37</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492466744</LastMatchId>
+                <LastMatchDate>2014-10-26 13:30:00</LastMatchDate>
+                <LastMatchHomeTeamId>316612</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Standardd</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>0</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>743056</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>BVB CITY 09</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>6</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498166807</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1113358</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>BVB CITY 09</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1113358</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>NK Cvetličar</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-09-03 15:50:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Hattrick en zijn random</PressAnnouncementSubject>
+                <PressAnnouncementBody>Bijna weer zwaar vanachter genomen door de random, gelukkig hem nog net een stamp in zijn zak kunnen geven..
+
+                    [matchid=497117269]</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3001385</UserId>
+            <LoginName>MichaelVQ</LoginName>
+            <TeamId>840026</TeamId>
+            <TeamName>Kanisjotski United</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>39659</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VII.599</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492498211</LastMatchId>
+                <LastMatchDate>2014-10-26 13:30:00</LastMatchDate>
+                <LastMatchHomeTeamId>513343</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>cornetdor</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>0</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>840026</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Kanisjotski United</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>3</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>492498219</NextMatchId>
+                <NextMatchMatchDate>2014-11-02 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>187697</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Kanisjotski United</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>187697</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>fc de flankspelers</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2013-06-09 15:39:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Hier gaan we weer...</PressAnnouncementSubject>
+                <PressAnnouncementBody>Deel 2! </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>6170192</UserId>
+            <LoginName>albertocorrez-SUB</LoginName>
+            <TeamId>1528023</TeamId>
+            <TeamName>Mons Eniana Percoks</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>29593</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VI.892</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485646026</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1527982</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Rinco United</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>1</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1528023</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Mons Eniana Percoks</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>4</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498141643</NextMatchId>
+                <NextMatchMatchDate>2014-10-28 19:05:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>729340</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Mons Eniana Percoks</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>729340</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>ServiDellaGleba</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-25 14:54:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Poker esterno!</PressAnnouncementSubject>
+                <PressAnnouncementBody>Ottima prova delle Percoke questo sabato contro un muro difensivo: [matchid=485646026]. Dopo secoli si torna anche sopra le [b]300 HatStats[/b], pia piano torneranno i fasti del passato XD
+
+                    Senza dimenticare la seconda presenza in U-20 per il [b]Notarnicola[/b][playerid=395181042], ieri sera in terra belga[matchid=498125132], festeggiato oggi dal terzo gol in campionato!
+
+                    ►Sabato prossimo vi aspettiamo tutti al Kookaburra per lo scontro diretto[matchid=485646030] che decreterà il vincitore della VI.892.
+
+
+                    [hr][i][b]PS:[/b] Vi ricordo ancora, non mi stancherò mai di farlo, che mi candiderò alle prossime elezioni per la Nazionalina. Chiunque fosse interessato a darer una mano basta che me lo faccia presente, sarà il benvenuto!! XD[/i]
+                    [hr]
+
+                    [b]Percoke Alò!!![/b]</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>6072244</UserId>
+            <LoginName>Sancho77</LoginName>
+            <TeamId>323293</TeamId>
+            <TeamName>ForzaJody</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8720</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.2</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492388627</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>741763</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>K.Lierse SK.</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>5</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>323293</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>ForzaJody</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498161766</NextMatchId>
+                <NextMatchMatchDate>2014-10-30 03:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>323293</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>El Chavo del 8</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>323293</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>ForzaJody</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-06-09 14:36:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Louis Maricq is terug !</PressAnnouncementSubject>
+                <PressAnnouncementBody>Eens in de zoveel tijd gebeurt er iets opmerkelijks in en rond de Kapittelstraat. Vandaag was weer zo'n dag !
+
+                    Uit de jeugdacademie werd Louis Maricq[playerid=396813366] gepromoveerd. Die naam doet veel supporters met weemoed terugdenken aan de tijd waarin ForzaJody meedeed om de knikkers. Onze voormalige winger/coach heeft blijkbaar een heel getalenteerd neefje met dezelfde naam...
+
+                    De jonge knaap zal nog snel even een wedstrijdje meetrainen met de zogenaamde A-selectie en na de trainingsupdate wordt hij dan op de transferlijst geplaatst. We wensen hem een mooie toekomst !
+
+                    Of er verder nog nieuws is ? Niet echt, maar we kunnen wel melden dat we iets vooruitlopen op ons schema.</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>7790187</UserId>
+            <LoginName>Andreac </LoginName>
+            <TeamId>1730726</TeamId>
+            <TeamName>Hellas VB</TeamName>
+            <LeagueID>4</LeagueID>
+            <LeagueName>Italie</LeagueName>
+            <LeagueLevelUnitID>5799</LeagueLevelUnitID>
+            <LeagueLevelUnitName>IV.28</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>485560624</LastMatchId>
+                <LastMatchDate>2014-10-25 12:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1913640</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>F.C._SAVOIA_1908</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>6</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>1730726</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Hellas VB</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>2</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498202980</NextMatchId>
+                <NextMatchMatchDate>2014-10-28 19:15:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>936691</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Hellas VB</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>936691</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>EvoK</NextMatchAwayTeamName>
+            </NextMatch>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>317219</UserId>
+            <LoginName>mastercyb</LoginName>
+            <TeamId>180117</TeamId>
+            <TeamName>mastercyb</TeamName>
+            <LeagueID>37</LeagueID>
+            <LeagueName>Roumanie</LeagueName>
+            <LeagueLevelUnitID>22861</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VI.901</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>484743515</LastMatchId>
+                <LastMatchDate>2014-10-25 10:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>1191532</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Steaua Galactica</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>0</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>180117</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>mastercyb</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>0</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498237514</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 10:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>34459</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>mastercyb</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>34459</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>F.C. tomis</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2011-01-18 17:19:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>...</PressAnnouncementSubject>
+                <PressAnnouncementBody>Just play. Have fun. Enjoy the game.</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>3293748</UserId>
+            <LoginName>VVF-hoewach</LoginName>
+            <TeamId>839245</TeamId>
+            <TeamName>Hoewach Utd.</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8732</LeagueLevelUnitID>
+            <LeagueLevelUnitName>III.14</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492389294</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>839245</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>Hoewach Utd.</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>2</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>836149</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>Red Star Zieligem</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>2</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498247240</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:00:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>1001625</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>Hoewach Utd.</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>1001625</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Die 2</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-26 14:55:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Manager begrijpt het niet goed meer</PressAnnouncementSubject>
+                <PressAnnouncementBody>Hoewach maakte duidelijk dat er vandaag moest gewonnen worden en dit gebeurde weer niet waardoor plaats 2 nu wel definitief weg is en zelfs degradatiegevaar blijft.
+
+                    (4 zichtbare kansen tegen, 2 zichtbare kansen voor mezelf )de tegenstander met pak minder balbezit is enorm tactisch vernuft van onze tegenstander dat we niet kennen en hebben dus zelf ook bijscholing nodig om de ME te begrijpen.We hadden mooie aanval en dit kan de oorzaak dus niet zijn.
+
+                    Zonder SE hadden we dus gewoon weer verloren en is ontgoocheling.Ook het puntenaantal van onze vrienden uit Destelbergen begrijpen we niet.
+
+                    Na de match zijn er zware rellen uitgebroken en is het enorm onrustig in en rond het stadion.</PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+        <SupportedTeam>
+            <UserId>2923453</UserId>
+            <LoginName>batman2402-LMBF</LoginName>
+            <TeamId>838369</TeamId>
+            <TeamName>The Batman All Stars</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>9754</LeagueLevelUnitID>
+            <LeagueLevelUnitName>IV.52</LeagueLevelUnitName>
+            <LastMatch>
+                <LastMatchId>492392320</LastMatchId>
+                <LastMatchDate>2014-10-26 13:00:00</LastMatchDate>
+                <LastMatchHomeTeamId>515178</LastMatchHomeTeamId>
+                <LastMatchHomeTeamName>San Andreas City</LastMatchHomeTeamName>
+                <LastMatchHomeGoals>3</LastMatchHomeGoals>
+                <LastMatchAwayTeamId>838369</LastMatchAwayTeamId>
+                <LastMatchAwayTeamName>The Batman All Stars</LastMatchAwayTeamName>
+                <LastMatchAwayGoals>3</LastMatchAwayGoals>
+            </LastMatch>
+            <NextMatch>
+                <NextMatchId>498153899</NextMatchId>
+                <NextMatchMatchDate>2014-10-29 13:30:00</NextMatchMatchDate>
+                <NextMatchHomeTeamId>15498</NextMatchHomeTeamId>
+                <NextMatchHomeTeamName>The Batman All Stars</NextMatchHomeTeamName>
+                <NextMatchAwayTeamId>15498</NextMatchAwayTeamId>
+                <NextMatchAwayTeamName>Munkhätte FF</NextMatchAwayTeamName>
+            </NextMatch>
+            <PressAnnouncement>
+                <PressAnnouncementSendDate>2014-10-17 00:20:00</PressAnnouncementSendDate>
+                <PressAnnouncementSubject>Dan verlies je eens een keer  ....</PressAnnouncementSubject>
+                <PressAnnouncementBody>13-10-2014 (11/56) : 1 supporter heeft de club verlaten.
+
+                    16-10-2014 (11/56) : 1 supporter heeft de club verlaten.
+
+                    En dat terwijl :
+
+                    [u]Verwachting voor het seizoen[/u]: 	we zullen ons best moeten doen om erin te blijven.
+
+                    Wat is HT toch heerlijk :)
+
+                </PressAnnouncementBody>
+            </PressAnnouncement>
+        </SupportedTeam>
+    </SupportedTeams>
+</HattrickData>

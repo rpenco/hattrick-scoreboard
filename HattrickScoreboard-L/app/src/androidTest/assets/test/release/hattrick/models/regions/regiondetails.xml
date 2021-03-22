@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>regionDetails.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:17:47</FetchedDate>
+    <League>
+        <LeagueID>5</LeagueID>
+        <LeagueName>France</LeagueName>
+        <Region>
+            <RegionID>130</RegionID>
+            <RegionName>Aquitaine</RegionName>
+            <WeatherID>3</WeatherID>
+            <TomorrowWeatherID>3</TomorrowWeatherID>
+            <NumberOfUsers>1402</NumberOfUsers>
+            <NumberOfOnline>19</NumberOfOnline>
+        </Region>
+    </League>
+</HattrickData>

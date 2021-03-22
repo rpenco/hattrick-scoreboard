@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>youthteam.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 18:32:08</FetchedDate>
+    <YouthTeam>
+        <YouthTeamID>1101967</YouthTeamID>
+        <YouthTeamName>Olympique de Mémed Jeunes</YouthTeamName>
+        <ShortTeamName>New gen</ShortTeamName>
+        <CreatedDate>2008-10-14 20:48:00</CreatedDate>
+        <Country>
+            <CountryID>5</CountryID>
+            <CountryName>France</CountryName>
+        </Country>
+        <Region>
+            <RegionID>149</RegionID>
+            <RegionName>Provence-Alpes-Côte d'Azur</RegionName>
+        </Region>
+        <YouthArena>
+            <YouthArenaID>1101640</YouthArenaID>
+            <YouthArenaName>Stade guerrier</YouthArenaName>
+        </YouthArena>
+        <YouthLeague>
+            <YouthLeagueID>58828</YouthLeagueID>
+            <YouthLeagueName></YouthLeagueName>
+            <YouthLeagueStatus>3</YouthLeagueStatus>
+        </YouthLeague>
+        <OwningTeam>
+            <MotherTeamID>291167</MotherTeamID>
+            <MotherTeamName>Olympique de Mémed</MotherTeamName>
+        </OwningTeam>
+        <YouthTrainer>
+            <YouthPlayerID>44876187</YouthPlayerID>
+        </YouthTrainer>
+        <NextTrainingMatchDate>2014-11-17 18:50:00</NextTrainingMatchDate>
+        <ScoutList>
+            <Scout>
+                <YouthScoutID>1019348</YouthScoutID>
+                <ScoutName>Hugues Couillaud</ScoutName>
+                <Age>71</Age>
+                <Country>
+                    <CountryID>5</CountryID>
+                    <CountryName>France</CountryName>
+                </Country>
+                <Region>
+                    <RegionID>144</RegionID>
+                    <RegionName>Midi-Pyrénées</RegionName>
+                </Region>
+                <InCountry>
+                    <CountryID>5</CountryID>
+                    <CountryName>France</CountryName>
+                </InCountry>
+                <InRegion>
+                    <RegionID>144</RegionID>
+                    <RegionName>Midi-Pyrénées</RegionName>
+                </InRegion>
+                <HiredDate>2012-06-02 15:52:09</HiredDate>
+                <LastCalled>2014-11-01 07:50:46</LastCalled>
+                <PlayerTypeSearch>0</PlayerTypeSearch>
+                <Travel />
+            </Scout>
+            <Scout>
+                <YouthScoutID>1041340</YouthScoutID>
+                <ScoutName>Nicolas Martin</ScoutName>
+                <Age>79</Age>
+                <Country>
+                    <CountryID>5</CountryID>
+                    <CountryName>France</CountryName>
+                </Country>
+                <Region>
+                    <RegionID>149</RegionID>
+                    <RegionName>Provence-Alpes-Côte d'Azur</RegionName>
+                </Region>
+                <InCountry>
+                    <CountryID>5</CountryID>
+                    <CountryName>France</CountryName>
+                </InCountry>
+                <InRegion>
+                    <RegionID>149</RegionID>
+                    <RegionName>Provence-Alpes-Côte d'Azur</RegionName>
+                </InRegion>
+                <HiredDate>2012-06-02 15:52:47</HiredDate>
+                <LastCalled>2014-11-01 07:50:50</LastCalled>
+                <PlayerTypeSearch>0</PlayerTypeSearch>
+                <Travel />
+            </Scout>
+        </ScoutList>
+    </YouthTeam>
+</HattrickData>

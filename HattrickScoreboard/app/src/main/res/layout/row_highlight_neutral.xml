@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@drawable/button_listview"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/tvHomeTime"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:text="120&apos;"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/ivAwayEvent"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tvAwayTime"
+        android:src="@drawable/ic_event_599_fulltime" />
+
+    <TextView
+        android:id="@+id/tvAwayTime"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvHomeTime"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/ivAwayEvent"
+        android:gravity="center"
+        android:text="120&apos;"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="16sp"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/ivHomeEvent"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/ivAwayEvent"
+        android:src="@drawable/ic_event_599_fulltime" />
+
+    <TextView
+        android:id="@+id/tvEvent"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/ivHomeEvent"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/tvAwayTime"
+        android:layout_toRightOf="@+id/tvHomeTime"
+        android:gravity="center"
+        android:text="Lionel Messi" />
+
+</RelativeLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>matchorders.xml</FileName>
+    <Version>2.3</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:13:10</FetchedDate>
+    <MatchID>489830862</MatchID>
+    <IsYouth>False</IsYouth>
+    <MatchData>
+        <TacticType>2</TacticType>
+        <TacticSkill>12</TacticSkill>
+        <RatingMidfield>11</RatingMidfield>
+        <RatingRightDef>33</RatingRightDef>
+        <RatingMidDef>39</RatingMidDef>
+        <RatingLeftDef>34</RatingLeftDef>
+        <RatingRightAtt>29</RatingRightAtt>
+        <RatingMidAtt>26</RatingMidAtt>
+        <RatingLeftAtt>25</RatingLeftAtt>
+    </MatchData>
+</HattrickData>

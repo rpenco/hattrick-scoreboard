@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>youthleaguedetails.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 18:16:23</FetchedDate>
+    <YouthLeagueID>58828</YouthLeagueID>
+    <YouthLeagueName>Foiria</YouthLeagueName>
+    <YouthLeagueType>2</YouthLeagueType>
+    <Season>27</Season>
+    <LastMatchRound>7</LastMatchRound>
+    <NrOfTeamsInLeague>8</NrOfTeamsInLeague>
+    <Teams>
+        <Team>
+            <TeamID>1412851</TeamID>
+            <TeamName>Petit kawa</TeamName>
+            <Position>1</Position>
+            <PositionChange>1</PositionChange>
+            <Matches>6</Matches>
+            <GoalsFor>28</GoalsFor>
+            <GoalsAgainst>4</GoalsAgainst>
+            <Points>18</Points>
+            <Won>6</Won>
+            <Draws>0</Draws>
+            <Lost>0</Lost>
+        </Team>
+        <Team>
+            <TeamID>219636</TeamID>
+            <TeamName>AS Camarguinho</TeamName>
+            <Position>2</Position>
+            <PositionChange>2</PositionChange>
+            <Matches>6</Matches>
+            <GoalsFor>25</GoalsFor>
+            <GoalsAgainst>4</GoalsAgainst>
+            <Points>18</Points>
+            <Won>6</Won>
+            <Draws>0</Draws>
+            <Lost>0</Lost>
+        </Team>
+        <Team>
+            <TeamID>1532203</TeamID>
+            <TeamName>Les Champenois</TeamName>
+            <Position>3</Position>
+            <PositionChange>0</PositionChange>
+            <Matches>6</Matches>
+            <GoalsFor>22</GoalsFor>
+            <GoalsAgainst>9</GoalsAgainst>
+            <Points>12</Points>
+            <Won>4</Won>
+            <Draws>0</Draws>
+            <Lost>2</Lost>
+        </Team>
+        <Team>
+            <TeamID>1101967</TeamID>
+            <TeamName>Olympique de Mémed Jeunes</TeamName>
+            <Position>4</Position>
+            <PositionChange>0</PositionChange>
+            <Matches>6</Matches>
+            <GoalsFor>6</GoalsFor>
+            <GoalsAgainst>10</GoalsAgainst>
+            <Points>7</Points>
+            <Won>2</Won>
+            <Draws>1</Draws>
+            <Lost>3</Lost>
+        </Team>
+        <Team>
+            <TeamID>2353530</TeamID>
+            <TeamName>st brieuc</TeamName>
+            <Position>5</Position>
+            <PositionChange>0</PositionChange>
+            <Matches>6</Matches>
+            <GoalsFor>4</GoalsFor>
+            <GoalsAgainst>11</GoalsAgainst>
+            <Points>5</Points>
+            <Won>1</Won>
+            <Draws>2</Draws>
+            <Lost>3</Lost>
+        </Team>
+        <Team>
+            <TeamID>2329869</TeamID>
+            <TeamName>CS Honfleur II</TeamName>
+            <Position>6</Position>
+            <PositionChange>1</PositionChange>
+            <Matches>6</Matches>
+            <GoalsFor>3</GoalsFor>
+            <GoalsAgainst>17</GoalsAgainst>
+            <Points>5</Points>
+            <Won>1</Won>
+            <Draws>2</Draws>
+            <Lost>3</Lost>
+        </Team>
+        <Team>
+            <TeamID>320496</TeamID>
+            <TeamName>JEUNE GARDE </TeamName>
+            <Position>7</Position>
+            <PositionChange>2</PositionChange>
+            <Matches>6</Matches>
+            <GoalsFor>3</GoalsFor>
+            <GoalsAgainst>16</GoalsAgainst>
+            <Points>3</Points>
+            <Won>1</Won>
+            <Draws>0</Draws>
+            <Lost>5</Lost>
+        </Team>
+        <Team>
+            <TeamID>1274304</TeamID>
+            <TeamName>galibe boys</TeamName>
+            <Position>8</Position>
+            <PositionChange>0</PositionChange>
+            <Matches>6</Matches>
+            <GoalsFor>1</GoalsFor>
+            <GoalsAgainst>21</GoalsAgainst>
+            <Points>1</Points>
+            <Won>0</Won>
+            <Draws>1</Draws>
+            <Lost>5</Lost>
+        </Team>
+    </Teams>
+</HattrickData>

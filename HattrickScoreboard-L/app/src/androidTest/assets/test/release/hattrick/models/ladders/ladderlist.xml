@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>chpperror.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:06:25</FetchedDate>
+    <Error>Object reference not set to an instance of an object.</Error>
+    <ErrorCode>39985343</ErrorCode>
+    <ErrorGUID>c9c384bc-62c3-4abd-bf0f-c2ec9e560655</ErrorGUID>
+    <Server>chpp94.hattrick.org</Server>
+    <Request>/chppxml.ashx?file=ladderlist&amp;version=1.0&amp;=&amp;oauth_token=ifjP3zUXGBYCEvMa&amp;oauth_nonce=792ce697-3b70-498d-b645-b05a5c08e99e&amp;oauth_consumer_key=zcLBKUMmM2D6iCJofw9hfr&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1414490785&amp;oauth_version=1.0&amp;oauth_signature=1GtsaBueEGctW2NBV8h2MIZ2%2BJo%3D</Request>
+</HattrickData>

@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- Progressbar on action bar -->
+    <item name="action_progressbar" type="id" />
+
+</resources>

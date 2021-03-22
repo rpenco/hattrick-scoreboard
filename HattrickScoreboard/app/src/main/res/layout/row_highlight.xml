@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@drawable/button_listview"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/tvHomeTime"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:text="120&apos;"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/ivAwayEvent"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tvAwayTime"
+        android:src="@drawable/ic_event_599_fulltime" />
+
+    <TextView
+        android:id="@+id/tvAwayTime"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvHomeTime"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/ivAwayEvent"
+        android:gravity="center"
+        android:text="120&apos;"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="16sp"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/ivHomeEvent"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/ivAwayEvent"
+        android:src="@drawable/ic_event_599_fulltime" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_toLeftOf="@+id/tvAwayTime"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvAwayEvent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|right"
+            android:text="@string/label_unavailable" />
+
+        <TextView
+            android:id="@+id/TvAwaySub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|right"
+            android:text="@string/label_unavailable"
+            android:textColor="@color/text_gray"
+            android:textSize="@dimen/text_small_size" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/tvHomeTime"
+        android:layout_toRightOf="@+id/ivHomeEvent"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvHomeEvent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|left"
+            android:text="@string/label_unavailable" />
+
+        <TextView
+            android:id="@+id/TvHomeSub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|left"
+            android:text="@string/label_unavailable"
+            android:textColor="@color/text_gray"
+            android:textSize="@dimen/text_small_size" />
+
+    </LinearLayout>
+
+</RelativeLayout>

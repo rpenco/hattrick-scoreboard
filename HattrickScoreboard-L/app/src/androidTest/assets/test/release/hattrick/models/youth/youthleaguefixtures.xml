@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>youthleaguefixtures.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 18:21:17</FetchedDate>
+    <YouthLeagueID>58828</YouthLeagueID>
+    <YouthLeagueName>Foiria</YouthLeagueName>
+    <YouthLeagueType>2</YouthLeagueType>
+    <Season>27</Season>
+    <LastMatchRound>7</LastMatchRound>
+    <NrOfTeamsInLeague>8</NrOfTeamsInLeague>
+    <Matches>
+        <Match>
+            <MatchID>86312893</MatchID>
+            <MatchRound>1</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1412851</HomeTeamID>
+                <HomeTeamName>Petit kawa</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1101967</AwayTeamID>
+                <AwayTeamName>Olympique de Mémed Jeunes</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-20 17:15:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312894</MatchID>
+            <MatchRound>1</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2329869</HomeTeamID>
+                <HomeTeamName>CS Honfleur II</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>219636</AwayTeamID>
+                <AwayTeamName>AS Camarguinho</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-20 17:15:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312895</MatchID>
+            <MatchRound>1</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1532203</HomeTeamID>
+                <HomeTeamName>Les Champenois</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1274304</AwayTeamID>
+                <AwayTeamName>galibe boys</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-20 17:15:00</MatchDate>
+            <HomeGoals>5</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312897</MatchID>
+            <MatchRound>1</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2353530</HomeTeamID>
+                <HomeTeamName>st brieuc</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>320496</AwayTeamID>
+                <AwayTeamName>JEUNE GARDE </AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-20 17:15:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312896</MatchID>
+            <MatchRound>2</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1101967</HomeTeamID>
+                <HomeTeamName>Olympique de Mémed Jeunes</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>320496</AwayTeamID>
+                <AwayTeamName>JEUNE GARDE </AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-27 17:15:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312899</MatchID>
+            <MatchRound>2</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1412851</HomeTeamID>
+                <HomeTeamName>Petit kawa</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2329869</AwayTeamID>
+                <AwayTeamName>CS Honfleur II</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-27 17:15:00</MatchDate>
+            <HomeGoals>6</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312903</MatchID>
+            <MatchRound>2</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>219636</HomeTeamID>
+                <HomeTeamName>AS Camarguinho</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1532203</AwayTeamID>
+                <AwayTeamName>Les Champenois</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-27 17:15:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312905</MatchID>
+            <MatchRound>2</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1274304</HomeTeamID>
+                <HomeTeamName>galibe boys</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2353530</AwayTeamID>
+                <AwayTeamName>st brieuc</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-09-27 17:15:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312898</MatchID>
+            <MatchRound>3</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2329869</HomeTeamID>
+                <HomeTeamName>CS Honfleur II</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1101967</AwayTeamID>
+                <AwayTeamName>Olympique de Mémed Jeunes</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-04 17:15:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312900</MatchID>
+            <MatchRound>3</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2353530</HomeTeamID>
+                <HomeTeamName>st brieuc</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>219636</AwayTeamID>
+                <AwayTeamName>AS Camarguinho</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-04 17:15:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312902</MatchID>
+            <MatchRound>3</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>320496</HomeTeamID>
+                <HomeTeamName>JEUNE GARDE </HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1274304</AwayTeamID>
+                <AwayTeamName>galibe boys</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-04 17:15:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312906</MatchID>
+            <MatchRound>3</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1532203</HomeTeamID>
+                <HomeTeamName>Les Champenois</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1412851</AwayTeamID>
+                <AwayTeamName>Petit kawa</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-04 17:15:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312901</MatchID>
+            <MatchRound>4</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1101967</HomeTeamID>
+                <HomeTeamName>Olympique de Mémed Jeunes</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1274304</AwayTeamID>
+                <AwayTeamName>galibe boys</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-11 17:15:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312904</MatchID>
+            <MatchRound>4</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1412851</HomeTeamID>
+                <HomeTeamName>Petit kawa</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2353530</AwayTeamID>
+                <AwayTeamName>st brieuc</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-11 17:15:00</MatchDate>
+            <HomeGoals>4</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312907</MatchID>
+            <MatchRound>4</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2329869</HomeTeamID>
+                <HomeTeamName>CS Honfleur II</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1532203</AwayTeamID>
+                <AwayTeamName>Les Champenois</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-11 17:15:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>6</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312908</MatchID>
+            <MatchRound>4</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>219636</HomeTeamID>
+                <HomeTeamName>AS Camarguinho</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>320496</AwayTeamID>
+                <AwayTeamName>JEUNE GARDE </AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-11 17:15:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312909</MatchID>
+            <MatchRound>5</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1532203</HomeTeamID>
+                <HomeTeamName>Les Champenois</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1101967</AwayTeamID>
+                <AwayTeamName>Olympique de Mémed Jeunes</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-18 17:15:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312910</MatchID>
+            <MatchRound>5</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2353530</HomeTeamID>
+                <HomeTeamName>st brieuc</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2329869</AwayTeamID>
+                <AwayTeamName>CS Honfleur II</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-18 17:15:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312915</MatchID>
+            <MatchRound>5</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1274304</HomeTeamID>
+                <HomeTeamName>galibe boys</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>219636</AwayTeamID>
+                <AwayTeamName>AS Camarguinho</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-18 17:15:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>6</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312917</MatchID>
+            <MatchRound>5</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>320496</HomeTeamID>
+                <HomeTeamName>JEUNE GARDE </HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1412851</AwayTeamID>
+                <AwayTeamName>Petit kawa</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-18 17:15:00</MatchDate>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312911</MatchID>
+            <MatchRound>6</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1101967</HomeTeamID>
+                <HomeTeamName>Olympique de Mémed Jeunes</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>219636</AwayTeamID>
+                <AwayTeamName>AS Camarguinho</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-25 17:15:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312912</MatchID>
+            <MatchRound>6</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1412851</HomeTeamID>
+                <HomeTeamName>Petit kawa</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1274304</AwayTeamID>
+                <AwayTeamName>galibe boys</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-25 17:15:00</MatchDate>
+            <HomeGoals>7</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312913</MatchID>
+            <MatchRound>6</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>2329869</HomeTeamID>
+                <HomeTeamName>CS Honfleur II</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>320496</AwayTeamID>
+                <AwayTeamName>JEUNE GARDE </AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-25 17:15:00</MatchDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312914</MatchID>
+            <MatchRound>6</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1532203</HomeTeamID>
+                <HomeTeamName>Les Champenois</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2353530</AwayTeamID>
+                <AwayTeamName>st brieuc</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-10-25 17:15:00</MatchDate>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312916</MatchID>
+            <MatchRound>7</MatchRound>
+            <Status>ONGOING</Status>
+            <HomeTeam>
+                <HomeTeamID>2353530</HomeTeamID>
+                <HomeTeamName>st brieuc</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1101967</AwayTeamID>
+                <AwayTeamName>Olympique de Mémed Jeunes</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-01 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312918</MatchID>
+            <MatchRound>7</MatchRound>
+            <Status>ONGOING</Status>
+            <HomeTeam>
+                <HomeTeamID>320496</HomeTeamID>
+                <HomeTeamName>JEUNE GARDE </HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1532203</AwayTeamID>
+                <AwayTeamName>Les Champenois</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-01 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312919</MatchID>
+            <MatchRound>7</MatchRound>
+            <Status>FINISHED</Status>
+            <HomeTeam>
+                <HomeTeamID>1274304</HomeTeamID>
+                <HomeTeamName>galibe boys</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2329869</AwayTeamID>
+                <AwayTeamName>CS Honfleur II</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-01 17:15:00</MatchDate>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>86312920</MatchID>
+            <MatchRound>7</MatchRound>
+            <Status>ONGOING</Status>
+            <HomeTeam>
+                <HomeTeamID>219636</HomeTeamID>
+                <HomeTeamName>AS Camarguinho</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1412851</AwayTeamID>
+                <AwayTeamName>Petit kawa</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-01 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312921</MatchID>
+            <MatchRound>8</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1532203</HomeTeamID>
+                <HomeTeamName>Les Champenois</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>320496</AwayTeamID>
+                <AwayTeamName>JEUNE GARDE </AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-08 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312922</MatchID>
+            <MatchRound>8</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>2329869</HomeTeamID>
+                <HomeTeamName>CS Honfleur II</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1274304</AwayTeamID>
+                <AwayTeamName>galibe boys</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-08 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312923</MatchID>
+            <MatchRound>8</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1101967</HomeTeamID>
+                <HomeTeamName>Olympique de Mémed Jeunes</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2353530</AwayTeamID>
+                <AwayTeamName>st brieuc</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-08 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312924</MatchID>
+            <MatchRound>8</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1412851</HomeTeamID>
+                <HomeTeamName>Petit kawa</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>219636</AwayTeamID>
+                <AwayTeamName>AS Camarguinho</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-08 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312925</MatchID>
+            <MatchRound>9</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>219636</HomeTeamID>
+                <HomeTeamName>AS Camarguinho</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1101967</AwayTeamID>
+                <AwayTeamName>Olympique de Mémed Jeunes</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-15 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312926</MatchID>
+            <MatchRound>9</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1274304</HomeTeamID>
+                <HomeTeamName>galibe boys</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1412851</AwayTeamID>
+                <AwayTeamName>Petit kawa</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-15 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312927</MatchID>
+            <MatchRound>9</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>320496</HomeTeamID>
+                <HomeTeamName>JEUNE GARDE </HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2329869</AwayTeamID>
+                <AwayTeamName>CS Honfleur II</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-15 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312948</MatchID>
+            <MatchRound>9</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>2353530</HomeTeamID>
+                <HomeTeamName>st brieuc</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1532203</AwayTeamID>
+                <AwayTeamName>Les Champenois</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-15 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312928</MatchID>
+            <MatchRound>10</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1101967</HomeTeamID>
+                <HomeTeamName>Olympique de Mémed Jeunes</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1532203</AwayTeamID>
+                <AwayTeamName>Les Champenois</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-22 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312929</MatchID>
+            <MatchRound>10</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>2329869</HomeTeamID>
+                <HomeTeamName>CS Honfleur II</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2353530</AwayTeamID>
+                <AwayTeamName>st brieuc</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-22 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312930</MatchID>
+            <MatchRound>10</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1412851</HomeTeamID>
+                <HomeTeamName>Petit kawa</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>320496</AwayTeamID>
+                <AwayTeamName>JEUNE GARDE </AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-22 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312931</MatchID>
+            <MatchRound>10</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>219636</HomeTeamID>
+                <HomeTeamName>AS Camarguinho</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1274304</AwayTeamID>
+                <AwayTeamName>galibe boys</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-22 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312932</MatchID>
+            <MatchRound>11</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>320496</HomeTeamID>
+                <HomeTeamName>JEUNE GARDE </HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>219636</AwayTeamID>
+                <AwayTeamName>AS Camarguinho</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-29 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312933</MatchID>
+            <MatchRound>11</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1274304</HomeTeamID>
+                <HomeTeamName>galibe boys</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1101967</AwayTeamID>
+                <AwayTeamName>Olympique de Mémed Jeunes</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-29 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312935</MatchID>
+            <MatchRound>11</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1532203</HomeTeamID>
+                <HomeTeamName>Les Champenois</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2329869</AwayTeamID>
+                <AwayTeamName>CS Honfleur II</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-29 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312938</MatchID>
+            <MatchRound>11</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>2353530</HomeTeamID>
+                <HomeTeamName>st brieuc</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1412851</AwayTeamID>
+                <AwayTeamName>Petit kawa</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-11-29 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312934</MatchID>
+            <MatchRound>12</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1101967</HomeTeamID>
+                <HomeTeamName>Olympique de Mémed Jeunes</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2329869</AwayTeamID>
+                <AwayTeamName>CS Honfleur II</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-06 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312936</MatchID>
+            <MatchRound>12</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1412851</HomeTeamID>
+                <HomeTeamName>Petit kawa</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1532203</AwayTeamID>
+                <AwayTeamName>Les Champenois</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-06 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312937</MatchID>
+            <MatchRound>12</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>219636</HomeTeamID>
+                <HomeTeamName>AS Camarguinho</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2353530</AwayTeamID>
+                <AwayTeamName>st brieuc</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-06 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312939</MatchID>
+            <MatchRound>12</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1274304</HomeTeamID>
+                <HomeTeamName>galibe boys</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>320496</AwayTeamID>
+                <AwayTeamName>JEUNE GARDE </AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-06 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312940</MatchID>
+            <MatchRound>13</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>320496</HomeTeamID>
+                <HomeTeamName>JEUNE GARDE </HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1101967</AwayTeamID>
+                <AwayTeamName>Olympique de Mémed Jeunes</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-13 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312941</MatchID>
+            <MatchRound>13</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>2353530</HomeTeamID>
+                <HomeTeamName>st brieuc</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1274304</AwayTeamID>
+                <AwayTeamName>galibe boys</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-13 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312942</MatchID>
+            <MatchRound>13</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1532203</HomeTeamID>
+                <HomeTeamName>Les Champenois</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>219636</AwayTeamID>
+                <AwayTeamName>AS Camarguinho</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-13 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312943</MatchID>
+            <MatchRound>13</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>2329869</HomeTeamID>
+                <HomeTeamName>CS Honfleur II</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1412851</AwayTeamID>
+                <AwayTeamName>Petit kawa</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-13 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312944</MatchID>
+            <MatchRound>14</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1101967</HomeTeamID>
+                <HomeTeamName>Olympique de Mémed Jeunes</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1412851</AwayTeamID>
+                <AwayTeamName>Petit kawa</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-20 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312945</MatchID>
+            <MatchRound>14</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>219636</HomeTeamID>
+                <HomeTeamName>AS Camarguinho</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2329869</AwayTeamID>
+                <AwayTeamName>CS Honfleur II</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-20 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312946</MatchID>
+            <MatchRound>14</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>1274304</HomeTeamID>
+                <HomeTeamName>galibe boys</HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>1532203</AwayTeamID>
+                <AwayTeamName>Les Champenois</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-20 17:15:00</MatchDate>
+        </Match>
+        <Match>
+            <MatchID>86312947</MatchID>
+            <MatchRound>14</MatchRound>
+            <Status>UPCOMING</Status>
+            <HomeTeam>
+                <HomeTeamID>320496</HomeTeamID>
+                <HomeTeamName>JEUNE GARDE </HomeTeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <AwayTeamID>2353530</AwayTeamID>
+                <AwayTeamName>st brieuc</AwayTeamName>
+            </AwayTeam>
+            <MatchDate>2014-12-20 17:15:00</MatchDate>
+        </Match>
+    </Matches>
+</HattrickData>

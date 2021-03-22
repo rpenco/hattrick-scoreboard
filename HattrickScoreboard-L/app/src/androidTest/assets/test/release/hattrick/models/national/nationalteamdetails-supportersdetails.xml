@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>nationalplayers.xml</FileName>
+    <Version>1.3</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 16:14:42</FetchedDate>
+    <UserSupporterTier>diamond</UserSupporterTier>
+    <TeamID>3004</TeamID>
+    <TeamName>France</TeamName>
+    <ActionType>supporterstats</ActionType>
+    <Stats>
+        <MatchTypeCategory>nt</MatchTypeCategory>
+        <ShowAll>True</ShowAll>
+        <MoreRecordsAvailable>False</MoreRecordsAvailable>
+        <Players>
+            <Player>
+                <PlayerID>4748694</PlayerID>
+                <PlayerName>Alain Guillon</PlayerName>
+                <NrOfMatches>122</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7115385</PlayerID>
+                <PlayerName>Regis Touzel</PlayerName>
+                <NrOfMatches>96</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>10937734</PlayerID>
+                <PlayerName>Basile Bastard</PlayerName>
+                <NrOfMatches>91</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>10754176</PlayerID>
+                <PlayerName>Yaseen Mari</PlayerName>
+                <NrOfMatches>82</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>113735823</PlayerID>
+                <PlayerName>Aurélien Castro</PlayerName>
+                <NrOfMatches>82</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>186360147</PlayerID>
+                <PlayerName>Allan Lamarre</PlayerName>
+                <NrOfMatches>81</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>4072761</PlayerID>
+                <PlayerName>Christian Rouchon</PlayerName>
+                <NrOfMatches>81</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>90418652</PlayerID>
+                <PlayerName>Grégory Baret</PlayerName>
+                <NrOfMatches>80</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>89894477</PlayerID>
+                <PlayerName>Vassili Taupin</PlayerName>
+                <NrOfMatches>78</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>157499425</PlayerID>
+                <PlayerName>Romuald Huot</PlayerName>
+                <NrOfMatches>78</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>21121064</PlayerID>
+                <PlayerName>Jean-Bernard Roland</PlayerName>
+                <NrOfMatches>78</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>28223546</PlayerID>
+                <PlayerName>Fabien Mandelin</PlayerName>
+                <NrOfMatches>78</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>3798812</PlayerID>
+                <PlayerName>Jean-Philippe Mesnel</PlayerName>
+                <NrOfMatches>77</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>70150096</PlayerID>
+                <PlayerName>Bérenger Pariente</PlayerName>
+                <NrOfMatches>77</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>78067368</PlayerID>
+                <PlayerName>Stéphane Chantereau</PlayerName>
+                <NrOfMatches>76</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>156612993</PlayerID>
+                <PlayerName>Sébastien Cortes</PlayerName>
+                <NrOfMatches>76</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>112997939</PlayerID>
+                <PlayerName>Bernard Winterstein</PlayerName>
+                <NrOfMatches>75</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>45287425</PlayerID>
+                <PlayerName>Mutbrecht Weinhaeusl</PlayerName>
+                <NrOfMatches>72</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>91494324</PlayerID>
+                <PlayerName>Olivier Malbec</PlayerName>
+                <NrOfMatches>71</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>56008817</PlayerID>
+                <PlayerName>Ugo Boneccher</PlayerName>
+                <NrOfMatches>70</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>79314655</PlayerID>
+                <PlayerName>Julien Pontier</PlayerName>
+                <NrOfMatches>69</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7118446</PlayerID>
+                <PlayerName>Nicolas Bergues</PlayerName>
+                <NrOfMatches>68</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>114629392</PlayerID>
+                <PlayerName>Samuel Conan</PlayerName>
+                <NrOfMatches>67</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>145437607</PlayerID>
+                <PlayerName>Romuald Montagnon</PlayerName>
+                <NrOfMatches>67</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>189916323</PlayerID>
+                <PlayerName>Stéphane Kerherve</PlayerName>
+                <NrOfMatches>66</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>27839634</PlayerID>
+                <PlayerName>Sylvain Wahl</PlayerName>
+                <NrOfMatches>63</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>130850173</PlayerID>
+                <PlayerName>Anthony Jonquet</PlayerName>
+                <NrOfMatches>62</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>224145488</PlayerID>
+                <PlayerName>Clément Berthelon</PlayerName>
+                <NrOfMatches>59</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>35363962</PlayerID>
+                <PlayerName>Jean Christophe Kervadec</PlayerName>
+                <NrOfMatches>59</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>35929394</PlayerID>
+                <PlayerName>Marc Aunis</PlayerName>
+                <NrOfMatches>59</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>21983680</PlayerID>
+                <PlayerName>Shakar Tuama</PlayerName>
+                <NrOfMatches>59</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>4124648</PlayerID>
+                <PlayerName>François Noël</PlayerName>
+                <NrOfMatches>59</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>1470534</PlayerID>
+                <PlayerName>Gérard Delplanche</PlayerName>
+                <NrOfMatches>59</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>193755193</PlayerID>
+                <PlayerName>Guillaume Bianchi</PlayerName>
+                <NrOfMatches>58</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>83542712</PlayerID>
+                <PlayerName>Quentin Massa</PlayerName>
+                <NrOfMatches>58</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>92989624</PlayerID>
+                <PlayerName>Florent Delbecq</PlayerName>
+                <NrOfMatches>57</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>22191748</PlayerID>
+                <PlayerName>Olivier Chapon</PlayerName>
+                <NrOfMatches>57</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>65987041</PlayerID>
+                <PlayerName>Justin Quère</PlayerName>
+                <NrOfMatches>56</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>195994940</PlayerID>
+                <PlayerName>Alexandre Allard</PlayerName>
+                <NrOfMatches>56</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>257987568</PlayerID>
+                <PlayerName>Maxime Combe</PlayerName>
+                <NrOfMatches>56</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>258642323</PlayerID>
+                <PlayerName>Johnny Couzinet</PlayerName>
+                <NrOfMatches>55</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>224679764</PlayerID>
+                <PlayerName>Steven Pégon</PlayerName>
+                <NrOfMatches>55</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>116237034</PlayerID>
+                <PlayerName>Pierre-Olivier Latchimy</PlayerName>
+                <NrOfMatches>55</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>144491549</PlayerID>
+                <PlayerName>Jean-Raphaël Delbart</PlayerName>
+                <NrOfMatches>55</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>156468304</PlayerID>
+                <PlayerName>Vincent Bellocq</PlayerName>
+                <NrOfMatches>55</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>55443195</PlayerID>
+                <PlayerName>Oscar Jaubert</PlayerName>
+                <NrOfMatches>55</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>3798992</PlayerID>
+                <PlayerName>Sébastien Boissiere</PlayerName>
+                <NrOfMatches>54</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>113784919</PlayerID>
+                <PlayerName>Eric Fay</PlayerName>
+                <NrOfMatches>54</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>206837542</PlayerID>
+                <PlayerName>Joseph Gilabert</PlayerName>
+                <NrOfMatches>54</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>222651013</PlayerID>
+                <PlayerName>Yannis Marie</PlayerName>
+                <NrOfMatches>53</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>184792351</PlayerID>
+                <PlayerName>Damien Marguerite</PlayerName>
+                <NrOfMatches>52</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>128500983</PlayerID>
+                <PlayerName>Aurélien Brasseur</PlayerName>
+                <NrOfMatches>52</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>76747448</PlayerID>
+                <PlayerName>Sacha Texier</PlayerName>
+                <NrOfMatches>50</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2723043</PlayerID>
+                <PlayerName>Jean-Claude Champetier</PlayerName>
+                <NrOfMatches>50</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>26878129</PlayerID>
+                <PlayerName>Benoît Mayeax</PlayerName>
+                <NrOfMatches>50</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>20479129</PlayerID>
+                <PlayerName>Pierre Follain</PlayerName>
+                <NrOfMatches>50</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>235831810</PlayerID>
+                <PlayerName>Patrick Planchon</PlayerName>
+                <NrOfMatches>49</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>265088418</PlayerID>
+                <PlayerName>Quentin Charpentier</PlayerName>
+                <NrOfMatches>49</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2413948</PlayerID>
+                <PlayerName>Norbert Fontaine</PlayerName>
+                <NrOfMatches>48</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>1735078</PlayerID>
+                <PlayerName>Olivier Marinkovic</PlayerName>
+                <NrOfMatches>47</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>56572941</PlayerID>
+                <PlayerName>Constant Duez</PlayerName>
+                <NrOfMatches>46</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>171205382</PlayerID>
+                <PlayerName>Émilien Guyard</PlayerName>
+                <NrOfMatches>46</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>259818910</PlayerID>
+                <PlayerName>Michaël Millot</PlayerName>
+                <NrOfMatches>46</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>77382941</PlayerID>
+                <PlayerName>Christian Raimond</PlayerName>
+                <NrOfMatches>45</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7245510</PlayerID>
+                <PlayerName>Robert Egee</PlayerName>
+                <NrOfMatches>45</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>229876524</PlayerID>
+                <PlayerName>Romain Rochas</PlayerName>
+                <NrOfMatches>44</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>194640765</PlayerID>
+                <PlayerName>Olivier Martin</PlayerName>
+                <NrOfMatches>44</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>236630775</PlayerID>
+                <PlayerName>Anthony Coutand</PlayerName>
+                <NrOfMatches>43</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>10758576</PlayerID>
+                <PlayerName>Fred Dauchez</PlayerName>
+                <NrOfMatches>43</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>54243166</PlayerID>
+                <PlayerName>Raoul Moussy</PlayerName>
+                <NrOfMatches>42</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>28457071</PlayerID>
+                <PlayerName>Francis Parisse</PlayerName>
+                <NrOfMatches>42</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>3433761</PlayerID>
+                <PlayerName>Ben Supiot</PlayerName>
+                <NrOfMatches>42</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>3610265</PlayerID>
+                <PlayerName>Noël De Bentzmann</PlayerName>
+                <NrOfMatches>42</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>20866352</PlayerID>
+                <PlayerName>David Heno</PlayerName>
+                <NrOfMatches>41</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>173062212</PlayerID>
+                <PlayerName>Vivien Brégeon</PlayerName>
+                <NrOfMatches>41</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>177009597</PlayerID>
+                <PlayerName>Ibnou Bassene</PlayerName>
+                <NrOfMatches>40</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>78109814</PlayerID>
+                <PlayerName>Cyprien Monnereau</PlayerName>
+                <NrOfMatches>40</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>21417405</PlayerID>
+                <PlayerName>Anatole Bernhard</PlayerName>
+                <NrOfMatches>40</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>26985105</PlayerID>
+                <PlayerName>Jack Goguet-Chapuis</PlayerName>
+                <NrOfMatches>40</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2468747</PlayerID>
+                <PlayerName>Roland Montmitonnet</PlayerName>
+                <NrOfMatches>40</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2536819</PlayerID>
+                <PlayerName>Pierre Demorgny</PlayerName>
+                <NrOfMatches>39</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>379100</PlayerID>
+                <PlayerName>Cyril Loddo</PlayerName>
+                <NrOfMatches>39</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>4748518</PlayerID>
+                <PlayerName>Gérald Equilbey</PlayerName>
+                <NrOfMatches>39</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>194791721</PlayerID>
+                <PlayerName>Philippe Marceau</PlayerName>
+                <NrOfMatches>39</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>296725419</PlayerID>
+                <PlayerName>Franck Poulat</PlayerName>
+                <NrOfMatches>38</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>179919791</PlayerID>
+                <PlayerName>Mathieu Davy</PlayerName>
+                <NrOfMatches>37</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>1438822</PlayerID>
+                <PlayerName>François Villena</PlayerName>
+                <NrOfMatches>37</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>65479730</PlayerID>
+                <PlayerName>Dimitri Bouchez</PlayerName>
+                <NrOfMatches>37</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>10588196</PlayerID>
+                <PlayerName>Eric Gander</PlayerName>
+                <NrOfMatches>37</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>214510993</PlayerID>
+                <PlayerName>Sylvain Pépin</PlayerName>
+                <NrOfMatches>36</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>248836942</PlayerID>
+                <PlayerName>Baptiste Petit</PlayerName>
+                <NrOfMatches>36</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>114591946</PlayerID>
+                <PlayerName>Rémy Noblet</PlayerName>
+                <NrOfMatches>36</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>195000945</PlayerID>
+                <PlayerName>Frédéric Castel</PlayerName>
+                <NrOfMatches>35</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>14861599</PlayerID>
+                <PlayerName>Francis Houmard</PlayerName>
+                <NrOfMatches>35</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>67500962</PlayerID>
+                <PlayerName>Germain Grisel</PlayerName>
+                <NrOfMatches>35</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>285139068</PlayerID>
+                <PlayerName>Rémi Caboche</PlayerName>
+                <NrOfMatches>35</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>260058608</PlayerID>
+                <PlayerName>Raphaël Brosse</PlayerName>
+                <NrOfMatches>34</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>272373605</PlayerID>
+                <PlayerName>Pascal Ange</PlayerName>
+                <NrOfMatches>34</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>44805502</PlayerID>
+                <PlayerName>Tristan Balsamo</PlayerName>
+                <NrOfMatches>34</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>12565847</PlayerID>
+                <PlayerName>Vincent Hüller</PlayerName>
+                <NrOfMatches>33</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7506065</PlayerID>
+                <PlayerName>Alain Gasquet</PlayerName>
+                <NrOfMatches>33</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>158784835</PlayerID>
+                <PlayerName>Kévin Simon</PlayerName>
+                <NrOfMatches>33</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>156459573</PlayerID>
+                <PlayerName>Thibault Domont</PlayerName>
+                <NrOfMatches>33</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>284821458</PlayerID>
+                <PlayerName>Kévin Girardin</PlayerName>
+                <NrOfMatches>33</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>143657102</PlayerID>
+                <PlayerName>Kévin Grivot</PlayerName>
+                <NrOfMatches>32</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>20778166</PlayerID>
+                <PlayerName>Tristan Gognies</PlayerName>
+                <NrOfMatches>32</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>4927217</PlayerID>
+                <PlayerName>Charles Petit</PlayerName>
+                <NrOfMatches>32</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2713640</PlayerID>
+                <PlayerName>Michel Ducasse</PlayerName>
+                <NrOfMatches>31</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2723027</PlayerID>
+                <PlayerName>Franck Hautcoeur</PlayerName>
+                <NrOfMatches>31</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>54184117</PlayerID>
+                <PlayerName>Sébastien Cadart</PlayerName>
+                <NrOfMatches>31</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>20787395</PlayerID>
+                <PlayerName>Benjamin Krom</PlayerName>
+                <NrOfMatches>30</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>3497790</PlayerID>
+                <PlayerName>Luc Miller</PlayerName>
+                <NrOfMatches>30</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7054955</PlayerID>
+                <PlayerName>Laurent Rollin</PlayerName>
+                <NrOfMatches>30</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>156464037</PlayerID>
+                <PlayerName>Antoine Flamand</PlayerName>
+                <NrOfMatches>30</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>65931230</PlayerID>
+                <PlayerName>Brice Dubroca</PlayerName>
+                <NrOfMatches>30</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>278078764</PlayerID>
+                <PlayerName>Jean-Michel Prin</PlayerName>
+                <NrOfMatches>30</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>156455098</PlayerID>
+                <PlayerName>Thomas Chantrel</PlayerName>
+                <NrOfMatches>29</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>247617887</PlayerID>
+                <PlayerName>Frédéric Gauche</PlayerName>
+                <NrOfMatches>29</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>227786611</PlayerID>
+                <PlayerName>Benjamin Bauduin</PlayerName>
+                <NrOfMatches>29</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2665471</PlayerID>
+                <PlayerName>Philippe Fuxa</PlayerName>
+                <NrOfMatches>29</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>12567735</PlayerID>
+                <PlayerName>Patrice Lepage</PlayerName>
+                <NrOfMatches>29</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2616197</PlayerID>
+                <PlayerName>Gabriel Guenet</PlayerName>
+                <NrOfMatches>28</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2408708</PlayerID>
+                <PlayerName>Georges Dauchez</PlayerName>
+                <NrOfMatches>28</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>279673779</PlayerID>
+                <PlayerName>Marcel Chevrier</PlayerName>
+                <NrOfMatches>28</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>4673651</PlayerID>
+                <PlayerName>Michel Barjon</PlayerName>
+                <NrOfMatches>27</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>11272988</PlayerID>
+                <PlayerName>Florian Bounyavong</PlayerName>
+                <NrOfMatches>26</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>234805299</PlayerID>
+                <PlayerName>Jimmy Lavandier</PlayerName>
+                <NrOfMatches>26</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>130886219</PlayerID>
+                <PlayerName>Nicolas Lambert</PlayerName>
+                <NrOfMatches>26</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>254438308</PlayerID>
+                <PlayerName>Antoine Vancon</PlayerName>
+                <NrOfMatches>26</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>274384125</PlayerID>
+                <PlayerName>Olivier Badiou</PlayerName>
+                <NrOfMatches>25</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>197432290</PlayerID>
+                <PlayerName>Kévin Lemarchand</PlayerName>
+                <NrOfMatches>25</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>36775208</PlayerID>
+                <PlayerName>Anthony Penquerc'h</PlayerName>
+                <NrOfMatches>24</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>5224113</PlayerID>
+                <PlayerName>Michel Wulveryck</PlayerName>
+                <NrOfMatches>23</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>10633154</PlayerID>
+                <PlayerName>François Lambert</PlayerName>
+                <NrOfMatches>22</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7748925</PlayerID>
+                <PlayerName>Paul Gautier</PlayerName>
+                <NrOfMatches>22</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>187967854</PlayerID>
+                <PlayerName>Talal Khadri</PlayerName>
+                <NrOfMatches>22</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>143540532</PlayerID>
+                <PlayerName>Pascal Roc</PlayerName>
+                <NrOfMatches>22</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>78723646</PlayerID>
+                <PlayerName>Fabrice Ageorges</PlayerName>
+                <NrOfMatches>22</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>285115092</PlayerID>
+                <PlayerName>Nicolas Massart</PlayerName>
+                <NrOfMatches>22</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>297575106</PlayerID>
+                <PlayerName>Sébastien Bourget</PlayerName>
+                <NrOfMatches>22</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>290405560</PlayerID>
+                <PlayerName>Kévin Grimonprez</PlayerName>
+                <NrOfMatches>21</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>274700819</PlayerID>
+                <PlayerName>Mickaël Henry</PlayerName>
+                <NrOfMatches>21</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>265258864</PlayerID>
+                <PlayerName>Jérémie Bourlon</PlayerName>
+                <NrOfMatches>21</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>142801789</PlayerID>
+                <PlayerName>Adrien Coutier</PlayerName>
+                <NrOfMatches>21</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>11457149</PlayerID>
+                <PlayerName>André Raimond</PlayerName>
+                <NrOfMatches>21</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7248531</PlayerID>
+                <PlayerName>Joël Coignard</PlayerName>
+                <NrOfMatches>19</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7290642</PlayerID>
+                <PlayerName>Michel Salaun</PlayerName>
+                <NrOfMatches>19</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>3817347</PlayerID>
+                <PlayerName>Erich Merigeau</PlayerName>
+                <NrOfMatches>19</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2600624</PlayerID>
+                <PlayerName>Jean-Paul Chantoiseau</PlayerName>
+                <NrOfMatches>19</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2600642</PlayerID>
+                <PlayerName>Didier Laporte</PlayerName>
+                <NrOfMatches>19</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>69632217</PlayerID>
+                <PlayerName>Amaury Genet</PlayerName>
+                <NrOfMatches>19</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>270581412</PlayerID>
+                <PlayerName>Yann Legrand</PlayerName>
+                <NrOfMatches>19</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>288063547</PlayerID>
+                <PlayerName>Sébastien Guérin</PlayerName>
+                <NrOfMatches>19</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>248334932</PlayerID>
+                <PlayerName>Éric Pionnier</PlayerName>
+                <NrOfMatches>18</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>76372298</PlayerID>
+                <PlayerName>Nathan Estève</PlayerName>
+                <NrOfMatches>17</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2439991</PlayerID>
+                <PlayerName>Frédéric Cremillieu</PlayerName>
+                <NrOfMatches>17</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>1709819</PlayerID>
+                <PlayerName>François Labbe</PlayerName>
+                <NrOfMatches>17</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>56349331</PlayerID>
+                <PlayerName>Jérôme Gerbault</PlayerName>
+                <NrOfMatches>17</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>286851428</PlayerID>
+                <PlayerName>Erwan Boissy</PlayerName>
+                <NrOfMatches>17</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>274717221</PlayerID>
+                <PlayerName>Sébastien Thévenet</PlayerName>
+                <NrOfMatches>17</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>314017339</PlayerID>
+                <PlayerName>William Doudard</PlayerName>
+                <NrOfMatches>17</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>296801492</PlayerID>
+                <PlayerName>Alexandre Col</PlayerName>
+                <NrOfMatches>16</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>273156019</PlayerID>
+                <PlayerName>Anthony Mouraud</PlayerName>
+                <NrOfMatches>16</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>282382082</PlayerID>
+                <PlayerName>Sébastien Oblin</PlayerName>
+                <NrOfMatches>16</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>11092051</PlayerID>
+                <PlayerName>Victor Parel</PlayerName>
+                <NrOfMatches>16</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>17054072</PlayerID>
+                <PlayerName>Jean-Christophe Bechaz</PlayerName>
+                <NrOfMatches>16</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>4522551</PlayerID>
+                <PlayerName>Michel Brassart</PlayerName>
+                <NrOfMatches>16</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>5107549</PlayerID>
+                <PlayerName>Vincent Longepierre</PlayerName>
+                <NrOfMatches>16</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>209737045</PlayerID>
+                <PlayerName>Christophe Ribeyron</PlayerName>
+                <NrOfMatches>16</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>192915155</PlayerID>
+                <PlayerName>William Quénard</PlayerName>
+                <NrOfMatches>15</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>172832931</PlayerID>
+                <PlayerName>Rémy Carlos</PlayerName>
+                <NrOfMatches>15</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>4925648</PlayerID>
+                <PlayerName>Eric Choisy</PlayerName>
+                <NrOfMatches>15</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2578016</PlayerID>
+                <PlayerName>Jean-Michel Ceras</PlayerName>
+                <NrOfMatches>15</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>275302342</PlayerID>
+                <PlayerName>Sammy Leurent</PlayerName>
+                <NrOfMatches>15</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>310318325</PlayerID>
+                <PlayerName>Emmanuel Amann</PlayerName>
+                <NrOfMatches>15</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>262610977</PlayerID>
+                <PlayerName>Antoine Garcia</PlayerName>
+                <NrOfMatches>14</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>273222290</PlayerID>
+                <PlayerName>Mathieu Gouby</PlayerName>
+                <NrOfMatches>14</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2529448</PlayerID>
+                <PlayerName>Michel Damlamian</PlayerName>
+                <NrOfMatches>14</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>4730557</PlayerID>
+                <PlayerName>Thibaud Gibrat</PlayerName>
+                <NrOfMatches>14</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>92347451</PlayerID>
+                <PlayerName>Arnold Desire</PlayerName>
+                <NrOfMatches>14</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>254186240</PlayerID>
+                <PlayerName>Romain Bellec</PlayerName>
+                <NrOfMatches>14</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>246476548</PlayerID>
+                <PlayerName>Emmanuel Pagniez</PlayerName>
+                <NrOfMatches>13</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>208880726</PlayerID>
+                <PlayerName>Salomon Petit</PlayerName>
+                <NrOfMatches>13</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>1733115</PlayerID>
+                <PlayerName>Yvan Richard</PlayerName>
+                <NrOfMatches>13</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>378669</PlayerID>
+                <PlayerName>Jean Villena</PlayerName>
+                <NrOfMatches>13</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>45791801</PlayerID>
+                <PlayerName>David Ameline</PlayerName>
+                <NrOfMatches>13</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>279816238</PlayerID>
+                <PlayerName>Bastien Paquier</PlayerName>
+                <NrOfMatches>13</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>278638401</PlayerID>
+                <PlayerName>Nicolas Teixeira</PlayerName>
+                <NrOfMatches>13</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>292861309</PlayerID>
+                <PlayerName>Tony Huet</PlayerName>
+                <NrOfMatches>13</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>296153500</PlayerID>
+                <PlayerName>Éliott Barbet</PlayerName>
+                <NrOfMatches>13</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>296545582</PlayerID>
+                <PlayerName>Étienne Bédard</PlayerName>
+                <NrOfMatches>12</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>274016086</PlayerID>
+                <PlayerName>Hubert Lobet</PlayerName>
+                <NrOfMatches>12</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>309192297</PlayerID>
+                <PlayerName>Clément Velez</PlayerName>
+                <NrOfMatches>12</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>376661</PlayerID>
+                <PlayerName>Sylvain Majorelle</PlayerName>
+                <NrOfMatches>12</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2578034</PlayerID>
+                <PlayerName>Alain Bebeury</PlayerName>
+                <NrOfMatches>12</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2620103</PlayerID>
+                <PlayerName>Guillaume Saint-Martin</PlayerName>
+                <NrOfMatches>11</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>20425859</PlayerID>
+                <PlayerName>Ivan Puel</PlayerName>
+                <NrOfMatches>11</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>10819571</PlayerID>
+                <PlayerName>Heinz Lejeune</PlayerName>
+                <NrOfMatches>11</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>246288366</PlayerID>
+                <PlayerName>Hugo Layec</PlayerName>
+                <NrOfMatches>11</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>93701446</PlayerID>
+                <PlayerName>Osmane Abdessalam</PlayerName>
+                <NrOfMatches>11</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>145438961</PlayerID>
+                <PlayerName>Thomas Lorain</PlayerName>
+                <NrOfMatches>11</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>255259103</PlayerID>
+                <PlayerName>Romuald Pomme</PlayerName>
+                <NrOfMatches>11</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>287027092</PlayerID>
+                <PlayerName>Demba Fam</PlayerName>
+                <NrOfMatches>11</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>287136545</PlayerID>
+                <PlayerName>Gaétan Roldan</PlayerName>
+                <NrOfMatches>11</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>272231928</PlayerID>
+                <PlayerName>Yoann Lucas</PlayerName>
+                <NrOfMatches>10</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>205166653</PlayerID>
+                <PlayerName>Grégory Coulon</PlayerName>
+                <NrOfMatches>10</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>14915090</PlayerID>
+                <PlayerName>Patrick Chevalet</PlayerName>
+                <NrOfMatches>10</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>1709801</PlayerID>
+                <PlayerName>Jack Pottier</PlayerName>
+                <NrOfMatches>10</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>1737341</PlayerID>
+                <PlayerName>Jean-Marc Dumonceau</PlayerName>
+                <NrOfMatches>10</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>1742333</PlayerID>
+                <PlayerName>Pierre Vivien</PlayerName>
+                <NrOfMatches>10</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>4078752</PlayerID>
+                <PlayerName>Gilles Mignot</PlayerName>
+                <NrOfMatches>10</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2919709</PlayerID>
+                <PlayerName>Louis Damé</PlayerName>
+                <NrOfMatches>10</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2672452</PlayerID>
+                <PlayerName>Paul Oury</PlayerName>
+                <NrOfMatches>9</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>15088032</PlayerID>
+                <PlayerName>Guy Randoux</PlayerName>
+                <NrOfMatches>9</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>68976350</PlayerID>
+                <PlayerName>Antoine Galinier</PlayerName>
+                <NrOfMatches>9</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>309686522</PlayerID>
+                <PlayerName>Yanisse Révillon</PlayerName>
+                <NrOfMatches>9</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>298990344</PlayerID>
+                <PlayerName>Joël Viard</PlayerName>
+                <NrOfMatches>9</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>309004846</PlayerID>
+                <PlayerName>Aymen Torkhani</PlayerName>
+                <NrOfMatches>8</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>270791336</PlayerID>
+                <PlayerName>Thomas Petit</PlayerName>
+                <NrOfMatches>8</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>76231746</PlayerID>
+                <PlayerName>Raoul Sommier</PlayerName>
+                <NrOfMatches>8</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>250425281</PlayerID>
+                <PlayerName>Pascal Guyonnet</PlayerName>
+                <NrOfMatches>8</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>230049167</PlayerID>
+                <PlayerName>Antoine Naveau</PlayerName>
+                <NrOfMatches>8</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>245694686</PlayerID>
+                <PlayerName>David Lalouette</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>247428458</PlayerID>
+                <PlayerName>Stéphane Rispal</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>172547105</PlayerID>
+                <PlayerName>Jean Barthe</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>142938732</PlayerID>
+                <PlayerName>Dylan Christien</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>145371628</PlayerID>
+                <PlayerName>David Cazeneuve</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>16481797</PlayerID>
+                <PlayerName>Jean-Claude Dougnac-Gallant</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2529466</PlayerID>
+                <PlayerName>Jean-Philippe Duval</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>282675110</PlayerID>
+                <PlayerName>Johannes Dubin</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>295440913</PlayerID>
+                <PlayerName>Luc Voisin</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>289789423</PlayerID>
+                <PlayerName>Romain Daniel</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>290133596</PlayerID>
+                <PlayerName>Yannick Dumonteil</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>327155997</PlayerID>
+                <PlayerName>Vincent Vitale</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>307944340</PlayerID>
+                <PlayerName>Kévin Roger</PlayerName>
+                <NrOfMatches>7</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>308133942</PlayerID>
+                <PlayerName>Yohan Melle</PlayerName>
+                <NrOfMatches>6</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>309811900</PlayerID>
+                <PlayerName>François Bouchot</PlayerName>
+                <NrOfMatches>6</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>317015889</PlayerID>
+                <PlayerName>Romain Sœur</PlayerName>
+                <NrOfMatches>6</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>279851199</PlayerID>
+                <PlayerName>Bertrand Roblin</PlayerName>
+                <NrOfMatches>6</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>254763072</PlayerID>
+                <PlayerName>Judikaël Thomasset</PlayerName>
+                <NrOfMatches>6</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>3539521</PlayerID>
+                <PlayerName>Jean-Pierre Pouplier</PlayerName>
+                <NrOfMatches>6</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>6078728</PlayerID>
+                <PlayerName>Pascal Saint-Josse</PlayerName>
+                <NrOfMatches>6</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>54252950</PlayerID>
+                <PlayerName>Désiré Moron</PlayerName>
+                <NrOfMatches>6</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>65530079</PlayerID>
+                <PlayerName>Emmanuel Weigel</PlayerName>
+                <NrOfMatches>6</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>54880649</PlayerID>
+                <PlayerName>François Brillet</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>5204929</PlayerID>
+                <PlayerName>Francis Lepage</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2516372</PlayerID>
+                <PlayerName>Alain Guynot</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>379177</PlayerID>
+                <PlayerName>André Raveneau</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>1674903</PlayerID>
+                <PlayerName>Jacques Lacorre</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>144636757</PlayerID>
+                <PlayerName>Jordan Garot</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>150828438</PlayerID>
+                <PlayerName>Jaime Belaud</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>235855808</PlayerID>
+                <PlayerName>Mickaël Gautier</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>211175792</PlayerID>
+                <PlayerName>Nicolas Chevallier</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>196985380</PlayerID>
+                <PlayerName>Christophe Bochaton</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>259992024</PlayerID>
+                <PlayerName>Samuel Bout</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>273788571</PlayerID>
+                <PlayerName>Nicolas Guelle</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>277632982</PlayerID>
+                <PlayerName>Alexis Sudre</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>295528988</PlayerID>
+                <PlayerName>Davy Chaillan</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>292774236</PlayerID>
+                <PlayerName>Yves Séguier</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>297923390</PlayerID>
+                <PlayerName>Alexandre Charpin</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>297077885</PlayerID>
+                <PlayerName>Nicolas Leroux</PlayerName>
+                <NrOfMatches>5</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>297638419</PlayerID>
+                <PlayerName>Julien Lévêque</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>314880335</PlayerID>
+                <PlayerName>Xavier Martigny</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>318873114</PlayerID>
+                <PlayerName>Xavier Souplet</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>281046653</PlayerID>
+                <PlayerName>Alexandre Vuillermoz</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>285120448</PlayerID>
+                <PlayerName>Fabien Rocheron</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>199910420</PlayerID>
+                <PlayerName>Mickaël Varlet</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>247602172</PlayerID>
+                <PlayerName>William Roulland</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>247970662</PlayerID>
+                <PlayerName>Lucas Josset</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>1484122</PlayerID>
+                <PlayerName>Charles Terpin</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2491185</PlayerID>
+                <PlayerName>Olivier Pariot</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7041529</PlayerID>
+                <PlayerName>Aurélien Monts de Savasse</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7121618</PlayerID>
+                <PlayerName>Gilles Monteil</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7476785</PlayerID>
+                <PlayerName>Philippe Courtout</PlayerName>
+                <NrOfMatches>4</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>10751556</PlayerID>
+                <PlayerName>Jean Delville</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>15661739</PlayerID>
+                <PlayerName>Patrick Carre</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>56044743</PlayerID>
+                <PlayerName>Raymond Carbon</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>27330700</PlayerID>
+                <PlayerName>Jérôme Raoux</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>5400559</PlayerID>
+                <PlayerName>Claude Podevin</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>3546707</PlayerID>
+                <PlayerName>Michel Millard</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2413933</PlayerID>
+                <PlayerName>Thierry Marconnet</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>233276822</PlayerID>
+                <PlayerName>Michaël Millot</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>214380622</PlayerID>
+                <PlayerName>Louis Quinquis</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>197686029</PlayerID>
+                <PlayerName>Sébastien Lebreton</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>97301401</PlayerID>
+                <PlayerName>Mimoun Abrahmi</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>292730131</PlayerID>
+                <PlayerName>Frédéric Jadot</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>291734840</PlayerID>
+                <PlayerName>Nicolas Peltier</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>296511299</PlayerID>
+                <PlayerName>Jérôme Jalabert</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>272965547</PlayerID>
+                <PlayerName>Anthony Mouraud</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>274956884</PlayerID>
+                <PlayerName>Guillaume Bos</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>255515837</PlayerID>
+                <PlayerName>Mathieu François</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>261150052</PlayerID>
+                <PlayerName>Damien Espie</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>297855580</PlayerID>
+                <PlayerName>Gaétan Baur</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>308296830</PlayerID>
+                <PlayerName>Hocine Ghannouchi</PlayerName>
+                <NrOfMatches>3</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>308317338</PlayerID>
+                <PlayerName>Matthieu Havet</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>309814577</PlayerID>
+                <PlayerName>Julien Dumesnil</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>309197311</PlayerID>
+                <PlayerName>Olivier Jacquinet</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>317092993</PlayerID>
+                <PlayerName>Jean-Michel Pignon</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>314266543</PlayerID>
+                <PlayerName>Emmanuel Millotte</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>297919579</PlayerID>
+                <PlayerName>Jordan Ortéga</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>297130155</PlayerID>
+                <PlayerName>François Lenestour</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>304093089</PlayerID>
+                <PlayerName>Romain Gouet</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>319727370</PlayerID>
+                <PlayerName>Christophe Parenté</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>326743966</PlayerID>
+                <PlayerName>Laurent Colin</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>261706133</PlayerID>
+                <PlayerName>William Gallo</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>273809937</PlayerID>
+                <PlayerName>Benoît Roudil</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>296475157</PlayerID>
+                <PlayerName>Ali Mouelhi</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>285685835</PlayerID>
+                <PlayerName>Julien Bouille</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>277823782</PlayerID>
+                <PlayerName>Nicolas Allègre</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>280330113</PlayerID>
+                <PlayerName>Kévin Malet</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>78225501</PlayerID>
+                <PlayerName>Paul Bailleux</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>146791051</PlayerID>
+                <PlayerName>Dimitri Raffy</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>130187888</PlayerID>
+                <PlayerName>Kalidou Dieng</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>202284415</PlayerID>
+                <PlayerName>Abdel Amraoui</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>213919776</PlayerID>
+                <PlayerName>Anthony Genin</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>210209886</PlayerID>
+                <PlayerName>Adrien Charrier</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>188060007</PlayerID>
+                <PlayerName>Arnaud Rocca</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>185919255</PlayerID>
+                <PlayerName>Yoann Gégout</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>176943272</PlayerID>
+                <PlayerName>Laurent Verdin</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>222956706</PlayerID>
+                <PlayerName>Patrick Fleurant</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>241099409</PlayerID>
+                <PlayerName>Jacques David</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>248504722</PlayerID>
+                <PlayerName>David Caminade</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2672434</PlayerID>
+                <PlayerName>Jean-David Prud´homme</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2786840</PlayerID>
+                <PlayerName>Jacques Oury</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>29018809</PlayerID>
+                <PlayerName>Yannick Palot</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>54233866</PlayerID>
+                <PlayerName>Antonin Guilhem</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>7738789</PlayerID>
+                <PlayerName>Zinedine Patigny</PlayerName>
+                <NrOfMatches>2</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>8708150</PlayerID>
+                <PlayerName>Frédéric Bonhomme</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>15189430</PlayerID>
+                <PlayerName>Eric Cantona</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>17760451</PlayerID>
+                <PlayerName>Vincent Godefroy</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>45601760</PlayerID>
+                <PlayerName>La La</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>67565807</PlayerID>
+                <PlayerName>Marc Humbert</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>44858041</PlayerID>
+                <PlayerName>Juste Fayet</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>37737430</PlayerID>
+                <PlayerName>Emile Fogliani</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>40262671</PlayerID>
+                <PlayerName>Thomas Hilt</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>27815395</PlayerID>
+                <PlayerName>Basile Galliard de Lavernée</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>22733856</PlayerID>
+                <PlayerName>Blaise Thorel</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>22854718</PlayerID>
+                <PlayerName>Didier Deschamps</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>5015346</PlayerID>
+                <PlayerName>Raymond Courtois</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2707808</PlayerID>
+                <PlayerName>Luc Rosaz</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>2608325</PlayerID>
+                <PlayerName>Frederic Amoudroz</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>249581225</PlayerID>
+                <PlayerName>Christophe Jacquel</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>254075282</PlayerID>
+                <PlayerName>Adrien Legrand</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>247323016</PlayerID>
+                <PlayerName>Baptiste Gueydan</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>241748297</PlayerID>
+                <PlayerName>Anis Chermiti</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>243190042</PlayerID>
+                <PlayerName>Julien Doré</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>238261609</PlayerID>
+                <PlayerName>Geoffrey Beausoleil</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>221264124</PlayerID>
+                <PlayerName>Fahed El Ouaer</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>226759951</PlayerID>
+                <PlayerName>Frédéric Le Moullec</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>181382324</PlayerID>
+                <PlayerName>Jean-Paul Roques</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>193393833</PlayerID>
+                <PlayerName>Mickaël Gouyette</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>190692234</PlayerID>
+                <PlayerName>Thierno Niass</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>210283132</PlayerID>
+                <PlayerName>Franck Merlo</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>207369024</PlayerID>
+                <PlayerName>Alexis Koch</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>207629807</PlayerID>
+                <PlayerName>Jérôme Vidal</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>200033111</PlayerID>
+                <PlayerName>Christophe Arrault</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>196446228</PlayerID>
+                <PlayerName>Wilfried Bailly</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>135140128</PlayerID>
+                <PlayerName>Johnny Geraud</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>138289594</PlayerID>
+                <PlayerName>Francky Lachevre</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>143850541</PlayerID>
+                <PlayerName>Aurélien Cauvin</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>144293050</PlayerID>
+                <PlayerName>Bernard Lamas</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>150749701</PlayerID>
+                <PlayerName>Stéphane Guivarch</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>152807254</PlayerID>
+                <PlayerName>Thierry Henry</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>154308193</PlayerID>
+                <PlayerName>Emmanuel Petit</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>92581626</PlayerID>
+                <PlayerName>Paul Le Guen</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>77407562</PlayerID>
+                <PlayerName>Gustave Gilles</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>112828788</PlayerID>
+                <PlayerName>Ludovic Madiot</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>112983881</PlayerID>
+                <PlayerName>Jean-François Rougerie</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>113742194</PlayerID>
+                <PlayerName>Judicaël Pourcelot</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>129213473</PlayerID>
+                <PlayerName>Brandon Dantas</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>129228700</PlayerID>
+                <PlayerName>Michel Pousse</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>130065136</PlayerID>
+                <PlayerName>Georges Leger</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>120884912</PlayerID>
+                <PlayerName>Alain Guillon</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>125698037</PlayerID>
+                <PlayerName>Laurent Blanc</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>285776749</PlayerID>
+                <PlayerName>Ludovic Hourlier</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>296365501</PlayerID>
+                <PlayerName>Michaël Vérité</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>292481756</PlayerID>
+                <PlayerName>Cédric Bellet</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>290977317</PlayerID>
+                <PlayerName>Julien Fleuret</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>273227514</PlayerID>
+                <PlayerName>Daniel Pigeon</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>272284971</PlayerID>
+                <PlayerName>Aurélien Guérard</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>275445208</PlayerID>
+                <PlayerName>Pascal Bessière</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>260654699</PlayerID>
+                <PlayerName>Alexandre Fillion</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>258049572</PlayerID>
+                <PlayerName>Mickaël Hebrard</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>258072471</PlayerID>
+                <PlayerName>Morgan Besse</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>324390605</PlayerID>
+                <PlayerName>Philippe Mathiot</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>327405716</PlayerID>
+                <PlayerName>Laurent Chartier</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>337342555</PlayerID>
+                <PlayerName>Fabien Sévin</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>337725218</PlayerID>
+                <PlayerName>Dimitri Dixneuf</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>341185412</PlayerID>
+                <PlayerName>Philippe Sagot</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>341317055</PlayerID>
+                <PlayerName>Arnaud Boyer</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>341552311</PlayerID>
+                <PlayerName>Alexis Villemagne</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>344387150</PlayerID>
+                <PlayerName>Romain Decorde</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>346464447</PlayerID>
+                <PlayerName>Baptiste David</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>380756881</PlayerID>
+                <PlayerName>Raphaël Javelle</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>306310004</PlayerID>
+                <PlayerName>Michaël Goupil</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>307780061</PlayerID>
+                <PlayerName>Jean-François Choisnet</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>298675583</PlayerID>
+                <PlayerName>Mamour Togola</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>299066287</PlayerID>
+                <PlayerName>Emmanuel Jolivet</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>301812749</PlayerID>
+                <PlayerName>Ludovic Rion</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>302581181</PlayerID>
+                <PlayerName>Jérôme Morvan</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>303675806</PlayerID>
+                <PlayerName>Joackim Lemasson</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>312745988</PlayerID>
+                <PlayerName>Jessy Hainaut</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>313574407</PlayerID>
+                <PlayerName>Marko Sollier</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>317727093</PlayerID>
+                <PlayerName>Rémi Sinquin</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>318249590</PlayerID>
+                <PlayerName>Michaël Lavigne</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>318583383</PlayerID>
+                <PlayerName>Valentin Ramel</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>309443655</PlayerID>
+                <PlayerName>Jean Boulier</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+            <Player>
+                <PlayerID>308718697</PlayerID>
+                <PlayerName>Alex Bonnet</PlayerName>
+                <NrOfMatches>1</NrOfMatches>
+            </Player>
+        </Players>
+    </Stats>
+</HattrickData>

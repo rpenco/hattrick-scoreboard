@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/button_layout"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/ivBookLogo"
+            android:layout_width="@dimen/club_logo_height"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/llMatchContainer"
+            android:layout_alignTop="@+id/llMatchContainer"
+            android:layout_margin="@dimen/margin_layout"
+            android:src="@drawable/ic_team_logo" />
+
+        <LinearLayout
+            android:id="@+id/llMatchContainer"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="@dimen/margin_layout"
+            android:layout_toRightOf="@+id/ivBookLogo"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvBookTeam"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/label_unavailable"
+                android:textColor="@color/text_default"
+                android:textSize="@dimen/player_name_size" />
+
+            <TextView
+                android:id="@+id/tvBookManager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/label_unavailable"
+                android:textColor="@color/text_default"
+                android:textSize="@dimen/text_size" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

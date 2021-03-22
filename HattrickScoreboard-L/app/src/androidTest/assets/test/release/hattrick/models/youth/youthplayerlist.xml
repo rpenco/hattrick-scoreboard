@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>youthplayerlist.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 18:27:33</FetchedDate>
+    <PlayerList>
+        <YouthPlayer>
+            <YouthPlayerID>155958978</YouthPlayerID>
+            <FirstName>Anthonin</FirstName>
+            <NickName />
+            <LastName>Durand</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>157404285</YouthPlayerID>
+            <FirstName>Bastien</FirstName>
+            <NickName />
+            <LastName>Adeline</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>158776146</YouthPlayerID>
+            <FirstName>Cédric</FirstName>
+            <NickName />
+            <LastName>Moinard</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>165475606</YouthPlayerID>
+            <FirstName>Djalil</FirstName>
+            <NickName />
+            <LastName>Hamiti</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>166112462</YouthPlayerID>
+            <FirstName>Éwen</FirstName>
+            <NickName />
+            <LastName>Guette</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>168176831</YouthPlayerID>
+            <FirstName>Florian</FirstName>
+            <NickName />
+            <LastName>Carvalho</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>160964139</YouthPlayerID>
+            <FirstName>Gontran</FirstName>
+            <NickName />
+            <LastName>Émonet</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>154985026</YouthPlayerID>
+            <FirstName>Henri</FirstName>
+            <NickName />
+            <LastName>Niang</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>164847861</YouthPlayerID>
+            <FirstName>Michel</FirstName>
+            <NickName />
+            <LastName>Menand</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>166679450</YouthPlayerID>
+            <FirstName>Olivier</FirstName>
+            <NickName />
+            <LastName>Lamande</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>160357653</YouthPlayerID>
+            <FirstName>Robin</FirstName>
+            <NickName />
+            <LastName>Alard</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>163342993</YouthPlayerID>
+            <FirstName>Thomas</FirstName>
+            <NickName />
+            <LastName>Hector</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>165058642</YouthPlayerID>
+            <FirstName>Thomas</FirstName>
+            <NickName />
+            <LastName>Le Maux</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>158160240</YouthPlayerID>
+            <FirstName>Timothée</FirstName>
+            <NickName />
+            <LastName>Perrot</LastName>
+        </YouthPlayer>
+    </PlayerList>
+</HattrickData>

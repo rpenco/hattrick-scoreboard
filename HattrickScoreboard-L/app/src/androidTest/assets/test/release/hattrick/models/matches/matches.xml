@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>matches.xml</FileName>
+    <Version>2.7</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:08:26</FetchedDate>
+    <IsYouth>False</IsYouth>
+    <Team>
+        <TeamID>177327</TeamID>
+        <TeamName>Buros FC</TeamName>
+        <ShortTeamName>Buros</ShortTeamName>
+        <League>
+            <LeagueID>5</LeagueID>
+            <LeagueName>France</LeagueName>
+        </League>
+        <LeagueLevelUnit>
+            <LeagueLevelUnitID>72900</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VII.85</LeagueLevelUnitName>
+            <LeagueLevel>7</LeagueLevel>
+        </LeagueLevelUnit>
+        <MatchList>
+            <Match>
+                <MatchID>497755873</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>586160</HomeTeamID>
+                    <HomeTeamName>Thun-saint-amand</HomeTeamName>
+                    <HomeTeamNameShortName>Thun-saint-amand</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>Buros FC</AwayTeamName>
+                    <AwayTeamNameShortName>Buros</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-01 15:05:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>4</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <HomeGoals>7</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>489830841</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>177327</HomeTeamID>
+                    <HomeTeamName>Buros FC</HomeTeamName>
+                    <HomeTeamNameShortName>Buros</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>967393</AwayTeamID>
+                    <AwayTeamName>SC Bordeaux</AwayTeamName>
+                    <AwayTeamNameShortName>Bordeaux</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-04 21:10:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>72900</MatchContextId>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>497878222</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1331184</HomeTeamID>
+                    <HomeTeamName>TS Visla</HomeTeamName>
+                    <HomeTeamNameShortName>Visla</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>Buros FC</AwayTeamName>
+                    <AwayTeamNameShortName>Buros</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-08 18:05:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>9</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>489830846</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1764486</HomeTeamID>
+                    <HomeTeamName>Lesidefixdu60</HomeTeamName>
+                    <HomeTeamNameShortName>Lesidefixdu60</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>Buros FC</AwayTeamName>
+                    <AwayTeamNameShortName>Buros</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-11 21:10:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>72900</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>498010855</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>297915</HomeTeamID>
+                    <HomeTeamName>SoMar</HomeTeamName>
+                    <HomeTeamNameShortName>SoMar</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>Buros FC</AwayTeamName>
+                    <AwayTeamNameShortName>Buros</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-15 15:05:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>4</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <HomeGoals>5</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>489830848</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>177327</HomeTeamID>
+                    <HomeTeamName>Buros FC</HomeTeamName>
+                    <HomeTeamNameShortName>Buros</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1756912</AwayTeamID>
+                    <AwayTeamName>olympique d'hugo</AwayTeamName>
+                    <AwayTeamNameShortName>olympique</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-18 21:10:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>72900</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>498129346</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>886889</HomeTeamID>
+                    <HomeTeamName>Nk Kaštel</HomeTeamName>
+                    <HomeTeamNameShortName>Kaštel</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>Buros FC</AwayTeamName>
+                    <AwayTeamNameShortName>Buros</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-22 08:45:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>8</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>489830852</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>291167</HomeTeamID>
+                    <HomeTeamName>Olympique de Mémed</HomeTeamName>
+                    <HomeTeamNameShortName>Olympique</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>Buros FC</AwayTeamName>
+                    <AwayTeamNameShortName>Buros</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-25 21:10:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>72900</MatchContextId>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>498163125</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1753073</HomeTeamID>
+                    <HomeTeamName>LesPtisLamas</HomeTeamName>
+                    <HomeTeamNameShortName>LesPtisLamas</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>Buros FC</AwayTeamName>
+                    <AwayTeamNameShortName>Buros</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-29 15:05:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>4</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <OrdersGiven>False</OrdersGiven>
+                <Status>UPCOMING</Status>
+            </Match>
+            <Match>
+                <MatchID>489830859</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>586189</HomeTeamID>
+                    <HomeTeamName>BlackBird F.C.</HomeTeamName>
+                    <HomeTeamNameShortName>BBFC</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>Buros FC</AwayTeamName>
+                    <AwayTeamNameShortName>Buros</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-11-01 21:10:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>72900</MatchContextId>
+                <OrdersGiven>False</OrdersGiven>
+                <Status>UPCOMING</Status>
+            </Match>
+            <Match>
+                <MatchID>489830862</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>177327</HomeTeamID>
+                    <HomeTeamName>Buros FC</HomeTeamName>
+                    <HomeTeamNameShortName>Buros</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1761624</AwayTeamID>
+                    <AwayTeamName>reyrieux platinium</AwayTeamName>
+                    <AwayTeamNameShortName>platinium</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-11-08 21:10:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>72900</MatchContextId>
+                <OrdersGiven>False</OrdersGiven>
+                <Status>UPCOMING</Status>
+            </Match>
+        </MatchList>
+    </Team>
+</HattrickData>

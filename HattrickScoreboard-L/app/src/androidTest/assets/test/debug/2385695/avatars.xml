@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>Avatars.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:54:18</FetchedDate>
+    <Team>
+        <TeamId>198547</TeamId>
+        <Players>
+            <Player>
+                <PlayerID>293166918</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body2.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f2c.png</Image>
+                    </Layer>
+                    <Layer x="27" y="26">
+                        <Image>/Img/Avatar/eyes/e15b.png</Image>
+                    </Layer>
+                    <Layer x="30" y="60">
+                        <Image>/Img/Avatar/mouths/m21b.png</Image>
+                    </Layer>
+                    <Layer x="20" y="56">
+                        <Image>/Img/Avatar/goatees/g1.png</Image>
+                    </Layer>
+                    <Layer x="20" y="29">
+                        <Image>/Img/Avatar/noses/n18.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f2h9e.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/1.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>312507828</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body7.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f8e.png</Image>
+                    </Layer>
+                    <Layer x="22" y="13">
+                        <Image>/Img/Avatar/eyes/e16c.png</Image>
+                    </Layer>
+                    <Layer x="30" y="56">
+                        <Image>/Img/Avatar/mouths/m13c.png</Image>
+                    </Layer>
+                    <Layer x="18" y="34">
+                        <Image>/Img/Avatar/noses/n14.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f8h12h.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/2.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>290041658</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body8.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f9c.png</Image>
+                    </Layer>
+                    <Layer x="25" y="10">
+                        <Image>/Img/Avatar/eyes/e28c.png</Image>
+                    </Layer>
+                    <Layer x="30" y="64">
+                        <Image>/Img/Avatar/mouths/m4c.png</Image>
+                    </Layer>
+                    <Layer x="20" y="24">
+                        <Image>/Img/Avatar/noses/n15.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f9h13a.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/10.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>292597838</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body4.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f9a.png</Image>
+                    </Layer>
+                    <Layer x="25" y="14">
+                        <Image>/Img/Avatar/eyes/e29c.png</Image>
+                    </Layer>
+                    <Layer x="31" y="61">
+                        <Image>/Img/Avatar/mouths/m8c.png</Image>
+                    </Layer>
+                    <Layer x="18" y="50">
+                        <Image>/Img/Avatar/goatees/g2.png</Image>
+                    </Layer>
+                    <Layer x="19" y="23">
+                        <Image>/Img/Avatar/noses/n13.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f9h10d.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/20.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>296716126</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body4.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f4a.png</Image>
+                    </Layer>
+                    <Layer x="25" y="22">
+                        <Image>/Img/Avatar/eyes/e13c.png</Image>
+                    </Layer>
+                    <Layer x="30" y="67">
+                        <Image>/Img/Avatar/mouths/m28c.png</Image>
+                    </Layer>
+                    <Layer x="17" y="33">
+                        <Image>/Img/Avatar/noses/n9.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f4h4c.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/21.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>299350989</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body8.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f7c.png</Image>
+                    </Layer>
+                    <Layer x="25" y="7">
+                        <Image>/Img/Avatar/eyes/e32a.png</Image>
+                    </Layer>
+                    <Layer x="31" y="32">
+                        <Image>/Img/Avatar/mouths/m13a.png</Image>
+                    </Layer>
+                    <Layer x="18" y="31">
+                        <Image>/Img/Avatar/goatees/g3.png</Image>
+                    </Layer>
+                    <Layer x="18" y="11">
+                        <Image>/Img/Avatar/noses/n36mb.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f7h15b.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/22.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>295337833</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body1.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f9c.png</Image>
+                    </Layer>
+                    <Layer x="25" y="15">
+                        <Image>/Img/Avatar/eyes/e36c.png</Image>
+                    </Layer>
+                    <Layer x="31" y="61">
+                        <Image>/Img/Avatar/mouths/m8c.png</Image>
+                    </Layer>
+                    <Layer x="17" y="29">
+                        <Image>/Img/Avatar/noses/n4.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f9h9d.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/23.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>294775848</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body4.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f3b.png</Image>
+                    </Layer>
+                    <Layer x="23" y="17">
+                        <Image>/Img/Avatar/eyes/e3c.png</Image>
+                    </Layer>
+                    <Layer x="30" y="63">
+                        <Image>/Img/Avatar/mouths/m4c.png</Image>
+                    </Layer>
+                    <Layer x="18" y="28">
+                        <Image>/Img/Avatar/noses/n9.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f3h3a.png</Image>
+                    </Layer>
+                    <Layer x="9" y="135">
+                        <Image>/Img/Avatar/misc/yellow.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/30.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>302265403</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body8.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f5c.png</Image>
+                    </Layer>
+                    <Layer x="22" y="11">
+                        <Image>/Img/Avatar/eyes/e3b.png</Image>
+                    </Layer>
+                    <Layer x="30" y="50">
+                        <Image>/Img/Avatar/mouths/m36b.png</Image>
+                    </Layer>
+                    <Layer x="18" y="38">
+                        <Image>/Img/Avatar/goatees/g2.png</Image>
+                    </Layer>
+                    <Layer x="18" y="21">
+                        <Image>/Img/Avatar/noses/n38ma.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f5h15a.png</Image>
+                    </Layer>
+                    <Layer x="9" y="135">
+                        <Image>/Img/Avatar/misc/yellow.png</Image>
+                    </Layer>
+                    <Layer x="19" y="135">
+                        <Image>/Img/Avatar/misc/yellow.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/31.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>298564994</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body9.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f8a.png</Image>
+                    </Layer>
+                    <Layer x="21" y="21">
+                        <Image>/Img/Avatar/eyes/e10c.png</Image>
+                    </Layer>
+                    <Layer x="31" y="63">
+                        <Image>/Img/Avatar/mouths/m7c.png</Image>
+                    </Layer>
+                    <Layer x="20" y="24">
+                        <Image>/Img/Avatar/noses/n13.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f8h0.png</Image>
+                    </Layer>
+                    <Layer x="5" y="5">
+                        <Image>/Img/Avatar/misc/injuredbutplaying.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/32.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>308420608</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body7.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f1b.png</Image>
+                    </Layer>
+                    <Layer x="23" y="24">
+                        <Image>/Img/Avatar/eyes/e12c.png</Image>
+                    </Layer>
+                    <Layer x="31" y="60">
+                        <Image>/Img/Avatar/mouths/m13c.png</Image>
+                    </Layer>
+                    <Layer x="19" y="62">
+                        <Image>/Img/Avatar/goatees/g2.png</Image>
+                    </Layer>
+                    <Layer x="19" y="38">
+                        <Image>/Img/Avatar/noses/n14.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f1h3e.png</Image>
+                    </Layer>
+                    <Layer x="9" y="135">
+                        <Image>/Img/Avatar/misc/yellow.png</Image>
+                    </Layer>
+                    <Layer x="19" y="135">
+                        <Image>/Img/Avatar/misc/yellow.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/33.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>267206388</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body1.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f9c.png</Image>
+                    </Layer>
+                    <Layer x="25" y="15">
+                        <Image>/Img/Avatar/eyes/e31b.png</Image>
+                    </Layer>
+                    <Layer x="30" y="64">
+                        <Image>/Img/Avatar/mouths/m4bg.png</Image>
+                    </Layer>
+                    <Layer x="15" y="17">
+                        <Image>/Img/Avatar/noses/n34.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f9h5c.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/34.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>306448441</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body3.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f2f.png</Image>
+                    </Layer>
+                    <Layer x="24" y="22">
+                        <Image>/Img/Avatar/eyes/e16c.png</Image>
+                    </Layer>
+                    <Layer x="30" y="62">
+                        <Image>/Img/Avatar/mouths/m25c.png</Image>
+                    </Layer>
+                    <Layer x="23" y="30">
+                        <Image>/Img/Avatar/noses/n24.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f2h10g.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/35.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>301714583</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body6.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f3c.png</Image>
+                    </Layer>
+                    <Layer x="21" y="18">
+                        <Image>/Img/Avatar/eyes/e22a.png</Image>
+                    </Layer>
+                    <Layer x="30" y="63">
+                        <Image>/Img/Avatar/mouths/m4a.png</Image>
+                    </Layer>
+                    <Layer x="18" y="24">
+                        <Image>/Img/Avatar/noses/n28.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f3h5e.png</Image>
+                    </Layer>
+                    <Layer x="5" y="5">
+                        <Image>/Img/Avatar/misc/f3injury.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/40.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>310584902</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body9.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f7e.png</Image>
+                    </Layer>
+                    <Layer x="25" y="8">
+                        <Image>/Img/Avatar/eyes/e35a.png</Image>
+                    </Layer>
+                    <Layer x="30" y="40">
+                        <Image>/Img/Avatar/mouths/m39a.png</Image>
+                    </Layer>
+                    <Layer x="18" y="31">
+                        <Image>/Img/Avatar/goatees/g3.png</Image>
+                    </Layer>
+                    <Layer x="15" y="4">
+                        <Image>/Img/Avatar/noses/n35.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f7h14h.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/41.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>312311776</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body12.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f8c.png</Image>
+                    </Layer>
+                    <Layer x="25" y="16">
+                        <Image>/Img/Avatar/eyes/e27c.png</Image>
+                    </Layer>
+                    <Layer x="32" y="64">
+                        <Image>/Img/Avatar/mouths/m31c.png</Image>
+                    </Layer>
+                    <Layer x="19" y="19">
+                        <Image>/Img/Avatar/noses/n29.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f8h8b.png</Image>
+                    </Layer>
+                    <Layer x="9" y="135">
+                        <Image>/Img/Avatar/misc/yellow.png</Image>
+                    </Layer>
+                    <Layer x="19" y="135">
+                        <Image>/Img/Avatar/misc/yellow.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/42.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>299398399</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body1.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f4c.png</Image>
+                    </Layer>
+                    <Layer x="24" y="17">
+                        <Image>/Img/Avatar/eyes/e29c.png</Image>
+                    </Layer>
+                    <Layer x="31" y="68">
+                        <Image>/Img/Avatar/mouths/m39c.png</Image>
+                    </Layer>
+                    <Layer x="19" y="55">
+                        <Image>/Img/Avatar/goatees/g2.png</Image>
+                    </Layer>
+                    <Layer x="20" y="27">
+                        <Image>/Img/Avatar/noses/n3md.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f4h5d.png</Image>
+                    </Layer>
+                    <Layer x="9" y="135">
+                        <Image>/Img/Avatar/misc/yellow.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/50.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>287700913</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body9.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f9a.png</Image>
+                    </Layer>
+                    <Layer x="25" y="15">
+                        <Image>/Img/Avatar/eyes/e33c.png</Image>
+                    </Layer>
+                    <Layer x="31" y="61">
+                        <Image>/Img/Avatar/mouths/m8c.png</Image>
+                    </Layer>
+                    <Layer x="19" y="27">
+                        <Image>/Img/Avatar/noses/n11.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f9h10b.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/51.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>302187837</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body1.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f9d.png</Image>
+                    </Layer>
+                    <Layer x="25" y="10">
+                        <Image>/Img/Avatar/eyes/e28c.png</Image>
+                    </Layer>
+                    <Layer x="29" y="54">
+                        <Image>/Img/Avatar/mouths/m2c.png</Image>
+                    </Layer>
+                    <Layer x="19" y="28">
+                        <Image>/Img/Avatar/noses/n9.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f9h13i.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/52.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>303123561</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body2.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f3b.png</Image>
+                    </Layer>
+                    <Layer x="23" y="16">
+                        <Image>/Img/Avatar/eyes/e24c.png</Image>
+                    </Layer>
+                    <Layer x="30" y="64">
+                        <Image>/Img/Avatar/mouths/m28c.png</Image>
+                    </Layer>
+                    <Layer x="19" y="26">
+                        <Image>/Img/Avatar/noses/n11.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f3h4d.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/70.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>303348934</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body2.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f3b.png</Image>
+                    </Layer>
+                    <Layer x="23" y="16">
+                        <Image>/Img/Avatar/eyes/e24c.png</Image>
+                    </Layer>
+                    <Layer x="30" y="64">
+                        <Image>/Img/Avatar/mouths/m28c.png</Image>
+                    </Layer>
+                    <Layer x="19" y="26">
+                        <Image>/Img/Avatar/noses/n11.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f3h4d.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/71.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>188294140</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body5.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f4a.png</Image>
+                    </Layer>
+                    <Layer x="23" y="19">
+                        <Image>/Img/Avatar/eyes/e12c.png</Image>
+                    </Layer>
+                    <Layer x="27" y="60">
+                        <Image>/Img/Avatar/mouths/m16cg.png</Image>
+                    </Layer>
+                    <Layer x="16" y="30">
+                        <Image>/Img/Avatar/noses/n19mc.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f4h8c.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/97.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>278111807</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>http://res.hattrick.org/kits/2/15/147/146228/body11.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f1b.png</Image>
+                    </Layer>
+                    <Layer x="24" y="26">
+                        <Image>/Img/Avatar/eyes/e21c.png</Image>
+                    </Layer>
+                    <Layer x="31" y="63">
+                        <Image>/Img/Avatar/mouths/m3c.png</Image>
+                    </Layer>
+                    <Layer x="19" y="62">
+                        <Image>/Img/Avatar/goatees/g1.png</Image>
+                    </Layer>
+                    <Layer x="19" y="34">
+                        <Image>/Img/Avatar/noses/n27.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f1h15d.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/98.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>208592545</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_blue.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/bodies/f6man1b.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f6c.png</Image>
+                    </Layer>
+                    <Layer x="25" y="16">
+                        <Image>/Img/Avatar/eyes/e24c.png</Image>
+                    </Layer>
+                    <Layer x="29" y="59">
+                        <Image>/Img/Avatar/mouths/m25c.png</Image>
+                    </Layer>
+                    <Layer x="22" y="22">
+                        <Image>/Img/Avatar/noses/n6.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f6h5c.png</Image>
+                    </Layer>
+                    <Layer x="83" y="130">
+                        <Image>/Img/Avatar/numbers/99.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+        </Players>
+    </Team>
+</HattrickData>

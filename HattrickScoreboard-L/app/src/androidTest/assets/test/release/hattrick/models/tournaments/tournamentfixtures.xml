@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>tournamentFixtures.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:28:34</FetchedDate>
+    <Matches>
+        <Match>
+            <MatchId>5429643</MatchId>
+            <HomeTeamId>188100</HomeTeamId>
+            <HomeTeamName>Diobolo</HomeTeamName>
+            <HomeShortTeamName>Diobolo</HomeShortTeamName>
+            <AwayTeamId>514986</AwayTeamId>
+            <AwayTeamName>Athletic Bilbo Baggins</AwayTeamName>
+            <AwayShortTeamName>Baggins</AwayShortTeamName>
+            <MatchDate>2014-10-27 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>1</MatchRound>
+            <Group>1</Group>
+            <Status>2</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>8</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429642</MatchId>
+            <HomeTeamId>194128</HomeTeamId>
+            <HomeTeamName>kfc Patatje</HomeTeamName>
+            <HomeShortTeamName>Patatje</HomeShortTeamName>
+            <AwayTeamId>194498</AwayTeamId>
+            <AwayTeamName>Cercle Santa Croch</AwayTeamName>
+            <AwayShortTeamName>Cercle</AwayShortTeamName>
+            <MatchDate>2014-10-27 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>1</MatchRound>
+            <Group>1</Group>
+            <Status>2</Status>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429647</MatchId>
+            <HomeTeamId>517721</HomeTeamId>
+            <HomeTeamName>FC De Sjotterkens</HomeTeamName>
+            <HomeShortTeamName>Sjotterkens</HomeShortTeamName>
+            <AwayTeamId>841422</AwayTeamId>
+            <AwayTeamName>FC.Obsession 05</AwayTeamName>
+            <AwayShortTeamName>FCO</AwayShortTeamName>
+            <MatchDate>2014-10-27 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>1</MatchRound>
+            <Group>2</Group>
+            <Status>2</Status>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429649</MatchId>
+            <HomeTeamId>746602</HomeTeamId>
+            <HomeTeamName>FC Poesele</HomeTeamName>
+            <HomeShortTeamName>Poesele</HomeShortTeamName>
+            <AwayTeamId>839245</AwayTeamId>
+            <AwayTeamName>Hoewach Utd.</AwayTeamName>
+            <AwayShortTeamName>Hoewach</AwayShortTeamName>
+            <MatchDate>2014-10-27 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>1</MatchRound>
+            <Group>2</Group>
+            <Status>2</Status>
+            <HomeGoals>3</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429655</MatchId>
+            <HomeTeamId>188706</HomeTeamId>
+            <HomeTeamName>FORZA MILANE !</HomeTeamName>
+            <HomeShortTeamName>ACMILAN</HomeShortTeamName>
+            <AwayTeamId>517499</AwayTeamId>
+            <AwayTeamName>RSC Ana Ivanovic</AwayTeamName>
+            <AwayShortTeamName>Anci's 11</AwayShortTeamName>
+            <MatchDate>2014-10-27 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>1</MatchRound>
+            <Group>3</Group>
+            <Status>2</Status>
+            <HomeGoals>1</HomeGoals>
+            <AwayGoals>5</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429656</MatchId>
+            <HomeTeamId>190599</HomeTeamId>
+            <HomeTeamName>FC Soltermee</HomeTeamName>
+            <HomeShortTeamName>Soltermee</HomeShortTeamName>
+            <AwayTeamId>190999</AwayTeamId>
+            <AwayTeamName>R.C. Vozzko</AwayTeamName>
+            <AwayShortTeamName>Vozzko</AwayShortTeamName>
+            <MatchDate>2014-10-27 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>1</MatchRound>
+            <Group>3</Group>
+            <Status>2</Status>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429661</MatchId>
+            <HomeTeamId>740187</HomeTeamId>
+            <HomeTeamName>FC JOL</HomeTeamName>
+            <HomeShortTeamName>JOL</HomeShortTeamName>
+            <AwayTeamId>1025457</AwayTeamId>
+            <AwayTeamName>de joekes</AwayTeamName>
+            <AwayShortTeamName>joekes</AwayShortTeamName>
+            <MatchDate>2014-10-27 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>1</MatchRound>
+            <Group>4</Group>
+            <Status>2</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>4</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429662</MatchId>
+            <HomeTeamId>1021353</HomeTeamId>
+            <HomeTeamName>An Overdose Of AweSamsoness</HomeTeamName>
+            <HomeShortTeamName>AOOA</HomeShortTeamName>
+            <AwayTeamId>1466962</AwayTeamId>
+            <AwayTeamName>colruytboys</AwayTeamName>
+            <AwayShortTeamName>colruytboys</AwayShortTeamName>
+            <MatchDate>2014-10-27 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>1</MatchRound>
+            <Group>4</Group>
+            <Status>2</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429645</MatchId>
+            <HomeTeamId>188100</HomeTeamId>
+            <HomeTeamName>Diobolo</HomeTeamName>
+            <HomeShortTeamName>Diobolo</HomeShortTeamName>
+            <AwayTeamId>194128</AwayTeamId>
+            <AwayTeamName>kfc Patatje</AwayTeamName>
+            <AwayShortTeamName>Patatje</AwayShortTeamName>
+            <MatchDate>2014-11-03 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>2</MatchRound>
+            <Group>1</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429644</MatchId>
+            <HomeTeamId>514986</HomeTeamId>
+            <HomeTeamName>Athletic Bilbo Baggins</HomeTeamName>
+            <HomeShortTeamName>Baggins</HomeShortTeamName>
+            <AwayTeamId>194498</AwayTeamId>
+            <AwayTeamName>Cercle Santa Croch</AwayTeamName>
+            <AwayShortTeamName>Cercle</AwayShortTeamName>
+            <MatchDate>2014-11-03 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>2</MatchRound>
+            <Group>1</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429651</MatchId>
+            <HomeTeamId>517721</HomeTeamId>
+            <HomeTeamName>FC De Sjotterkens</HomeTeamName>
+            <HomeShortTeamName>Sjotterkens</HomeShortTeamName>
+            <AwayTeamId>746602</AwayTeamId>
+            <AwayTeamName>FC Poesele</AwayTeamName>
+            <AwayShortTeamName>Poesele</AwayShortTeamName>
+            <MatchDate>2014-11-03 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>2</MatchRound>
+            <Group>2</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429650</MatchId>
+            <HomeTeamId>841422</HomeTeamId>
+            <HomeTeamName>FC.Obsession 05</HomeTeamName>
+            <HomeShortTeamName>FCO</HomeShortTeamName>
+            <AwayTeamId>839245</AwayTeamId>
+            <AwayTeamName>Hoewach Utd.</AwayTeamName>
+            <AwayShortTeamName>Hoewach</AwayShortTeamName>
+            <MatchDate>2014-11-03 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>2</MatchRound>
+            <Group>2</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429659</MatchId>
+            <HomeTeamId>188706</HomeTeamId>
+            <HomeTeamName>FORZA MILANE !</HomeTeamName>
+            <HomeShortTeamName>ACMILAN</HomeShortTeamName>
+            <AwayTeamId>190599</AwayTeamId>
+            <AwayTeamName>FC Soltermee</AwayTeamName>
+            <AwayShortTeamName>Soltermee</AwayShortTeamName>
+            <MatchDate>2014-11-03 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>2</MatchRound>
+            <Group>3</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429658</MatchId>
+            <HomeTeamId>517499</HomeTeamId>
+            <HomeTeamName>RSC Ana Ivanovic</HomeTeamName>
+            <HomeShortTeamName>Anci's 11</HomeShortTeamName>
+            <AwayTeamId>190999</AwayTeamId>
+            <AwayTeamName>R.C. Vozzko</AwayTeamName>
+            <AwayShortTeamName>Vozzko</AwayShortTeamName>
+            <MatchDate>2014-11-03 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>2</MatchRound>
+            <Group>3</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429663</MatchId>
+            <HomeTeamId>740187</HomeTeamId>
+            <HomeTeamName>FC JOL</HomeTeamName>
+            <HomeShortTeamName>JOL</HomeShortTeamName>
+            <AwayTeamId>1021353</AwayTeamId>
+            <AwayTeamName>An Overdose Of AweSamsoness</AwayTeamName>
+            <AwayShortTeamName>AOOA</AwayShortTeamName>
+            <MatchDate>2014-11-03 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>2</MatchRound>
+            <Group>4</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429664</MatchId>
+            <HomeTeamId>1025457</HomeTeamId>
+            <HomeTeamName>de joekes</HomeTeamName>
+            <HomeShortTeamName>joekes</HomeShortTeamName>
+            <AwayTeamId>1466962</AwayTeamId>
+            <AwayTeamName>colruytboys</AwayTeamName>
+            <AwayShortTeamName>colruytboys</AwayShortTeamName>
+            <MatchDate>2014-11-03 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>2</MatchRound>
+            <Group>4</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429646</MatchId>
+            <HomeTeamId>194128</HomeTeamId>
+            <HomeTeamName>kfc Patatje</HomeTeamName>
+            <HomeShortTeamName>Patatje</HomeShortTeamName>
+            <AwayTeamId>514986</AwayTeamId>
+            <AwayTeamName>Athletic Bilbo Baggins</AwayTeamName>
+            <AwayShortTeamName>Baggins</AwayShortTeamName>
+            <MatchDate>2014-11-10 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>3</MatchRound>
+            <Group>1</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429648</MatchId>
+            <HomeTeamId>194498</HomeTeamId>
+            <HomeTeamName>Cercle Santa Croch</HomeTeamName>
+            <HomeShortTeamName>Cercle</HomeShortTeamName>
+            <AwayTeamId>188100</AwayTeamId>
+            <AwayTeamName>Diobolo</AwayTeamName>
+            <AwayShortTeamName>Diobolo</AwayShortTeamName>
+            <MatchDate>2014-11-10 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>3</MatchRound>
+            <Group>1</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement>inzet: rode lantaarn!</HomeStatement>
+            <AwayStatement>Woehaaa, de match van het jaar!</AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429652</MatchId>
+            <HomeTeamId>746602</HomeTeamId>
+            <HomeTeamName>FC Poesele</HomeTeamName>
+            <HomeShortTeamName>Poesele</HomeShortTeamName>
+            <AwayTeamId>841422</AwayTeamId>
+            <AwayTeamName>FC.Obsession 05</AwayTeamName>
+            <AwayShortTeamName>FCO</AwayShortTeamName>
+            <MatchDate>2014-11-10 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>3</MatchRound>
+            <Group>2</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429654</MatchId>
+            <HomeTeamId>839245</HomeTeamId>
+            <HomeTeamName>Hoewach Utd.</HomeTeamName>
+            <HomeShortTeamName>Hoewach</HomeShortTeamName>
+            <AwayTeamId>517721</AwayTeamId>
+            <AwayTeamName>FC De Sjotterkens</AwayTeamName>
+            <AwayShortTeamName>Sjotterkens</AwayShortTeamName>
+            <MatchDate>2014-11-10 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>3</MatchRound>
+            <Group>2</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429660</MatchId>
+            <HomeTeamId>190599</HomeTeamId>
+            <HomeTeamName>FC Soltermee</HomeTeamName>
+            <HomeShortTeamName>Soltermee</HomeShortTeamName>
+            <AwayTeamId>517499</AwayTeamId>
+            <AwayTeamName>RSC Ana Ivanovic</AwayTeamName>
+            <AwayShortTeamName>Anci's 11</AwayShortTeamName>
+            <MatchDate>2014-11-10 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>3</MatchRound>
+            <Group>3</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429667</MatchId>
+            <HomeTeamId>190999</HomeTeamId>
+            <HomeTeamName>R.C. Vozzko</HomeTeamName>
+            <HomeShortTeamName>Vozzko</HomeShortTeamName>
+            <AwayTeamId>188706</AwayTeamId>
+            <AwayTeamName>FORZA MILANE !</AwayTeamName>
+            <AwayShortTeamName>ACMILAN</AwayShortTeamName>
+            <MatchDate>2014-11-10 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>3</MatchRound>
+            <Group>3</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429665</MatchId>
+            <HomeTeamId>1021353</HomeTeamId>
+            <HomeTeamName>An Overdose Of AweSamsoness</HomeTeamName>
+            <HomeShortTeamName>AOOA</HomeShortTeamName>
+            <AwayTeamId>1025457</AwayTeamId>
+            <AwayTeamName>de joekes</AwayTeamName>
+            <AwayShortTeamName>joekes</AwayShortTeamName>
+            <MatchDate>2014-11-10 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>3</MatchRound>
+            <Group>4</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+        <Match>
+            <MatchId>5429666</MatchId>
+            <HomeTeamId>1466962</HomeTeamId>
+            <HomeTeamName>colruytboys</HomeTeamName>
+            <HomeShortTeamName>colruytboys</HomeShortTeamName>
+            <AwayTeamId>740187</AwayTeamId>
+            <AwayTeamName>FC JOL</AwayTeamName>
+            <AwayShortTeamName>JOL</AwayShortTeamName>
+            <MatchDate>2014-11-10 19:37:00</MatchDate>
+            <MatchType>50</MatchType>
+            <MatchRound>3</MatchRound>
+            <Group>4</Group>
+            <Status>0</Status>
+            <HomeGoals>0</HomeGoals>
+            <AwayGoals>0</AwayGoals>
+            <HomeStatement></HomeStatement>
+            <AwayStatement></AwayStatement>
+        </Match>
+    </Matches>
+</HattrickData>

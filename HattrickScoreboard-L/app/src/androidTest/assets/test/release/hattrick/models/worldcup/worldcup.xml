@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>worldcup.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 17:59:00</FetchedDate>
+    <CupID>149</CupID>
+    <Season>33</Season>
+    <MatchRound>24</MatchRound>
+    <CupSeriesUnitID>369</CupSeriesUnitID>
+    <Matches>
+        <Match>
+            <MatchID>159087703</MatchID>
+            <HomeTeam>
+                <TeamID>3042</TeamID>
+                <TeamName>U-20 England</TeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <TeamID>3070</TeamID>
+                <TeamName>U-20 Polska</TeamName>
+            </AwayTeam>
+            <MatchDate>2008-02-22 20:00:00</MatchDate>
+            <FinishedDate>2008-02-22 21:45:06</FinishedDate>
+            <HomeGoals>2</HomeGoals>
+            <AwayGoals>3</AwayGoals>
+        </Match>
+        <Match>
+            <MatchID>159087704</MatchID>
+            <HomeTeam>
+                <TeamID>3095</TeamID>
+                <TeamName>U-20 Eesti</TeamName>
+            </HomeTeam>
+            <AwayTeam>
+                <TeamID>3079</TeamID>
+                <TeamName>U-20 Schweiz</TeamName>
+            </AwayTeam>
+            <MatchDate>2008-02-22 20:00:00</MatchDate>
+            <FinishedDate>2008-02-22 21:45:06</FinishedDate>
+            <HomeGoals>7</HomeGoals>
+            <AwayGoals>1</AwayGoals>
+        </Match>
+    </Matches>
+    <Rounds>
+        <Round>
+            <MatchRound>1</MatchRound>
+            <StartDate>2007-08-03 20:00:00</StartDate>
+        </Round>
+        <Round>
+            <MatchRound>15</MatchRound>
+            <StartDate>2007-12-28 20:00:00</StartDate>
+        </Round>
+        <Round>
+            <MatchRound>18</MatchRound>
+            <StartDate>2008-02-01 20:00:00</StartDate>
+        </Round>
+        <Round>
+            <MatchRound>21</MatchRound>
+            <StartDate>2008-02-11 20:00:00</StartDate>
+        </Round>
+        <Round>
+            <MatchRound>24</MatchRound>
+            <StartDate>2008-02-22 20:00:00</StartDate>
+        </Round>
+        <Round>
+            <MatchRound>25</MatchRound>
+            <StartDate>2008-02-24 20:00:00</StartDate>
+        </Round>
+    </Rounds>
+</HattrickData>

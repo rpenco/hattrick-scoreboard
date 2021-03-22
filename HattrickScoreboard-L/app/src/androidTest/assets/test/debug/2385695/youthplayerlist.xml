@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>youthplayerlist.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:42:01</FetchedDate>
+    <PlayerList>
+        <YouthPlayer>
+            <YouthPlayerID>160252827</YouthPlayerID>
+            <FirstName>Kjeld</FirstName>
+            <NickName />
+            <LastName>Degn</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>165507632</YouthPlayerID>
+            <FirstName>Cornelius</FirstName>
+            <NickName />
+            <LastName>Ørum</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>164997536</YouthPlayerID>
+            <FirstName>Kåre</FirstName>
+            <NickName />
+            <LastName>Freksen</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>165048627</YouthPlayerID>
+            <FirstName>Gerhard</FirstName>
+            <NickName />
+            <LastName>Brink</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>155645117</YouthPlayerID>
+            <FirstName>Kristen</FirstName>
+            <NickName />
+            <LastName>Juul</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>153821541</YouthPlayerID>
+            <FirstName>Chris</FirstName>
+            <NickName />
+            <LastName>Ørskov</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>150145677</YouthPlayerID>
+            <FirstName>Mick</FirstName>
+            <NickName />
+            <LastName>Rasch</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>155757816</YouthPlayerID>
+            <FirstName>Sebastian</FirstName>
+            <NickName />
+            <LastName>Paulsen</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>153970584</YouthPlayerID>
+            <FirstName>Vagn</FirstName>
+            <NickName />
+            <LastName>Barkholt</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>155350157</YouthPlayerID>
+            <FirstName>Asger</FirstName>
+            <NickName />
+            <LastName>Eliasen</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>153717167</YouthPlayerID>
+            <FirstName>Halfdan</FirstName>
+            <NickName />
+            <LastName>Lund</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>156081145</YouthPlayerID>
+            <FirstName>Julian</FirstName>
+            <NickName />
+            <LastName>Reumert</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>154247901</YouthPlayerID>
+            <FirstName>Thorvald</FirstName>
+            <NickName />
+            <LastName>Hermansen</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>160402110</YouthPlayerID>
+            <FirstName>Hans</FirstName>
+            <NickName />
+            <LastName>Hendriksen</LastName>
+        </YouthPlayer>
+        <YouthPlayer>
+            <YouthPlayerID>166989693</YouthPlayerID>
+            <FirstName>Palle</FirstName>
+            <NickName />
+            <LastName>Krag</LastName>
+        </YouthPlayer>
+    </PlayerList>
+</HattrickData>

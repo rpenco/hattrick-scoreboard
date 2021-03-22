@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>matches.xml</FileName>
+    <Version>2.7</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:35:00</FetchedDate>
+    <IsYouth>True</IsYouth>
+    <Team>
+        <TeamID>10205</TeamID>
+        <TeamName>Tordendragen</TeamName>
+        <MatchList>
+            <Match>
+                <MatchID>84845213</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1407814</HomeTeamID>
+                    <HomeTeamName>FK Nestflüchter</HomeTeamName>
+                    <HomeTeamNameShortName></HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                    <AwayTeamNameShortName></AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-09 08:00:00</MatchDate>
+                <SourceSystem>Youth</SourceSystem>
+                <MatchType>100</MatchType>
+                <MatchContextId>1947</MatchContextId>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>8</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>84845215</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                    <HomeTeamNameShortName></HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>2142225</AwayTeamID>
+                    <AwayTeamName>Danish Homegrown</AwayTeamName>
+                    <AwayTeamNameShortName></AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-16 08:00:00</MatchDate>
+                <SourceSystem>Youth</SourceSystem>
+                <MatchType>100</MatchType>
+                <MatchContextId>1947</MatchContextId>
+                <HomeGoals>5</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>84845219</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>2322318</HomeTeamID>
+                    <HomeTeamName>Dom små mullvaden</HomeTeamName>
+                    <HomeTeamNameShortName></HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                    <AwayTeamNameShortName></AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-23 08:00:00</MatchDate>
+                <SourceSystem>Youth</SourceSystem>
+                <MatchType>100</MatchType>
+                <MatchContextId>1947</MatchContextId>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>86925455</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>2063420</HomeTeamID>
+                    <HomeTeamName>Ménesi Junior</HomeTeamName>
+                    <HomeTeamNameShortName></HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                    <AwayTeamNameShortName></AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-24 08:55:00</MatchDate>
+                <SourceSystem>Youth</SourceSystem>
+                <MatchType>105</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>84845226</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                    <HomeTeamNameShortName></HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1216597</AwayTeamID>
+                    <AwayTeamName>Ølstykke Juniors</AwayTeamName>
+                    <AwayTeamNameShortName></AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-30 08:00:00</MatchDate>
+                <SourceSystem>Youth</SourceSystem>
+                <MatchType>100</MatchType>
+                <MatchContextId>1947</MatchContextId>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>84845235</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>16274</HomeTeamID>
+                    <HomeTeamName>Charlies Angels</HomeTeamName>
+                    <HomeTeamNameShortName></HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                    <AwayTeamNameShortName></AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-11-06 08:00:00</MatchDate>
+                <SourceSystem>Youth</SourceSystem>
+                <MatchType>100</MatchType>
+                <MatchContextId>1947</MatchContextId>
+                <Status>UPCOMING</Status>
+            </Match>
+            <Match>
+                <MatchID>84845238</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                    <HomeTeamNameShortName></HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>996364</AwayTeamID>
+                    <AwayTeamName>lille sønderjyske</AwayTeamName>
+                    <AwayTeamNameShortName></AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-11-13 08:00:00</MatchDate>
+                <SourceSystem>Youth</SourceSystem>
+                <MatchType>100</MatchType>
+                <MatchContextId>1947</MatchContextId>
+                <Status>UPCOMING</Status>
+            </Match>
+            <Match>
+                <MatchID>84845248</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>11622</HomeTeamID>
+                    <HomeTeamName>Primavera</HomeTeamName>
+                    <HomeTeamNameShortName></HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>10205</AwayTeamID>
+                    <AwayTeamName>Tordendragen</AwayTeamName>
+                    <AwayTeamNameShortName></AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-11-20 08:00:00</MatchDate>
+                <SourceSystem>Youth</SourceSystem>
+                <MatchType>100</MatchType>
+                <MatchContextId>1947</MatchContextId>
+                <Status>UPCOMING</Status>
+            </Match>
+            <Match>
+                <MatchID>84845251</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>10205</HomeTeamID>
+                    <HomeTeamName>Tordendragen</HomeTeamName>
+                    <HomeTeamNameShortName></HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>66389</AwayTeamID>
+                    <AwayTeamName>Nuuk Roosters</AwayTeamName>
+                    <AwayTeamNameShortName></AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-11-27 08:00:00</MatchDate>
+                <SourceSystem>Youth</SourceSystem>
+                <MatchType>100</MatchType>
+                <MatchContextId>1947</MatchContextId>
+                <Status>UPCOMING</Status>
+            </Match>
+        </MatchList>
+    </Team>
+</HattrickData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>youthplayerdetails.xml</FileName>
+    <Version>1.1</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 23:07:07</FetchedDate>
+    <YouthPlayer>
+        <YouthPlayerID>155958978</YouthPlayerID>
+        <FirstName>Anthonin</FirstName>
+        <NickName />
+        <LastName>Durand</LastName>
+        <Age>18</Age>
+        <AgeDays>85</AgeDays>
+        <ArrivalDate>2014-04-19 09:55:00</ArrivalDate>
+        <CanBePromotedIn>-83</CanBePromotedIn>
+        <PlayerNumber>100</PlayerNumber>
+        <Statement />
+        <Cards>0</Cards>
+        <InjuryLevel>-1</InjuryLevel>
+        <Specialty>0</Specialty>
+        <CareerGoals>0</CareerGoals>
+        <CareerHattricks>0</CareerHattricks>
+        <LeagueGoals>1</LeagueGoals>
+        <FriendlyGoals>0</FriendlyGoals>
+        <OwningYouthTeam>
+            <YouthTeamID>1101967</YouthTeamID>
+            <YouthTeamName>Olympique de Mémed Jeunes</YouthTeamName>
+            <YouthTeamLeagueID>58828</YouthTeamLeagueID>
+            <SeniorTeam>
+                <SeniorTeamID>291167</SeniorTeamID>
+                <SeniorTeamName>Olympique de Mémed</SeniorTeamName>
+            </SeniorTeam>
+        </OwningYouthTeam>
+        <LastMatch>
+            <YouthMatchID>86312916</YouthMatchID>
+            <Date>2014-11-01 17:15:00</Date>
+            <PositionCode>100</PositionCode>
+            <PlayedMinutes>90</PlayedMinutes>
+            <Rating>1.5</Rating>
+        </LastMatch>
+    </YouthPlayer>
+</HattrickData>

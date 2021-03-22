@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvHeader"
+        style="@style/headerDefault"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/settings_label_licenses"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/text_light"
+        android:textSize="@dimen/viewpager_text_size" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/background">
+
+        <LinearLayout
+            style="@style/contentLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvTitleApp"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@drawable/ic_header_primary_bg"
+                android:padding="5dp"
+                android:text="@string/app_name"
+                android:textColor="@color/text_default" />
+
+            <TextView
+                android:id="@+id/tvVersion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/backcontent"
+                android:gravity="center"
+                android:text="Version:"
+                android:textColor="@color/text_default"
+                android:textSize="@dimen/player_name_size" />
+
+            <TextView
+                android:id="@+id/tvTitleContributors"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginTop="@dimen/margin_layout"
+                android:layout_weight="1"
+                android:background="@drawable/ic_header_primary_bg"
+                android:padding="5dp"
+                android:text="Contributeurs"
+                android:textColor="@color/text_default" />
+
+            <LinearLayout
+                android:id="@+id/llContributors"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvTitleLicenses"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_layout"
+                android:layout_marginTop="@dimen/margin_layout"
+                android:layout_weight="1"
+                android:background="@drawable/ic_header_primary_bg"
+                android:padding="5dp"
+                android:text="@string/settings_label_licenses"
+                android:textColor="@color/text_default" />
+
+            <WebView
+                android:id="@+id/webView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/llOK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnOK"
+            style=""
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:text="@string/label_close"
+            android:textColor="@color/text_light"
+            android:textSize="@dimen/text_size" />
+
+    </LinearLayout>
+
+</LinearLayout>

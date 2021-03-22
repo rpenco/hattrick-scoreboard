@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rlBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background">
+
+        <LinearLayout
+            android:layout_width="@dimen/activity_horizontal_width"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView1"
+                style="@style/contentLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin_layout"
+                android:drawableLeft="@drawable/ic_hattrick_logo"
+                android:gravity="right"
+                android:text="@string/chpp_text_hattrick"
+                android:textColor="@color/text_default"
+                android:textSize="@dimen/text_size" />
+
+            <LinearLayout
+                android:id="@+id/LinearLayout1"
+                style="@style/contentLayout"
+                android:layout_width="@dimen/activity_horizontal_width"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin_layout"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tvPermissions"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableRight="@drawable/ic_chpp"
+                    android:text="@string/chpp_text_allow"
+                    android:textColor="@color/text_default"
+                    android:textSize="@dimen/text_size" />
+
+                <EditText
+                    android:id="@+id/etLogin"
+                    style="@style/roundedEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:ems="10"
+                    android:hint="@string/chpp_textfield_username"
+                    android:inputType="textNoSuggestions"
+                    android:lines="1"
+                    android:singleLine="true"
+                    android:textSize="@dimen/text_size">
+
+                    <requestFocus />
+                </EditText>
+
+                <EditText
+                    android:id="@+id/etPassword"
+                    style="@style/roundedEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    android:ems="10"
+                    android:hint="@string/chpp_textfield_password"
+                    android:inputType="textNoSuggestions"
+                    android:lines="1"
+                    android:singleLine="true"
+                    android:textSize="@dimen/text_size" />
+
+                <Button
+                    android:id="@+id/bnValidate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button_default"
+                    android:text="@string/label_confirm"
+                    android:textSize="@dimen/text_size" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

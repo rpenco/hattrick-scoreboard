@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>arenadetails.xml</FileName>
+    <Version>1.5</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-02 14:22:12</FetchedDate>
+    <LeagueArenaStats>
+        <LeagueID>0</LeagueID>
+        <CreatedDate>2014-10-27 04:50:00</CreatedDate>
+        <OtherArenaStatList>
+            <ArenaStat>
+                <ArenaID>981287</ArenaID>
+                <ArenaName>Ukrainian Camp Nou "The Huge"</ArenaName>
+                <ArenaSize>1000001</ArenaSize>
+                <ArenaLeagueID>68</ArenaLeagueID>
+                <ArenaLeagueName>Ukraine</ArenaLeagueName>
+                <ArenaRegionId>1355</ArenaRegionId>
+                <ArenaRegionName>Zaporizhzhya</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>233353</ArenaID>
+                <ArenaName>Crissolo (CN)</ArenaName>
+                <ArenaSize>555555</ArenaSize>
+                <ArenaLeagueID>4</ArenaLeagueID>
+                <ArenaLeagueName>Italie</ArenaLeagueName>
+                <ArenaRegionId>96</ArenaRegionId>
+                <ArenaRegionName>Torino</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>464267</ArenaID>
+                <ArenaName>FcDosmili Arena</ArenaName>
+                <ArenaSize>513000</ArenaSize>
+                <ArenaLeagueID>46</ArenaLeagueID>
+                <ArenaLeagueName>Suisse</ArenaLeagueName>
+                <ArenaRegionId>917</ArenaRegionId>
+                <ArenaRegionName>Schwyz</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>135644</ArenaID>
+                <ArenaName>soccer sisters Arena</ArenaName>
+                <ArenaSize>499200</ArenaSize>
+                <ArenaLeagueID>46</ArenaLeagueID>
+                <ArenaLeagueName>Suisse</ArenaLeagueName>
+                <ArenaRegionId>903</ArenaRegionId>
+                <ArenaRegionName>Aargau</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>886669</ArenaID>
+                <ArenaName>Maksič Park</ArenaName>
+                <ArenaSize>458000</ArenaSize>
+                <ArenaLeagueID>58</ArenaLeagueID>
+                <ArenaLeagueName>Croatie</ArenaLeagueName>
+                <ArenaRegionId>1100</ArenaRegionId>
+                <ArenaRegionName>Zagreb</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>462987</ArenaID>
+                <ArenaName>Farkad.S</ArenaName>
+                <ArenaSize>410000</ArenaSize>
+                <ArenaLeagueID>33</ArenaLeagueID>
+                <ArenaLeagueName>Égypte</ArenaLeagueName>
+                <ArenaRegionId>589</ArenaRegionId>
+                <ArenaRegionName>Cairo</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>278788</ArenaID>
+                <ArenaName>Chemist.gr Arena</ArenaName>
+                <ArenaSize>400001</ArenaSize>
+                <ArenaLeagueID>50</ArenaLeagueID>
+                <ArenaLeagueName>Grèce</ArenaLeagueName>
+                <ArenaRegionId>971</ArenaRegionId>
+                <ArenaRegionName>Attiki</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>157398</ArenaID>
+                <ArenaName>HODOS Team Arena</ArenaName>
+                <ArenaSize>400000</ArenaSize>
+                <ArenaLeagueID>51</ArenaLeagueID>
+                <ArenaLeagueName>Hongrie</ArenaLeagueName>
+                <ArenaRegionId>943</ArenaRegionId>
+                <ArenaRegionName>Budapest</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>1118917</ArenaID>
+                <ArenaName>Bar u Vočka</ArenaName>
+                <ArenaSize>400000</ArenaSize>
+                <ArenaLeagueID>67</ArenaLeagueID>
+                <ArenaLeagueName>Slovaquie</ArenaLeagueName>
+                <ArenaRegionId>1283</ArenaRegionId>
+                <ArenaRegionName>Žilinský</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>521339</ArenaID>
+                <ArenaName>Aquas Acker</ArenaName>
+                <ArenaSize>390000</ArenaSize>
+                <ArenaLeagueID>3</ArenaLeagueID>
+                <ArenaLeagueName>Allemagne</ArenaLeagueName>
+                <ArenaRegionId>236</ArenaRegionId>
+                <ArenaRegionName>Niedersachsen</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>527988</ArenaID>
+                <ArenaName>Gantstars zoo</ArenaName>
+                <ArenaSize>320000</ArenaSize>
+                <ArenaLeagueID>64</ArenaLeagueID>
+                <ArenaLeagueName>Slovénie</ArenaLeagueName>
+                <ArenaRegionId>1188</ArenaRegionId>
+                <ArenaRegionName>Koper</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>1930105</ArenaID>
+                <ArenaName>Juvelis Stadium</ArenaName>
+                <ArenaSize>316002</ArenaSize>
+                <ArenaLeagueID>4</ArenaLeagueID>
+                <ArenaLeagueName>Italie</ArenaLeagueName>
+                <ArenaRegionId>114</ArenaRegionId>
+                <ArenaRegionName>Toscana</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>163437</ArenaID>
+                <ArenaName>Hekkeløkka</ArenaName>
+                <ArenaSize>300000</ArenaSize>
+                <ArenaLeagueID>9</ArenaLeagueID>
+                <ArenaLeagueName>Norvège</ArenaLeagueName>
+                <ArenaRegionId>272</ArenaRegionId>
+                <ArenaRegionName>Oslo</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>1123173</ArenaID>
+                <ArenaName>Smilno  Arena</ArenaName>
+                <ArenaSize>300000</ArenaSize>
+                <ArenaLeagueID>67</ArenaLeagueID>
+                <ArenaLeagueName>Slovaquie</ArenaLeagueName>
+                <ArenaRegionId>1285</ArenaRegionId>
+                <ArenaRegionName>Prešovský</ArenaRegionName>
+            </ArenaStat>
+            <ArenaStat>
+                <ArenaID>1405379</ArenaID>
+                <ArenaName>Estadio Municipal De Braga</ArenaName>
+                <ArenaSize>300000</ArenaSize>
+                <ArenaLeagueID>25</ArenaLeagueID>
+                <ArenaLeagueName>Portugal</ArenaLeagueName>
+                <ArenaRegionId>675</ArenaRegionId>
+                <ArenaRegionName>Lisboa - Oeste</ArenaRegionName>
+            </ArenaStat>
+        </OtherArenaStatList>
+    </LeagueArenaStats>
+</HattrickData>

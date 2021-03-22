@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvCHPPHeader"
+        style="@style/headerDefault"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/chpp_title_permission"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/text_light"
+        android:textSize="@dimen/viewpager_text_size" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/background">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                style="@style/contentLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin_layout"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/TextView05"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableTop="@drawable/ic_chpp"
+                    android:padding="10dp"
+                    android:text="@string/chpp_permission_edito_1"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/text_default"
+                    android:textSize="@dimen/text_size" />
+
+                <TextView
+                    android:id="@+id/TextView07"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="@string/chpp_permission_edito_2"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/text_default"
+                    android:textSize="@dimen/text_size" />
+
+                <TextView
+                    android:id="@+id/TextView06"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="40dp"
+                    android:text="@string/chpp_permission_title_1"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/text_default"
+                    android:textSize="@dimen/text_size"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/TextView02"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="40dp"
+                    android:text="@string/chpp_permission_title_2"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/text_default"
+                    android:textSize="@dimen/text_size"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/TextView12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="40dp"
+                    android:text="@string/chpp_permission_title_3"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/text_default"
+                    android:textSize="@dimen/text_size"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/TextView10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="40dp"
+                    android:text="@string/chpp_permission_title_4"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/text_default"
+                    android:textSize="@dimen/text_size"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/TextView04"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="40dp"
+                    android:text="@string/chpp_permission_title_5"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/text_default"
+                    android:textSize="@dimen/text_size"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/TextView14"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="40dp"
+                    android:text="@string/chpp_permission_title_6"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/text_default"
+                    android:textSize="@dimen/text_size"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/llCHPPOK"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnCHPPOK"
+            style=""
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:text="@string/label_close"
+            android:textColor="@color/text_light"
+            android:textSize="@dimen/text_size" />
+
+    </LinearLayout>
+
+</LinearLayout>

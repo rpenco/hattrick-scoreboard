@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>supporters.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:25:54</FetchedDate>
+    <MySupporters TotalItems="2">
+        <SupporterTeam>
+            <UserId>1531275</UserId>
+            <LoginName>Chippen17</LoginName>
+            <TeamId>517499</TeamId>
+            <TeamName>RSC Ana Ivanovic</TeamName>
+            <LeagueID>44</LeagueID>
+            <LeagueName>Belgique</LeagueName>
+            <LeagueLevelUnitID>8717</LeagueLevelUnitID>
+            <LeagueLevelUnitName>II.3</LeagueLevelUnitName>
+        </SupporterTeam>
+        <SupporterTeam>
+            <UserId>1682106</UserId>
+            <LoginName>Voetbalschoen</LoginName>
+            <TeamId>365700</TeamId>
+            <TeamName>V.V. Jan van Arckel</TeamName>
+            <LeagueID>14</LeagueID>
+            <LeagueName>Pays-Bas</LeagueName>
+            <LeagueLevelUnitID>18475</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VI.1000</LeagueLevelUnitName>
+        </SupporterTeam>
+    </MySupporters>
+</HattrickData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>economy.xml</FileName>
+    <Version>1.3</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:04:50</FetchedDate>
+    <Team>
+        <TeamID>177327</TeamID>
+        <TeamName>Buros FC</TeamName>
+        <Cash>25969276</Cash>
+        <ExpectedCash>25415976</ExpectedCash>
+        <SponsorsPopularity Available="True">8</SponsorsPopularity>
+        <SupportersPopularity Available="True">7</SupportersPopularity>
+        <FanClubSize>1727</FanClubSize>
+        <IncomeSpectators>0</IncomeSpectators>
+        <IncomeSponsors>941700</IncomeSponsors>
+        <IncomeFinancial>0</IncomeFinancial>
+        <IncomeSoldPlayers>0</IncomeSoldPlayers>
+        <IncomeSoldPlayersCommission>0</IncomeSoldPlayersCommission>
+        <IncomeTemporary>300</IncomeTemporary>
+        <IncomeSum>942000</IncomeSum>
+        <CostsArena>270000</CostsArena>
+        <CostsPlayers>375300</CostsPlayers>
+        <CostsFinancial>0</CostsFinancial>
+        <CostsStaff>630000</CostsStaff>
+        <CostsBoughtPlayers>0</CostsBoughtPlayers>
+        <CostsArenaBuilding>0</CostsArenaBuilding>
+        <CostsTemporary>20000</CostsTemporary>
+        <CostsYouth>200000</CostsYouth>
+        <CostsSum>1495300</CostsSum>
+        <ExpectedWeeksTotal>-553300</ExpectedWeeksTotal>
+        <LastIncomeSpectators>4251195</LastIncomeSpectators>
+        <LastIncomeSponsors>939850</LastIncomeSponsors>
+        <LastIncomeFinancial>0</LastIncomeFinancial>
+        <LastIncomeSoldPlayers>0</LastIncomeSoldPlayers>
+        <LastIncomeSoldPlayersCommission>0</LastIncomeSoldPlayersCommission>
+        <LastIncomeTemporary>1800</LastIncomeTemporary>
+        <LastIncomeSum>5192845</LastIncomeSum>
+        <LastCostsArena>270000</LastCostsArena>
+        <LastCostsPlayers>373860</LastCostsPlayers>
+        <LastCostsFinancial>0</LastCostsFinancial>
+        <LastCostsStaff>630000</LastCostsStaff>
+        <LastCostsBoughtPlayers>0</LastCostsBoughtPlayers>
+        <LastCostsArenaBuilding>0</LastCostsArenaBuilding>
+        <LastCostsTemporary>60000</LastCostsTemporary>
+        <LastCostsYouth>200000</LastCostsYouth>
+        <LastCostsSum>1533860</LastCostsSum>
+        <LastWeeksTotal>3658985</LastWeeksTotal>
+    </Team>
+</HattrickData>

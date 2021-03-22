@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>matchdetails.xml</FileName>
+    <Version>2.5</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:09:10</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <SourceSystem>Hattrick</SourceSystem>
+    <Match>
+        <MatchID>52282171</MatchID>
+        <MatchType>1</MatchType>
+        <MatchDate>2005-11-05 18:40:00</MatchDate>
+        <FinishedDate>2005-11-05 20:25:00</FinishedDate>
+        <HomeTeam>
+            <HomeTeamID>826235</HomeTeamID>
+            <HomeTeamName>Vorwärts Billstedt</HomeTeamName>
+            <DressURI>http://res.hattrick.org/kits/1/1/1/1/matchKitSmall.png</DressURI>
+            <Formation>3-5-2</Formation>
+            <HomeGoals>2</HomeGoals>
+            <TacticType>0</TacticType>
+            <TacticSkill>0</TacticSkill>
+            <RatingMidfield>8</RatingMidfield>
+            <RatingRightDef>21</RatingRightDef>
+            <RatingMidDef>20</RatingMidDef>
+            <RatingLeftDef>16</RatingLeftDef>
+            <RatingRightAtt>9</RatingRightAtt>
+            <RatingMidAtt>11</RatingMidAtt>
+            <RatingLeftAtt>11</RatingLeftAtt>
+        </HomeTeam>
+        <AwayTeam>
+            <AwayTeamID>648638</AwayTeamID>
+            <AwayTeamName>SV Heimbach AH</AwayTeamName>
+            <DressURI>http://res.hattrick.org/kits/1/1/1/1/matchKitSmall.png</DressURI>
+            <Formation>5-3-2</Formation>
+            <AwayGoals>2</AwayGoals>
+            <TacticType>0</TacticType>
+            <TacticSkill>0</TacticSkill>
+            <RatingMidfield>10</RatingMidfield>
+            <RatingRightDef>15</RatingRightDef>
+            <RatingMidDef>17</RatingMidDef>
+            <RatingLeftDef>15</RatingLeftDef>
+            <RatingRightAtt>7</RatingRightAtt>
+            <RatingMidAtt>17</RatingMidAtt>
+            <RatingLeftAtt>7</RatingLeftAtt>
+        </AwayTeam>
+        <Arena>
+            <ArenaID>829673</ArenaID>
+            <ArenaName>Billy Billstedt Arena</ArenaName>
+            <WeatherID>1</WeatherID>
+            <SoldTotal>10685</SoldTotal>
+        </Arena>
+        <MatchOfficials>
+            <Referee>
+                <RefereeId>291524944</RefereeId>
+                <RefereeName>Tony De Bruycker</RefereeName>
+                <RefereeCountryId>44</RefereeCountryId>
+                <RefereeCountryName>Belgium</RefereeCountryName>
+                <RefereeTeamId>514873</RefereeTeamId>
+                <RefereeTeamname>Transvaaliens</RefereeTeamname>
+            </Referee>
+            <RefereeAssistant1>
+                <RefereeId>13445416</RefereeId>
+                <RefereeName>Joep Streng</RefereeName>
+                <RefereeCountryId>14</RefereeCountryId>
+                <RefereeCountryName>Nederland</RefereeCountryName>
+                <RefereeTeamId>828299</RefereeTeamId>
+                <RefereeTeamname>Los Albitos Fútbol Club</RefereeTeamname>
+            </RefereeAssistant1>
+            <RefereeAssistant2>
+                <RefereeId>195216292</RefereeId>
+                <RefereeName>Christian Baetschmann</RefereeName>
+                <RefereeCountryId>46</RefereeCountryId>
+                <RefereeCountryName>Schweiz</RefereeCountryName>
+                <RefereeTeamId>244600</RefereeTeamId>
+                <RefereeTeamname>FC Ozeans II</RefereeTeamname>
+            </RefereeAssistant2>
+        </MatchOfficials>
+        <Scorers>
+            <Goal Index="0">
+                <ScorerPlayerID>49077894</ScorerPlayerID>
+                <ScorerPlayerName>Dittmar Haueslmeier</ScorerPlayerName>
+                <ScorerTeamID>648638</ScorerTeamID>
+                <ScorerHomeGoals>0</ScorerHomeGoals>
+                <ScorerAwayGoals>1</ScorerAwayGoals>
+                <ScorerMinute>1</ScorerMinute>
+            </Goal>
+            <Goal Index="1">
+                <ScorerPlayerID>20500345</ScorerPlayerID>
+                <ScorerPlayerName>Foppe van Gaal</ScorerPlayerName>
+                <ScorerTeamID>826235</ScorerTeamID>
+                <ScorerHomeGoals>1</ScorerHomeGoals>
+                <ScorerAwayGoals>1</ScorerAwayGoals>
+                <ScorerMinute>18</ScorerMinute>
+            </Goal>
+            <Goal Index="2">
+                <ScorerPlayerID>71336784</ScorerPlayerID>
+                <ScorerPlayerName>Mario Walldürn</ScorerPlayerName>
+                <ScorerTeamID>648638</ScorerTeamID>
+                <ScorerHomeGoals>1</ScorerHomeGoals>
+                <ScorerAwayGoals>2</ScorerAwayGoals>
+                <ScorerMinute>40</ScorerMinute>
+            </Goal>
+            <Goal Index="3">
+                <ScorerPlayerID>10495174</ScorerPlayerID>
+                <ScorerPlayerName>Mats-Erik Sandner</ScorerPlayerName>
+                <ScorerTeamID>826235</ScorerTeamID>
+                <ScorerHomeGoals>2</ScorerHomeGoals>
+                <ScorerAwayGoals>2</ScorerAwayGoals>
+                <ScorerMinute>52</ScorerMinute>
+            </Goal>
+        </Scorers>
+        <Bookings>
+            <Booking Index="0">
+                <BookingPlayerID>55048239</BookingPlayerID>
+                <BookingPlayerName>Giuseppe Santuccio</BookingPlayerName>
+                <BookingTeamID>826235</BookingTeamID>
+                <BookingType>1</BookingType>
+                <BookingMinute>60</BookingMinute>
+            </Booking>
+        </Bookings>
+        <Injuries />
+        <PossessionFirstHalfHome>45</PossessionFirstHalfHome>
+        <PossessionFirstHalfAway>55</PossessionFirstHalfAway>
+        <PossessionSecondHalfHome>45</PossessionSecondHalfHome>
+        <PossessionSecondHalfAway>55</PossessionSecondHalfAway>
+        <EventList>
+            <Event Index="0">
+                <Minute>0</Minute>
+                <SubjectPlayerID>0</SubjectPlayerID>
+                <SubjectTeamID>0</SubjectTeamID>
+                <ObjectPlayerID>10685</ObjectPlayerID>
+                <EventTypeID>31</EventTypeID>
+                <EventVariation>2</EventVariation>
+                <EventText>10685 spectateurs s’étaient déplacés au &lt;a href="/Club/Arena/?ArenaID=829673"&gt;Billy Billstedt Arena&lt;/a&gt; malgré un temps assez nuageux. &lt;a href="/Club/HallOfFame/Player.aspx?playerId=291524944"&gt;Tony De Bruycker&lt;/a&gt; fut l'arbitre retenu pour le match, assisté par &lt;a href="/Club/HallOfFame/Player.aspx?playerId=13445416"&gt;Joep Streng&lt;/a&gt; et &lt;a href="/Club/HallOfFame/Player.aspx?playerId=195216292"&gt;Christian Baetschmann&lt;/a&gt;. </EventText>
+            </Event>
+            <Event Index="1">
+                <Minute>0</Minute>
+                <SubjectPlayerID>0</SubjectPlayerID>
+                <SubjectTeamID>826235</SubjectTeamID>
+                <ObjectPlayerID>1030502</ObjectPlayerID>
+                <EventTypeID>20</EventTypeID>
+                <EventVariation>3</EventVariation>
+                <EventText>L’entraineur de &lt;span class="hometeam"&gt;Billstedt&lt;/span&gt; plaça ses pions : ce fut un 3-5-2.</EventText>
+            </Event>
+            <Event Index="2">
+                <Minute>0</Minute>
+                <SubjectPlayerID>0</SubjectPlayerID>
+                <SubjectTeamID>826235</SubjectTeamID>
+                <ObjectPlayerID>0</ObjectPlayerID>
+                <EventTypeID>21</EventTypeID>
+                <EventVariation>3</EventVariation>
+                <EventText>Le onze de départ se composa des joueurs suivants : Fahir  - Freihofer, Belov, Thorstensson  - Rethen, Nussbau, Santuccio, van Gaal, Nilsson  - Prendergast, Sandner.&lt;br /&gt;&lt;br /&gt;</EventText>
+            </Event>
+            <Event Index="3">
+                <Minute>0</Minute>
+                <SubjectPlayerID>0</SubjectPlayerID>
+                <SubjectTeamID>648638</SubjectTeamID>
+                <ObjectPlayerID>1050302</ObjectPlayerID>
+                <EventTypeID>20</EventTypeID>
+                <EventVariation>2</EventVariation>
+                <EventText>&lt;span class="awayteam"&gt;Heimbach&lt;/span&gt; choisit une formation stratégique, un 5-3-2.</EventText>
+            </Event>
+            <Event Index="4">
+                <Minute>0</Minute>
+                <SubjectPlayerID>0</SubjectPlayerID>
+                <SubjectTeamID>648638</SubjectTeamID>
+                <ObjectPlayerID>0</ObjectPlayerID>
+                <EventTypeID>21</EventTypeID>
+                <EventVariation>3</EventVariation>
+                <EventText>Le onze de départ se composa des joueurs suivants : Giovannetti  - Schlee, Niebelschütz, Haueslmeier, Vinterling, Schrom  - Nippala, Dourado, Bourrel  - Pütlich, Walldürn.&lt;br /&gt;&lt;br /&gt;</EventText>
+            </Event>
+            <Event Index="5">
+                <Minute>1</Minute>
+                <SubjectPlayerID>49077894</SubjectPlayerID>
+                <SubjectTeamID>648638</SubjectTeamID>
+                <ObjectPlayerID>46756570</ObjectPlayerID>
+                <EventTypeID>119</EventTypeID>
+                <EventVariation>3</EventVariation>
+                <EventText>&lt;span class="awayteam"&gt;Heimbach&lt;/span&gt; bénéficia d’un corner, magnifiquement tiré par &lt;a href="/Club/Players/Player.aspx?playerId=46756570" title="Olli Nippala" class="awayplayer"&gt;Olli Nippala&lt;/a&gt;. La tête piquée de &lt;a href="/Club/Players/Player.aspx?playerId=49077894" title="Dittmar Haueslmeier" class="awayplayer"&gt;Dittmar Haueslmeier&lt;/a&gt; qui suivit fut imparable et le score était désormais de 0 - 1.</EventText>
+            </Event>
+            <Event Index="6">
+                <Minute>18</Minute>
+                <SubjectPlayerID>20500345</SubjectPlayerID>
+                <SubjectTeamID>826235</SubjectTeamID>
+                <ObjectPlayerID>38988364</ObjectPlayerID>
+                <EventTypeID>136</EventTypeID>
+                <EventVariation>3</EventVariation>
+                <EventText>&lt;a href="/Club/Players/Player.aspx?playerId=38988364" title="Ant&amp;#243;nio Dourado" class="awayplayer"&gt;António Dourado&lt;/a&gt; a encore beaucoup à apprendre. Comme par exemple qu'il ne faut pas faire de passe imprécise devant &lt;a href="/Club/Players/Player.aspx?playerId=20500345" title="Foppe van Gaal" class="homeplayer"&gt;Foppe van Gaal&lt;/a&gt;... ce dernier réussit ainsi à marquer pour &lt;span class="hometeam"&gt;Billstedt&lt;/span&gt;. 1 - 1.</EventText>
+            </Event>
+            <Event Index="7">
+                <Minute>27</Minute>
+                <SubjectPlayerID>44636134</SubjectPlayerID>
+                <SubjectTeamID>826235</SubjectTeamID>
+                <ObjectPlayerID>50361527</ObjectPlayerID>
+                <EventTypeID>236</EventTypeID>
+                <EventVariation>2</EventVariation>
+                <EventText>&lt;a href="/Club/Players/Player.aspx?playerId=50361527" title="Beno&amp;#238;t Bourrel" class="awayplayer"&gt;Benoît Bourrel&lt;/a&gt; reçut quelques mots très durs de la part de son entraineur quand il manqua complètement sa passe après 27 minutes, certainement par manque d’expérience, ce qui permit presque à son adversaire de marquer.</EventText>
+            </Event>
+            <Event Index="8">
+                <Minute>32</Minute>
+                <SubjectPlayerID>61519711</SubjectPlayerID>
+                <SubjectTeamID>826235</SubjectTeamID>
+                <ObjectPlayerID>74864069</ObjectPlayerID>
+                <EventTypeID>222</EventTypeID>
+                <EventVariation>3</EventVariation>
+                <EventText>&lt;span class="hometeam"&gt;Billstedt&lt;/span&gt; eut une belle occasion de prendre l’avantage quand &lt;a href="/Club/Players/Player.aspx?playerId=61519711" title="Guido Freihofer" class="homeplayer"&gt;Guido Freihofer&lt;/a&gt; s'échappa sur le côté gauche avant de tenter sa chance. Toutefois, sa frappe trop molle envoya le ballon directement dans les bras de &lt;a href="/Club/Players/Player.aspx?playerId=74864069" title="Walter Giovannetti" class="awayplayer"&gt;Walter Giovannetti&lt;/a&gt;.</EventText>
+            </Event>
+            <Event Index="9">
+                <Minute>40</Minute>
+                <SubjectPlayerID>71336784</SubjectPlayerID>
+                <SubjectTeamID>648638</SubjectTeamID>
+                <ObjectPlayerID>54988078</ObjectPlayerID>
+                <EventTypeID>141</EventTypeID>
+                <EventVariation>3</EventVariation>
+                <EventText>La défense de &lt;span class="awayteam"&gt;Heimbach&lt;/span&gt; était parfois à l'origine de belles contre-attaques, comme celle qui permit à &lt;a href="/Club/Players/Player.aspx?playerId=71336784" title="Mario Walld&amp;#252;rn" class="awayplayer"&gt;Mario Walldürn&lt;/a&gt; de marquer au centre après 40 minutes, portant ainsi le score à 1 - 2.</EventText>
+            </Event>
+            <Event Index="10">
+                <Minute>45</Minute>
+                <SubjectPlayerID>0</SubjectPlayerID>
+                <SubjectTeamID>0</SubjectTeamID>
+                <ObjectPlayerID>0</ObjectPlayerID>
+                <EventTypeID>45</EventTypeID>
+                <EventVariation>2</EventVariation>
+                <EventText>Les deux équipes rentrèrent aux vestiaires sur le score de 1 - 2.</EventText>
+            </Event>
+            <Event Index="11">
+                <Minute>45</Minute>
+                <SubjectPlayerID>0</SubjectPlayerID>
+                <SubjectTeamID>648638</SubjectTeamID>
+                <ObjectPlayerID>55</ObjectPlayerID>
+                <EventTypeID>40</EventTypeID>
+                <EventVariation>3</EventVariation>
+                <EventText>&lt;span class="awayteam"&gt;Heimbach&lt;/span&gt;, avec 55 % de possession de balle, domina cette période.&lt;br /&gt;&lt;br /&gt;</EventText>
+            </Event>
+            <Event Index="12">
+                <Minute>52</Minute>
+                <SubjectPlayerID>10495174</SubjectPlayerID>
+                <SubjectTeamID>826235</SubjectTeamID>
+                <ObjectPlayerID>11580287</ObjectPlayerID>
+                <EventTypeID>116</EventTypeID>
+                <EventVariation>1</EventVariation>
+                <EventText>À la suite d’un mouvement rapide, &lt;a href="/Club/Players/Player.aspx?playerId=11580287" title="Stellan Nilsson" class="homeplayer"&gt;Stellan Nilsson&lt;/a&gt; de &lt;span class="hometeam"&gt;Billstedt&lt;/span&gt; réussit à se démarquer pour passer le ballon à &lt;a href="/Club/Players/Player.aspx?playerId=10495174" title="Mats-Erik Sandner" class="homeplayer"&gt;Mats-Erik Sandner&lt;/a&gt;, qui marqua facilement. 2 - 2 au tableau d’affichage.</EventText>
+            </Event>
+            <Event Index="13">
+                <Minute>55</Minute>
+                <SubjectPlayerID>49077896</SubjectPlayerID>
+                <SubjectTeamID>648638</SubjectTeamID>
+                <ObjectPlayerID>54988078</ObjectPlayerID>
+                <EventTypeID>273</EventTypeID>
+                <EventVariation>2</EventVariation>
+                <EventText>&lt;span class="awayteam"&gt;Heimbach&lt;/span&gt; eut une bonne occasion de mener au tableau d’affichage sur cette attaque sur le côté droit mais &lt;a href="/Club/Players/Player.aspx?playerId=54988078" title="Kutay Fahir" class="homeplayer"&gt;Kutay Fahir&lt;/a&gt; gagna son duel face à &lt;a href="/Club/Players/Player.aspx?playerId=49077896" title="Lars Niebelsch&amp;#252;tz" class="awayplayer"&gt;Lars Niebelschütz&lt;/a&gt;.</EventText>
+            </Event>
+            <Event Index="14">
+                <Minute>60</Minute>
+                <SubjectPlayerID>55048239</SubjectPlayerID>
+                <SubjectTeamID>826235</SubjectTeamID>
+                <ObjectPlayerID>0</ObjectPlayerID>
+                <EventTypeID>511</EventTypeID>
+                <EventVariation>1</EventVariation>
+                <EventText>Après plusieurs tirages de maillot évidents, &lt;a href="/Club/Players/Player.aspx?playerId=55048239" title="Giuseppe Santuccio" class="homeplayer"&gt;Giuseppe Santuccio&lt;/a&gt; de &lt;span class="hometeam"&gt;Billstedt&lt;/span&gt; reçut un avertissement.</EventText>
+            </Event>
+            <Event Index="15">
+                <Minute>69</Minute>
+                <SubjectPlayerID>55048239</SubjectPlayerID>
+                <SubjectTeamID>826235</SubjectTeamID>
+                <ObjectPlayerID>74864069</ObjectPlayerID>
+                <EventTypeID>220</EventTypeID>
+                <EventVariation>2</EventVariation>
+                <EventText>Une jolie combinaison sur un coup franc de &lt;a href="/Club/Players/Player.aspx?playerId=55048239" title="Giuseppe Santuccio" class="homeplayer"&gt;Giuseppe Santuccio&lt;/a&gt; après 69 minutes de jeu aurait pu donner l'avantage à l'équipe locale, mais le gardien réussit un bel arrêt.</EventText>
+            </Event>
+            <Event Index="16">
+                <Minute>90</Minute>
+                <SubjectPlayerID>0</SubjectPlayerID>
+                <SubjectTeamID>648638</SubjectTeamID>
+                <ObjectPlayerID>55</ObjectPlayerID>
+                <EventTypeID>40</EventTypeID>
+                <EventVariation>1</EventVariation>
+                <EventText>Les 45 minutes furent dominées par &lt;span class="awayteam"&gt;Heimbach&lt;/span&gt;, avec  55 % de possession de balle.&lt;br /&gt;&lt;br /&gt;</EventText>
+            </Event>
+            <Event Index="17">
+                <Minute>90</Minute>
+                <SubjectPlayerID>44126923</SubjectPlayerID>
+                <SubjectTeamID>826235</SubjectTeamID>
+                <ObjectPlayerID>0</ObjectPlayerID>
+                <EventTypeID>41</EventTypeID>
+                <EventVariation>1</EventVariation>
+                <EventText>&lt;a href="/Club/Players/Player.aspx?playerId=44126923" title="Igor Belov" class="homeplayer"&gt;Igor Belov&lt;/a&gt; fut le meilleur joueur de &lt;span class="hometeam"&gt;Billstedt&lt;/span&gt;.</EventText>
+            </Event>
+            <Event Index="18">
+                <Minute>90</Minute>
+                <SubjectPlayerID>57507459</SubjectPlayerID>
+                <SubjectTeamID>826235</SubjectTeamID>
+                <ObjectPlayerID>0</ObjectPlayerID>
+                <EventTypeID>42</EventTypeID>
+                <EventVariation>2</EventVariation>
+                <EventText>En revanche, &lt;a href="/Club/Players/Player.aspx?playerId=57507459" title="Reinhard Rethen" class="homeplayer"&gt;Reinhard Rethen&lt;/a&gt; était dans un mauvais jour.</EventText>
+            </Event>
+            <Event Index="19">
+                <Minute>90</Minute>
+                <SubjectPlayerID>49077894</SubjectPlayerID>
+                <SubjectTeamID>648638</SubjectTeamID>
+                <ObjectPlayerID>0</ObjectPlayerID>
+                <EventTypeID>41</EventTypeID>
+                <EventVariation>1</EventVariation>
+                <EventText>&lt;a href="/Club/Players/Player.aspx?playerId=49077894" title="Dittmar Haueslmeier" class="awayplayer"&gt;Dittmar Haueslmeier&lt;/a&gt; fut le meilleur joueur de &lt;span class="awayteam"&gt;Heimbach&lt;/span&gt;.</EventText>
+            </Event>
+            <Event Index="20">
+                <Minute>90</Minute>
+                <SubjectPlayerID>74864069</SubjectPlayerID>
+                <SubjectTeamID>648638</SubjectTeamID>
+                <ObjectPlayerID>0</ObjectPlayerID>
+                <EventTypeID>42</EventTypeID>
+                <EventVariation>3</EventVariation>
+                <EventText>Cependant, &lt;a href="/Club/Players/Player.aspx?playerId=74864069" title="Walter Giovannetti" class="awayplayer"&gt;Walter Giovannetti&lt;/a&gt; ne fut pas à la hauteur de ses coéquipiers.</EventText>
+            </Event>
+            <Event Index="21">
+                <Minute>90</Minute>
+                <SubjectPlayerID>0</SubjectPlayerID>
+                <SubjectTeamID>0</SubjectTeamID>
+                <ObjectPlayerID>0</ObjectPlayerID>
+                <EventTypeID>599</EventTypeID>
+                <EventVariation>2</EventVariation>
+                <EventText>Le match se termina sur le score de 2 - 2.</EventText>
+            </Event>
+        </EventList>
+    </Match>
+</HattrickData>

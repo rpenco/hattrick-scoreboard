@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>leaguedetails.xml</FileName>
+    <Version>1.4</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:06:38</FetchedDate>
+    <LeagueID>5</LeagueID>
+    <LeagueName>France</LeagueName>
+    <LeagueLevel>7</LeagueLevel>
+    <MaxLevel>8</MaxLevel>
+    <LeagueLevelUnitID>72900</LeagueLevelUnitID>
+    <LeagueLevelUnitName>VII.85</LeagueLevelUnitName>
+    <CurrentMatchRound>13</CurrentMatchRound>
+    <Team>
+        <TeamID>1761624</TeamID>
+        <TeamName>reyrieux platinium</TeamName>
+        <Position>1</Position>
+        <PositionChange>0</PositionChange>
+        <Matches>12</Matches>
+        <GoalsFor>42</GoalsFor>
+        <GoalsAgainst>8</GoalsAgainst>
+        <Points>31</Points>
+        <Won>10</Won>
+        <Draws>1</Draws>
+        <Lost>1</Lost>
+    </Team>
+    <Team>
+        <TeamID>291167</TeamID>
+        <TeamName>Olympique de Mémed</TeamName>
+        <Position>2</Position>
+        <PositionChange>0</PositionChange>
+        <Matches>12</Matches>
+        <GoalsFor>23</GoalsFor>
+        <GoalsAgainst>9</GoalsAgainst>
+        <Points>25</Points>
+        <Won>8</Won>
+        <Draws>1</Draws>
+        <Lost>3</Lost>
+    </Team>
+    <Team>
+        <TeamID>177327</TeamID>
+        <TeamName>Buros FC</TeamName>
+        <Position>3</Position>
+        <PositionChange>0</PositionChange>
+        <Matches>12</Matches>
+        <GoalsFor>17</GoalsFor>
+        <GoalsAgainst>10</GoalsAgainst>
+        <Points>21</Points>
+        <Won>6</Won>
+        <Draws>3</Draws>
+        <Lost>3</Lost>
+    </Team>
+    <Team>
+        <TeamID>586189</TeamID>
+        <TeamName>BlackBird F.C.</TeamName>
+        <Position>4</Position>
+        <PositionChange>0</PositionChange>
+        <Matches>12</Matches>
+        <GoalsFor>13</GoalsFor>
+        <GoalsAgainst>18</GoalsAgainst>
+        <Points>16</Points>
+        <Won>4</Won>
+        <Draws>4</Draws>
+        <Lost>4</Lost>
+    </Team>
+    <Team>
+        <TeamID>1765066</TeamID>
+        <TeamName>AS Carca</TeamName>
+        <Position>5</Position>
+        <PositionChange>1</PositionChange>
+        <Matches>12</Matches>
+        <GoalsFor>9</GoalsFor>
+        <GoalsAgainst>17</GoalsAgainst>
+        <Points>13</Points>
+        <Won>3</Won>
+        <Draws>4</Draws>
+        <Lost>5</Lost>
+    </Team>
+    <Team>
+        <TeamID>1756912</TeamID>
+        <TeamName>olympique d'hugo</TeamName>
+        <Position>6</Position>
+        <PositionChange>2</PositionChange>
+        <Matches>12</Matches>
+        <GoalsFor>9</GoalsFor>
+        <GoalsAgainst>18</GoalsAgainst>
+        <Points>13</Points>
+        <Won>3</Won>
+        <Draws>4</Draws>
+        <Lost>5</Lost>
+    </Team>
+    <Team>
+        <TeamID>1764486</TeamID>
+        <TeamName>Lesidefixdu60</TeamName>
+        <Position>7</Position>
+        <PositionChange>2</PositionChange>
+        <Matches>12</Matches>
+        <GoalsFor>10</GoalsFor>
+        <GoalsAgainst>16</GoalsAgainst>
+        <Points>12</Points>
+        <Won>3</Won>
+        <Draws>3</Draws>
+        <Lost>6</Lost>
+    </Team>
+    <Team>
+        <TeamID>967393</TeamID>
+        <TeamName>SC Bordeaux</TeamName>
+        <Position>8</Position>
+        <PositionChange>0</PositionChange>
+        <Matches>12</Matches>
+        <GoalsFor>10</GoalsFor>
+        <GoalsAgainst>37</GoalsAgainst>
+        <Points>2</Points>
+        <Won>0</Won>
+        <Draws>2</Draws>
+        <Lost>10</Lost>
+    </Team>
+</HattrickData>

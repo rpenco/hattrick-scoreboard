@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>matchesArchive.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:35:55</FetchedDate>
+    <IsYouth>False</IsYouth>
+    <Team>
+        <TeamID>198547</TeamID>
+        <TeamName>Bhutan</TeamName>
+        <MatchList>
+            <Match>
+                <MatchID>483978880</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>198547</HomeTeamID>
+                    <HomeTeamName>Bhutan</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>987915</AwayTeamID>
+                    <AwayTeamName>Les Dumbos Invincibles</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-03 16:00:00</MatchDate>
+                <MatchType>9</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>484288477</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>406794</HomeTeamID>
+                    <HomeTeamName>SUPERKAKAO SE</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-06 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>13</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323406</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>198547</HomeTeamID>
+                    <HomeTeamName>Bhutan</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>20117</AwayTeamID>
+                    <AwayTeamName>Wild Card United</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-10 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>496414532</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>401336</HomeTeamID>
+                    <HomeTeamName>Lamers FC</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-13 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>9</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323408</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1181634</HomeTeamID>
+                    <HomeTeamName>Ulotos Boys</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-17 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>6</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>496712476</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1502274</HomeTeamID>
+                    <HomeTeamName>Eggspectations</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-20 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>8</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323414</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>198547</HomeTeamID>
+                    <HomeTeamName>Bhutan</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>199109</AwayTeamID>
+                    <AwayTeamName>Skt. Lukas</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-24 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>496960321</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>576836</HomeTeamID>
+                    <HomeTeamName>Team SinCity</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-27 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>6</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323417</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>401829</HomeTeamID>
+                    <HomeTeamName>FC Sdr. Jylland</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-08-31 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>497133118</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1502455</HomeTeamID>
+                    <HomeTeamName>Gurkerne FC</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-03 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>6</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323418</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>408523</HomeTeamID>
+                    <HomeTeamName>FC Brolin</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-07 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>8</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>497272897</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>18499</HomeTeamID>
+                    <HomeTeamName>Dons Tropper</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-10 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323424</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>198547</HomeTeamID>
+                    <HomeTeamName>Bhutan</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>571347</AwayTeamID>
+                    <AwayTeamName>Mulleteers</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-14 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>497402663</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>408259</HomeTeamID>
+                    <HomeTeamName>Robsteren FC</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-17 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323429</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>200839</HomeTeamID>
+                    <HomeTeamName>Arkitekt Gronau</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-21 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>497526686</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>400763</HomeTeamID>
+                    <HomeTeamName>Thieles Dream Team</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-24 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323432</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>198547</HomeTeamID>
+                    <HomeTeamName>Bhutan</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>200839</AwayTeamID>
+                    <AwayTeamName>Arkitekt Gronau</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-09-28 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>497650950</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>200925</HomeTeamID>
+                    <HomeTeamName>Nordsjællands Boldmongoler</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-01 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>5</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323437</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>571347</HomeTeamID>
+                    <HomeTeamName>Mulleteers</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-05 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>5</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>497773120</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>404116</HomeTeamID>
+                    <HomeTeamName>Tuborg I.F.</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-08 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323442</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>198547</HomeTeamID>
+                    <HomeTeamName>Bhutan</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>408523</AwayTeamID>
+                    <AwayTeamName>FC Brolin</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-12 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>14</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>497896322</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>406869</HomeTeamID>
+                    <HomeTeamName>Los Sværke Logos il tempo gigante</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-15 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>5</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323443</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>198547</HomeTeamID>
+                    <HomeTeamName>Bhutan</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>401829</AwayTeamID>
+                    <AwayTeamName>FC Sdr. Jylland</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-19 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>498019130</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>402999</HomeTeamID>
+                    <HomeTeamName>Copenhagen Mavericks</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-22 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>493323446</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>199109</HomeTeamID>
+                    <HomeTeamName>Skt. Lukas</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>198547</AwayTeamID>
+                    <AwayTeamName>Bhutan</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-26 16:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>1769</MatchContextId>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>498141460</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>198547</HomeTeamID>
+                    <HomeTeamName>Bhutan</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>571347</AwayTeamID>
+                    <AwayTeamName>Mulleteers</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2014-10-29 16:30:00</MatchDate>
+                <MatchType>3</MatchType>
+                <MatchContextId>10</MatchContextId>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+        </MatchList>
+    </Team>
+</HattrickData>

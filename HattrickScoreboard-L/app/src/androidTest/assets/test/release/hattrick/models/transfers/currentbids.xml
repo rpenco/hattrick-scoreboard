@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>currentbids.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-27 22:13:15</FetchedDate>
+    <TeamId>177327</TeamId>
+    <BidItems TrackingTypeID="1">
+        <BidItem>
+            <TransferId>299349347</TransferId>
+            <PlayerId>391605499</PlayerId>
+            <PlayerName>Cédric Leblond</PlayerName>
+            <HighestBid />
+            <Deadline>2014-11-28 17:37:15</Deadline>
+        </BidItem>
+        <BidItem>
+            <TransferId>299349378</TransferId>
+            <PlayerId>395966361</PlayerId>
+            <PlayerName>Gaby Lore</PlayerName>
+            <HighestBid />
+            <Deadline>2014-11-28 17:37:58</Deadline>
+        </BidItem>
+        <BidItem>
+            <TransferId>299349404</TransferId>
+            <PlayerId>389195166</PlayerId>
+            <PlayerName>Saleh Iles</PlayerName>
+            <HighestBid />
+            <Deadline>2014-11-28 17:38:41</Deadline>
+        </BidItem>
+        <BidItem>
+            <TransferId>299349429</TransferId>
+            <PlayerId>398352978</PlayerId>
+            <PlayerName>Abdelkrim Amraoui</PlayerName>
+            <HighestBid />
+            <Deadline>2014-11-28 17:39:14</Deadline>
+        </BidItem>
+    </BidItems>
+</HattrickData>

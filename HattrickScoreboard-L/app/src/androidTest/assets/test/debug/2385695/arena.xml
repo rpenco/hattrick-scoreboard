@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>arenadetails.xml</FileName>
+    <Version>1.5</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:25:49</FetchedDate>
+    <Arena>
+        <ArenaID>198547</ArenaID>
+        <ArenaName>Druk Yul - the Land of the Thunder Dragon</ArenaName>
+        <Team>
+            <TeamID>198547</TeamID>
+            <TeamName>Bhutan</TeamName>
+        </Team>
+        <League>
+            <LeagueID>11</LeagueID>
+            <LeagueName>Danemark</LeagueName>
+        </League>
+        <Region>
+            <RegionID>301</RegionID>
+            <RegionName>Nordsjælland</RegionName>
+        </Region>
+        <CurrentCapacity>
+            <RebuiltDate Available="True">2009-12-05 10:31:39</RebuiltDate>
+            <Terraces>44950</Terraces>
+            <Basic>17500</Basic>
+            <Roof>15550</Roof>
+            <VIP>2000</VIP>
+            <Total>80000</Total>
+        </CurrentCapacity>
+        <ExpandedCapacity Available="False" />
+    </Arena>
+</HattrickData>

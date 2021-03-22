@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>bookmarks.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:01:31</FetchedDate>
+    <BookmarkList>
+        <Bookmark>
+            <BookmarkID>164371379</BookmarkID>
+            <BookmarkTypeID>1</BookmarkTypeID>
+            <Text>Buros FC</Text>
+            <Text2>Khips</Text2>
+            <ObjectID>177327</ObjectID>
+            <ObjectID2 />
+            <ObjectID3 />
+            <Comment></Comment>
+        </Bookmark>
+        <Bookmark>
+            <BookmarkID>164932517</BookmarkID>
+            <BookmarkTypeID>1</BookmarkTypeID>
+            <Text>Girondin's Warriors</Text>
+            <Text2>Boroskov</Text2>
+            <ObjectID>961257</ObjectID>
+            <ObjectID2 />
+            <ObjectID3 />
+            <Comment></Comment>
+        </Bookmark>
+        <Bookmark>
+            <BookmarkID>165045242</BookmarkID>
+            <BookmarkTypeID>1</BookmarkTypeID>
+            <Text>monte do bispo</Text>
+            <Text2>kristof64</Text2>
+            <ObjectID>1160954</ObjectID>
+            <ObjectID2 />
+            <ObjectID3 />
+            <Comment></Comment>
+        </Bookmark>
+    </BookmarkList>
+</HattrickData>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>managercompendium.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:33:51</FetchedDate>
+    <Manager>
+        <UserId>2385695</UserId>
+        <Loginname>Thimphu</Loginname>
+        <SupporterTier>diamond</SupporterTier>
+        <Language>
+            <LanguageId>8</LanguageId>
+            <LanguageName>Dansk</LanguageName>
+        </Language>
+        <Country>
+            <CountryId>10</CountryId>
+            <CountryName>Danmark</CountryName>
+        </Country>
+        <Teams>
+            <Team>
+                <TeamId>198547</TeamId>
+                <TeamName>Bhutan</TeamName>
+                <Arena>
+                    <ArenaId>198547</ArenaId>
+                    <ArenaName>Druk Yul - the Land of the Thunder Dragon</ArenaName>
+                </Arena>
+                <League>
+                    <LeagueId>11</LeagueId>
+                    <LeagueName>Danemark</LeagueName>
+                </League>
+                <LeagueLevelUnit>
+                    <LeagueLevelUnitId>1769</LeagueLevelUnitId>
+                    <LeagueLevelUnitName>Superligaen</LeagueLevelUnitName>
+                </LeagueLevelUnit>
+                <Region>
+                    <RegionId>301</RegionId>
+                    <RegionName>Nordsjælland</RegionName>
+                </Region>
+                <YouthTeam>
+                    <YouthTeamId>10205</YouthTeamId>
+                    <YouthTeamName>Tordendragen</YouthTeamName>
+                    <YouthLeague>
+                        <YouthLeagueId>1947</YouthLeagueId>
+                        <YouthLeagueName>Talenterne</YouthLeagueName>
+                    </YouthLeague>
+                </YouthTeam>
+            </Team>
+            <Team>
+                <TeamId>574458</TeamId>
+                <TeamName>Tibet </TeamName>
+                <Arena>
+                    <ArenaId>574458</ArenaId>
+                    <ArenaName>Potala</ArenaName>
+                </Arena>
+                <League>
+                    <LeagueId>11</LeagueId>
+                    <LeagueName>Danemark</LeagueName>
+                </League>
+                <LeagueLevelUnit>
+                    <LeagueLevelUnitId>24498</LeagueLevelUnitId>
+                    <LeagueLevelUnitName>VI.490</LeagueLevelUnitName>
+                </LeagueLevelUnit>
+                <Region>
+                    <RegionId>301</RegionId>
+                    <RegionName>Nordsjælland</RegionName>
+                </Region>
+                <YouthTeam>
+                    <YouthTeamId>2319595</YouthTeamId>
+                    <YouthTeamName>The Forbidden Team</YouthTeamName>
+                    <YouthLeague>
+                        <YouthLeagueId>165061</YouthLeagueId>
+                        <YouthLeagueName>Costa Del Sol</YouthLeagueName>
+                    </YouthLeague>
+                </YouthTeam>
+            </Team>
+        </Teams>
+        <NationalTeamCoach />
+    </Manager>
+</HattrickData>

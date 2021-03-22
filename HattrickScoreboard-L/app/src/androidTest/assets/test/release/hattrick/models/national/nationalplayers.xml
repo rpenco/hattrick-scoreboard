@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>nationalplayers.xml</FileName>
+    <Version>1.3</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:15:21</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <TeamID>3004</TeamID>
+    <TeamName>France</TeamName>
+    <ActionType>view</ActionType>
+    <Players>
+        <Player>
+            <PlayerID>309192297</PlayerID>
+            <PlayerName>Clément Velez</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>310318325</PlayerID>
+            <PlayerName>Emmanuel Amann</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>286851428</PlayerID>
+            <PlayerName>Erwan Boissy</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>296545582</PlayerID>
+            <PlayerName>Étienne Bédard</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>296725419</PlayerID>
+            <PlayerName>Franck Poulat</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>317092993</PlayerID>
+            <PlayerName>Jean-Michel Pignon</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>278078764</PlayerID>
+            <PlayerName>Jean-Michel Prin</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>284821458</PlayerID>
+            <PlayerName>Kévin Girardin</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>307944340</PlayerID>
+            <PlayerName>Kévin Roger</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>326743966</PlayerID>
+            <PlayerName>Laurent 'chtio' Colin</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>295440913</PlayerID>
+            <PlayerName>Luc Voisin</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>304093089</PlayerID>
+            <PlayerName>Romain Gouet</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>317015889</PlayerID>
+            <PlayerName>Romain Sœur</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>297575106</PlayerID>
+            <PlayerName>Sébastien Bourget</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>292861309</PlayerID>
+            <PlayerName>Tony Huet</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>327155997</PlayerID>
+            <PlayerName>Vincent Vitale</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>314017339</PlayerID>
+            <PlayerName>William Doudard</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>314880335</PlayerID>
+            <PlayerName>Xavier 'Le magnifique' Martigny</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>318873114</PlayerID>
+            <PlayerName>Xavier Souplet</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>309686522</PlayerID>
+            <PlayerName>Yanisse Révillon</PlayerName>
+        </Player>
+        <Player>
+            <PlayerID>308133942</PlayerID>
+            <PlayerName>Yohan Melle</PlayerName>
+        </Player>
+    </Players>
+</HattrickData>

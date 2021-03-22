@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>Avatars.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:27:36</FetchedDate>
+    <Team>
+        <TeamId>198547</TeamId>
+        <Players>
+            <Player>
+                <PlayerID>56307937</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_hof.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/bodies_hof/f6hof15.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f6c.png</Image>
+                    </Layer>
+                    <Layer x="25" y="16">
+                        <Image>/Img/Avatar/eyes/e24c.png</Image>
+                    </Layer>
+                    <Layer x="29" y="59">
+                        <Image>/Img/Avatar/mouths/m25cg.png</Image>
+                    </Layer>
+                    <Layer x="18" y="31">
+                        <Image>/Img/Avatar/noses/n26mc.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f6h4c.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>58703246</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_hof.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/bodies_hof/f8hof09.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f8a.png</Image>
+                    </Layer>
+                    <Layer x="26" y="15">
+                        <Image>/Img/Avatar/eyes/e23c.png</Image>
+                    </Layer>
+                    <Layer x="32" y="64">
+                        <Image>/Img/Avatar/mouths/m28c.png</Image>
+                    </Layer>
+                    <Layer x="22" y="21">
+                        <Image>/Img/Avatar/noses/n1.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f8h5a.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+            <Player>
+                <PlayerID>184608805</PlayerID>
+                <Avatar>
+                    <BackgroundImage>/Img/Avatar/backgrounds/card1.png</BackgroundImage>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/backgrounds/bg_hof.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/bodies_hof/f8hof03.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/faces/f8e.png</Image>
+                    </Layer>
+                    <Layer x="21" y="21">
+                        <Image>/Img/Avatar/eyes/e10c.png</Image>
+                    </Layer>
+                    <Layer x="28" y="58">
+                        <Image>/Img/Avatar/mouths/m21c.png</Image>
+                    </Layer>
+                    <Layer x="19" y="52">
+                        <Image>/Img/Avatar/goatees/g2.png</Image>
+                    </Layer>
+                    <Layer x="15" y="16">
+                        <Image>/Img/Avatar/noses/n35mh.png</Image>
+                    </Layer>
+                    <Layer x="9" y="10">
+                        <Image>/Img/Avatar/hair/f8h10h.png</Image>
+                    </Layer>
+                </Avatar>
+            </Player>
+        </Players>
+    </Team>
+</HattrickData>

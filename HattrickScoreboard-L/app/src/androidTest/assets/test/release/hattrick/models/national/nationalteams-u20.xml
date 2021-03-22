@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>nationalTeams.xml</FileName>
+    <Version>1.5</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 15:51:33</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <LeagueOfficeTypeID>4</LeagueOfficeTypeID>
+    <NationalTeams>
+        <NationalTeam>
+            <NationalTeamID>3074</NationalTeamID>
+            <NationalTeamName>U-20 Türkiye</NationalTeamName>
+            <Dress>N010301</Dress>
+            <RatingScores>705</RatingScores>
+            <LeagueId>32</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3098</NationalTeamID>
+            <NationalTeamName>U-20 Hellas</NationalTeamName>
+            <Dress>J070305</Dress>
+            <RatingScores>697</RatingScores>
+            <LeagueId>50</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3064</NationalTeamID>
+            <NationalTeamName>U-20 Suomi</NationalTeamName>
+            <Dress>N030503</Dress>
+            <RatingScores>667</RatingScores>
+            <LeagueId>12</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3047</NationalTeamID>
+            <NationalTeamName>U-20 Argentina</NationalTeamName>
+            <Dress>A070403</Dress>
+            <RatingScores>652</RatingScores>
+            <LeagueId>7</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3117</NationalTeamID>
+            <NationalTeamName>U-20 Slovensko</NationalTeamName>
+            <Dress>N050303</Dress>
+            <RatingScores>644</RatingScores>
+            <LeagueId>67</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3097</NationalTeamID>
+            <NationalTeamName>U-20 Hrvatska</NationalTeamName>
+            <Dress>F010305</Dress>
+            <RatingScores>614</RatingScores>
+            <LeagueId>58</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3049</NationalTeamID>
+            <NationalTeamName>U-20 Norge</NationalTeamName>
+            <Dress>N010311</Dress>
+            <RatingScores>592</RatingScores>
+            <LeagueId>9</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3066</NationalTeamID>
+            <NationalTeamName>U-20 Nederland</NationalTeamName>
+            <Dress>N080308</Dress>
+            <RatingScores>547</RatingScores>
+            <LeagueId>14</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3061</NationalTeamID>
+            <NationalTeamName>U-20 România</NationalTeamName>
+            <Dress>N060501</Dress>
+            <RatingScores>517</RatingScores>
+            <LeagueId>37</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3092</NationalTeamID>
+            <NationalTeamName>U-20 Latvija</NationalTeamName>
+            <Dress>A090309</Dress>
+            <RatingScores>517</RatingScores>
+            <LeagueId>53</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3070</NationalTeamID>
+            <NationalTeamName>U-20 Polska</NationalTeamName>
+            <Dress>N030101</Dress>
+            <RatingScores>510</RatingScores>
+            <LeagueId>24</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3091</NationalTeamID>
+            <NationalTeamName>U-20 Magyarország</NationalTeamName>
+            <Dress>N190302</Dress>
+            <RatingScores>494</RatingScores>
+            <LeagueId>51</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3044</NationalTeamID>
+            <NationalTeamName>U-20 Italia</NationalTeamName>
+            <Dress>N160316</Dress>
+            <RatingScores>480</RatingScores>
+            <LeagueId>4</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3093</NationalTeamID>
+            <NationalTeamName>U-20 Indonesia</NationalTeamName>
+            <Dress>K030103</Dress>
+            <RatingScores>465</RatingScores>
+            <LeagueId>54</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3078</NationalTeamID>
+            <NationalTeamName>U-20 Belgium</NationalTeamName>
+            <Dress>N010406</Dress>
+            <RatingScores>465</RatingScores>
+            <LeagueId>44</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3151</NationalTeamID>
+            <NationalTeamName>U-20 Iran</NationalTeamName>
+            <Dress>N020301</Dress>
+            <RatingScores>457</RatingScores>
+            <LeagueId>85</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3065</NationalTeamID>
+            <NationalTeamName>U-20 Brasil</NationalTeamName>
+            <Dress>N060503</Dress>
+            <RatingScores>457</RatingScores>
+            <LeagueId>16</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3060</NationalTeamID>
+            <NationalTeamName>U-20 Rossiya</NationalTeamName>
+            <Dress>N030519</Dress>
+            <RatingScores>441</RatingScores>
+            <LeagueId>35</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3095</NationalTeamID>
+            <NationalTeamName>U-20 Eesti</NationalTeamName>
+            <Dress>N040403</Dress>
+            <RatingScores>435</RatingScores>
+            <LeagueId>56</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3199</NationalTeamID>
+            <NationalTeamName>U-20 Senegal</NationalTeamName>
+            <Dress>N141406</Dress>
+            <RatingScores>435</RatingScores>
+            <LeagueId>121</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3099</NationalTeamID>
+            <NationalTeamName>U-20 Česká republika</NationalTeamName>
+            <Dress>N010305</Dress>
+            <RatingScores>420</RatingScores>
+            <LeagueId>52</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3119</NationalTeamID>
+            <NationalTeamName>U-20 Ukraina</NationalTeamName>
+            <Dress>N061616</Dress>
+            <RatingScores>420</RatingScores>
+            <LeagueId>68</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3067</NationalTeamID>
+            <NationalTeamName>U-20 Chile</NationalTeamName>
+            <Dress>N011103</Dress>
+            <RatingScores>404</RatingScores>
+            <LeagueId>18</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3072</NationalTeamID>
+            <NationalTeamName>U-20 Uruguay</NationalTeamName>
+            <Dress>N070404</Dress>
+            <RatingScores>397</RatingScores>
+            <LeagueId>28</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3046</NationalTeamID>
+            <NationalTeamName>U-20 México</NationalTeamName>
+            <Dress>N020301</Dress>
+            <RatingScores>390</RatingScores>
+            <LeagueId>6</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3131</NationalTeamID>
+            <NationalTeamName>U-20 Bolivia</NationalTeamName>
+            <Dress>N020303</Dress>
+            <RatingScores>375</RatingScores>
+            <LeagueId>74</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3042</NationalTeamID>
+            <NationalTeamName>U-20 England</NationalTeamName>
+            <Dress>N031103</Dress>
+            <RatingScores>374</RatingScores>
+            <LeagueId>2</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3045</NationalTeamID>
+            <NationalTeamName>U-20 France</NationalTeamName>
+            <Dress>N160301</Dress>
+            <RatingScores>367</RatingScores>
+            <LeagueId>5</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3183</NationalTeamID>
+            <NationalTeamName>U-20 Sakartvelo</NationalTeamName>
+            <Dress>N040404</Dress>
+            <RatingScores>367</RatingScores>
+            <LeagueId>104</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3041</NationalTeamID>
+            <NationalTeamName>U-20 Sverige</NationalTeamName>
+            <Dress>N200520</Dress>
+            <RatingScores>337</RatingScores>
+            <LeagueId>1</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3227</NationalTeamID>
+            <NationalTeamName>U-20 Crna Gora</NationalTeamName>
+            <Dress>N010121</Dress>
+            <RatingScores>330</RatingScores>
+            <LeagueId>131</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3189</NationalTeamID>
+            <NationalTeamName>U-20 Kazakhstan</NationalTeamName>
+            <Dress>G070616</Dress>
+            <RatingScores>315</RatingScores>
+            <LeagueId>112</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3107</NationalTeamID>
+            <NationalTeamName>U-20 Bulgaria</NationalTeamName>
+            <Dress>N030201</Dress>
+            <RatingScores>315</RatingScores>
+            <LeagueId>62</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3111</NationalTeamID>
+            <NationalTeamName>U-20 Slovenija</NationalTeamName>
+            <Dress>N050203</Dress>
+            <RatingScores>315</RatingScores>
+            <LeagueId>64</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3143</NationalTeamID>
+            <NationalTeamName>U-20 United Arab Emirates</NationalTeamName>
+            <Dress>N030301</Dress>
+            <RatingScores>300</RatingScores>
+            <LeagueId>83</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3094</NationalTeamID>
+            <NationalTeamName>U-20 Pilipinas</NationalTeamName>
+            <Dress>N050106</Dress>
+            <RatingScores>300</RatingScores>
+            <LeagueId>55</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3079</NationalTeamID>
+            <NationalTeamName>U-20 Schweiz</NationalTeamName>
+            <Dress>N010301</Dress>
+            <RatingScores>300</RatingScores>
+            <LeagueId>46</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3135</NationalTeamID>
+            <NationalTeamName>U-20 Al Maghrib </NationalTeamName>
+            <Dress>N010201</Dress>
+            <RatingScores>300</RatingScores>
+            <LeagueId>77</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3101</NationalTeamID>
+            <NationalTeamName>U-20 Chinese Taipei</NationalTeamName>
+            <Dress>K031116</Dress>
+            <RatingScores>300</RatingScores>
+            <LeagueId>60</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3058</NationalTeamID>
+            <NationalTeamName>U-20 Prathet Thai</NationalTeamName>
+            <Dress>N040104</Dress>
+            <RatingScores>300</RatingScores>
+            <LeagueId>31</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3211</NationalTeamID>
+            <NationalTeamName>U-20 Cabo Verde</NationalTeamName>
+            <Dress>N160316</Dress>
+            <RatingScores>300</RatingScores>
+            <LeagueId>125</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3043</NationalTeamID>
+            <NationalTeamName>U-20 Deutschland</NationalTeamName>
+            <Dress>N030403</Dress>
+            <RatingScores>285</RatingScores>
+            <LeagueId>3</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3080</NationalTeamID>
+            <NationalTeamName>U-20 Österreich</NationalTeamName>
+            <Dress>N010301</Dress>
+            <RatingScores>285</RatingScores>
+            <LeagueId>39</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3048</NationalTeamID>
+            <NationalTeamName>U-20 USA</NationalTeamName>
+            <Dress>D010505</Dress>
+            <RatingScores>285</RatingScores>
+            <LeagueId>8</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3063</NationalTeamID>
+            <NationalTeamName>U-20 Danmark</NationalTeamName>
+            <Dress>N010301</Dress>
+            <RatingScores>285</RatingScores>
+            <LeagueId>11</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3127</NationalTeamID>
+            <NationalTeamName>U-20 Nigeria</NationalTeamName>
+            <Dress>G020203</Dress>
+            <RatingScores>285</RatingScores>
+            <LeagueId>75</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3055</NationalTeamID>
+            <NationalTeamName>U-20 Portugal</NationalTeamName>
+            <Dress>N010201</Dress>
+            <RatingScores>270</RatingScores>
+            <LeagueId>25</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3076</NationalTeamID>
+            <NationalTeamName>U-20 España</NationalTeamName>
+            <Dress>N011604</Dress>
+            <RatingScores>270</RatingScores>
+            <LeagueId>36</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3121</NationalTeamID>
+            <NationalTeamName>U-20 Việt Nam</NationalTeamName>
+            <Dress>K060601</Dress>
+            <RatingScores>270</RatingScores>
+            <LeagueId>70</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3149</NationalTeamID>
+            <NationalTeamName>U-20 Tounes</NationalTeamName>
+            <Dress>K010103</Dress>
+            <RatingScores>270</RatingScores>
+            <LeagueId>80</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3050</NationalTeamID>
+            <NationalTeamName>U-20 Oceania</NationalTeamName>
+            <Dress>G050307</Dress>
+            <RatingScores>270</RatingScores>
+            <LeagueId>15</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3109</NationalTeamID>
+            <NationalTeamName>U-20 Israel</NationalTeamName>
+            <Dress>N030503</Dress>
+            <RatingScores>270</RatingScores>
+            <LeagueId>63</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3062</NationalTeamID>
+            <NationalTeamName>U-20 Ísland</NationalTeamName>
+            <Dress>N050505</Dress>
+            <RatingScores>270</RatingScores>
+            <LeagueId>38</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3115</NationalTeamID>
+            <NationalTeamName>U-20 Bosna i Hercegovina</NationalTeamName>
+            <Dress>G160503</Dress>
+            <RatingScores>255</RatingScores>
+            <LeagueId>69</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3123</NationalTeamID>
+            <NationalTeamName>U-20 Pakistan</NationalTeamName>
+            <Dress>N020302</Dress>
+            <RatingScores>255</RatingScores>
+            <LeagueId>71</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3163</NationalTeamID>
+            <NationalTeamName>U-20 Kenya</NationalTeamName>
+            <Dress>K020402</Dress>
+            <RatingScores>255</RatingScores>
+            <LeagueId>95</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3243</NationalTeamID>
+            <NationalTeamName>U-20 Suriyah</NationalTeamName>
+            <Dress>N010103</Dress>
+            <RatingScores>255</RatingScores>
+            <LeagueId>140</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3205</NationalTeamID>
+            <NationalTeamName>U-20 Liechtenstein</NationalTeamName>
+            <Dress>N050105</Dress>
+            <RatingScores>240</RatingScores>
+            <LeagueId>117</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3207</NationalTeamID>
+            <NationalTeamName>U-20 Hayastan</NationalTeamName>
+            <Dress>N010508</Dress>
+            <RatingScores>240</RatingScores>
+            <LeagueId>122</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3161</NationalTeamID>
+            <NationalTeamName>U-20 Jamaica</NationalTeamName>
+            <Dress>N200406</Dress>
+            <RatingScores>240</RatingScores>
+            <LeagueId>94</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3185</NationalTeamID>
+            <NationalTeamName>U-20 Guatemala</NationalTeamName>
+            <Dress>G031616</Dress>
+            <RatingScores>240</RatingScores>
+            <LeagueId>107</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3173</NationalTeamID>
+            <NationalTeamName>U-20 Kyrgyzstan</NationalTeamName>
+            <Dress>I010101</Dress>
+            <RatingScores>240</RatingScores>
+            <LeagueId>102</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3054</NationalTeamID>
+            <NationalTeamName>U-20 Perú</NationalTeamName>
+            <Dress>G010101</Dress>
+            <RatingScores>240</RatingScores>
+            <LeagueId>23</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3075</NationalTeamID>
+            <NationalTeamName>U-20 China</NationalTeamName>
+            <Dress>N010101</Dress>
+            <RatingScores>225</RatingScores>
+            <LeagueId>34</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3069</NationalTeamID>
+            <NationalTeamName>U-20 Nippon</NationalTeamName>
+            <Dress>N160316</Dress>
+            <RatingScores>225</RatingScores>
+            <LeagueId>22</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3165</NationalTeamID>
+            <NationalTeamName>U-20 Northern Ireland</NationalTeamName>
+            <Dress>N020302</Dress>
+            <RatingScores>210</RatingScores>
+            <LeagueId>93</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3133</NationalTeamID>
+            <NationalTeamName>U-20 Føroyar</NationalTeamName>
+            <Dress>N030503</Dress>
+            <RatingScores>210</RatingScores>
+            <LeagueId>76</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3081</NationalTeamID>
+            <NationalTeamName>U-20 Malaysia</NationalTeamName>
+            <Dress>I040409</Dress>
+            <RatingScores>210</RatingScores>
+            <LeagueId>45</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3051</NationalTeamID>
+            <NationalTeamName>U-20 Canada</NationalTeamName>
+            <Dress>N010101</Dress>
+            <RatingScores>210</RatingScores>
+            <LeagueId>17</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3125</NationalTeamID>
+            <NationalTeamName>U-20 Paraguay</NationalTeamName>
+            <Dress>A010503</Dress>
+            <RatingScores>210</RatingScores>
+            <LeagueId>72</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3171</NationalTeamID>
+            <NationalTeamName>U-20 Honduras</NationalTeamName>
+            <Dress>B070707</Dress>
+            <RatingScores>210</RatingScores>
+            <LeagueId>99</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3052</NationalTeamID>
+            <NationalTeamName>U-20 Colombia</NationalTeamName>
+            <Dress>N060501</Dress>
+            <RatingScores>195</RatingScores>
+            <LeagueId>19</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3179</NationalTeamID>
+            <NationalTeamName>U-20 Shqiperia</NationalTeamName>
+            <Dress>N010401</Dress>
+            <RatingScores>195</RatingScores>
+            <LeagueId>98</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3233</NationalTeamID>
+            <NationalTeamName>U-20 Moçambique</NationalTeamName>
+            <Dress>N020821</Dress>
+            <RatingScores>195</RatingScores>
+            <LeagueId>135</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3239</NationalTeamID>
+            <NationalTeamName>U-20 Prateh Kampuchea</NationalTeamName>
+            <Dress>N010101</Dress>
+            <RatingScores>195</RatingScores>
+            <LeagueId>138</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3114</NationalTeamID>
+            <NationalTeamName>U-20 Lietuva</NationalTeamName>
+            <Dress>N060206</Dress>
+            <RatingScores>195</RatingScores>
+            <LeagueId>66</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3175</NationalTeamID>
+            <NationalTeamName>U-20 Malta</NationalTeamName>
+            <Dress>N010301</Dress>
+            <RatingScores>195</RatingScores>
+            <LeagueId>101</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3193</NationalTeamID>
+            <NationalTeamName>U-20 Suriname</NationalTeamName>
+            <Dress>K030203</Dress>
+            <RatingScores>180</RatingScores>
+            <LeagueId>113</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3255</NationalTeamID>
+            <NationalTeamName>U-20 Cameroon</NationalTeamName>
+            <Dress>N000000</Dress>
+            <RatingScores>180</RatingScores>
+            <LeagueId>146</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3219</NationalTeamID>
+            <NationalTeamName>U-20 Azərbaycan</NationalTeamName>
+            <Dress>J110102</Dress>
+            <RatingScores>180</RatingScores>
+            <LeagueId>129</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3139</NationalTeamID>
+            <NationalTeamName>U-20 Costa Rica</NationalTeamName>
+            <Dress>N010505</Dress>
+            <RatingScores>180</RatingScores>
+            <LeagueId>81</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3217</NationalTeamID>
+            <NationalTeamName>U-20 Al Iraq</NationalTeamName>
+            <Dress>N030401</Dress>
+            <RatingScores>180</RatingScores>
+            <LeagueId>128</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3231</NationalTeamID>
+            <NationalTeamName>U-20 Oman</NationalTeamName>
+            <Dress>N030102</Dress>
+            <RatingScores>165</RatingScores>
+            <LeagueId>134</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3257</NationalTeamID>
+            <NationalTeamName>U-20 Cuba</NationalTeamName>
+            <Dress>N000000</Dress>
+            <RatingScores>165</RatingScores>
+            <LeagueId>147</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3213</NationalTeamID>
+            <NationalTeamName>U-20 Barbados</NationalTeamName>
+            <Dress>N040404</Dress>
+            <RatingScores>165</RatingScores>
+            <LeagueId>124</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3215</NationalTeamID>
+            <NationalTeamName>U-20 Bahrain</NationalTeamName>
+            <Dress>E090309</Dress>
+            <RatingScores>165</RatingScores>
+            <LeagueId>123</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3250</NationalTeamID>
+            <NationalTeamName>U-20 Uganda</NationalTeamName>
+            <Dress>N042101</Dress>
+            <RatingScores>165</RatingScores>
+            <LeagueId>143</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3197</NationalTeamID>
+            <NationalTeamName>U-20 Algérie</NationalTeamName>
+            <Dress>N020202</Dress>
+            <RatingScores>165</RatingScores>
+            <LeagueId>118</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3103</NationalTeamID>
+            <NationalTeamName>U-20 Hong Kong</NationalTeamName>
+            <Dress>N010101</Dress>
+            <RatingScores>150</RatingScores>
+            <LeagueId>59</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3167</NationalTeamID>
+            <NationalTeamName>U-20 Panama</NationalTeamName>
+            <Dress>N010503</Dress>
+            <RatingScores>150</RatingScores>
+            <LeagueId>96</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3145</NationalTeamID>
+            <NationalTeamName>U-20 Saudi Arabia</NationalTeamName>
+            <Dress>G020302</Dress>
+            <RatingScores>150</RatingScores>
+            <LeagueId>79</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3195</NationalTeamID>
+            <NationalTeamName>U-20 Trinidad &amp; Tobago</NationalTeamName>
+            <Dress>N091901</Dress>
+            <RatingScores>150</RatingScores>
+            <LeagueId>110</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3105</NationalTeamID>
+            <NationalTeamName>U-20 Cymru</NationalTeamName>
+            <Dress>N010301</Dress>
+            <RatingScores>150</RatingScores>
+            <LeagueId>61</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3071</NationalTeamID>
+            <NationalTeamName>U-20 Scotland</NationalTeamName>
+            <Dress>N110311</Dress>
+            <RatingScores>135</RatingScores>
+            <LeagueId>26</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3077</NationalTeamID>
+            <NationalTeamName>U-20 Singapore</NationalTeamName>
+            <Dress>N161616</Dress>
+            <RatingScores>135</RatingScores>
+            <LeagueId>47</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3096</NationalTeamID>
+            <NationalTeamName>U-20 Srbija</NationalTeamName>
+            <Dress>N010503</Dress>
+            <RatingScores>135</RatingScores>
+            <LeagueId>57</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3056</NationalTeamID>
+            <NationalTeamName>U-20 South Africa</NationalTeamName>
+            <Dress>N210221</Dress>
+            <RatingScores>120</RatingScores>
+            <LeagueId>27</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3068</NationalTeamID>
+            <NationalTeamName>U-20 India</NationalTeamName>
+            <Dress>H030808</Dress>
+            <RatingScores>105</RatingScores>
+            <LeagueId>20</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3147</NationalTeamID>
+            <NationalTeamName>U-20 Lëtzebuerg</NationalTeamName>
+            <Dress>N010307</Dress>
+            <RatingScores>105</RatingScores>
+            <LeagueId>84</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3203</NationalTeamID>
+            <NationalTeamName>U-20 Lubnan</NationalTeamName>
+            <Dress>B010101</Dress>
+            <RatingScores>105</RatingScores>
+            <LeagueId>120</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3073</NationalTeamID>
+            <NationalTeamName>U-20 Hanguk</NationalTeamName>
+            <Dress>N190319</Dress>
+            <RatingScores>105</RatingScores>
+            <LeagueId>30</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3235</NationalTeamID>
+            <NationalTeamName>U-20 Brunei</NationalTeamName>
+            <Dress>B060406</Dress>
+            <RatingScores>105</RatingScores>
+            <LeagueId>136</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3223</NationalTeamID>
+            <NationalTeamName>U-20 Angola</NationalTeamName>
+            <Dress>N010421</Dress>
+            <RatingScores>90</RatingScores>
+            <LeagueId>130</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3209</NationalTeamID>
+            <NationalTeamName>U-20 Côte d'Ivoire</NationalTeamName>
+            <Dress>N080303</Dress>
+            <RatingScores>90</RatingScores>
+            <LeagueId>126</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3153</NationalTeamID>
+            <NationalTeamName>U-20 Dominican Republic</NationalTeamName>
+            <Dress>N030505</Dress>
+            <RatingScores>90</RatingScores>
+            <LeagueId>88</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3169</NationalTeamID>
+            <NationalTeamName>U-20 El Salvador</NationalTeamName>
+            <Dress>G161616</Dress>
+            <RatingScores>90</RatingScores>
+            <LeagueId>100</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3053</NationalTeamID>
+            <NationalTeamName>U-20 Ireland</NationalTeamName>
+            <Dress>N020302</Dress>
+            <RatingScores>75</RatingScores>
+            <LeagueId>21</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3246</NationalTeamID>
+            <NationalTeamName>U-20 Dawlat Qatar</NationalTeamName>
+            <Dress>N030303</Dress>
+            <RatingScores>75</RatingScores>
+            <LeagueId>141</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3059</NationalTeamID>
+            <NationalTeamName>U-20 Misr</NationalTeamName>
+            <Dress>N010403</Dress>
+            <RatingScores>75</RatingScores>
+            <LeagueId>33</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3201</NationalTeamID>
+            <NationalTeamName>U-20 Mongol Uls</NationalTeamName>
+            <Dress>K050105</Dress>
+            <RatingScores>75</RatingScores>
+            <LeagueId>119</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3141</NationalTeamID>
+            <NationalTeamName>U-20 Cyprus</NationalTeamName>
+            <Dress>N070303</Dress>
+            <RatingScores>60</RatingScores>
+            <LeagueId>89</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3157</NationalTeamID>
+            <NationalTeamName>U-20 Belarus</NationalTeamName>
+            <Dress>I110503</Dress>
+            <RatingScores>60</RatingScores>
+            <LeagueId>91</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3177</NationalTeamID>
+            <NationalTeamName>U-20 Moldova</NationalTeamName>
+            <Dress>N050506</Dress>
+            <RatingScores>60</RatingScores>
+            <LeagueId>103</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3221</NationalTeamID>
+            <NationalTeamName>U-20 Al Kuwayt</NationalTeamName>
+            <Dress>N110311</Dress>
+            <RatingScores>60</RatingScores>
+            <LeagueId>127</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3159</NationalTeamID>
+            <NationalTeamName>U-20 Makedonija</NationalTeamName>
+            <Dress>I010106</Dress>
+            <RatingScores>60</RatingScores>
+            <LeagueId>97</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3259</NationalTeamID>
+            <NationalTeamName>U-20 Palestine</NationalTeamName>
+            <Dress>N000000</Dress>
+            <RatingScores>45</RatingScores>
+            <LeagueId>148</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3241</NationalTeamID>
+            <NationalTeamName>U-20 Bénin</NationalTeamName>
+            <Dress>I200219</Dress>
+            <RatingScores>45</RatingScores>
+            <LeagueId>139</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3129</NationalTeamID>
+            <NationalTeamName>U-20 Ecuador</NationalTeamName>
+            <Dress>N200501</Dress>
+            <RatingScores>45</RatingScores>
+            <LeagueId>73</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3252</NationalTeamID>
+            <NationalTeamName>U-20 Dhivehi Raajje</NationalTeamName>
+            <Dress>E020302</Dress>
+            <RatingScores>30</RatingScores>
+            <LeagueId>144</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3187</NationalTeamID>
+            <NationalTeamName>U-20 Andorra</NationalTeamName>
+            <Dress>I011101</Dress>
+            <RatingScores>30</RatingScores>
+            <LeagueId>105</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3261</NationalTeamID>
+            <NationalTeamName>U-20 O'zbekiston</NationalTeamName>
+            <Dress>N000000</Dress>
+            <RatingScores>30</RatingScores>
+            <LeagueId>145</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3225</NationalTeamID>
+            <NationalTeamName>U-20 Bangladesh</NationalTeamName>
+            <Dress>N020401</Dress>
+            <RatingScores>30</RatingScores>
+            <LeagueId>132</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3181</NationalTeamID>
+            <NationalTeamName>U-20 Al Urdun</NationalTeamName>
+            <Dress>N160303</Dress>
+            <RatingScores>30</RatingScores>
+            <LeagueId>106</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3191</NationalTeamID>
+            <NationalTeamName>U-20 Nicaragua</NationalTeamName>
+            <Dress>N050303</Dress>
+            <RatingScores>30</RatingScores>
+            <LeagueId>111</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3237</NationalTeamID>
+            <NationalTeamName>U-20 Ghana</NationalTeamName>
+            <Dress>N030303</Dress>
+            <RatingScores>15</RatingScores>
+            <LeagueId>137</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3248</NationalTeamID>
+            <NationalTeamName>U-20 Tanzania</NationalTeamName>
+            <Dress>N050614</Dress>
+            <RatingScores>15</RatingScores>
+            <LeagueId>142</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3229</NationalTeamID>
+            <NationalTeamName>U-20 Al Yaman</NationalTeamName>
+            <Dress>N010304</Dress>
+            <RatingScores>0</RatingScores>
+            <LeagueId>133</LeagueId>
+        </NationalTeam>
+        <NationalTeam>
+            <NationalTeamID>3057</NationalTeamID>
+            <NationalTeamName>U-20 Venezuela</NationalTeamName>
+            <Dress>N090303</Dress>
+            <RatingScores>0</RatingScores>
+            <LeagueId>29</LeagueId>
+        </NationalTeam>
+    </NationalTeams>
+    <Cup>
+        <CupID>149</CupID>
+        <CupTeams>
+            <CupTeam>
+                <CupNationalTeamID>3047</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Argentina</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3078</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Belgium</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3065</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Brasil</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3098</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Hellas</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3097</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Hrvatska</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3093</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Indonesia</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3092</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Latvija</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3091</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Magyarország</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3066</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Nederland</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3049</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Norge</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3070</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Polska</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3061</CupNationalTeamID>
+                <CupNationalTeamName>U-20 România</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3199</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Senegal</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3117</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Slovensko</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3064</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Suomi</CupNationalTeamName>
+            </CupTeam>
+            <CupTeam>
+                <CupNationalTeamID>3074</CupNationalTeamID>
+                <CupNationalTeamName>U-20 Türkiye</CupNationalTeamName>
+            </CupTeam>
+        </CupTeams>
+    </Cup>
+</HattrickData>

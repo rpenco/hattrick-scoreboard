@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>arenadetails.xml</FileName>
+    <Version>1.5</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-02 14:20:10</FetchedDate>
+    <MyArena>
+        <ArenaID>177327</ArenaID>
+        <ArenaName>Arène de Buros</ArenaName>
+        <MatchTypes>All</MatchTypes>
+        <FirstDate>2011-06-15 00:16:00</FirstDate>
+        <LastDate>2014-11-02 14:20:10</LastDate>
+        <NumberOfMatches>113</NumberOfMatches>
+        <VisitorsAverage>
+            <Terraces>9004</Terraces>
+            <Basic>3672</Basic>
+            <Roof>2046</Roof>
+            <VIP>279</VIP>
+            <Total>15002</Total>
+        </VisitorsAverage>
+        <VisitorsMost>
+            <Terraces>23000</Terraces>
+            <Basic>10000</Basic>
+            <Roof>6000</Roof>
+            <VIP>1000</VIP>
+            <Total>40000</Total>
+        </VisitorsMost>
+        <VisitorsLeast>
+            <Terraces>112</Terraces>
+            <Basic>39</Basic>
+            <Roof>21</Roof>
+            <VIP>0</VIP>
+            <Total>172</Total>
+        </VisitorsLeast>
+    </MyArena>
+</HattrickData>

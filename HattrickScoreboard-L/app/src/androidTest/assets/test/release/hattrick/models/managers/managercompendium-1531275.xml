@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>managercompendium.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-30 23:11:30</FetchedDate>
+    <Manager>
+        <UserId>1531275</UserId>
+        <Loginname>Chippen17</Loginname>
+        <SupporterTier>diamond</SupporterTier>
+        <Language>
+            <LanguageId>2</LanguageId>
+            <LanguageName>English (UK)</LanguageName>
+        </Language>
+        <Country>
+            <CountryId>38</CountryId>
+            <CountryName>Belgium</CountryName>
+        </Country>
+        <Teams>
+            <Team>
+                <TeamId>517499</TeamId>
+                <TeamName>RSC Ana Ivanovic</TeamName>
+                <Arena>
+                    <ArenaId>517499</ArenaId>
+                    <ArenaName>Ana Ivanovic Stadium</ArenaName>
+                </Arena>
+                <League>
+                    <LeagueId>44</LeagueId>
+                    <LeagueName>Belgique</LeagueName>
+                </League>
+                <LeagueLevelUnit>
+                    <LeagueLevelUnitId>8717</LeagueLevelUnitId>
+                    <LeagueLevelUnitName>II.3</LeagueLevelUnitName>
+                </LeagueLevelUnit>
+                <Region>
+                    <RegionId>886</RegionId>
+                    <RegionName>Oost-Vlaanderen</RegionName>
+                </Region>
+                <YouthTeam>
+                    <YouthTeamId>10700</YouthTeamId>
+                    <YouthTeamName>Ana Ivanovic Youth Academy </YouthTeamName>
+                    <YouthLeague>
+                        <YouthLeagueId>524776</YouthLeagueId>
+                        <YouthLeagueName>New League</YouthLeagueName>
+                    </YouthLeague>
+                </YouthTeam>
+            </Team>
+            <Team>
+                <TeamId>793902</TeamId>
+                <TeamName>Ana Ivanovic CF</TeamName>
+                <Arena>
+                    <ArenaId>797340</ArenaId>
+                    <ArenaName>Ana Ivanovic CF Arena</ArenaName>
+                </Arena>
+                <League>
+                    <LeagueId>113</LeagueId>
+                    <LeagueName>Surinam</LeagueName>
+                </League>
+                <LeagueLevelUnit>
+                    <LeagueLevelUnitId>98839</LeagueLevelUnitId>
+                    <LeagueLevelUnitName>II.4</LeagueLevelUnitName>
+                </LeagueLevelUnit>
+                <Region>
+                    <RegionId>2015</RegionId>
+                    <RegionName>Paramaribo</RegionName>
+                </Region>
+                <YouthTeam />
+            </Team>
+        </Teams>
+        <NationalTeamCoach />
+    </Manager>
+</HattrickData>

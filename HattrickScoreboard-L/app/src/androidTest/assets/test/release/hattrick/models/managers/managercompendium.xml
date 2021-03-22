@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>managercompendium.xml</FileName>
+    <Version>1.0</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:08:08</FetchedDate>
+    <Manager>
+        <UserId>4593312</UserId>
+        <Loginname>Khips</Loginname>
+        <SupporterTier>none</SupporterTier>
+        <Language>
+            <LanguageId>5</LanguageId>
+            <LanguageName>Français</LanguageName>
+        </Language>
+        <Country>
+            <CountryId>5</CountryId>
+            <CountryName>France</CountryName>
+        </Country>
+        <Teams>
+            <Team>
+                <TeamId>177327</TeamId>
+                <TeamName>Buros FC</TeamName>
+                <Arena>
+                    <ArenaId>177327</ArenaId>
+                    <ArenaName>Arène de Buros</ArenaName>
+                </Arena>
+                <League>
+                    <LeagueId>5</LeagueId>
+                    <LeagueName>France</LeagueName>
+                </League>
+                <LeagueLevelUnit>
+                    <LeagueLevelUnitId>72900</LeagueLevelUnitId>
+                    <LeagueLevelUnitName>VII.85</LeagueLevelUnitName>
+                </LeagueLevelUnit>
+                <Region>
+                    <RegionId>130</RegionId>
+                    <RegionName>Aquitaine</RegionName>
+                </Region>
+                <YouthTeam />
+            </Team>
+        </Teams>
+        <NationalTeamCoach />
+    </Manager>
+</HattrickData>

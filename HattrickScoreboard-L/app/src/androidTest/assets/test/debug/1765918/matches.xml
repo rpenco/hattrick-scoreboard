@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>matches.xml</FileName>
+    <Version>2.7</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-11-01 19:58:13</FetchedDate>
+    <IsYouth>False</IsYouth>
+    <Team>
+        <TeamID>1765918</TeamID>
+        <TeamName>Limerick's Brothers</TeamName>
+        <ShortTeamName>Limericks</ShortTeamName>
+        <League>
+            <LeagueID>5</LeagueID>
+            <LeagueName>France</LeagueName>
+        </League>
+        <LeagueLevelUnit>
+            <LeagueLevelUnitID>119804</LeagueLevelUnitID>
+            <LeagueLevelUnitName>VIII.85</LeagueLevelUnitName>
+            <LeagueLevel>8</LeagueLevel>
+        </LeagueLevelUnit>
+        <MatchList>
+            <Match>
+                <MatchID>489888183</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>586771</HomeTeamID>
+                    <HomeTeamName>Raclacam</HomeTeamName>
+                    <HomeTeamNameShortName>Raclacam</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1765918</AwayTeamID>
+                    <AwayTeamName>Limerick's Brothers</AwayTeamName>
+                    <AwayTeamNameShortName>Limericks</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-04 21:20:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>119804</MatchContextId>
+                <HomeGoals>7</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>489888190</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1765918</HomeTeamID>
+                    <HomeTeamName>Limerick's Brothers</HomeTeamName>
+                    <HomeTeamNameShortName>Limericks</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>296782</AwayTeamID>
+                    <AwayTeamName>FC Patcholle</AwayTeamName>
+                    <AwayTeamNameShortName>Patcholle</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-11 21:20:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>119804</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>10</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>489888189</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>593733</HomeTeamID>
+                    <HomeTeamName>Willems FC</HomeTeamName>
+                    <HomeTeamNameShortName>Willems</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1765918</AwayTeamID>
+                    <AwayTeamName>Limerick's Brothers</AwayTeamName>
+                    <AwayTeamNameShortName>Limericks</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-18 21:20:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>119804</MatchContextId>
+                <HomeGoals>6</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>489888205</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1765918</HomeTeamID>
+                    <HomeTeamName>Limerick's Brothers</HomeTeamName>
+                    <HomeTeamNameShortName>Limericks</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>591409</AwayTeamID>
+                    <AwayTeamName>CALVIE</AwayTeamName>
+                    <AwayTeamNameShortName>CALVIE</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-10-25 21:20:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>119804</MatchContextId>
+                <HomeGoals>0</HomeGoals>
+                <AwayGoals>8</AwayGoals>
+                <Status>FINISHED</Status>
+            </Match>
+            <Match>
+                <MatchID>489888202</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>298733</HomeTeamID>
+                    <HomeTeamName>Ninou FC</HomeTeamName>
+                    <HomeTeamNameShortName>Ninou</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>1765918</AwayTeamID>
+                    <AwayTeamName>Limerick's Brothers</AwayTeamName>
+                    <AwayTeamNameShortName>Limericks</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-11-01 21:20:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>119804</MatchContextId>
+                <Status>UPCOMING</Status>
+            </Match>
+            <Match>
+                <MatchID>489888204</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>1765918</HomeTeamID>
+                    <HomeTeamName>Limerick's Brothers</HomeTeamName>
+                    <HomeTeamNameShortName>Limericks</HomeTeamNameShortName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>294797</AwayTeamID>
+                    <AwayTeamName>lusofranco</AwayTeamName>
+                    <AwayTeamNameShortName>lusofranco</AwayTeamNameShortName>
+                </AwayTeam>
+                <MatchDate>2014-11-08 21:20:00</MatchDate>
+                <SourceSystem>Hattrick</SourceSystem>
+                <MatchType>1</MatchType>
+                <MatchContextId>119804</MatchContextId>
+                <Status>UPCOMING</Status>
+            </Match>
+        </MatchList>
+    </Team>
+</HattrickData>

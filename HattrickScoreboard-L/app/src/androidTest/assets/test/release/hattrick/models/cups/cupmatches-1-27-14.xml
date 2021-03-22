@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>cupmatches.xml</FileName>
+    <Version>1.4</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-30 18:04:21</FetchedDate>
+    <Cup>
+        <CupID>1</CupID>
+        <CupSeason>27</CupSeason>
+        <CupRound>14</CupRound>
+        <CupName>Sverigecupen</CupName>
+        <MatchList>
+            <Match>
+                <MatchID>58435032</MatchID>
+                <MatchDate>2005-12-14 19:00:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>45439</TeamId>
+                    <TeamName>Steves Strikers</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>160</TeamId>
+                    <TeamName>Forest Rovers</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>0</HomeGoals>
+                    <AwayGoals>6</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+            <Match>
+                <MatchID>58435033</MatchID>
+                <MatchDate>2005-12-14 19:00:00</MatchDate>
+                <HomeTeam>
+                    <TeamId>42816</TeamId>
+                    <TeamName>Oriole United</TeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <TeamId>14750</TeamId>
+                    <TeamName>IK Frisco</TeamName>
+                </AwayTeam>
+                <MatchResult Available="True">
+                    <HomeGoals>6</HomeGoals>
+                    <AwayGoals>0</AwayGoals>
+                </MatchResult>
+                <LeagueInfo Available="False" />
+            </Match>
+        </MatchList>
+    </Cup>
+</HattrickData>

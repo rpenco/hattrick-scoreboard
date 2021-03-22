@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>nationalTeamDetails.xml</FileName>
+    <Version>1.8</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-28 11:14:26</FetchedDate>
+    <UserSupporterTier>none</UserSupporterTier>
+    <IsPlayingMatch>False</IsPlayingMatch>
+    <Team>
+        <TeamID>3004</TeamID>
+        <TeamName>France</TeamName>
+        <ShortTeamName>France</ShortTeamName>
+        <NationalCoach>
+            <NationalCoachUserID>6714957</NationalCoachUserID>
+            <NationalCoachLoginname>Tibbs</NationalCoachLoginname>
+        </NationalCoach>
+        <League>
+            <LeagueID>5</LeagueID>
+            <LeagueName>France</LeagueName>
+        </League>
+        <Trainer>
+            <PlayerID>295440913</PlayerID>
+            <PlayerName>Luc  Voisin</PlayerName>
+        </Trainer>
+        <HomePage>http://www.ht-fff.org/</HomePage>
+        <Logo>http://res.hattrick.org/ntteamlogo/1/1/4/3004/3004.jpg</Logo>
+        <DressURI>http://res.hattrick.org/kits/21/203/2029/2028216/matchKitSmall.png</DressURI>
+        <DressAlternateURI>http://res.hattrick.org/kits/21/203/2029/2028218/matchKitSmall.png</DressAlternateURI>
+        <Experience433>8</Experience433>
+        <Experience451>9</Experience451>
+        <Experience352>8</Experience352>
+        <Experience532>3</Experience532>
+        <Experience343>7</Experience343>
+        <Experience541>5</Experience541>
+        <Experience523>5</Experience523>
+        <Experience550>3</Experience550>
+        <Experience253>10</Experience253>
+        <Experience442>9</Experience442>
+        <Morale>4</Morale>
+        <SelfConfidence>3</SelfConfidence>
+        <SupportersPopularity>3</SupportersPopularity>
+        <RatingScore>150</RatingScore>
+        <FanClubSize>1851</FanClubSize>
+        <Rank>18</Rank>
+    </Team>
+</HattrickData>

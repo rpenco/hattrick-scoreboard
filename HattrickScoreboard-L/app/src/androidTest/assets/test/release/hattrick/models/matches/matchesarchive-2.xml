@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+    <FileName>matchesArchive.xml</FileName>
+    <Version>1.2</Version>
+    <UserID>4593312</UserID>
+    <FetchedDate>2014-10-30 23:28:49</FetchedDate>
+    <IsYouth>False</IsYouth>
+    <Team>
+        <TeamID>177327</TeamID>
+        <TeamName>Buros FC</TeamName>
+        <MatchList>
+            <Match>
+                <MatchID>118561171</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>177606</HomeTeamID>
+                    <HomeTeamName>Bob Morton's dream team</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>CSUB</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2007-06-02 21:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>5500</MatchContextId>
+                <HomeGoals>1</HomeGoals>
+                <AwayGoals>1</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>126682697</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>291545</HomeTeamID>
+                    <HomeTeamName>BFC Bounet Football Club</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>CSUB</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2007-06-06 15:05:00</MatchDate>
+                <MatchType>4</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>118561177</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>177327</HomeTeamID>
+                    <HomeTeamName>CSUB</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>593242</AwayTeamID>
+                    <AwayTeamName>FC Savoie 1860</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2007-06-09 21:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>5500</MatchContextId>
+                <HomeGoals>2</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>126979562</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>177327</HomeTeamID>
+                    <HomeTeamName>CSUB</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>959870</AwayTeamID>
+                    <AwayTeamName>Garriks</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2007-06-13 15:05:00</MatchDate>
+                <MatchType>4</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>3</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>118561179</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>293597</HomeTeamID>
+                    <HomeTeamName>FC Cadderly</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>CSUB</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2007-06-16 21:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>5500</MatchContextId>
+                <HomeGoals>4</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>127203826</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>177327</HomeTeamID>
+                    <HomeTeamName>CSUB</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>959870</AwayTeamID>
+                    <AwayTeamName>Garriks</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2007-06-20 15:05:00</MatchDate>
+                <MatchType>4</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <HomeGoals>6</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>118561184</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>177835</HomeTeamID>
+                    <HomeTeamName>BAC_CPE</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>177327</AwayTeamID>
+                    <AwayTeamName>CSUB</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2007-06-23 21:00:00</MatchDate>
+                <MatchType>1</MatchType>
+                <MatchContextId>5500</MatchContextId>
+                <HomeGoals>6</HomeGoals>
+                <AwayGoals>0</AwayGoals>
+            </Match>
+            <Match>
+                <MatchID>127557763</MatchID>
+                <HomeTeam>
+                    <HomeTeamID>177327</HomeTeamID>
+                    <HomeTeamName>CSUB</HomeTeamName>
+                </HomeTeam>
+                <AwayTeam>
+                    <AwayTeamID>959870</AwayTeamID>
+                    <AwayTeamName>Garriks</AwayTeamName>
+                </AwayTeam>
+                <MatchDate>2007-06-27 15:05:00</MatchDate>
+                <MatchType>4</MatchType>
+                <MatchContextId>0</MatchContextId>
+                <HomeGoals>3</HomeGoals>
+                <AwayGoals>2</AwayGoals>
+            </Match>
+        </MatchList>
+    </Team>
+</HattrickData>
